@@ -1,11 +1,11 @@
 {
   "name": "pykotorgl",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "OpenGL rendering module for PyKotor - renders KotOR modules and scenes.",
   "author": "NickHugi",
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pykotorgl-2.0.1.tar.gz",
-  "download_time": "2025-12-02T22:51:05.986231",
+  "download_filename": "pykotorgl-2.0.2.tar.gz",
+  "download_time": "2025-12-02T23:18:07.169501",
   "package_url": "https://pypi.org/project/pykotorgl/"
 }

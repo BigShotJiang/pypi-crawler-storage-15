@@ -1,0 +1,11 @@
+{
+  "name": "featuremine-extractor",
+  "version": "7.2.10",
+  "summary": "Featuremine Extractor Package",
+  "author": "Featuremine Corporation",
+  "license": "COPYRIGHT (c) 2022 by Featuremine Corporation",
+  "home_page": "https://www.featuremine.com",
+  "download_filename": "featuremine_extractor-7.2.10-py3-none-macosx_14_0_arm64.whl",
+  "download_time": "2025-12-02T23:17:55.519817",
+  "package_url": "https://pypi.org/project/featuremine-extractor/"
+}

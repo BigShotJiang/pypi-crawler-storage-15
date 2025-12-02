@@ -1,11 +1,11 @@
 {
   "name": "ark-asa-parser",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Extract player, tribe, and server data from ARK: Survival Ascended save files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ark_asa_parser-0.2.3.tar.gz",
-  "download_time": "2025-12-02T17:21:43.533371",
+  "download_filename": "ark_asa_parser-0.2.4.tar.gz",
+  "download_time": "2025-12-02T23:18:04.496035",
   "package_url": "https://pypi.org/project/ark-asa-parser/"
 }

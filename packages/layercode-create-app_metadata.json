@@ -1,11 +1,11 @@
 {
   "name": "layercode-create-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Fast scaffolding for LayerCode-ready FastAPI backends",
   "author": "Jan Siml",
   "license": null,
   "home_page": null,
-  "download_filename": "layercode_create_app-0.1.0.tar.gz",
-  "download_time": "2025-12-02T21:38:11.748857",
+  "download_filename": "layercode_create_app-0.1.1.tar.gz",
+  "download_time": "2025-12-02T23:18:10.338014",
   "package_url": "https://pypi.org/project/layercode-create-app/"
 }

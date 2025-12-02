@@ -1,0 +1,11 @@
+{
+  "name": "UW-RestClients-SPS-Contacts",
+  "version": "1.0.6",
+  "summary": "A library for connecting to student contact services at the University of Washington",
+  "author": "UW-IT Student & Educational Technology Services",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/uw-restclients-sps-contacts",
+  "download_filename": "uw_restclients_sps_contacts-1.0.6.tar.gz",
+  "download_time": "2025-12-02T23:17:40.596462",
+  "package_url": "https://pypi.org/project/UW-RestClients-SPS-Contacts/"
+}

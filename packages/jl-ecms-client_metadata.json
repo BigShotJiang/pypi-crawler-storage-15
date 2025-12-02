@@ -1,11 +1,11 @@
 {
   "name": "jl-ecms-client",
-  "version": "0.10.1",
+  "version": "0.11.0",
   "summary": "Mirix Client - Lightweight Python client for Mirix server",
   "author": "Mirix AI",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/Mirix-AI/MIRIX",
-  "download_filename": "jl_ecms_client-0.10.1.tar.gz",
-  "download_time": "2025-12-02T17:46:24.794819",
+  "download_filename": "jl_ecms_client-0.11.0.tar.gz",
+  "download_time": "2025-12-02T23:17:45.003360",
   "package_url": "https://pypi.org/project/jl-ecms-client/"
 }

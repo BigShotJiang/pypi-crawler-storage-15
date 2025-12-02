@@ -1,11 +1,11 @@
 {
   "name": "ebiose-cloud-client",
-  "version": "0.1.127",
+  "version": "0.1.128",
   "summary": "Backend",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "ebiose_cloud_client-0.1.127.tar.gz",
-  "download_time": "2025-12-02T22:51:01.413188",
+  "download_filename": "ebiose_cloud_client-0.1.128.tar.gz",
+  "download_time": "2025-12-02T23:17:59.270653",
   "package_url": "https://pypi.org/project/ebiose-cloud-client/"
 }
