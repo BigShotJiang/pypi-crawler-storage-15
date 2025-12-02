@@ -1,11 +1,11 @@
 {
   "name": "sas7bdat-parser-rs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": null,
   "author": "Tobias Kragholm",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sas7bdat_parser_rs-0.1.0-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-02T19:32:22.959451",
+  "download_filename": "sas7bdat_parser_rs-1.0.0-py3-none-win_amd64.whl",
+  "download_time": "2025-12-02T21:50:19.528688",
   "package_url": "https://pypi.org/project/sas7bdat-parser-rs/"
 }

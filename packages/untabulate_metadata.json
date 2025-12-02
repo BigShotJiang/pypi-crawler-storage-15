@@ -1,0 +1,11 @@
+{
+  "name": "untabulate",
+  "version": "0.1.0",
+  "summary": "Untabulate grid data for friendly llm embedddings or similar analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "untabulate-0.1.0.tar.gz",
+  "download_time": "2025-12-02T21:50:26.830641",
+  "package_url": "https://pypi.org/project/untabulate/"
+}

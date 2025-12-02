@@ -1,11 +1,11 @@
 {
   "name": "blaze2d",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "BLAZE - Band-structure LOBPCG Accelerated Zone Eigensolver for 2D Photonic Crystals",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "blaze2d-0.3.1.tar.gz",
-  "download_time": "2025-12-02T21:38:19.710486",
+  "download_filename": "blaze2d-0.3.2.tar.gz",
+  "download_time": "2025-12-02T21:50:13.846173",
   "package_url": "https://pypi.org/project/blaze2d/"
 }
