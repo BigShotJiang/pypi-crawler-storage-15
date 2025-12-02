@@ -1,0 +1,11 @@
+{
+  "name": "whois-format",
+  "version": "0.1.1b1",
+  "summary": "Whois client wrapper producing a terse, single-line format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whois_format-0.1.1b1.tar.gz",
+  "download_time": "2025-12-02T23:39:23.845161",
+  "package_url": "https://pypi.org/project/whois-format/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pypoolchem",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Pool and spa water chemistry calculations library",
   "author": "Bryan Li",
   "license": null,
   "home_page": null,
-  "download_filename": "pypoolchem-0.1.0.tar.gz",
-  "download_time": "2025-12-02T21:50:14.357661",
+  "download_filename": "pypoolchem-0.1.1.tar.gz",
+  "download_time": "2025-12-02T23:39:46.105494",
   "package_url": "https://pypi.org/project/pypoolchem/"
 }

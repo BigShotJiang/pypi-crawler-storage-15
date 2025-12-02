@@ -1,0 +1,11 @@
+{
+  "name": "clutchtimealerts",
+  "version": "0.3.0",
+  "summary": "Default template for PDM package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clutchtimealerts-0.3.0.tar.gz",
+  "download_time": "2025-12-02T23:39:29.174498",
+  "package_url": "https://pypi.org/project/clutchtimealerts/"
+}

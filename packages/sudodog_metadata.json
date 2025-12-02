@@ -1,11 +1,11 @@
 {
   "name": "sudodog",
-  "version": "2.3.0",
-  "summary": "Monitor and secure AI agents with guardrails. Block dangerous commands, filter PII, and enforce access control.",
+  "version": "2.4.0",
+  "summary": "Monitor and secure AI agents with guardrails. Pre-execution command blocking, PII filtering, and real-time security enforcement.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sudodog-2.3.0.tar.gz",
-  "download_time": "2025-12-02T22:17:19.131104",
+  "download_filename": "sudodog-2.4.0.tar.gz",
+  "download_time": "2025-12-02T23:39:27.015654",
   "package_url": "https://pypi.org/project/sudodog/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sync-settings-dotenv",
+  "version": "0.2.2",
+  "summary": "A CLI tool to export environment variables from Python settings files.",
+  "author": "Vu LE",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sync_settings_dotenv-0.2.2.tar.gz",
+  "download_time": "2025-12-02T23:39:35.527799",
+  "package_url": "https://pypi.org/project/sync-settings-dotenv/"
+}
