@@ -1,0 +1,11 @@
+{
+  "name": "aws-durable-execution-sdk-python",
+  "version": "1.0.0",
+  "summary": "This the Python SDK for AWS Lambda Durable Functions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_durable_execution_sdk_python-1.0.0.tar.gz",
+  "download_time": "2025-12-02T14:26:48.580459",
+  "package_url": "https://pypi.org/project/aws-durable-execution-sdk-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "repurpose",
+  "version": "0.13.3",
+  "summary": "Package for image to timeseries to image conversion",
+  "author": "TU Wien",
+  "license": "mit",
+  "home_page": "https://repurpose.readthedocs.io/en/latest/",
+  "download_filename": "repurpose-0.13.3.tar.gz",
+  "download_time": "2025-12-02T14:27:00.605573",
+  "package_url": "https://pypi.org/project/repurpose/"
+}

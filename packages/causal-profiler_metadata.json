@@ -1,0 +1,11 @@
+{
+  "name": "causal-profiler",
+  "version": "0.1.0.post1",
+  "summary": "A Synthetic Benchmark Generator for Causal Machine Learning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causal_profiler-0.1.0.post1.tar.gz",
+  "download_time": "2025-12-02T14:26:47.556539",
+  "package_url": "https://pypi.org/project/causal-profiler/"
+}

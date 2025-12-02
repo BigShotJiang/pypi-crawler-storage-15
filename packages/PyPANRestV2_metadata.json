@@ -1,0 +1,11 @@
+{
+  "name": "PyPANRestV2",
+  "version": "2.1.12",
+  "summary": "Python tools for interacting with Palo Alto Networks REST API.",
+  "author": "Mark Rzepa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypanrestv2-2.1.12.tar.gz",
+  "download_time": "2025-12-02T14:27:04.941589",
+  "package_url": "https://pypi.org/project/PyPANRestV2/"
+}

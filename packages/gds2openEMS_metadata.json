@@ -1,0 +1,11 @@
+{
+  "name": "gds2openEMS",
+  "version": "0.1.1",
+  "summary": "Create and run openEMS FDTD model from RFIC GDSII layout file",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "gds2openems-0.1.1.tar.gz",
+  "download_time": "2025-12-02T14:27:04.427153",
+  "package_url": "https://pypi.org/project/gds2openEMS/"
+}

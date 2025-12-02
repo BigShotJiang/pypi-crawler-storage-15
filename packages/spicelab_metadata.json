@@ -1,0 +1,11 @@
+{
+  "name": "spicelab",
+  "version": "0.4.1",
+  "summary": "Circuit Toolkit (package: spicelab) – typed SPICE orchestration, sweeps, and Monte Carlo.",
+  "author": "Luiz Carlos Gili",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spicelab-0.4.1.tar.gz",
+  "download_time": "2025-12-02T14:27:01.120897",
+  "package_url": "https://pypi.org/project/spicelab/"
+}

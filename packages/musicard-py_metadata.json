@@ -1,0 +1,11 @@
+{
+  "name": "musicard-py",
+  "version": "1.1.0",
+  "summary": "🎵 Generate beautiful music card images in Python with multiple themes. Inspired by unburn/musicard.",
+  "author": "Ramkrishna",
+  "license": null,
+  "home_page": null,
+  "download_filename": "musicard_py-1.1.0.tar.gz",
+  "download_time": "2025-12-02T14:26:40.684522",
+  "package_url": "https://pypi.org/project/musicard-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "falcon-helpers",
+  "version": "0.22.0",
+  "summary": "A few helpful tools to make working with the falcon framework a real joy!",
+  "author": "Nick Zaccardi",
+  "license": "BSD",
+  "home_page": "https://github.com/level12/falcon-helpers",
+  "download_filename": "falcon_helpers-0.22.0.tar.gz",
+  "download_time": "2025-12-02T14:27:00.086089",
+  "package_url": "https://pypi.org/project/falcon-helpers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "astro-provider-anyscale",
+  "version": "1.3.0",
+  "summary": "An Apache Airflow provider package built by Astronomer to integrate with Anyscale.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "astro_provider_anyscale-1.3.0.tar.gz",
+  "download_time": "2025-12-02T14:26:50.700688",
+  "package_url": "https://pypi.org/project/astro-provider-anyscale/"
+}

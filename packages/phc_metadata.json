@@ -1,0 +1,11 @@
+{
+  "name": "phc",
+  "version": "1.3.0",
+  "summary": "Python SDK for the LifeOmic platform",
+  "author": "LifeOmic",
+  "license": "MIT",
+  "home_page": "https://github.com/lifeomic/phc-sdk-py",
+  "download_filename": "phc-1.3.0.tar.gz",
+  "download_time": "2025-12-02T14:27:03.916765",
+  "package_url": "https://pypi.org/project/phc/"
+}

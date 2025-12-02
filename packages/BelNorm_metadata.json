@@ -1,0 +1,11 @@
+{
+  "name": "BelNorm",
+  "version": "0.1.0",
+  "summary": "Belarusian text normalizer",
+  "author": "Aleś Bułojčyk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "belnorm-0.1.0.tar.gz",
+  "download_time": "2025-12-02T14:26:37.238151",
+  "package_url": "https://pypi.org/project/BelNorm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vertex-web",
+  "version": "1.0.0",
+  "summary": "Deploy local web apps publicly with custom domains",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/vertex_web",
+  "download_filename": "vertex_web-1.0.0.tar.gz",
+  "download_time": "2025-12-02T14:26:43.824490",
+  "package_url": "https://pypi.org/project/vertex-web/"
+}

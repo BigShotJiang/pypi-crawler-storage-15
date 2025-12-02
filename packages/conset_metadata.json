@@ -1,0 +1,11 @@
+{
+  "name": "conset",
+  "version": "0.0.2",
+  "summary": "控制台设置/集。可更改控制台设置，或获取控制台输入流",
+  "author": "Furnyna",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "conset-0.0.2.tar.gz",
+  "download_time": "2025-12-02T14:27:11.096003",
+  "package_url": "https://pypi.org/project/conset/"
+}
