@@ -1,0 +1,11 @@
+{
+  "name": "quantada",
+  "version": "0.1.0",
+  "summary": "Production-grade Python library for acquiring, storing, transforming, and validating market data",
+  "author": "ZENTCH-Q",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantada-0.1.0.tar.gz",
+  "download_time": "2025-12-02T20:56:10.995058",
+  "package_url": "https://pypi.org/project/quantada/"
+}

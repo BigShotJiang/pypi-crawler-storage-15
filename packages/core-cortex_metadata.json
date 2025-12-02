@@ -1,0 +1,11 @@
+{
+  "name": "core-cortex",
+  "version": "0.6.2",
+  "summary": "Python API client for Core Cortex",
+  "author": null,
+  "license": "Copyright (c) 2020 CORE Studio | Thornton Tomasetti",
+  "home_page": null,
+  "download_filename": "core_cortex-0.6.2.tar.gz",
+  "download_time": "2025-12-02T20:56:25.024407",
+  "package_url": "https://pypi.org/project/core-cortex/"
+}
