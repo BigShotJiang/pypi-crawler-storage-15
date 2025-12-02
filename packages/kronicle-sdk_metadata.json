@@ -1,0 +1,11 @@
+{
+  "name": "kronicle-sdk",
+  "version": "0.1.10",
+  "summary": "SDK to read and write data on a Kronicle microservice",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kronicle_sdk-0.1.10.tar.gz",
+  "download_time": "2025-12-02T19:32:16.618814",
+  "package_url": "https://pypi.org/project/kronicle-sdk/"
+}

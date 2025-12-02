@@ -1,0 +1,11 @@
+{
+  "name": "waymap",
+  "version": "7.0.0",
+  "summary": "Advanced Web Application Security Scanner",
+  "author": "Trix Cyrus",
+  "license": null,
+  "home_page": "https://github.com/TrixSec/waymap",
+  "download_filename": "waymap-7.0.0.tar.gz",
+  "download_time": "2025-12-02T19:31:47.206851",
+  "package_url": "https://pypi.org/project/waymap/"
+}

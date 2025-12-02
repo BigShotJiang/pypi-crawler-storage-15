@@ -1,0 +1,11 @@
+{
+  "name": "ote-cr-price-fetcher",
+  "version": "0.1.1",
+  "summary": "A Python package to fetch electricity prices from OTE-CR (Czech electricity market operator)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ote_cr_price_fetcher-0.1.1.tar.gz",
+  "download_time": "2025-12-02T19:32:12.400322",
+  "package_url": "https://pypi.org/project/ote-cr-price-fetcher/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gospelo-backlog-docs",
+  "version": "1.1.0",
+  "summary": "Upload Markdown documents to Backlog Wiki with image and MermaidJS support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gospelo_backlog_docs-1.1.0.tar.gz",
+  "download_time": "2025-12-02T19:32:17.133757",
+  "package_url": "https://pypi.org/project/gospelo-backlog-docs/"
+}
