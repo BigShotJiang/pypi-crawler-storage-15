@@ -1,0 +1,11 @@
+{
+  "name": "aiocomelit",
+  "version": "2.0.0",
+  "summary": "Python library to control Comelit Simplehome",
+  "author": "Simone Chemelli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiocomelit-2.0.0.tar.gz",
+  "download_time": "2025-12-02T22:40:59.953830",
+  "package_url": "https://pypi.org/project/aiocomelit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ciscoisesdk",
+  "version": "2.4.1",
+  "summary": "Cisco Identity Services Engine Platform SDK",
+  "author": "Jose Bogarin Solano",
+  "license": "MIT",
+  "home_page": "https://ciscoisesdk.readthedocs.io/en/latest/",
+  "download_filename": "ciscoisesdk-2.4.1.tar.gz",
+  "download_time": "2025-12-02T22:41:06.152121",
+  "package_url": "https://pypi.org/project/ciscoisesdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mypy-pure",
+  "version": "0.2.1",
+  "summary": "A mypy plugin that adds support for checking pure functions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mypy_pure-0.2.1.tar.gz",
+  "download_time": "2025-12-02T22:40:46.444130",
+  "package_url": "https://pypi.org/project/mypy-pure/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pygiskit",
+  "version": "0.1.6",
+  "summary": "Recipe-driven spatial data downloader for Dutch geo-data",
+  "author": "A190",
+  "license": "MIT",
+  "home_page": "https://github.com/sanderboer/py-giskit",
+  "download_filename": "pygiskit-0.1.6.tar.gz",
+  "download_time": "2025-12-02T22:40:47.983078",
+  "package_url": "https://pypi.org/project/pygiskit/"
+}

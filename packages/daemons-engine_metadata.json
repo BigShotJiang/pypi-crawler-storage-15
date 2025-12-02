@@ -1,11 +1,11 @@
 {
   "name": "daemons-engine",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "A modern MUD engine - headless game engine for real-time, text-based multiplayer worlds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "daemons_engine-0.1.18.tar.gz",
-  "download_time": "2025-12-02T21:50:07.994808",
+  "download_filename": "daemons_engine-0.1.19.tar.gz",
+  "download_time": "2025-12-02T22:40:46.960733",
   "package_url": "https://pypi.org/project/daemons-engine/"
 }

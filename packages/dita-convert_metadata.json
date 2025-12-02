@@ -1,0 +1,11 @@
+{
+  "name": "dita-convert",
+  "version": "1.4.4",
+  "summary": "Convert a generic DITA topic to a specialized concept, task, or reference.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dita_convert-1.4.4.tar.gz",
+  "download_time": "2025-12-02T22:40:47.471433",
+  "package_url": "https://pypi.org/project/dita-convert/"
+}
