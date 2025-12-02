@@ -1,0 +1,11 @@
+{
+  "name": "vedro-allure-reporter",
+  "version": "1.12.1",
+  "summary": "Allure reporter for Vedro testing framework",
+  "author": "Nikita Tsvetkov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/vedro-universe/vedro-allure-reporter",
+  "download_filename": "vedro_allure_reporter-1.12.1.tar.gz",
+  "download_time": "2025-12-02T16:26:57.625661",
+  "package_url": "https://pypi.org/project/vedro-allure-reporter/"
+}

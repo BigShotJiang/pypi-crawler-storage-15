@@ -1,0 +1,11 @@
+{
+  "name": "ncalab",
+  "version": "0.4.0",
+  "summary": "Training code and pre-trained models for Neural Cellular Automata on different datasets and tasks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ncalab-0.4.0.tar.gz",
+  "download_time": "2025-12-02T16:27:33.615832",
+  "package_url": "https://pypi.org/project/ncalab/"
+}

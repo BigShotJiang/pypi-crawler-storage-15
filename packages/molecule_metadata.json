@@ -1,0 +1,11 @@
+{
+  "name": "molecule",
+  "version": "25.12.0",
+  "summary": "Molecule aids in the development and testing of Ansible roles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "molecule-25.12.0.tar.gz",
+  "download_time": "2025-12-02T16:27:32.974515",
+  "package_url": "https://pypi.org/project/molecule/"
+}

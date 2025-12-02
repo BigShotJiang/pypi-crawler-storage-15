@@ -1,0 +1,11 @@
+{
+  "name": "tess_downloader",
+  "version": "0.0.3",
+  "summary": "Download and structure learning materials from TeSS",
+  "author": "Charles Tapley Hoyt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tess_downloader-0.0.3.tar.gz",
+  "download_time": "2025-12-02T16:27:03.627187",
+  "package_url": "https://pypi.org/project/tess_downloader/"
+}

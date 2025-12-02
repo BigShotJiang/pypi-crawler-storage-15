@@ -1,11 +1,11 @@
 {
   "name": "aws-durable-execution-sdk-python-testing",
-  "version": "1.0.0.post1",
-  "summary": "This is the Python SDK for AWS Lambda Durable Execution.",
+  "version": "1.0.0.post2",
+  "summary": "AWS Durable Execution Testing SDK for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aws_durable_execution_sdk_python_testing-1.0.0.post1.tar.gz",
-  "download_time": "2025-12-02T15:22:03.291030",
+  "download_filename": "aws_durable_execution_sdk_python_testing-1.0.0.post2.tar.gz",
+  "download_time": "2025-12-02T16:27:35.609414",
   "package_url": "https://pypi.org/project/aws-durable-execution-sdk-python-testing/"
 }

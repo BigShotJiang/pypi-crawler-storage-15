@@ -1,11 +1,11 @@
 {
   "name": "drun",
-  "version": "7.0.10",
+  "version": "7.0.12",
   "summary": "Easy-to-use API testing with DevOps automation support",
   "author": "Drun Team",
   "license": null,
   "home_page": null,
-  "download_filename": "drun-7.0.10.tar.gz",
-  "download_time": "2025-12-02T13:57:29.343710",
+  "download_filename": "drun-7.0.12.tar.gz",
+  "download_time": "2025-12-02T16:27:10.541826",
   "package_url": "https://pypi.org/project/drun/"
 }

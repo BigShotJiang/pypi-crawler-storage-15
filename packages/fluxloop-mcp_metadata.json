@@ -1,0 +1,11 @@
+{
+  "name": "fluxloop-mcp",
+  "version": "0.1.3",
+  "summary": "Fluxloop MCP server providing repository analysis and documentation tools.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fluxloop_mcp-0.1.3.tar.gz",
+  "download_time": "2025-12-02T16:27:23.842902",
+  "package_url": "https://pypi.org/project/fluxloop-mcp/"
+}
