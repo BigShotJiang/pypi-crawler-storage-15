@@ -1,0 +1,11 @@
+{
+  "name": "dune-common",
+  "version": "2.11.0.4",
+  "summary": "Basis infrastructure for all Dune modules",
+  "author": "The Dune Core developers",
+  "license": null,
+  "home_page": "https://gitlab.dune-project.org/core/dune-common",
+  "download_filename": "dune_common-2.11.0.4.tar.gz",
+  "download_time": "2025-12-02T21:20:28.380164",
+  "package_url": "https://pypi.org/project/dune-common/"
+}

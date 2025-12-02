@@ -1,0 +1,11 @@
+{
+  "name": "dune-spgrid",
+  "version": "2.11.0.4",
+  "summary": "module providing a structured grid",
+  "author": "Martin Nolte",
+  "license": null,
+  "home_page": "https://gitlab.dune-project.org/extensions/dune-spgrid",
+  "download_filename": "dune_spgrid-2.11.0.4.tar.gz",
+  "download_time": "2025-12-02T21:20:22.993584",
+  "package_url": "https://pypi.org/project/dune-spgrid/"
+}

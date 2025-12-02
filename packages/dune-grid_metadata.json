@@ -1,0 +1,11 @@
+{
+  "name": "dune-grid",
+  "version": "2.11.0.4",
+  "summary": "module providing main interfaces for setting and traversing grids",
+  "author": "The Dune Core developers",
+  "license": null,
+  "home_page": "https://gitlab.dune-project.org/core/dune-grid",
+  "download_filename": "dune_grid-2.11.0.4.tar.gz",
+  "download_time": "2025-12-02T21:20:25.696079",
+  "package_url": "https://pypi.org/project/dune-grid/"
+}

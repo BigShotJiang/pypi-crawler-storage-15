@@ -1,0 +1,11 @@
+{
+  "name": "dune-alugrid",
+  "version": "2.11.0.4",
+  "summary": "Module providing the DUNE grid interface for unstructured simplicial and cube grids in 2 and 3 space dimensions",
+  "author": "Robert Kloefkorn, Martin Alkaemper, Andreas Dedner and Martin Nolte",
+  "license": null,
+  "home_page": "https://gitlab.dune-project.org/extensions/dune-alugrid",
+  "download_filename": "dune_alugrid-2.11.0.4.tar.gz",
+  "download_time": "2025-12-02T21:20:29.175417",
+  "package_url": "https://pypi.org/project/dune-alugrid/"
+}

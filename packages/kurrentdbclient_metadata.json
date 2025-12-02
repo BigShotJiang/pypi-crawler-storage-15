@@ -1,0 +1,11 @@
+{
+  "name": "kurrentdbclient",
+  "version": "1.1.2",
+  "summary": "Python gRPC Client for KurrentDB",
+  "author": "John Bywater",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/pyeventsourcing/kurrentdbclient",
+  "download_filename": "kurrentdbclient-1.1.2.tar.gz",
+  "download_time": "2025-12-02T21:20:19.099073",
+  "package_url": "https://pypi.org/project/kurrentdbclient/"
+}

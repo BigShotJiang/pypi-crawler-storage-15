@@ -1,0 +1,11 @@
+{
+  "name": "dune-fem",
+  "version": "2.11.0.4",
+  "summary": "A discretization module providing an implementation of mathematical abstractions to solve PDEs on parallel computers including local grid adaptivity, dynamic load balancing, and higher order discretization schemes Discontinuous Galerkin for evolution problems and virtual element methods are available as additional dune modules",
+  "author": "The Dune-Fem developer team",
+  "license": null,
+  "home_page": "https://gitlab.dune-project.org/dune-fem/dune-fem",
+  "download_filename": "dune_fem-2.11.0.4.tar.gz",
+  "download_time": "2025-12-02T21:20:27.731918",
+  "package_url": "https://pypi.org/project/dune-fem/"
+}

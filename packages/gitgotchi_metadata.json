@@ -1,0 +1,11 @@
+{
+  "name": "gitgotchi",
+  "version": "0.1.2",
+  "summary": "A Stardew Valley X Halloween -inspired terminal companion for your git repository",
+  "author": "GitGotchi Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/gitgotchi",
+  "download_filename": "gitgotchi-0.1.2.tar.gz",
+  "download_time": "2025-12-02T21:20:09.517734",
+  "package_url": "https://pypi.org/project/gitgotchi/"
+}

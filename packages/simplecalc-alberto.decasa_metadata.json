@@ -1,11 +1,11 @@
 {
   "name": "simplecalc-alberto.decasa",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Un paquete para sumar, restar, multiplicar y dividir dos números.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simplecalc_alberto_decasa-0.1.1.tar.gz",
-  "download_time": "2025-12-02T19:54:24.402974",
+  "download_filename": "simplecalc_alberto_decasa-0.1.2.tar.gz",
+  "download_time": "2025-12-02T21:20:33.410103",
   "package_url": "https://pypi.org/project/simplecalc-alberto.decasa/"
 }

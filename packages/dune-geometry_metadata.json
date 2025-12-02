@@ -1,0 +1,11 @@
+{
+  "name": "dune-geometry",
+  "version": "2.11.0.4",
+  "summary": "Geometry Transformations, Reference Elements and Quadrature Rules",
+  "author": "The Dune Core developers",
+  "license": null,
+  "home_page": "https://gitlab.dune-project.org/core/dune-geometry",
+  "download_filename": "dune_geometry-2.11.0.4.tar.gz",
+  "download_time": "2025-12-02T21:20:26.355093",
+  "package_url": "https://pypi.org/project/dune-geometry/"
+}
