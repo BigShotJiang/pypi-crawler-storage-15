@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-bash",
+  "version": "0.25.1",
+  "summary": "Bash grammar for tree-sitter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_bash-0.25.1.tar.gz",
+  "download_time": "2025-12-02T17:21:56.064324",
+  "package_url": "https://pypi.org/project/tree-sitter-bash/"
+}

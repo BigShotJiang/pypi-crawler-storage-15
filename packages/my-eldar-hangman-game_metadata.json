@@ -1,0 +1,11 @@
+{
+  "name": "my-eldar-hangman-game",
+  "version": "1.0.2",
+  "summary": "Simple Hangman Game Library",
+  "author": "Eldar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_eldar_hangman_game-1.0.2.tar.gz",
+  "download_time": "2025-12-02T17:21:25.237119",
+  "package_url": "https://pypi.org/project/my-eldar-hangman-game/"
+}

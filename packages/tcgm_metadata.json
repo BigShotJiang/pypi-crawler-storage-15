@@ -1,0 +1,11 @@
+{
+  "name": "tcgm",
+  "version": "0.1.2",
+  "summary": "TimeCost Gradient Machine – A financial cost-sensitive gradient boosting algorithm.",
+  "author": "Chidiebere V. Christopher",
+  "license": "MIT",
+  "home_page": "https://github.com/93Chidiebere/TimeCost-Gradient-Machine",
+  "download_filename": "tcgm-0.1.2.tar.gz",
+  "download_time": "2025-12-02T17:21:15.739812",
+  "package_url": "https://pypi.org/project/tcgm/"
+}

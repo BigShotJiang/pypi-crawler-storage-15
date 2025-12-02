@@ -1,0 +1,11 @@
+{
+  "name": "emdbg",
+  "version": "1.8.1",
+  "summary": "Embedded Debug Tools",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "emdbg-1.8.1.tar.gz",
+  "download_time": "2025-12-02T17:21:57.097788",
+  "package_url": "https://pypi.org/project/emdbg/"
+}

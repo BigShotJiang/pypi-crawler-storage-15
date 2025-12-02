@@ -1,0 +1,11 @@
+{
+  "name": "shipswamy",
+  "version": "0.0.8",
+  "summary": "A Python library to print long ML or GenAI programs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shipswamy-0.0.8.tar.gz",
+  "download_time": "2025-12-02T17:21:33.124940",
+  "package_url": "https://pypi.org/project/shipswamy/"
+}

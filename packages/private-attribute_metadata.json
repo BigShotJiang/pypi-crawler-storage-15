@@ -1,11 +1,11 @@
 {
   "name": "private-attribute",
-  "version": "2.5.2",
+  "version": "2.5.4",
   "summary": "Private attribute decorator for Python classes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "private_attribute-2.5.2.tar.gz",
-  "download_time": "2025-12-02T13:57:31.961555",
+  "download_filename": "private_attribute-2.5.4.tar.gz",
+  "download_time": "2025-12-02T17:21:48.271160",
   "package_url": "https://pypi.org/project/private-attribute/"
 }

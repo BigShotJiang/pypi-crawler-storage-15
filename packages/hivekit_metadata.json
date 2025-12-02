@@ -1,0 +1,11 @@
+{
+  "name": "hivekit",
+  "version": "0.0.0",
+  "summary": "Toolkits for using hive agents, including CLI and SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hivekit-0.0.0.tar.gz",
+  "download_time": "2025-12-02T17:21:24.162947",
+  "package_url": "https://pypi.org/project/hivekit/"
+}

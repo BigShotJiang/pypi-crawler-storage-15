@@ -1,0 +1,11 @@
+{
+  "name": "tensorial",
+  "version": "0.5.1",
+  "summary": "Library for machine learning on physical tensors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensorial-0.5.1.tar.gz",
+  "download_time": "2025-12-02T17:21:29.513794",
+  "package_url": "https://pypi.org/project/tensorial/"
+}

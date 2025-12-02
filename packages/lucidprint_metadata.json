@@ -1,0 +1,11 @@
+{
+  "name": "lucidprint",
+  "version": "0.1.0",
+  "summary": "A small Python utility library offering conditional styles for CLIs.",
+  "author": "melih senlen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lucidprint-0.1.0.tar.gz",
+  "download_time": "2025-12-02T17:21:15.227232",
+  "package_url": "https://pypi.org/project/lucidprint/"
+}

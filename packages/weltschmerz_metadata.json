@@ -1,0 +1,11 @@
+{
+  "name": "weltschmerz",
+  "version": "0.0.9",
+  "summary": "local anime file database with deduplication and sorting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weltschmerz-0.0.9.tar.gz",
+  "download_time": "2025-12-02T17:21:30.534466",
+  "package_url": "https://pypi.org/project/weltschmerz/"
+}

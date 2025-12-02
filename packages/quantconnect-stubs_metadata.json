@@ -1,11 +1,11 @@
 {
   "name": "quantconnect-stubs",
-  "version": "17392",
+  "version": "17393",
   "summary": "Type stubs for QuantConnect's Lean",
   "author": "QuantConnect",
   "license": null,
   "home_page": "https://github.com/QuantConnect/quantconnect-stubs-generator",
-  "download_filename": "quantconnect_stubs-17392.tar.gz",
-  "download_time": "2025-12-02T14:49:46.117867",
+  "download_filename": "quantconnect_stubs-17393.tar.gz",
+  "download_time": "2025-12-02T17:21:57.653413",
   "package_url": "https://pypi.org/project/quantconnect-stubs/"
 }

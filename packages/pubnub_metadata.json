@@ -1,0 +1,11 @@
+{
+  "name": "pubnub",
+  "version": "10.5.0",
+  "summary": "PubNub Real-time push service in the cloud",
+  "author": "PubNub",
+  "license": "PubNub Software Development Kit License",
+  "home_page": "http://pubnub.com",
+  "download_filename": "pubnub-10.5.0.tar.gz",
+  "download_time": "2025-12-02T17:21:49.307317",
+  "package_url": "https://pypi.org/project/pubnub/"
+}

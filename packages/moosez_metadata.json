@@ -1,0 +1,11 @@
+{
+  "name": "moosez",
+  "version": "3.1.4",
+  "summary": "An AI-inference engine for 3D clinical and preclinical whole-body segmentation tasks",
+  "author": "Lalith Kumar Shiyam Sundar | Sebastian Gutschmayer | Manuel Pires",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ENHANCE-PET/MOOSE",
+  "download_filename": "moosez-3.1.4.tar.gz",
+  "download_time": "2025-12-02T17:21:25.753884",
+  "package_url": "https://pypi.org/project/moosez/"
+}
