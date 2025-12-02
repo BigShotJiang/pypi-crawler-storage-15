@@ -1,0 +1,11 @@
+{
+  "name": "elia-opendata",
+  "version": "1.1.0",
+  "summary": "Python Client for Elia Open Data",
+  "author": "WattsToAnalyze",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "elia_opendata-1.1.0.tar.gz",
+  "download_time": "2025-12-02T20:45:11.819077",
+  "package_url": "https://pypi.org/project/elia-opendata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-importer",
+  "version": "0.4.36",
+  "summary": "Galaxy content importer",
+  "author": "Red Hat, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ansible/galaxy-importer",
+  "download_filename": "galaxy_importer-0.4.36.tar.gz",
+  "download_time": "2025-12-02T20:45:09.194377",
+  "package_url": "https://pypi.org/project/galaxy-importer/"
+}

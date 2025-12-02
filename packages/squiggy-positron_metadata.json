@@ -1,0 +1,11 @@
+{
+  "name": "squiggy-positron",
+  "version": "0.1.17",
+  "summary": "Python backend for Squiggy Positron extension - Nanopore squiggle visualization. Not recommended for standalone use.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "squiggy_positron-0.1.17.tar.gz",
+  "download_time": "2025-12-02T20:45:34.774433",
+  "package_url": "https://pypi.org/project/squiggy-positron/"
+}

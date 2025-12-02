@@ -1,0 +1,11 @@
+{
+  "name": "rms-vicar",
+  "version": "1.2.0",
+  "summary": "Routines for converting to and from VICAR image files",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rms_vicar-1.2.0.tar.gz",
+  "download_time": "2025-12-02T20:45:37.390854",
+  "package_url": "https://pypi.org/project/rms-vicar/"
+}

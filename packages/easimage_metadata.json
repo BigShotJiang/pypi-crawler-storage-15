@@ -1,0 +1,11 @@
+{
+  "name": "easimage",
+  "version": "3.0.2",
+  "summary": "Image and video management for research use, in an unified easy to use API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "easimage-3.0.2.tar.gz",
+  "download_time": "2025-12-02T20:45:08.676748",
+  "package_url": "https://pypi.org/project/easimage/"
+}

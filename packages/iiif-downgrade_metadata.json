@@ -1,11 +1,11 @@
 {
   "name": "iiif-downgrade",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": null,
   "author": "Mark Baggett",
   "license": null,
   "home_page": null,
-  "download_filename": "iiif_downgrade-0.1.1.tar.gz",
-  "download_time": "2025-12-02T19:43:42.705015",
+  "download_filename": "iiif_downgrade-0.1.2.tar.gz",
+  "download_time": "2025-12-02T20:45:10.739343",
   "package_url": "https://pypi.org/project/iiif-downgrade/"
 }
