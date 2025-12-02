@@ -1,0 +1,11 @@
+{
+  "name": "hatch-openzim",
+  "version": "0.2.5",
+  "summary": "openZIM hatch plugin to set metadata automatically and download files at build time",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "hatch_openzim-0.2.5.tar.gz",
+  "download_time": "2025-12-02T16:54:26.478039",
+  "package_url": "https://pypi.org/project/hatch-openzim/"
+}

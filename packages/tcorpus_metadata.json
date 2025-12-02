@@ -1,0 +1,11 @@
+{
+  "name": "tcorpus",
+  "version": "0.1.5",
+  "summary": "A simple CLI-based text corpus analyser.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcorpus-0.1.5.tar.gz",
+  "download_time": "2025-12-02T16:54:37.618665",
+  "package_url": "https://pypi.org/project/tcorpus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyjoulescope-driver",
+  "version": "1.11.0",
+  "summary": "Joulescope™ driver",
+  "author": "Jetperch LLC",
+  "license": "Apache-2.0",
+  "home_page": "https://joulescope-driver.readthedocs.io/en/latest/",
+  "download_filename": "pyjoulescope_driver-1.11.0.tar.gz",
+  "download_time": "2025-12-02T16:54:54.374765",
+  "package_url": "https://pypi.org/project/pyjoulescope-driver/"
+}

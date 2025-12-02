@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-lab-package",
+  "version": "1.0.0",
+  "summary": "A comprehensive blockchain laboratory package with various implementations",
+  "author": "Blockchain Lab",
+  "license": null,
+  "home_page": "https://github.com/yourusername/blockchain-lab-package",
+  "download_filename": "blockchain_lab_package-1.0.0.tar.gz",
+  "download_time": "2025-12-02T16:55:01.934577",
+  "package_url": "https://pypi.org/project/blockchain-lab-package/"
+}

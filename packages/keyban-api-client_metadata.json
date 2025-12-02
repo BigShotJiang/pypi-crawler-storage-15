@@ -1,11 +1,11 @@
 {
   "name": "keyban-api-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Python client for Keyban API",
   "author": "Keyban",
   "license": null,
   "home_page": "https://github.com/keyban-io/dap",
-  "download_filename": "keyban_api_client-0.0.1.tar.gz",
-  "download_time": "2025-12-02T14:49:59.730419",
+  "download_filename": "keyban_api_client-0.0.2.tar.gz",
+  "download_time": "2025-12-02T16:54:27.524474",
   "package_url": "https://pypi.org/project/keyban-api-client/"
 }

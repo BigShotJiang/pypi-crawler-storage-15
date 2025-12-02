@@ -1,0 +1,11 @@
+{
+  "name": "hrenpack",
+  "version": "2.2.1",
+  "summary": "Универсальная библиотека python для большинства задач",
+  "author": "Маг Ильяс DOMA (MagIlyasDOMA)",
+  "license": "MIT",
+  "home_page": "https://github.com/MagIlyas-DOMA/hrenpack",
+  "download_filename": "hrenpack-2.2.1.tar.gz",
+  "download_time": "2025-12-02T16:54:23.372905",
+  "package_url": "https://pypi.org/project/hrenpack/"
+}

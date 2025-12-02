@@ -1,0 +1,11 @@
+{
+  "name": "vsstubs",
+  "version": "1.0.1",
+  "summary": "Typing stubs for VapourSynth",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vsstubs-1.0.1.tar.gz",
+  "download_time": "2025-12-02T16:54:32.317007",
+  "package_url": "https://pypi.org/project/vsstubs/"
+}

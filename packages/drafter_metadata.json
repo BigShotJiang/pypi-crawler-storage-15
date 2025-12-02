@@ -1,0 +1,11 @@
+{
+  "name": "drafter",
+  "version": "1.9.1",
+  "summary": "Student-friendly full stack web development library.",
+  "author": "acbart",
+  "license": "MIT",
+  "home_page": "https://github.com/drafter-edu/drafter",
+  "download_filename": "drafter-1.9.1.tar.gz",
+  "download_time": "2025-12-02T16:54:27.004605",
+  "package_url": "https://pypi.org/project/drafter/"
+}

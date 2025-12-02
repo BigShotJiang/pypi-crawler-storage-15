@@ -1,0 +1,11 @@
+{
+  "name": "slurm-dashboard",
+  "version": "0.1.1",
+  "summary": "A lightweight web dashboard for monitoring Slurm HPC jobs",
+  "author": "Johannes Roth",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slurm_dashboard-0.1.1.tar.gz",
+  "download_time": "2025-12-02T16:55:08.742302",
+  "package_url": "https://pypi.org/project/slurm-dashboard/"
+}

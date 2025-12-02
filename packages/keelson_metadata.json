@@ -1,0 +1,11 @@
+{
+  "name": "keelson",
+  "version": "0.4.6",
+  "summary": "A python Software Development Kit for keelson",
+  "author": "Fredrik Olsson",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/rise-maritime/keelson/sdks/python",
+  "download_filename": "keelson-0.4.6-py3-none-any.whl",
+  "download_time": "2025-12-02T16:54:39.239124",
+  "package_url": "https://pypi.org/project/keelson/"
+}

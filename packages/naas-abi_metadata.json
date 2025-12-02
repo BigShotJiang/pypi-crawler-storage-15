@@ -1,11 +1,11 @@
 {
   "name": "naas-abi",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "naas_abi-1.0.3.tar.gz",
-  "download_time": "2025-12-02T15:46:42.569697",
+  "download_filename": "naas_abi-1.0.5.tar.gz",
+  "download_time": "2025-12-02T16:55:07.159857",
   "package_url": "https://pypi.org/project/naas-abi/"
 }
