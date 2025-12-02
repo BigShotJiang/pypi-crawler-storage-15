@@ -1,0 +1,11 @@
+{
+  "name": "tomato-jumo",
+  "version": "2.1.1",
+  "summary": "This package is a part of tomato. It has been made for the automation of Jumo Quantrol devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tomato_jumo-2.1.1-py3-none-any.whl",
+  "download_time": "2025-12-02T18:31:13.314072",
+  "package_url": "https://pypi.org/project/tomato-jumo/"
+}

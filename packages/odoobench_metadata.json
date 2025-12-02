@@ -1,11 +1,11 @@
 {
   "name": "odoobench",
-  "version": "0.1.3",
+  "version": "0.1.7",
   "summary": "A comprehensive backup and restore utility for Odoo instances",
   "author": "Jim Steil",
   "license": "MIT",
   "home_page": "https://github.com/jpsteil/odoobench",
-  "download_filename": "odoobench-0.1.3.tar.gz",
-  "download_time": "2025-12-02T14:49:51.381116",
+  "download_filename": "odoobench-0.1.7.tar.gz",
+  "download_time": "2025-12-02T18:31:29.241515",
   "package_url": "https://pypi.org/project/odoobench/"
 }

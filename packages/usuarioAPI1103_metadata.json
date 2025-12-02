@@ -1,0 +1,11 @@
+{
+  "name": "usuarioAPI1103",
+  "version": "0.1.2",
+  "summary": "Biblioteca de criação de contas de usuarios com fastapi.",
+  "author": "Gustavo Firme Fiorot",
+  "license": null,
+  "home_page": "https://github.com/gffiorot/usuarioAPI",
+  "download_filename": "usuarioapi1103-0.1.2.tar.gz",
+  "download_time": "2025-12-02T18:31:10.743690",
+  "package_url": "https://pypi.org/project/usuarioAPI1103/"
+}

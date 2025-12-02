@@ -1,0 +1,11 @@
+{
+  "name": "megatron-fsdp",
+  "version": "0.1.0",
+  "summary": "**Megatron-FSDP** is an NVIDIA-developed PyTorch extension that provides a high-performance implementation of Fully Sharded Data Parallelism (FSDP)",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "megatron_fsdp-0.1.0.tar.gz",
+  "download_time": "2025-12-02T18:31:30.362860",
+  "package_url": "https://pypi.org/project/megatron-fsdp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dimcalc",
+  "version": "1.0.0",
+  "summary": "Dimensional weight calculator and box selector for shipping",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dimcalc-1.0.0.tar.gz",
+  "download_time": "2025-12-02T18:30:53.384479",
+  "package_url": "https://pypi.org/project/dimcalc/"
+}
