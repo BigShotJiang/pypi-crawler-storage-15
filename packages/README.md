@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-02T22:41:24.980356
+- **Download Time**: 2025-12-02T22:51:48.454195
 - **Total Packages**: 92
-- **Total Size**: 30.79 MB
+- **Total Size**: 19.28 MB
 
 ## Packages List
+- cdk-opinionated-constructs
+- airunner
+- miniml-engine
+- langsmith
+- csv-optimizer-jasonwang
+- candidhealth
+- ilayoutx
+- ebiose-cloud-client
+- llm-benchmark-toolkit
+- agentexec
+- imbi-automations
+- picoscope
+- tree-sitter-mips
+- holocrontoolset
+- ursa-ai
+- pykotorgl
+- local-deep-research
+- pixell
+- plexosdb
+- datacommons-mcp
+- pyavrocd
+- django-core-micha
+- hprm
+- greenmining
+- pulumi
+- mc-mst-clustering
+- mscompress
+- run-para
+- dinari-api-sdk
 - dbt-autofix
 - splintr-rs
 - terminal-vault
@@ -20,7 +49,6 @@
 - mvos-hsi
 - windows-mcp-server
 - huckleberry-api
-- airunner
 - tobiko-cloud-helpers
 - tobiko-cloud-api-client
 - tobiko-cloud-pydantic
@@ -37,7 +65,6 @@
 - leviathan
 - openagents
 - truss
-- holocrontoolset
 - release-tag
 - cellects
 - flet-browser
@@ -71,30 +98,3 @@
 - aiohomematic
 - pywargame
 - fundamend
-- boltzgen
-- pysio-hermes
-- ob-project-utils
-- langsmith
-- nrobo
-- hpsdecode
-- pytest-pyvista
-- netrias_client
-- solace-ai-connector
-- vcp-cli
-- osism
-- agr-curation-api-client
-- sphereTS
-- guidelinely
-- modelmimic
-- konic
-- samplepath
-- ewokssphinx
-- merlya
-- regula-documentreader-webclient
-- faker-galactic
-- bittensor-cli
-- grammar-school
-- GoekenDataScience
-- gse-gsatmicro-mgr
-- greenmining
-- stinger-ipc

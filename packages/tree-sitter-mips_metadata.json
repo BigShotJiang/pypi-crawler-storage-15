@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-mips",
+  "version": "0.3.0",
+  "summary": "A syntax parser for the MIPS Instruction Set Architecture.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_mips-0.3.0.tar.gz",
+  "download_time": "2025-12-02T22:51:04.257467",
+  "package_url": "https://pypi.org/project/tree-sitter-mips/"
+}

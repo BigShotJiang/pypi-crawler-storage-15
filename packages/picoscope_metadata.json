@@ -1,0 +1,11 @@
+{
+  "name": "picoscope",
+  "version": "0.7.32",
+  "summary": "Unofficial python wrapper for the PicoScope devices.",
+  "author": "Colin O'Flynn, Mark Harfouche",
+  "license": "BSD",
+  "home_page": "https://github.com/colinoflynn/pico-python/",
+  "download_filename": "picoscope-0.7.32.tar.gz",
+  "download_time": "2025-12-02T22:51:03.691542",
+  "package_url": "https://pypi.org/project/picoscope/"
+}
