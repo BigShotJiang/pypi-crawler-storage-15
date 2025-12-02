@@ -1,0 +1,11 @@
+{
+  "name": "understat",
+  "version": "0.1.13",
+  "summary": "A Python wrapper for https://understat.com/",
+  "author": "amosbastian",
+  "license": "MIT",
+  "home_page": "https://github.com/amosbastian/understat",
+  "download_filename": "understat-0.1.13.tar.gz",
+  "download_time": "2025-12-02T20:23:27.975028",
+  "package_url": "https://pypi.org/project/understat/"
+}

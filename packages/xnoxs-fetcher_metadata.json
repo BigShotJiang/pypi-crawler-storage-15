@@ -1,0 +1,11 @@
+{
+  "name": "xnoxs-fetcher",
+  "version": "4.0.0",
+  "summary": "Advanced TradingView historical and live data fetcher for stocks, crypto, forex, and commodities",
+  "author": "developerxnoxs",
+  "license": "MIT",
+  "home_page": "https://github.com/developerxnoxs/xnoxs_fetcher",
+  "download_filename": "xnoxs_fetcher-4.0.0.tar.gz",
+  "download_time": "2025-12-02T20:23:55.953461",
+  "package_url": "https://pypi.org/project/xnoxs-fetcher/"
+}

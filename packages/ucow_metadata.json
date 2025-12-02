@@ -1,0 +1,11 @@
+{
+  "name": "ucow",
+  "version": "0.2.0",
+  "summary": "A Cowgol compiler for 8080/Z80 CP/M",
+  "author": "David Given",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ucow-0.2.0.tar.gz",
+  "download_time": "2025-12-02T20:23:24.207213",
+  "package_url": "https://pypi.org/project/ucow/"
+}

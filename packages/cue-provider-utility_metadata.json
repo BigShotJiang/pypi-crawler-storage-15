@@ -1,0 +1,11 @@
+{
+  "name": "cue-provider-utility",
+  "version": "0.1.0",
+  "summary": "CLI utility for uploading data to CUE (Cloud Upload Environment)",
+  "author": "Navaneeth Selvaraj",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cue_provider_utility-0.1.0.tar.gz",
+  "download_time": "2025-12-02T20:23:19.940695",
+  "package_url": "https://pypi.org/project/cue-provider-utility/"
+}

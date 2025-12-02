@@ -1,0 +1,11 @@
+{
+  "name": "agentic-learning",
+  "version": "0.4.3",
+  "summary": "Drop-in SDK to add an AI memory layer to any application. Works with OpenAI, Anthropic, Gemini, Claude.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentic_learning-0.4.3.tar.gz",
+  "download_time": "2025-12-02T20:23:26.934296",
+  "package_url": "https://pypi.org/project/agentic-learning/"
+}

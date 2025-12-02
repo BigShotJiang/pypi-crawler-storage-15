@@ -1,0 +1,11 @@
+{
+  "name": "hassil",
+  "version": "3.5.0",
+  "summary": "The Home Assistant Intent Language parser",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hassil-3.5.0.tar.gz",
+  "download_time": "2025-12-02T20:23:22.118656",
+  "package_url": "https://pypi.org/project/hassil/"
+}

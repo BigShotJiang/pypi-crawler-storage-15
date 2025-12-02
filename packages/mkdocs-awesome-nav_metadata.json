@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-awesome-nav",
+  "version": "3.3.0",
+  "summary": "A plugin for customizing the navigation structure of your MkDocs site.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_awesome_nav-3.3.0.tar.gz",
+  "download_time": "2025-12-02T20:23:45.823331",
+  "package_url": "https://pypi.org/project/mkdocs-awesome-nav/"
+}
