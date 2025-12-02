@@ -1,11 +1,11 @@
 {
   "name": "sso-cli",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "SSO auth CLI - Keycloak/OIDC token & roles",
   "author": "SSO CLI Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "sso_cli-1.2.0.tar.gz",
-  "download_time": "2025-12-02T19:01:14.421935",
+  "download_filename": "sso_cli-1.2.1.tar.gz",
+  "download_time": "2025-12-02T19:43:53.081986",
   "package_url": "https://pypi.org/project/sso-cli/"
 }

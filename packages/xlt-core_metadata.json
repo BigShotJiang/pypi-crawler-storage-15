@@ -1,0 +1,11 @@
+{
+  "name": "xlt-core",
+  "version": "0.0.1",
+  "summary": "A lightweight Extract-Load tool for building simple, reliable batch data transfer pipelines",
+  "author": "XLT Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xlt_core-0.0.1.tar.gz",
+  "download_time": "2025-12-02T19:43:56.237288",
+  "package_url": "https://pypi.org/project/xlt-core/"
+}

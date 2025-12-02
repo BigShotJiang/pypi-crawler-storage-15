@@ -1,0 +1,11 @@
+{
+  "name": "ionq",
+  "version": "0.0.0a15",
+  "summary": "A Python library for interacting with IonQ's quantum computing API",
+  "author": "Spencer Churchill",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ionq-0.0.0a15.tar.gz",
+  "download_time": "2025-12-02T19:43:57.991465",
+  "package_url": "https://pypi.org/project/ionq/"
+}
