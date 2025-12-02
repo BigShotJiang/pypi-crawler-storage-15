@@ -1,0 +1,11 @@
+{
+  "name": "umlio",
+  "version": "0.5.2",
+  "summary": "serialize deserialize umlshapes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "umlio-0.5.2.tar.gz",
+  "download_time": "2025-12-02T21:38:36.388505",
+  "package_url": "https://pypi.org/project/umlio/"
+}

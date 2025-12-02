@@ -1,0 +1,11 @@
+{
+  "name": "decay-tools",
+  "version": "0.3.0",
+  "summary": "Python package for fitting single- and double-component nuclear decay time distributions and estimating optimal bins in the logarithmic form.",
+  "author": "Andrey Isaev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "decay_tools-0.3.0.tar.gz",
+  "download_time": "2025-12-02T21:38:32.644219",
+  "package_url": "https://pypi.org/project/decay-tools/"
+}

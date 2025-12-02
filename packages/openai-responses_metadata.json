@@ -1,0 +1,11 @@
+{
+  "name": "openai-responses",
+  "version": "0.13.1",
+  "summary": "🧪🤖 Pytest plugin for automatically mocking OpenAI requests",
+  "author": "Michael Harris",
+  "license": "MIT",
+  "home_page": "https://mharrisb1.github.io/openai-responses-python/",
+  "download_filename": "openai_responses-0.13.1.tar.gz",
+  "download_time": "2025-12-02T21:38:09.604356",
+  "package_url": "https://pypi.org/project/openai-responses/"
+}

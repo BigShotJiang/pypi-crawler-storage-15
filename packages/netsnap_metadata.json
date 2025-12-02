@@ -1,0 +1,11 @@
+{
+  "name": "netsnap",
+  "version": "2.2.0",
+  "summary": "Comprehensive Linux network json snapshots with python library. Alternative to pyroute2 emphasizing maintainability.",
+  "author": "Harry Coin",
+  "license": "MIT",
+  "home_page": "https://github.com/hcoin/netsnap",
+  "download_filename": "netsnap-2.2.0.tar.gz",
+  "download_time": "2025-12-02T21:38:39.519098",
+  "package_url": "https://pypi.org/project/netsnap/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nrobo",
-  "version": "2025.2.17",
+  "version": "2025.2.20",
   "summary": "A Pytest-powered Smart Test Runner CLI tool.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nrobo-2025.2.17.tar.gz",
-  "download_time": "2025-12-02T20:45:23.847121",
+  "download_filename": "nrobo-2025.2.20.tar.gz",
+  "download_time": "2025-12-02T21:38:12.265361",
   "package_url": "https://pypi.org/project/nrobo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "RiboParser",
+  "version": "0.1.13.1",
+  "summary": "A pipeline for ribosome profiling data analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "riboparser-0.1.13.1.tar.gz",
+  "download_time": "2025-12-02T21:38:52.624230",
+  "package_url": "https://pypi.org/project/RiboParser/"
+}
