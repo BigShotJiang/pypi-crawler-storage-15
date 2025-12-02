@@ -1,0 +1,11 @@
+{
+  "name": "edxval",
+  "version": "3.2.0",
+  "summary": "edx-val",
+  "author": "edX",
+  "license": "AGPL",
+  "home_page": "http://github.com/openedx/edx-val",
+  "download_filename": "edxval-3.2.0.tar.gz",
+  "download_time": "2025-12-02T15:46:57.407852",
+  "package_url": "https://pypi.org/project/edxval/"
+}

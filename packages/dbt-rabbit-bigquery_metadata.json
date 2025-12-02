@@ -1,0 +1,11 @@
+{
+  "name": "dbt-rabbit-bigquery",
+  "version": "1.1.0.1.10.3",
+  "summary": "A dbt adapter that automatically optimizes BigQuery job costs using the Rabbit API",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "dbt_rabbit_bigquery-1.1.0.1.10.3.tar.gz",
+  "download_time": "2025-12-02T15:46:58.017932",
+  "package_url": "https://pypi.org/project/dbt-rabbit-bigquery/"
+}

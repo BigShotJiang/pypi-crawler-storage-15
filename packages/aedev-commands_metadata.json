@@ -1,0 +1,11 @@
+{
+  "name": "aedev-commands",
+  "version": "0.3.5",
+  "summary": "aedev namespace module portion commands: software development operation commands helpers",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/aedev-group/aedev_commands",
+  "download_filename": "aedev_commands-0.3.5.tar.gz",
+  "download_time": "2025-12-02T15:47:17.822423",
+  "package_url": "https://pypi.org/project/aedev-commands/"
+}

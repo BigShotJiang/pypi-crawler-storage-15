@@ -1,0 +1,11 @@
+{
+  "name": "opencapif-sdk",
+  "version": "0.1.24",
+  "summary": "This repository develops a Python Software Development Kit(SDK) which focuses on connecting to OpenCAPIF (Common API Framework for 3GPP Northbound APIs) in a simple way, lowering integration complexity and allowing developers to focus on Network Applications (Network Apps) or services development.",
+  "author": "Guillermo Sanz López. Miguel Ángel Adorna Ruiz",
+  "license": "LICENSE",
+  "home_page": "https://labs.etsi.org/rep/ocf/sdk",
+  "download_filename": "opencapif_sdk-0.1.24.tar.gz",
+  "download_time": "2025-12-02T15:46:36.099082",
+  "package_url": "https://pypi.org/project/opencapif-sdk/"
+}

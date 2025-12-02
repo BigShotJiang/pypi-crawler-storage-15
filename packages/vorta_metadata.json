@@ -1,0 +1,11 @@
+{
+  "name": "vorta",
+  "version": "0.11.0",
+  "summary": "A GUI for Borg Backup",
+  "author": "Manuel Riel and Vorta contributors",
+  "license": null,
+  "home_page": "https://github.com/borgbase/vorta",
+  "download_filename": "vorta-0.11.0.tar.gz",
+  "download_time": "2025-12-02T15:47:10.894856",
+  "package_url": "https://pypi.org/project/vorta/"
+}

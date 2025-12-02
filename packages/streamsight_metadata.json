@@ -1,11 +1,11 @@
 {
   "name": "streamsight",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "summary": "A toolkit for offline evaluation of Recommender Systems.",
   "author": "Ng Tze Kean",
   "license": null,
   "home_page": null,
-  "download_filename": "streamsight-2.0.2-py3-none-any.whl",
-  "download_time": "2025-12-02T15:21:30.424671",
+  "download_filename": "streamsight-2.0.4.tar.gz",
+  "download_time": "2025-12-02T15:47:03.358428",
   "package_url": "https://pypi.org/project/streamsight/"
 }

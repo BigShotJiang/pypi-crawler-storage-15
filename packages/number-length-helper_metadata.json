@@ -1,0 +1,11 @@
+{
+  "name": "number-length-helper",
+  "version": "1.0.0",
+  "summary": "A Python utility to calculate digit lengths of integers and floats.",
+  "author": "Kishor Kumar K",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "number_length_helper-1.0.0.tar.gz",
+  "download_time": "2025-12-02T15:46:46.595352",
+  "package_url": "https://pypi.org/project/number-length-helper/"
+}

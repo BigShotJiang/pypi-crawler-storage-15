@@ -1,0 +1,11 @@
+{
+  "name": "dnd-auction-game",
+  "version": "0.4.1",
+  "summary": "An auction game for trading-bots based on d&d die rolls.",
+  "author": "Sondre 'Ooki' Glimsdal",
+  "license": "MIT",
+  "home_page": "https://github.com/ooki/dnd_auction_game",
+  "download_filename": "dnd_auction_game-0.4.1.tar.gz",
+  "download_time": "2025-12-02T15:46:58.592315",
+  "package_url": "https://pypi.org/project/dnd-auction-game/"
+}
