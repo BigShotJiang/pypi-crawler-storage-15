@@ -1,0 +1,11 @@
+{
+  "name": "fakenews-framework",
+  "version": "0.1.2",
+  "summary": "A simple machine-learning framework for detecting fake news using preprocessing, feature extraction, and multiple ML models.",
+  "author": "BaByLabs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fakenews_framework-0.1.2.tar.gz",
+  "download_time": "2025-12-02T15:22:11.183203",
+  "package_url": "https://pypi.org/project/fakenews-framework/"
+}

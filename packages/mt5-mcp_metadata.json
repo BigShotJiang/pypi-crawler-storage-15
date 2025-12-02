@@ -1,0 +1,11 @@
+{
+  "name": "mt5-mcp",
+  "version": "0.5.1",
+  "summary": "MCP server for MetaTrader 5 with multi-transport support (stdio + HTTP/SSE via Gradio)",
+  "author": "Cloudmeru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mt5_mcp-0.5.1.tar.gz",
+  "download_time": "2025-12-02T15:22:10.664730",
+  "package_url": "https://pypi.org/project/mt5-mcp/"
+}

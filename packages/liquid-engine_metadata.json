@@ -1,0 +1,11 @@
+{
+  "name": "liquid-engine",
+  "version": "0.2.0",
+  "summary": "Liquid Engine standalone Python package",
+  "author": "Bruno M. Saraiva, António D. Brito, Inês M. Cunha, Ricardo Henriques",
+  "license": null,
+  "home_page": null,
+  "download_filename": "liquid_engine-0.2.0.tar.gz",
+  "download_time": "2025-12-02T15:21:31.630511",
+  "package_url": "https://pypi.org/project/liquid-engine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cylindra",
+  "version": "1.0.4",
+  "summary": "Spectral analysis, simulation and subtomogram averaging of heterogenic cylindrical structures",
+  "author": "Hanjin Liu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cylindra-1.0.4-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-02T15:22:02.250820",
+  "package_url": "https://pypi.org/project/cylindra/"
+}

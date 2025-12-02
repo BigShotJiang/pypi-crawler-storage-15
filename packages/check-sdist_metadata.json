@@ -1,0 +1,11 @@
+{
+  "name": "check-sdist",
+  "version": "1.3.1",
+  "summary": "Check the contents of an SDist vs. git",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "check_sdist-1.3.1.tar.gz",
+  "download_time": "2025-12-02T15:21:56.442637",
+  "package_url": "https://pypi.org/project/check-sdist/"
+}

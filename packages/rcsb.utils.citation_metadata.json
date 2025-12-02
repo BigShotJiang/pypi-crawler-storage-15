@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.utils.citation",
+  "version": "0.27",
+  "summary": "RCSB Python Wrapper Module for Citation Utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcsb_utils_citation-0.27.tar.gz",
+  "download_time": "2025-12-02T15:21:54.886299",
+  "package_url": "https://pypi.org/project/rcsb.utils.citation/"
+}

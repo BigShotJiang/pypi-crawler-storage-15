@@ -1,0 +1,11 @@
+{
+  "name": "pyjls",
+  "version": "0.16.0",
+  "summary": "Joulescope™ file format",
+  "author": "Jetperch LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://joulescope.readthedocs.io",
+  "download_filename": "pyjls-0.16.0.tar.gz",
+  "download_time": "2025-12-02T15:21:39.617318",
+  "package_url": "https://pypi.org/project/pyjls/"
+}

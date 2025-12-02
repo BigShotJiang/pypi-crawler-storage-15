@@ -1,0 +1,11 @@
+{
+  "name": "semlix",
+  "version": "3.1.0",
+  "summary": "Fast, pure-Python full text indexing, search, and spell checking library with semantic search capabilities.",
+  "author": "Alberto Ferrer",
+  "license": "Two-clause BSD license",
+  "home_page": "https://github.com/semlix/semlix",
+  "download_filename": "semlix-3.1.0.tar.gz",
+  "download_time": "2025-12-02T15:21:52.732679",
+  "package_url": "https://pypi.org/project/semlix/"
+}
