@@ -1,0 +1,11 @@
+{
+  "name": "logmagix-yuge",
+  "version": "3.2.0",
+  "summary": "Beautiful & Simple Python Logger with Multi-threaded Multi-line Dynamic Logging Support",
+  "author": "Yuge",
+  "license": null,
+  "home_page": "https://github.com/yuge/logmagix-yuge",
+  "download_filename": "logmagix_yuge-3.2.0.tar.gz",
+  "download_time": "2025-12-02T13:57:46.927550",
+  "package_url": "https://pypi.org/project/logmagix-yuge/"
+}

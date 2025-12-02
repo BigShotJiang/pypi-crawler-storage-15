@@ -1,0 +1,11 @@
+{
+  "name": "envrx",
+  "version": "0.0.4",
+  "summary": "A package to manage environment variables with database and custom env file support.",
+  "author": "WarnerStark",
+  "license": null,
+  "home_page": "https://github.com/Starkgang/envrx",
+  "download_filename": "envrx-0.0.4.tar.gz",
+  "download_time": "2025-12-02T13:57:36.592071",
+  "package_url": "https://pypi.org/project/envrx/"
+}

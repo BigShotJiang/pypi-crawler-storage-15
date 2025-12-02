@@ -1,0 +1,11 @@
+{
+  "name": "taf",
+  "version": "0.36.3",
+  "summary": "Implementation of archival authentication",
+  "author": "Open Law Library",
+  "license": null,
+  "home_page": "https://github.com/openlawlibrary/taf/tree/master",
+  "download_filename": "taf-0.36.3.tar.gz",
+  "download_time": "2025-12-02T13:57:15.312025",
+  "package_url": "https://pypi.org/project/taf/"
+}

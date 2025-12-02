@@ -1,0 +1,11 @@
+{
+  "name": "gtaz",
+  "version": "0.2",
+  "summary": "Visual-based AI for real-time tasks in GTAV",
+  "author": "Hansimov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gtaz-0.2.tar.gz",
+  "download_time": "2025-12-02T13:57:37.617539",
+  "package_url": "https://pypi.org/project/gtaz/"
+}

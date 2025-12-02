@@ -1,0 +1,11 @@
+{
+  "name": "snapquery",
+  "version": "0.2.1",
+  "summary": "Just Query wikidata and other SPARQL endpoints by query name - a frontend to Introduce Named Queries and Named Query Middleware to wikidata and other SPARQL endpoints ",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "snapquery-0.2.1.tar.gz",
+  "download_time": "2025-12-02T13:57:24.678024",
+  "package_url": "https://pypi.org/project/snapquery/"
+}

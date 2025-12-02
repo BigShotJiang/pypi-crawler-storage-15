@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopfloor",
+  "version": "18.0.0.8.3",
+  "summary": "manage warehouse operations with barcode scanners",
+  "author": "Camptocamp, BCIM, Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-shopfloor",
+  "download_filename": "odoo_addon_shopfloor-18.0.0.8.3-py3-none-any.whl",
+  "download_time": "2025-12-02T13:57:30.419703",
+  "package_url": "https://pypi.org/project/odoo-addon-shopfloor/"
+}

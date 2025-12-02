@@ -1,0 +1,11 @@
+{
+  "name": "rosclient",
+  "version": "1.0.0",
+  "summary": "A Python client library for connecting and controlling ROS (Robot Operating System) devices, optimized for drone control scenarios",
+  "author": "vixues",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rosclient-1.0.0.tar.gz",
+  "download_time": "2025-12-02T13:57:15.828299",
+  "package_url": "https://pypi.org/project/rosclient/"
+}

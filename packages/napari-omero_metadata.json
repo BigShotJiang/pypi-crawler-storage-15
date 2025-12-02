@@ -1,0 +1,11 @@
+{
+  "name": "napari-omero",
+  "version": "0.6.0",
+  "summary": "napari/OMERO interoperability",
+  "author": "Peter Sobolewski",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "napari_omero-0.6.0.tar.gz",
+  "download_time": "2025-12-02T13:57:24.163115",
+  "package_url": "https://pypi.org/project/napari-omero/"
+}

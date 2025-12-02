@@ -1,0 +1,11 @@
+{
+  "name": "mytools-simple",
+  "version": "1.0.1",
+  "summary": "A simple collection of useful Python utility functions",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mytools",
+  "download_filename": "mytools_simple-1.0.1.tar.gz",
+  "download_time": "2025-12-02T13:57:37.104675",
+  "package_url": "https://pypi.org/project/mytools-simple/"
+}
