@@ -1,0 +1,11 @@
+{
+  "name": "langsmith",
+  "version": "0.4.51",
+  "summary": "Client library to connect to the LangSmith Observability and Evaluation Platform.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langsmith-0.4.51.tar.gz",
+  "download_time": "2025-12-02T22:16:57.474576",
+  "package_url": "https://pypi.org/project/langsmith/"
+}

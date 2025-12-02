@@ -1,0 +1,11 @@
+{
+  "name": "robotcode-plugin",
+  "version": "2.1.0",
+  "summary": "Some classes for RobotCode plugin management",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robotcode_plugin-2.1.0.tar.gz",
+  "download_time": "2025-12-02T22:17:21.700334",
+  "package_url": "https://pypi.org/project/robotcode-plugin/"
+}

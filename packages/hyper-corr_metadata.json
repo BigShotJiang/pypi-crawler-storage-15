@@ -1,0 +1,11 @@
+{
+  "name": "hyper-corr",
+  "version": "0.1.1",
+  "summary": "Hyper-Fast Correlation Functions (Numba-Accelerated): Pearson's r, Spearman's rho, Kendall's tau, Chatterjee's xi, Somers’ D",
+  "author": "Jon Paul Lundquist",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyper_corr-0.1.1.tar.gz",
+  "download_time": "2025-12-02T22:17:29.442878",
+  "package_url": "https://pypi.org/project/hyper-corr/"
+}

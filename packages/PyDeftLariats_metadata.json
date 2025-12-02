@@ -1,0 +1,11 @@
+{
+  "name": "PyDeftLariats",
+  "version": "1.2.12",
+  "summary": "Using PyHamcrest to build a collection of data filters.",
+  "author": null,
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "pydeftlariats-1.2.12.tar.gz",
+  "download_time": "2025-12-02T22:17:36.750432",
+  "package_url": "https://pypi.org/project/PyDeftLariats/"
+}

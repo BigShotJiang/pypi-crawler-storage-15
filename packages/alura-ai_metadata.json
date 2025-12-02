@@ -1,11 +1,11 @@
 {
   "name": "alura-ai",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "AI usage tracking and billing SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alura_ai-0.1.2.tar.gz",
-  "download_time": "2025-12-02T18:30:56.581893",
+  "download_filename": "alura_ai-0.1.4.tar.gz",
+  "download_time": "2025-12-02T22:17:32.072757",
   "package_url": "https://pypi.org/project/alura-ai/"
 }

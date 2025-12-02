@@ -1,0 +1,11 @@
+{
+  "name": "pg0-embedded",
+  "version": "0.1.1",
+  "summary": "Python API for pg0 - embedded PostgreSQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pg0_embedded-0.1.1.tar.gz",
+  "download_time": "2025-12-02T22:17:29.953823",
+  "package_url": "https://pypi.org/project/pg0-embedded/"
+}

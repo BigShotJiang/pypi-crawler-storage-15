@@ -1,0 +1,11 @@
+{
+  "name": "dspy-cli",
+  "version": "0.1.9",
+  "summary": "A CLI tool for creating and serving DSPy projects",
+  "author": "DSPy CLI Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dspy_cli-0.1.9.tar.gz",
+  "download_time": "2025-12-02T22:17:24.264159",
+  "package_url": "https://pypi.org/project/dspy-cli/"
+}
