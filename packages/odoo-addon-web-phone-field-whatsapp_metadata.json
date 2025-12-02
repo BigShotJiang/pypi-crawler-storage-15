@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-phone-field-whatsapp",
+  "version": "16.0.1.0.0.4",
+  "summary": "This module adds a shortcut functionality to WhatsApp Web or the WhatsApp application in the phone widget.",
+  "author": "Binhex, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_phone_field_whatsapp-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-02T17:46:23.730145",
+  "package_url": "https://pypi.org/project/odoo-addon-web-phone-field-whatsapp/"
+}

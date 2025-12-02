@@ -1,0 +1,11 @@
+{
+  "name": "aeneas-ng",
+  "version": "1.7.4.0",
+  "summary": "aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aeneas_ng-1.7.4.0.tar.gz",
+  "download_time": "2025-12-02T17:46:16.645994",
+  "package_url": "https://pypi.org/project/aeneas-ng/"
+}

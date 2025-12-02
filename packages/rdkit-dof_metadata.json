@@ -1,0 +1,11 @@
+{
+  "name": "rdkit-dof",
+  "version": "0.1.2",
+  "summary": "RDKit molecule drawing with Depth of Field (DOF) effects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rdkit_dof-0.1.2.tar.gz",
+  "download_time": "2025-12-02T17:46:13.372680",
+  "package_url": "https://pypi.org/project/rdkit-dof/"
+}

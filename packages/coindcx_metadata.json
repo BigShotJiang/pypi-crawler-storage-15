@@ -1,0 +1,11 @@
+{
+  "name": "coindcx",
+  "version": "0.1.1",
+  "summary": "Python wrapper for CoinDCX API with support for spot, margin, and futures trading",
+  "author": "Sanjay Vamja",
+  "license": null,
+  "home_page": "https://github.com/svamja/coindcx-python",
+  "download_filename": "coindcx-0.1.1.tar.gz",
+  "download_time": "2025-12-02T17:46:27.973468",
+  "package_url": "https://pypi.org/project/coindcx/"
+}
