@@ -1,0 +1,11 @@
+{
+  "name": "pennylane-lightning-amdgpu",
+  "version": "0.43.0",
+  "summary": "PennyLane-Lightning plugin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pennylane_lightning_amdgpu-0.43.0.tar.gz",
+  "download_time": "2025-12-02T19:00:59.277775",
+  "package_url": "https://pypi.org/project/pennylane-lightning-amdgpu/"
+}

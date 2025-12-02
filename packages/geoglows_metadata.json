@@ -1,0 +1,11 @@
+{
+  "name": "geoglows",
+  "version": "2.2.0",
+  "summary": "Package for accessing data from the GEOGLOWS Hydrological Model",
+  "author": "Riley Hales PhD",
+  "license": "BSD 3-Clause Clear License",
+  "home_page": "https://data.geoglows.org",
+  "download_filename": "geoglows-2.2.0.tar.gz",
+  "download_time": "2025-12-02T19:00:38.839731",
+  "package_url": "https://pypi.org/project/geoglows/"
+}

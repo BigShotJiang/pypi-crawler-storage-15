@@ -1,0 +1,11 @@
+{
+  "name": "loadbearing-wall",
+  "version": "0.4.1",
+  "summary": "A package that models a generic load-bearing wall for the purpose of determining",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loadbearing_wall-0.4.1.tar.gz",
+  "download_time": "2025-12-02T19:00:56.092911",
+  "package_url": "https://pypi.org/project/loadbearing-wall/"
+}

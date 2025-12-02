@@ -1,0 +1,11 @@
+{
+  "name": "ArfLab",
+  "version": "2.1.2",
+  "summary": "Mathematical Environment Library in Python",
+  "author": "Poyraz Soylu",
+  "license": null,
+  "home_page": "https://github.com/Jolankaa/unimath",
+  "download_filename": "arflab-2.1.2.tar.gz",
+  "download_time": "2025-12-02T19:01:10.167095",
+  "package_url": "https://pypi.org/project/ArfLab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "disk-wiper",
+  "version": "1.0.5",
+  "summary": "Disk wipe tool for home-server preparation",
+  "author": "Casa Eureka",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "disk_wiper-1.0.5.tar.gz",
+  "download_time": "2025-12-02T19:00:33.937543",
+  "package_url": "https://pypi.org/project/disk-wiper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "indipyweb",
+  "version": "0.1.1",
+  "summary": "Web server to communicate to an INDI service.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "indipyweb-0.1.1.tar.gz",
+  "download_time": "2025-12-02T19:00:32.888141",
+  "package_url": "https://pypi.org/project/indipyweb/"
+}

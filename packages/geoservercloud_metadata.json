@@ -1,0 +1,11 @@
+{
+  "name": "geoservercloud",
+  "version": "0.6.0",
+  "summary": "Lightweight Python client to interact with GeoServer Cloud REST API, GeoServer ACL and OGC services",
+  "author": "Camptocamp",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "geoservercloud-0.6.0.tar.gz",
+  "download_time": "2025-12-02T19:00:50.406378",
+  "package_url": "https://pypi.org/project/geoservercloud/"
+}

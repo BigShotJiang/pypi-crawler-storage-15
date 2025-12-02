@@ -1,0 +1,11 @@
+{
+  "name": "llm-annotator",
+  "version": "0.6.0",
+  "summary": "An easy-to-extend LLM annotator for robust, resumable data annotation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_annotator-0.6.0.tar.gz",
+  "download_time": "2025-12-02T19:01:16.595342",
+  "package_url": "https://pypi.org/project/llm-annotator/"
+}
