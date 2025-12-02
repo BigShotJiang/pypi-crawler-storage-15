@@ -1,0 +1,11 @@
+{
+  "name": "h264indexer",
+  "version": "1.0.0",
+  "summary": "H.264 video indexer for fast seeking",
+  "author": "MakeIndex Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "h264indexer-1.0.0.tar.gz",
+  "download_time": "2025-12-02T13:36:05.491718",
+  "package_url": "https://pypi.org/project/h264indexer/"
+}

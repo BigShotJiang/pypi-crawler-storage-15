@@ -1,0 +1,11 @@
+{
+  "name": "todo-cli-jp",
+  "version": "0.1.0",
+  "summary": "A simple Python To-Do List CLI",
+  "author": "JP",
+  "license": null,
+  "home_page": null,
+  "download_filename": "todo_cli_jp-0.1.0.tar.gz",
+  "download_time": "2025-12-02T13:36:09.681386",
+  "package_url": "https://pypi.org/project/todo-cli-jp/"
+}

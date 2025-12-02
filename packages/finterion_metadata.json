@@ -1,0 +1,11 @@
+{
+  "name": "finterion",
+  "version": "0.8.9",
+  "summary": "Official python client for Finterion",
+  "author": "marcvanduyn",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "finterion-0.8.9.tar.gz",
+  "download_time": "2025-12-02T13:36:42.684926",
+  "package_url": "https://pypi.org/project/finterion/"
+}

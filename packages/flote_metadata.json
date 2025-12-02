@@ -1,0 +1,11 @@
+{
+  "name": "flote",
+  "version": "0.5.0",
+  "summary": "Flote is a HDL and Python framework for simulation. Designed to be friendly, simple, and productive. Easy to use and learn.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flote-0.5.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-02T13:35:59.550448",
+  "package_url": "https://pypi.org/project/flote/"
+}
