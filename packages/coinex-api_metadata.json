@@ -1,0 +1,11 @@
+{
+  "name": "coinex-api",
+  "version": "0.0.108",
+  "summary": "coinex crypto exchange api client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coinex_api-0.0.108.tar.gz",
+  "download_time": "2025-12-02T23:50:25.394082",
+  "package_url": "https://pypi.org/project/coinex-api/"
+}

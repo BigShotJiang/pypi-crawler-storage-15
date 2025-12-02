@@ -1,0 +1,11 @@
+{
+  "name": "tvi-solphit-ingialla",
+  "version": "0.4.2",
+  "summary": "Ingialla domain logic: ES backend, wikidump split, parsing/cleaning, chunking, embeddings, ask/KB build.",
+  "author": "Tobias Hagenbeek",
+  "license": "MIT License\n        \n        Copyright (c) 2025",
+  "home_page": null,
+  "download_filename": "tvi_solphit_ingialla-0.4.2.tar.gz",
+  "download_time": "2025-12-02T23:50:17.942618",
+  "package_url": "https://pypi.org/project/tvi-solphit-ingialla/"
+}
