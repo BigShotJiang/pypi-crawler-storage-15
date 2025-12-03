@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-status-check-mixin",
+  "version": "14.0.2.4.3",
+  "summary": "Status Check Mixin",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_status_check_mixin-14.0.2.4.3-py3-none-any.whl",
+  "download_time": "2025-12-03T13:54:01.508092",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-status-check-mixin/"
+}

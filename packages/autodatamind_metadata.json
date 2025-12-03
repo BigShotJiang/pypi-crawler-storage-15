@@ -1,0 +1,11 @@
+{
+  "name": "autodatamind",
+  "version": "0.1.1",
+  "summary": "Zero-code automated data analysis, machine learning, and deep learning",
+  "author": "Idriss Olivier Bado",
+  "license": "MIT",
+  "home_page": "https://github.com/idrissbado/autodatamind",
+  "download_filename": "autodatamind-0.1.1-py3-none-any.whl",
+  "download_time": "2025-12-03T13:54:04.359442",
+  "package_url": "https://pypi.org/project/autodatamind/"
+}

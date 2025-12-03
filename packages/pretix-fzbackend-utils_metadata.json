@@ -1,0 +1,11 @@
+{
+  "name": "pretix-fzbackend-utils",
+  "version": "1.2.20251203.1",
+  "summary": "Pretix utils plugin to work together with fz-backend",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "pretix_fzbackend_utils-1.2.20251203.1.tar.gz",
+  "download_time": "2025-12-03T13:53:53.786077",
+  "package_url": "https://pypi.org/project/pretix-fzbackend-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "invoice-details-lib",
+  "version": "0.1.0",
+  "summary": "A Python library for creating the invoice transaction code and transaction date",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "invoice_details_lib-0.1.0.tar.gz",
+  "download_time": "2025-12-03T13:54:21.354878",
+  "package_url": "https://pypi.org/project/invoice-details-lib/"
+}

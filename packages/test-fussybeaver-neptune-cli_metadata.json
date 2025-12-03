@@ -1,11 +1,11 @@
 {
   "name": "test-fussybeaver-neptune-cli",
-  "version": "0.1.3",
+  "version": "0.1.15",
   "summary": "CLI for Neptune (neptune.dev)",
   "author": "Neptune CLI contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "test_fussybeaver_neptune_cli-0.1.3.tar.gz",
-  "download_time": "2025-12-03T11:50:59.847234",
+  "download_filename": "test_fussybeaver_neptune_cli-0.1.15.tar.gz",
+  "download_time": "2025-12-03T13:53:46.509434",
   "package_url": "https://pypi.org/project/test-fussybeaver-neptune-cli/"
 }

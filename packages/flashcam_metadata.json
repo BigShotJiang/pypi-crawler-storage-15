@@ -1,0 +1,11 @@
+{
+  "name": "flashcam",
+  "version": "1.13.20",
+  "summary": "Composition of scripts to control a web camera",
+  "author": "jaromrax",
+  "license": "GPL2",
+  "home_page": "https://gitlab.com/jaromrax/flashcam",
+  "download_filename": "flashcam-1.13.20.tar.gz",
+  "download_time": "2025-12-03T13:54:25.815526",
+  "package_url": "https://pypi.org/project/flashcam/"
+}

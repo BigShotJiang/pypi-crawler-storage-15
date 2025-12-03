@@ -1,11 +1,11 @@
 {
   "name": "laklak",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Cross-Platform Market Data Collector",
   "author": "Eulex0x",
   "license": "MIT",
   "home_page": "https://github.com/Eulex0x/laklak",
-  "download_filename": "laklak-1.0.8.tar.gz",
-  "download_time": "2025-12-02T21:50:12.820437",
+  "download_filename": "laklak-1.0.9.tar.gz",
+  "download_time": "2025-12-03T13:54:17.695101",
   "package_url": "https://pypi.org/project/laklak/"
 }
