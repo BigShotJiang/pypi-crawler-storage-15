@@ -1,0 +1,11 @@
+{
+  "name": "dbt-diagrams",
+  "version": "0.2.0",
+  "summary": "Add Mermaid rendering and model docs based ERDs to your dbt docs",
+  "author": "Diederik Jan Lemkes",
+  "license": "MIT",
+  "home_page": "https://github.com/DJLemkes/dbt-diagrams",
+  "download_filename": "dbt_diagrams-0.2.0.tar.gz",
+  "download_time": "2025-12-03T08:27:32.013305",
+  "package_url": "https://pypi.org/project/dbt-diagrams/"
+}

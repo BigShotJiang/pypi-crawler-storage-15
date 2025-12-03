@@ -1,0 +1,11 @@
+{
+  "name": "pyenvalid",
+  "version": "0.1.0",
+  "summary": "Beautiful validation errors for pydantic-settings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyenvalid-0.1.0.tar.gz",
+  "download_time": "2025-12-03T08:27:17.921802",
+  "package_url": "https://pypi.org/project/pyenvalid/"
+}

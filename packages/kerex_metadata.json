@@ -1,0 +1,11 @@
+{
+  "name": "kerex",
+  "version": "1.1.8",
+  "summary": "Keras Extensions for Keras3",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "kerex-1.1.8.tar.gz",
+  "download_time": "2025-12-03T08:27:22.659131",
+  "package_url": "https://pypi.org/project/kerex/"
+}

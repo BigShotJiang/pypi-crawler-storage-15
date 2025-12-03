@@ -1,0 +1,11 @@
+{
+  "name": "tidyfaf",
+  "version": "0.1.1",
+  "summary": "A statistical data access tool for the Freight Analysis Framework (FAF5).",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "tidyfaf-0.1.1.tar.gz",
+  "download_time": "2025-12-03T08:27:29.453233",
+  "package_url": "https://pypi.org/project/tidyfaf/"
+}

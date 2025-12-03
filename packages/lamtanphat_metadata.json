@@ -1,0 +1,11 @@
+{
+  "name": "lamtanphat",
+  "version": "0.2.0",
+  "summary": "A simple demo package providing ltp() and LTPPPP() printing personal information.",
+  "author": "Lam Tan Phat",
+  "license": "MIT",
+  "home_page": "https://lamtanphat.io.vn/",
+  "download_filename": "lamtanphat-0.2.0.tar.gz",
+  "download_time": "2025-12-03T08:27:19.591563",
+  "package_url": "https://pypi.org/project/lamtanphat/"
+}
