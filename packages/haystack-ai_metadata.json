@@ -1,0 +1,11 @@
+{
+  "name": "haystack-ai",
+  "version": "2.20.0",
+  "summary": "LLM framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "haystack_ai-2.20.0.tar.gz",
+  "download_time": "2025-12-03T21:18:19.109948",
+  "package_url": "https://pypi.org/project/haystack-ai/"
+}

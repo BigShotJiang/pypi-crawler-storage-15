@@ -1,0 +1,11 @@
+{
+  "name": "usd2mjcf",
+  "version": "0.0.1",
+  "summary": "Convert USD to MJCF (MuJoCo XML) format",
+  "author": "Ge Yang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "usd2mjcf-0.0.1.tar.gz",
+  "download_time": "2025-12-03T21:18:31.605659",
+  "package_url": "https://pypi.org/project/usd2mjcf/"
+}

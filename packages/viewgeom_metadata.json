@@ -1,0 +1,11 @@
+{
+  "name": "viewgeom",
+  "version": "0.1.4",
+  "summary": "Command line vector viewer for .shp, .geojson, .gpkg, .geoparquet, .kml, and .kmz with a simple Qt UI.",
+  "author": "Keiko Nomura",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "viewgeom-0.1.4.tar.gz",
+  "download_time": "2025-12-03T21:18:03.463049",
+  "package_url": "https://pypi.org/project/viewgeom/"
+}

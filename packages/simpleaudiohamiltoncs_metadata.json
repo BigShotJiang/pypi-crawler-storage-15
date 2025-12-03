@@ -1,0 +1,11 @@
+{
+  "name": "simpleaudiohamiltoncs",
+  "version": "1.0.6",
+  "summary": "Simple, asynchronous audio playback for Python 3.",
+  "author": "Joe Hamilton",
+  "license": "MIT",
+  "home_page": "https://github.com/hamiltron/py-simple-audio",
+  "download_filename": "simpleaudiohamiltoncs-1.0.6.tar.gz",
+  "download_time": "2025-12-03T21:17:50.088425",
+  "package_url": "https://pypi.org/project/simpleaudiohamiltoncs/"
+}

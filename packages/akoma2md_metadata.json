@@ -1,0 +1,11 @@
+{
+  "name": "akoma2md",
+  "version": "2.0.21",
+  "summary": "⚠️ DEPRECATED - Use 'normattiva2md' instead | Convertitore da XML Akoma Ntoso a Markdown (CLI: normattiva2md)",
+  "author": "Andrea Borruso",
+  "license": "MIT",
+  "home_page": "https://github.com/ondata/normattiva_2_md",
+  "download_filename": "akoma2md-2.0.21.tar.gz",
+  "download_time": "2025-12-03T21:18:08.128515",
+  "package_url": "https://pypi.org/project/akoma2md/"
+}
