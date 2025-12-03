@@ -1,0 +1,11 @@
+{
+  "name": "assembly-theory",
+  "version": "0.6.0",
+  "summary": "Open, reproducible calculation of assembly indices",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "assembly_theory-0.6.0.tar.gz",
+  "download_time": "2025-12-03T23:17:16.287722",
+  "package_url": "https://pypi.org/project/assembly-theory/"
+}

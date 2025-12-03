@@ -1,0 +1,11 @@
+{
+  "name": "policyengine-canada",
+  "version": "0.96.5",
+  "summary": "Microsimulation model for Canada's tax-benefit system.",
+  "author": "PolicyEngine",
+  "license": "https://www.fsf.org/licensing/licenses/agpl-3.0.html",
+  "home_page": "https://github.com/policyengine/policyengine-canada",
+  "download_filename": "policyengine_canada-0.96.5.tar.gz",
+  "download_time": "2025-12-03T23:17:06.571514",
+  "package_url": "https://pypi.org/project/policyengine-canada/"
+}

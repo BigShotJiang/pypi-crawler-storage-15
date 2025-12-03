@@ -1,11 +1,11 @@
 {
   "name": "dynafield",
-  "version": "0.0.10",
+  "version": "0.0.13",
   "summary": "Dynamic fields build up schema",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dynafield-0.0.10.tar.gz",
-  "download_time": "2025-12-03T22:54:43.574634",
+  "download_filename": "dynafield-0.0.13.tar.gz",
+  "download_time": "2025-12-03T23:16:56.307044",
   "package_url": "https://pypi.org/project/dynafield/"
 }
