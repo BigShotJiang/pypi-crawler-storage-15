@@ -1,0 +1,11 @@
+{
+  "name": "bfee2",
+  "version": "3.1.1",
+  "summary": "Binding Free Energy Estimator 2",
+  "author": "Haohao Fu, Haochuan Chen, Hengwei Bian, Wensheng Cai, Chris Chipot",
+  "license": "GPLv3",
+  "home_page": "https://github.com/fhh2626/BFEE2",
+  "download_filename": "bfee2-3.1.1.tar.gz",
+  "download_time": "2025-12-03T04:34:13.241346",
+  "package_url": "https://pypi.org/project/bfee2/"
+}

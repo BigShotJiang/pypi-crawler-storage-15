@@ -1,0 +1,11 @@
+{
+  "name": "gmaillm",
+  "version": "1.0.0",
+  "summary": "LLM-friendly Gmail API wrapper with CLI and progressive disclosure patterns",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gmaillm-1.0.0.tar.gz",
+  "download_time": "2025-12-03T04:34:03.126671",
+  "package_url": "https://pypi.org/project/gmaillm/"
+}

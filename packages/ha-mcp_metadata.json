@@ -1,11 +1,11 @@
 {
   "name": "ha-mcp",
-  "version": "4.11.6",
+  "version": "4.11.9",
   "summary": "Home Assistant MCP Server - Complete control of Home Assistant through MCP",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ha_mcp-4.11.6.tar.gz",
-  "download_time": "2025-12-03T03:58:34.144343",
+  "download_filename": "ha_mcp-4.11.9.tar.gz",
+  "download_time": "2025-12-03T04:33:41.877765",
   "package_url": "https://pypi.org/project/ha-mcp/"
 }

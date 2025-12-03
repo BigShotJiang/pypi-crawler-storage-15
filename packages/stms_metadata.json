@@ -1,0 +1,11 @@
+{
+  "name": "stms",
+  "version": "0.3.4",
+  "summary": "Spatiotemporal Filling and Multistep Smoothing for satellite time series reconstruction",
+  "author": "Bayu Suseno",
+  "license": null,
+  "home_page": "https://github.com/byususen/stms",
+  "download_filename": "stms-0.3.4.tar.gz",
+  "download_time": "2025-12-03T04:33:47.818992",
+  "package_url": "https://pypi.org/project/stms/"
+}

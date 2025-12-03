@@ -1,0 +1,11 @@
+{
+  "name": "phrasetopicminer",
+  "version": "0.1.1",
+  "summary": "Phrase-centric topic mining, clustering, timelines, visualization, and LLM-backed topic labeling.",
+  "author": "Ahmad Hashemi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phrasetopicminer-0.1.1.tar.gz",
+  "download_time": "2025-12-03T04:33:52.076122",
+  "package_url": "https://pypi.org/project/phrasetopicminer/"
+}

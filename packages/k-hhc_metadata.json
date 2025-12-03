@@ -1,0 +1,11 @@
+{
+  "name": "k-hhc",
+  "version": "1.0.9",
+  "summary": "Python bindings for Hexahexacontadecimal (base66) encoding",
+  "author": "Evan Kirby",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "k_hhc-1.0.9.tar.gz",
+  "download_time": "2025-12-03T04:33:45.159499",
+  "package_url": "https://pypi.org/project/k-hhc/"
+}

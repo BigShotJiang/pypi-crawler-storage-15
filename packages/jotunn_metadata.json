@@ -1,0 +1,11 @@
+{
+  "name": "jotunn",
+  "version": "0.1.15",
+  "summary": "A petabyte scale data processing framework for AI models using Daft and Ray.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jotunn-0.1.15.tar.gz",
+  "download_time": "2025-12-03T04:33:53.171418",
+  "package_url": "https://pypi.org/project/jotunn/"
+}

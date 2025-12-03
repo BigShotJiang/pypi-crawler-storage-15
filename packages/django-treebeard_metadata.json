@@ -1,0 +1,11 @@
+{
+  "name": "django-treebeard",
+  "version": "4.8.0",
+  "summary": "Efficient tree implementations for Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_treebeard-4.8.0.tar.gz",
+  "download_time": "2025-12-03T04:34:04.184910",
+  "package_url": "https://pypi.org/project/django-treebeard/"
+}

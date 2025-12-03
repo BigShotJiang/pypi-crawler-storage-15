@@ -1,11 +1,11 @@
 {
   "name": "scrapegoat-core",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "summary": "A toolkit of functions, classes, and utilities for creating web scrapers.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scrapegoat_core-1.3.0-py3-none-any.whl",
-  "download_time": "2025-12-03T03:58:54.584305",
+  "download_filename": "scrapegoat_core-1.3.2-py3-none-any.whl",
+  "download_time": "2025-12-03T04:33:54.261996",
   "package_url": "https://pypi.org/project/scrapegoat-core/"
 }
