@@ -1,11 +1,11 @@
 {
   "name": "geoevolve",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "summary": "A Geographical Knowledge Informed Code Evolver",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geoevolve-0.2.2.tar.gz",
-  "download_time": "2025-12-03T09:47:11.483187",
+  "download_filename": "geoevolve-0.2.6.tar.gz",
+  "download_time": "2025-12-03T15:47:06.855472",
   "package_url": "https://pypi.org/project/geoevolve/"
 }

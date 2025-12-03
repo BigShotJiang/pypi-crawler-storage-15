@@ -1,11 +1,11 @@
 {
   "name": "pyxbrain",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "极简的智能体开发框架",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyxbrain-2.0.1.tar.gz",
-  "download_time": "2025-12-02T17:46:18.779883",
+  "download_filename": "pyxbrain-2.0.2.tar.gz",
+  "download_time": "2025-12-03T15:46:25.683561",
   "package_url": "https://pypi.org/project/pyxbrain/"
 }

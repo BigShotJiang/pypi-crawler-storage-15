@@ -1,0 +1,11 @@
+{
+  "name": "qcextender",
+  "version": "0.4.7",
+  "summary": "This package aims to extend any quasi-circular waveform with complex features.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qcextender-0.4.7.tar.gz",
+  "download_time": "2025-12-03T15:46:26.853163",
+  "package_url": "https://pypi.org/project/qcextender/"
+}

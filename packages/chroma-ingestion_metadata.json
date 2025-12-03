@@ -1,11 +1,11 @@
 {
   "name": "chroma-ingestion",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Semantic-aware code ingestion and retrieval for ChromaDB",
   "author": "Chroma Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chroma_ingestion-0.2.1.tar.gz",
-  "download_time": "2025-12-03T14:48:05.323969",
+  "download_filename": "chroma_ingestion-0.2.3.tar.gz",
+  "download_time": "2025-12-03T15:47:04.460009",
   "package_url": "https://pypi.org/project/chroma-ingestion/"
 }

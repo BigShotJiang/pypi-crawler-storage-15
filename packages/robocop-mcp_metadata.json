@@ -1,0 +1,11 @@
+{
+  "name": "robocop-mcp",
+  "version": "1.7.0",
+  "summary": "MCP server for helping user to resolve Robot Framework code issues detected by Robocop.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robocop_mcp-1.7.0.tar.gz",
+  "download_time": "2025-12-03T15:46:15.371510",
+  "package_url": "https://pypi.org/project/robocop-mcp/"
+}
