@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-asyncio",
+  "version": "0.60b0",
+  "summary": "OpenTelemetry instrumentation for asyncio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_asyncio-0.60b0.tar.gz",
+  "download_time": "2025-12-03T13:25:32.468269",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-asyncio/"
+}

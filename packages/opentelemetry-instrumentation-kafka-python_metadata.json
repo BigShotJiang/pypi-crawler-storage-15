@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-kafka-python",
+  "version": "0.60b0",
+  "summary": "OpenTelemetry Kafka-Python instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_kafka_python-0.60b0.tar.gz",
+  "download_time": "2025-12-03T13:25:21.675809",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-kafka-python/"
+}

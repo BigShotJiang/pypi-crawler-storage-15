@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-exporter-prometheus-remote-write",
+  "version": "0.60b0",
+  "summary": "Prometheus Remote Write Metrics Exporter for OpenTelemetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_exporter_prometheus_remote_write-0.60b0.tar.gz",
+  "download_time": "2025-12-03T13:25:38.123524",
+  "package_url": "https://pypi.org/project/opentelemetry-exporter-prometheus-remote-write/"
+}

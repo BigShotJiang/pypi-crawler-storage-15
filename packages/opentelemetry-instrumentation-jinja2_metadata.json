@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-jinja2",
+  "version": "0.60b0",
+  "summary": "OpenTelemetry jinja2 instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_jinja2-0.60b0.tar.gz",
+  "download_time": "2025-12-03T13:25:22.189310",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-jinja2/"
+}

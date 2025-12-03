@@ -1,0 +1,11 @@
+{
+  "name": "PyMCTranslate",
+  "version": "1.2.37",
+  "summary": "A Minecraft data translation system.",
+  "author": "James Clare",
+  "license": null,
+  "home_page": "https://www.amuletmc.com",
+  "download_filename": "pymctranslate-1.2.37-py3-none-any.whl",
+  "download_time": "2025-12-03T13:25:06.224553",
+  "package_url": "https://pypi.org/project/PyMCTranslate/"
+}

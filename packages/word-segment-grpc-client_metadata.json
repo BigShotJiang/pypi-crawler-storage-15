@@ -1,11 +1,11 @@
 {
   "name": "word-segment-grpc-client",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Python gRPC client stubs for the word-segment service.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "word_segment_grpc_client-0.1.6.tar.gz",
-  "download_time": "2025-12-02T16:26:55.781554",
+  "download_filename": "word_segment_grpc_client-0.1.7.tar.gz",
+  "download_time": "2025-12-03T13:25:04.637220",
   "package_url": "https://pypi.org/project/word-segment-grpc-client/"
 }

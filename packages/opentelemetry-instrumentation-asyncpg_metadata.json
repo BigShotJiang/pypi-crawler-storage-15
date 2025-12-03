@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-asyncpg",
+  "version": "0.60b0",
+  "summary": "OpenTelemetry instrumentation for AsyncPG",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_asyncpg-0.60b0.tar.gz",
+  "download_time": "2025-12-03T13:25:31.955823",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-asyncpg/"
+}

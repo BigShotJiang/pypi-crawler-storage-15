@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-psycopg2",
+  "version": "0.60b0",
+  "summary": "OpenTelemetry psycopg2 instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_psycopg2-0.60b0.tar.gz",
+  "download_time": "2025-12-03T13:25:18.050502",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-psycopg2/"
+}

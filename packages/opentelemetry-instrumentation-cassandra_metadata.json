@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-cassandra",
+  "version": "0.60b0",
+  "summary": "OpenTelemetry Cassandra instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_cassandra-0.60b0.tar.gz",
+  "download_time": "2025-12-03T13:25:29.384550",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-cassandra/"
+}

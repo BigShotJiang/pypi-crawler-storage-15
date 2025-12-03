@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-propagator-jaeger",
+  "version": "1.39.0",
+  "summary": "OpenTelemetry Jaeger Propagator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_propagator_jaeger-1.39.0.tar.gz",
+  "download_time": "2025-12-03T13:25:46.587044",
+  "package_url": "https://pypi.org/project/opentelemetry-propagator-jaeger/"
+}

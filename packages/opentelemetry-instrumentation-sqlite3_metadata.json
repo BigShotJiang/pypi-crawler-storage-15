@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-sqlite3",
+  "version": "0.60b0",
+  "summary": "OpenTelemetry SQLite3 instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_sqlite3-0.60b0.tar.gz",
+  "download_time": "2025-12-03T13:25:12.911496",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-sqlite3/"
+}

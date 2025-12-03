@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation",
+  "version": "0.60b0",
+  "summary": "Instrumentation Tools & Auto Instrumentation for OpenTelemetry Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation-0.60b0.tar.gz",
+  "download_time": "2025-12-03T13:25:37.097128",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation/"
+}
