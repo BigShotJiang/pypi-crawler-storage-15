@@ -1,11 +1,11 @@
 {
   "name": "BJSnum",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "A simple numerical operations library",
   "author": "BJS",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bjsnum-0.1.3.tar.gz",
-  "download_time": "2025-12-03T11:51:22.667301",
+  "download_filename": "bjsnum-0.1.6.tar.gz",
+  "download_time": "2025-12-03T12:41:11.912179",
   "package_url": "https://pypi.org/project/BJSnum/"
 }
