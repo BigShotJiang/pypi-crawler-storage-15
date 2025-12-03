@@ -1,0 +1,11 @@
+{
+  "name": "talisman-ie-datamodel",
+  "version": "0.6.18",
+  "summary": "Talisman-IE Document Model",
+  "author": "ISPRAS Talisman NLP team",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "talisman_ie_datamodel-0.6.18.tar.gz",
+  "download_time": "2025-12-03T14:21:11.673186",
+  "package_url": "https://pypi.org/project/talisman-ie-datamodel/"
+}

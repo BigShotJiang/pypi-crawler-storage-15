@@ -1,0 +1,11 @@
+{
+  "name": "diffusion",
+  "version": "6.12.1",
+  "summary": "Python SDK for Diffusion.",
+  "author": null,
+  "license": "LicenseRef-Proprietary",
+  "home_page": null,
+  "download_filename": "diffusion-6.12.1-1-py3-none-any.whl",
+  "download_time": "2025-12-03T14:21:37.465011",
+  "package_url": "https://pypi.org/project/diffusion/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kcli",
-  "version": "99.0.202512030936",
+  "version": "99.0.202512031349",
   "summary": "Provisioner/Manager for Libvirt/Vsphere/Aws/Gcp/Hcloud/Kubevirt/Ovirt/Openstack/IBM Cloud and containers",
   "author": "Karim Boumedhel",
   "license": "ASL",
   "home_page": "http://github.com/karmab/kcli",
-  "download_filename": "kcli-99.0.202512030936.tar.gz",
-  "download_time": "2025-12-03T09:46:49.324300",
+  "download_filename": "kcli-99.0.202512031349.tar.gz",
+  "download_time": "2025-12-03T14:21:18.229824",
   "package_url": "https://pypi.org/project/kcli/"
 }

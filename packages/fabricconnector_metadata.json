@@ -1,0 +1,11 @@
+{
+  "name": "fabricconnector",
+  "version": "1.0.0",
+  "summary": "Python connector library for Microsoft Fabric notebooks to sync data from Exact Online to Fabric Lakehouse.",
+  "author": "Davista",
+  "license": "Proprietary",
+  "home_page": "https://www.powerbiconnector.nl",
+  "download_filename": "fabricconnector-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-03T14:21:42.652682",
+  "package_url": "https://pypi.org/project/fabricconnector/"
+}

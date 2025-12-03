@@ -1,0 +1,11 @@
+{
+  "name": "chartlets",
+  "version": "0.1.7",
+  "summary": "Backend for server-configured UI contributions.",
+  "author": "chartlets Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chartlets-0.1.7.tar.gz",
+  "download_time": "2025-12-03T14:21:27.920374",
+  "package_url": "https://pypi.org/project/chartlets/"
+}

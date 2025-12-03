@@ -1,0 +1,11 @@
+{
+  "name": "educhain",
+  "version": "0.4.0",
+  "summary": "A Python package for generating educational content using Generative AI",
+  "author": "Satvik Paramkusham",
+  "license": null,
+  "home_page": "https://github.com/satvik314/educhain",
+  "download_filename": "educhain-0.4.0.tar.gz",
+  "download_time": "2025-12-03T14:21:29.152673",
+  "package_url": "https://pypi.org/project/educhain/"
+}
