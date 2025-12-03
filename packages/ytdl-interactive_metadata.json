@@ -1,11 +1,11 @@
 {
   "name": "ytdl-interactive",
-  "version": "1.0.3.dev1",
+  "version": "1.1.2",
   "summary": "Interactive YouTube Downloader CLI powered by yt-dlp",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "ytdl_interactive-1.0.3.dev1.tar.gz",
-  "download_time": "2025-12-03T20:23:08.475543",
+  "download_filename": "ytdl_interactive-1.1.2.tar.gz",
+  "download_time": "2025-12-03T20:46:22.856282",
   "package_url": "https://pypi.org/project/ytdl-interactive/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ojt-data-generator",
-  "version": "0.1.0",
-  "summary": "A data generator tool with multiple templates for users, employees, students, products, and more",
+  "version": "0.1.1",
+  "summary": "A powerful Python package for generating realistic fake data with 6 pre-built templates - perfect for testing, development, and prototyping",
   "author": "Kushal Kotiny",
   "license": null,
   "home_page": "https://github.com/kushalkotiny/ojt",
-  "download_filename": "ojt_data_generator-0.1.0.tar.gz",
-  "download_time": "2025-12-03T19:39:21.632084",
+  "download_filename": "ojt_data_generator-0.1.1.tar.gz",
+  "download_time": "2025-12-03T20:46:15.411525",
   "package_url": "https://pypi.org/project/ojt-data-generator/"
 }
