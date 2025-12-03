@@ -1,11 +1,11 @@
 {
   "name": "pivotcrop",
-  "version": "0.1.0",
-  "summary": "Package for cropping directories of images based on a pivot point.",
+  "version": "0.1.1",
+  "summary": "Package for cropping directories of images based on a pivot.",
   "author": "Josiah Putman",
   "license": null,
   "home_page": "https://github.com/Katsutoshii/pivotcrop",
-  "download_filename": "pivotcrop-0.1.0.tar.gz",
-  "download_time": "2025-12-03T07:42:46.140725",
+  "download_filename": "pivotcrop-0.1.1.tar.gz",
+  "download_time": "2025-12-03T07:52:33.697568",
   "package_url": "https://pypi.org/project/pivotcrop/"
 }

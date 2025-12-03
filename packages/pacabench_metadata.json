@@ -1,0 +1,11 @@
+{
+  "name": "pacabench",
+  "version": "0.0.1",
+  "summary": "A benchmarking framework for LLM-powered agents",
+  "author": "Fastpaca Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/fastpaca/pacabench",
+  "download_filename": "pacabench-0.0.1.tar.gz",
+  "download_time": "2025-12-03T07:52:37.869463",
+  "package_url": "https://pypi.org/project/pacabench/"
+}

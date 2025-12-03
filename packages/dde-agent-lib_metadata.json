@@ -1,0 +1,11 @@
+{
+  "name": "dde-agent-lib",
+  "version": "1.0.2a21",
+  "summary": "geogpt agent library",
+  "author": "geogpt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dde_agent_lib-1.0.2a21.tar.gz",
+  "download_time": "2025-12-03T07:52:39.425713",
+  "package_url": "https://pypi.org/project/dde-agent-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agents-docs-sync",
+  "version": "0.1.4",
+  "summary": "コミットするごとにテスト実行・ドキュメント生成・AGENTS.md の自動更新を行うパイプライン",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agents_docs_sync-0.1.4.tar.gz",
+  "download_time": "2025-12-03T07:52:35.283463",
+  "package_url": "https://pypi.org/project/agents-docs-sync/"
+}

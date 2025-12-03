@@ -1,11 +1,11 @@
 {
   "name": "django-growl-notifier",
-  "version": "1.0.4",
+  "version": "1.0.10",
   "summary": "Send Django server notifications to Growl",
   "author": "Hadi Cahyadi",
   "license": "MIT",
   "home_page": "https://github.com/cumulus13/django-growl-notifier",
-  "download_filename": "django_growl_notifier-1.0.4.tar.gz",
-  "download_time": "2025-12-03T05:43:05.698124",
+  "download_filename": "django_growl_notifier-1.0.10.tar.gz",
+  "download_time": "2025-12-03T07:52:29.955896",
   "package_url": "https://pypi.org/project/django-growl-notifier/"
 }

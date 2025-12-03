@@ -1,17 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-03T07:43:18.999660
-- **Total Packages**: 83
-- **Total Size**: 16.19 MB
+- **Download Time**: 2025-12-03T07:53:11.401711
+- **Total Packages**: 81
+- **Total Size**: 22.06 MB
 
 ## Packages List
-- sun-agent-toolkit
 - wisent
+- pulumi-gcp
+- azure-sfi-agent
+- django-growl-notifier
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- leanclient
+- pyturso
+- tencent-wedata-auto-ml
+- llm-async
+- pivotcrop
+- odoo-addon-hr-appraisal-oca
+- huckleberry-api
+- agents-docs-sync
+- maleo-identity
+- datalayer-core
+- sqlcycli
+- clang2
+- pacabench
+- icsc-ava-upload-toolkit
+- onyx-devtools
+- dde-agent-lib
+- cleanprompts
+- xp-tool
+- smart-automation
+- commonmeta-py
+- clangd
+- xmi
+- quant1x
+- frago-cli
+- lyapprove
+- sun-agent-toolkit
 - flake8-digit-separator
 - myboot
 - kittylog
-- smart-automation
 - django-telegram-app
 - guidelinely
 - nwp500-python
@@ -31,7 +60,6 @@
 - shakti-config
 - mirrorsdk
 - temporal-features
-- pivotcrop
 - a-vert
 - smartcoop-python-sdk
 - hydration-site-prediction
@@ -39,7 +67,6 @@
 - streamlit-TTS
 - django-htmx-admin
 - depanalyzer
-- azure-sfi-agent
 - antchain-realperson
 - aj090-hw-tools
 - audiobookify
@@ -48,7 +75,6 @@
 - biblemategui
 - alexwlchan-chives
 - entari-plugin-hyw
-- onyx-devtools
 - shotgrid-mcp-server
 - moose-lib
 - dicomtoolsformcp
@@ -61,31 +87,3 @@
 - omendb
 - chemotion-api
 - jinjaturtle
-- context-delta-proto
-- nonebot-plugin-parser
-- eldars-custom-math
-- jdcloud-sdk
-- owui-client
-- tritonparse
-- digital-life
-- patent-mcp-server-baiten
-- NMSpy
-- jyhelper
-- decouplet
-- fastrub
-- wujihandpy
-- token-sub-info
-- fluxgate
-- rumoca
-- jsharpe
-- acemcp
-- lcp-deep-research-mcp
-- ysimlib
-- babyweb
-- onnxslim
-- tencent-wedata-auto-ml
-- python-manta
-- hockey-blast-common-lib
-- ansys-api-discovery
-- python-roborock
-- s2v-client
