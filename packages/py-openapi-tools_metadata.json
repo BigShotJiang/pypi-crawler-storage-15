@@ -1,0 +1,11 @@
+{
+  "name": "py-openapi-tools",
+  "version": "0.1.0",
+  "summary": "Create files for various Python-Web-Frameworks from a OpenApi defintion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_openapi_tools-0.1.0.tar.gz",
+  "download_time": "2025-12-03T21:51:18.790377",
+  "package_url": "https://pypi.org/project/py-openapi-tools/"
+}

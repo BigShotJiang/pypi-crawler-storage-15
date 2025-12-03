@@ -1,0 +1,11 @@
+{
+  "name": "snipster-tui",
+  "version": "0.2.0",
+  "summary": "snipster-tui is a terminal user interface (TUI) application for managing and browsing code snippets.",
+  "author": "Razhiel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snipster_tui-0.2.0.tar.gz",
+  "download_time": "2025-12-03T21:51:26.785972",
+  "package_url": "https://pypi.org/project/snipster-tui/"
+}

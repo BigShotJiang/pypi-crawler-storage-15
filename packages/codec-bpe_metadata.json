@@ -1,0 +1,11 @@
+{
+  "name": "codec-bpe",
+  "version": "1.4.1",
+  "summary": "Implementation of Acoustic BPE (Shen et al., 2024), extended for RVQ-based Neural Audio Codecs",
+  "author": "Abraham Sanders",
+  "license": null,
+  "home_page": "https://github.com/AbrahamSanders/codec-bpe",
+  "download_filename": "codec_bpe-1.4.1.tar.gz",
+  "download_time": "2025-12-03T21:51:24.659895",
+  "package_url": "https://pypi.org/project/codec-bpe/"
+}

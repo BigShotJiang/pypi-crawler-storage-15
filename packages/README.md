@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-03T21:38:55.312234
+- **Download Time**: 2025-12-03T21:52:01.106975
 - **Total Packages**: 80
-- **Total Size**: 53.23 MB
+- **Total Size**: 31.09 MB
 
 ## Packages List
+- cuda-cccl
+- pulumi-aiven
+- evolvingfuzzysystems
+- py-openapi-tools
+- dars-framework
+- linear-app
+- pulumi-docker-build
+- mlx-vlm
+- swarmkit
+- pytractoviz
+- contextgit
+- uqlm
+- terratorch
+- desiutil
+- codec-bpe
+- csd215-25f-teacher-demo
+- fake-py-mcp
+- ezga-lib
+- snipster-tui
+- dcs-client-jer-project
+- easimage
+- pcsx2-memory-accessor
+- xsuite
+- rubin-nights
+- blaxel
+- MARSS
+- phonlab
+- stainx
+- ai-act-check
 - dv-flow-mgr
 - powerfx
 - idaes-pse
@@ -16,7 +45,6 @@
 - pygar-client
 - kfp-server-api
 - datarobot
-- ai-act-check
 - usgs-strec
 - wisent
 - ultimate-rvc
@@ -32,10 +60,8 @@
 - grepmap
 - PyPDFForm-reducto
 - poolside
-- linear-app
 - clarifai
 - reminder-aggregator
-- stainx
 - rustest
 - pycloudlib
 - qualysdk
@@ -51,7 +77,6 @@
 - fava-dashboards
 - gitbolt
 - aenet-gpr
-- phonlab
 - cirq-core
 - cirq-ionq
 - cirq-google
@@ -61,28 +86,3 @@
 - cirq-web
 - strands-agents-tools
 - zcm-collapse-model
-- checkdmarc
-- memorisdk
-- memori
-- spa-cli
-- pulumi-aws-native
-- enginecli-dev
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- vllm-tpu
-- doc2markdown-mcp
-- messageformat2
-- foamlib
-- arthur-client
-- kl-kernel-logic
-- kavachnet
-- pycocoa
-- scc-firewall-manager-sdk
-- kapso-whatsapp-cloud-api
-- win-can-tool
-- wsd-torch-models
-- frequenz-gridpool
-- fusio-sdk
-- coaiapy-mcp
-- tpu-inference
