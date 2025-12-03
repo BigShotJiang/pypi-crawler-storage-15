@@ -1,11 +1,11 @@
 {
   "name": "enginecli-dev",
-  "version": "2.0.5",
+  "version": "2.1.1",
   "summary": "AI-powered code generation CLI with context-aware intelligence",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "enginecli_dev-2.0.5.tar.gz",
-  "download_time": "2025-12-02T21:38:11.234162",
+  "download_filename": "enginecli_dev-2.1.1.tar.gz",
+  "download_time": "2025-12-03T21:38:44.737994",
   "package_url": "https://pypi.org/project/enginecli-dev/"
 }

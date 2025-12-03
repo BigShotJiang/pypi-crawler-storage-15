@@ -1,0 +1,11 @@
+{
+  "name": "datarobot",
+  "version": "3.10.0",
+  "summary": "This client library is designed to support the DataRobot API.",
+  "author": "datarobot",
+  "license": "DataRobot Tool and Utility Agreement",
+  "home_page": "https://datarobot.com",
+  "download_filename": "datarobot-3.10.0.tar.gz",
+  "download_time": "2025-12-03T21:38:15.345357",
+  "package_url": "https://pypi.org/project/datarobot/"
+}

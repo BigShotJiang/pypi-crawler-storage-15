@@ -1,0 +1,11 @@
+{
+  "name": "reminder-aggregator",
+  "version": "0.3.0",
+  "summary": "A simple Python tool that scans files for common reminder tags like TODO and FIXME to generate a report from them.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reminder_aggregator-0.3.0.tar.gz",
+  "download_time": "2025-12-03T21:38:26.786614",
+  "package_url": "https://pypi.org/project/reminder-aggregator/"
+}

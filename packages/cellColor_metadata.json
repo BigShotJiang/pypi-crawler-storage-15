@@ -1,0 +1,11 @@
+{
+  "name": "cellColor",
+  "version": "0.2.3",
+  "summary": "An app for exploring spatial transcriptomics and cell segmentations by overlaying data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cellcolor-0.2.3.tar.gz",
+  "download_time": "2025-12-03T21:38:13.241702",
+  "package_url": "https://pypi.org/project/cellColor/"
+}

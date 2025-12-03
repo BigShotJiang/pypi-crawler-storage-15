@@ -1,11 +1,11 @@
 {
   "name": "geospaitial-lab-aviary-models",
-  "version": "0.1.0b3",
+  "version": "0.1.0b3.post1",
   "summary": "Models for aviary",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "geospaitial_lab_aviary_models-0.1.0b3.tar.gz",
-  "download_time": "2025-12-03T10:49:47.514519",
+  "download_filename": "geospaitial_lab_aviary_models-0.1.0b3.post1.tar.gz",
+  "download_time": "2025-12-03T21:38:34.124788",
   "package_url": "https://pypi.org/project/geospaitial-lab-aviary-models/"
 }

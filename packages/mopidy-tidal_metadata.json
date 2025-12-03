@@ -1,0 +1,11 @@
+{
+  "name": "mopidy-tidal",
+  "version": "0.3.12",
+  "summary": "Mopidy Extension for Tidal music service integration.",
+  "author": "Johannes Linde",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mopidy_tidal-0.3.12.tar.gz",
+  "download_time": "2025-12-03T21:38:31.498534",
+  "package_url": "https://pypi.org/project/mopidy-tidal/"
+}

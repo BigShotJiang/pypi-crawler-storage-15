@@ -1,0 +1,11 @@
+{
+  "name": "pycocoa",
+  "version": "25.12.4",
+  "summary": "Basic Python binding to macOS' Objective-C Cocoa",
+  "author": "Jean M. Brouwers",
+  "license": "MIT",
+  "home_page": "https://GitHub.com/mrJean1/PyCocoa",
+  "download_filename": "pycocoa-25.12.4.tar.gz",
+  "download_time": "2025-12-03T21:38:50.627902",
+  "package_url": "https://pypi.org/project/pycocoa/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "doc2markdown-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for converting documents to Markdown format",
+  "author": "Jia Liu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "doc2markdown_mcp-0.1.0.tar.gz",
+  "download_time": "2025-12-03T21:38:47.419957",
+  "package_url": "https://pypi.org/project/doc2markdown-mcp/"
+}

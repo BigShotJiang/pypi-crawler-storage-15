@@ -1,0 +1,11 @@
+{
+  "name": "usgs-strec",
+  "version": "2.3.12",
+  "summary": "USGS SeismoTectonic Regime Earthquake Calculator (STREC)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "usgs_strec-2.3.12.tar.gz",
+  "download_time": "2025-12-03T21:38:17.283887",
+  "package_url": "https://pypi.org/project/usgs-strec/"
+}

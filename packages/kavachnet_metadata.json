@@ -1,0 +1,11 @@
+{
+  "name": "kavachnet",
+  "version": "0.1.15",
+  "summary": "VPN & Proxy Detector",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kavachnet-0.1.15.tar.gz",
+  "download_time": "2025-12-03T21:38:50.104202",
+  "package_url": "https://pypi.org/project/kavachnet/"
+}

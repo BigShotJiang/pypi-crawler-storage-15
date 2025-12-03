@@ -1,11 +1,11 @@
 {
   "name": "zcm-collapse-model",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Math-only implementation of the Zeta Collapse Model (ZCM). System architecture and database are patent-pending and not included.",
   "author": "Alex Veldman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "zcm_collapse_model-1.0.2.tar.gz",
-  "download_time": "2025-12-03T21:18:22.148015",
+  "download_filename": "zcm_collapse_model-1.0.3.tar.gz",
+  "download_time": "2025-12-03T21:38:41.111381",
   "package_url": "https://pypi.org/project/zcm-collapse-model/"
 }
