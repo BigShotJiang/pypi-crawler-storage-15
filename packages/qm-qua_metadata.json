@@ -1,0 +1,11 @@
+{
+  "name": "qm-qua",
+  "version": "1.2.3.1",
+  "summary": "QUA language SDK to control a Quantum Computer",
+  "author": "Quantum Machines",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qm_qua-1.2.3.1.tar.gz",
+  "download_time": "2025-12-03T20:23:42.161967",
+  "package_url": "https://pypi.org/project/qm-qua/"
+}

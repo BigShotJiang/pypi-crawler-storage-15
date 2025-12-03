@@ -1,0 +1,11 @@
+{
+  "name": "Cruxy",
+  "version": "2.1.0",
+  "summary": "Cruxy Stability Engine - Adaptive optimization framework by Axiom Forge Systems",
+  "author": "Axiom Forge Systems Ltd",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/christophergardner-star/Crux1",
+  "download_filename": "cruxy-2.1.0.tar.gz",
+  "download_time": "2025-12-03T20:23:15.858543",
+  "package_url": "https://pypi.org/project/Cruxy/"
+}

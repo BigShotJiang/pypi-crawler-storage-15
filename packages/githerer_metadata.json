@@ -1,0 +1,11 @@
+{
+  "name": "githerer",
+  "version": "0.0.2",
+  "summary": "A tool used to clone organization repos using pattern-based matching",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "githerer-0.0.2.tar.gz",
+  "download_time": "2025-12-03T20:23:32.846589",
+  "package_url": "https://pypi.org/project/githerer/"
+}

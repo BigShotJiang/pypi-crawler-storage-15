@@ -1,0 +1,11 @@
+{
+  "name": "construct-dataclasses",
+  "version": "1.1.11",
+  "summary": "enhancement for the python package 'construct' that adds support for dataclasses.",
+  "author": "MatrixEditor",
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/MatrixEditor/construct-dataclasses",
+  "download_filename": "construct_dataclasses-1.1.11.tar.gz",
+  "download_time": "2025-12-03T20:23:43.234325",
+  "package_url": "https://pypi.org/project/construct-dataclasses/"
+}

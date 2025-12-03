@@ -1,0 +1,11 @@
+{
+  "name": "groqqy",
+  "version": "2.2.2",
+  "summary": "Clean, composable micro agentic bot powered by Groq",
+  "author": "Scott Sennewald",
+  "license": "MIT",
+  "home_page": "https://github.com/scottsen/groqqy",
+  "download_filename": "groqqy-2.2.2.tar.gz",
+  "download_time": "2025-12-03T20:23:29.631693",
+  "package_url": "https://pypi.org/project/groqqy/"
+}

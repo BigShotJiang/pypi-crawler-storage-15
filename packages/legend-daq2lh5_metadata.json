@@ -1,0 +1,11 @@
+{
+  "name": "legend-daq2lh5",
+  "version": "1.6.3",
+  "summary": "Convert digitizer data to LH5",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "legend_daq2lh5-1.6.3.tar.gz",
+  "download_time": "2025-12-03T20:23:18.542239",
+  "package_url": "https://pypi.org/project/legend-daq2lh5/"
+}

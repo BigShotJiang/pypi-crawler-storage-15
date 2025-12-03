@@ -1,11 +1,11 @@
 {
   "name": "libfelix",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Felix' library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "libfelix-0.7.0.tar.gz",
-  "download_time": "2025-12-03T18:59:38.328145",
+  "download_filename": "libfelix-0.7.1.tar.gz",
+  "download_time": "2025-12-03T20:23:10.825946",
   "package_url": "https://pypi.org/project/libfelix/"
 }
