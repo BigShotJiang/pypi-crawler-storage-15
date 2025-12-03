@@ -1,0 +1,11 @@
+{
+  "name": "dbt-risingwave",
+  "version": "1.10.0",
+  "summary": "The RisingWave adapter plugin for dbt",
+  "author": "Dylan Chen",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "https://github.com/risingwavelabs/dbt-risingwave",
+  "download_filename": "dbt_risingwave-1.10.0.tar.gz",
+  "download_time": "2025-12-03T05:43:29.598128",
+  "package_url": "https://pypi.org/project/dbt-risingwave/"
+}

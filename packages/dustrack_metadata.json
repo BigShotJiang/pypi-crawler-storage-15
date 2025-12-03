@@ -1,0 +1,11 @@
+{
+  "name": "dustrack",
+  "version": "1.0.0a1",
+  "summary": "DUSTrack: Semi-automated point tracking in ultrasound videos.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dustrack-1.0.0a1.tar.gz",
+  "download_time": "2025-12-03T05:43:31.662260",
+  "package_url": "https://pypi.org/project/dustrack/"
+}

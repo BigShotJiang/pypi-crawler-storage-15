@@ -1,0 +1,11 @@
+{
+  "name": "daliuge-translator",
+  "version": "6.4.2",
+  "summary": "Data Activated 流 (flow) Graph Engine - Graph Translation",
+  "author": "ICRAR DIA Group",
+  "license": "LGPLv2+",
+  "home_page": "https://daliuge.icrar.org/",
+  "download_filename": "daliuge_translator-6.4.2.tar.gz",
+  "download_time": "2025-12-03T05:43:06.747268",
+  "package_url": "https://pypi.org/project/daliuge-translator/"
+}
