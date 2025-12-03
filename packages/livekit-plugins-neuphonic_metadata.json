@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-neuphonic",
+  "version": "1.3.6",
+  "summary": "Neuphonic inference plugin for LiveKit Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_neuphonic-1.3.6.tar.gz",
+  "download_time": "2025-12-03T19:25:24.575281",
+  "package_url": "https://pypi.org/project/livekit-plugins-neuphonic/"
+}

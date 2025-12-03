@@ -1,0 +1,11 @@
+{
+  "name": "gtfs-realtime-bindings",
+  "version": "2.0.0",
+  "summary": "Python classes generated from the GTFS-realtime protocol buffer specification.",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "gtfs_realtime_bindings-2.0.0.tar.gz",
+  "download_time": "2025-12-03T19:24:58.585213",
+  "package_url": "https://pypi.org/project/gtfs-realtime-bindings/"
+}

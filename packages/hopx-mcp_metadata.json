@@ -1,0 +1,11 @@
+{
+  "name": "hopx-mcp",
+  "version": "0.2.1",
+  "summary": "MCP tool for executing code in isolated environments using HopX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hopx_mcp-0.2.1.tar.gz",
+  "download_time": "2025-12-03T19:25:12.708433",
+  "package_url": "https://pypi.org/project/hopx-mcp/"
+}

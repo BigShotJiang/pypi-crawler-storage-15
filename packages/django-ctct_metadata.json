@@ -1,0 +1,11 @@
+{
+  "name": "django-ctct",
+  "version": "0.0.1.dev5",
+  "summary": "A Django interface for the Constant Contact API",
+  "author": "Geoffrey Eisenbarth",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_ctct-0.0.1.dev5.tar.gz",
+  "download_time": "2025-12-03T19:25:08.012615",
+  "package_url": "https://pypi.org/project/django-ctct/"
+}
