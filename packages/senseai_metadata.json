@@ -1,0 +1,11 @@
+{
+  "name": "senseai",
+  "version": "0.1.0",
+  "summary": "Python wrapper for SENSE: Shadow Exposure & eNterprise Surveillance for AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "senseai-0.1.0.tar.gz",
+  "download_time": "2025-12-03T06:56:13.076245",
+  "package_url": "https://pypi.org/project/senseai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "koci",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Kodo CI",
   "author": "Ryan Flynn",
   "license": "unlicensed",
   "home_page": "https://github.com/johndoe/myapp/",
-  "download_filename": "koci-0.1.0.tar.gz",
-  "download_time": "2025-12-03T06:30:38.041127",
+  "download_filename": "koci-0.1.1.tar.gz",
+  "download_time": "2025-12-03T06:56:45.400156",
   "package_url": "https://pypi.org/project/koci/"
 }

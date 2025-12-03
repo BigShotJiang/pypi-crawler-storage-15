@@ -1,11 +1,11 @@
 {
   "name": "reasonforge-geometry",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Vector/tensor calculus and visualization MCP server - 15 tools for geometry",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reasonforge_geometry-0.1.0.tar.gz",
-  "download_time": "2025-12-03T06:30:28.798965",
+  "download_filename": "reasonforge_geometry-0.1.1.tar.gz",
+  "download_time": "2025-12-03T06:56:35.989625",
   "package_url": "https://pypi.org/project/reasonforge-geometry/"
 }

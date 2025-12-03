@@ -1,11 +1,11 @@
 {
   "name": "gmail-ai-unsub",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "AI-powered tool to identify and unsubscribe from marketing emails in Gmail",
   "author": "Zac Bowling",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gmail_ai_unsub-0.1.1.tar.gz",
-  "download_time": "2025-12-03T05:20:34.867317",
+  "download_filename": "gmail_ai_unsub-0.2.1.tar.gz",
+  "download_time": "2025-12-03T06:56:17.312029",
   "package_url": "https://pypi.org/project/gmail-ai-unsub/"
 }

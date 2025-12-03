@@ -1,0 +1,11 @@
+{
+  "name": "nb-ai-context",
+  "version": "1.7",
+  "summary": "非常强力的对任意it项目生成ai上下文单个markdown文档，丢给大模型或者知识库，非常强力，大模型幻觉大幅度减少。尤其是对python项目还有专门的ast语法树解析",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nb_ai_context-1.7.tar.gz",
+  "download_time": "2025-12-03T06:56:14.849747",
+  "package_url": "https://pypi.org/project/nb-ai-context/"
+}
