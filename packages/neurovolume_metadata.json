@@ -1,0 +1,11 @@
+{
+  "name": "neurovolume",
+  "version": "0.1.0a10",
+  "summary": "Python library for Neurovolume. Build VDBs for scientific visualizations",
+  "author": "joachimbbp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neurovolume-0.1.0a10.tar.gz",
+  "download_time": "2025-12-03T23:39:49.172455",
+  "package_url": "https://pypi.org/project/neurovolume/"
+}

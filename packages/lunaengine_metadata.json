@@ -1,0 +1,11 @@
+{
+  "name": "lunaengine",
+  "version": "0.1.6.1",
+  "summary": "A modern 2D game engine with advanced UI and graphics",
+  "author": "MrJuaum",
+  "license": "MIT",
+  "home_page": "https://github.com/MrJuaumBR/lunaengine",
+  "download_filename": "lunaengine-0.1.6.1.tar.gz",
+  "download_time": "2025-12-03T23:39:40.180036",
+  "package_url": "https://pypi.org/project/lunaengine/"
+}

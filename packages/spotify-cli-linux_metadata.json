@@ -1,0 +1,11 @@
+{
+  "name": "spotify-cli-linux",
+  "version": "2.0.0",
+  "summary": "a command line interface to Spotify on Linux",
+  "author": "Piotr Wittchen",
+  "license": "GPL 3.0",
+  "home_page": "https://github.com/pwittchen/spotify-cli-linux",
+  "download_filename": "spotify_cli_linux-2.0.0.tar.gz",
+  "download_time": "2025-12-03T23:39:33.821226",
+  "package_url": "https://pypi.org/project/spotify-cli-linux/"
+}
