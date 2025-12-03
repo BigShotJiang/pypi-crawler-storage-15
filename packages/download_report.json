@@ -1,19 +1,8 @@
 {
-  "download_time": "2025-12-03T10:50:24.259182",
-  "total_packages_downloaded": 91,
-  "total_size_mb": 43.24,
+  "download_time": "2025-12-03T11:18:50.136152",
+  "total_packages_downloaded": 89,
+  "total_size_mb": 3.71,
   "packages": [
-    "biodenoising",
-    "tess_downloader",
-    "canvas",
-    "ca-cdk-constructs",
-    "xraydc",
-    "qat-compiler",
-    "wiliot-testers",
-    "agentic-graph-mem",
-    "django-content-studio",
-    "numerous-apps",
-    "alibabacloud-msc20250427",
     "kuaijs-ios",
     "agentrun-sdk",
     "thanos-cli",
@@ -32,6 +21,7 @@
     "smartpi",
     "slowql",
     "wiliot-core",
+    "numerous-apps",
     "vllm-rbln",
     "volansia-platform-tools",
     "kubernetes-mcp-server",
@@ -77,6 +67,7 @@
     "neops_graphql",
     "sg-series",
     "chemomae",
+    "agentic-graph-mem",
     "msasim",
     "happy-python-logging",
     "worker-automate-hub",
@@ -93,6 +84,13 @@
     "sas7bdat-tkragholm",
     "llmlog-engine",
     "MLCoreX",
-    "tbp-nightly"
+    "tbp-nightly",
+    "m2s",
+    "neuroflow-viz",
+    "bigdata-research-tools",
+    "autonomous-claude",
+    "bfabric-scripts",
+    "kleinkram",
+    "tamar-model-client"
   ]
 }

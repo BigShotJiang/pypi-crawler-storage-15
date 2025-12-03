@@ -1,22 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-03T10:50:24.259182
-- **Total Packages**: 91
-- **Total Size**: 43.24 MB
+- **Download Time**: 2025-12-03T11:18:50.136152
+- **Total Packages**: 89
+- **Total Size**: 3.71 MB
 
 ## Packages List
-- biodenoising
-- tess_downloader
-- canvas
-- ca-cdk-constructs
-- xraydc
-- qat-compiler
-- wiliot-testers
-- agentic-graph-mem
-- django-content-studio
-- numerous-apps
-- alibabacloud-msc20250427
 - kuaijs-ios
 - agentrun-sdk
 - thanos-cli
@@ -35,6 +24,7 @@
 - smartpi
 - slowql
 - wiliot-core
+- numerous-apps
 - vllm-rbln
 - volansia-platform-tools
 - kubernetes-mcp-server
@@ -80,6 +70,7 @@
 - neops_graphql
 - sg-series
 - chemomae
+- agentic-graph-mem
 - msasim
 - happy-python-logging
 - worker-automate-hub
@@ -97,3 +88,10 @@
 - llmlog-engine
 - MLCoreX
 - tbp-nightly
+- m2s
+- neuroflow-viz
+- bigdata-research-tools
+- autonomous-claude
+- bfabric-scripts
+- kleinkram
+- tamar-model-client
