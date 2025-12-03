@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-ssh",
+  "version": "1.1.1",
+  "summary": "Get files and process output via secure shell protocol.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eccenca/cmem-plugin-ssh",
+  "download_filename": "cmem_plugin_ssh-1.1.1.tar.gz",
+  "download_time": "2025-12-03T19:39:35.109197",
+  "package_url": "https://pypi.org/project/cmem-plugin-ssh/"
+}

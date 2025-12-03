@@ -1,0 +1,11 @@
+{
+  "name": "pyrlprob",
+  "version": "2.2.13",
+  "summary": "Train Gym-derived environments in Python/C++ through Ray RLlib",
+  "author": "Lorenzo Federici",
+  "license": null,
+  "home_page": "https://github.com/LorenzoFederici/pyrlprob",
+  "download_filename": "pyrlprob-2.2.13.tar.gz",
+  "download_time": "2025-12-03T19:39:34.017302",
+  "package_url": "https://pypi.org/project/pyrlprob/"
+}

@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-03T19:25:37.952950
-- **Total Packages**: 94
-- **Total Size**: 34.11 MB
+- **Download Time**: 2025-12-03T19:40:05.249210
+- **Total Packages**: 86
+- **Total Size**: 22.9 MB
 
 ## Packages List
+- bbobax
+- prelude-sdk
+- semaphore-mcp
+- risk-network
+- ultrasav
+- ojt-data-generator
+- tomwer
+- koi-net
+- stainx
+- descarteslabs-dynamic-compute
+- anydi
+- dustysn
+- massgen
+- portableenv
+- descarteslabs
+- tlp-ui
+- ytdl-interactive
+- crc-pulp-service-client
+- crop-row-detector
+- crc-pulp-file-client
+- crc-pulp-maven-client
+- crc-pulp-rpm-client
+- crc-pulp-gem-client
+- crc-pulp-npm-client
+- crc-pulp-python-client
+- crc-pulpcore-client
+- camera-geometry
+- pyrlprob
+- gammarers.aws-daily-cost-usage-report-stack
+- cmem-plugin-ssh
+- ethyca-fides
+- wisent
+- q2gui
+- msn-weather-wrapper
+- ttnn-visualizer
+- wmill-pg
+- wmill
+- windmill-api
+- pyrobale
+- blender-pyutils
+- matrice-inference
 - weco
 - fedramp-20x-mcp
 - pyrig
@@ -37,7 +78,6 @@
 - bigframes
 - spa-cli
 - tklr-dgraham
-- anydi
 - bedrock-agentcore
 - echomine
 - envoxyd
@@ -52,51 +92,3 @@
 - voicerun_completions
 - pulumi-provider-boilerplate
 - hopx-mcp
-- memphora
-- vellum-workflow-server
-- livekit-plugins-upliftai
-- livekit-plugins-ultravox
-- livekit-plugins-turn-detector
-- livekit-plugins-tavus
-- livekit-plugins-spitch
-- livekit-plugins-speechmatics
-- livekit-plugins-speechify
-- livekit-plugins-soniox
-- livekit-plugins-smallestai
-- livekit-plugins-simli
-- livekit-plugins-silero
-- lumiera
-- livekit-plugins-sarvam
-- pulumi-xyz
-- livekit-plugins-rtzr
-- livekit-plugins-rime
-- livekit-plugins-resemble
-- livekit-plugins-openai
-- livekit-plugins-nvidia
-- livekit-plugins-nltk
-- livekit-plugins-neuphonic
-- livekit-plugins-mistralai
-- livekit-plugins-minimax-ai
-- livekit-plugins-minimal
-- livekit-plugins-lmnt
-- livekit-plugins-liveavatar
-- livekit-plugins-langchain
-- livekit-plugins-inworld
-- livekit-plugins-hume
-- livekit-plugins-hedra
-- livekit-plugins-groq
-- livekit-plugins-gradium
-- livekit-plugins-google
-- livekit-plugins-gladia
-- livekit-plugins-fishaudio
-- livekit-plugins-fireworksai
-- livekit-plugins-fal
-- insightsolver
-- livekit-plugins-elevenlabs
-- livekit-plugins-deepgram
-- livekit-plugins-clova
-- pyfrontkit
-- livekit-plugins-cartesia
-- livekit-plugins-bithuman
-- livekit-plugins-bey
-- livekit-plugins-baseten

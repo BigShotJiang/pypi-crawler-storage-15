@@ -1,0 +1,11 @@
+{
+  "name": "camera-geometry",
+  "version": "0.0.5",
+  "summary": "Camera geometry utilities: sampling GUI and pixel->elevation model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "camera_geometry-0.0.5.tar.gz",
+  "download_time": "2025-12-03T19:39:33.503747",
+  "package_url": "https://pypi.org/project/camera-geometry/"
+}
