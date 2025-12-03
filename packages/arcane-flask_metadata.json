@@ -1,11 +1,11 @@
 {
   "name": "arcane-flask",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Utility functions for flask apps.",
   "author": "Arcane",
   "license": null,
   "home_page": null,
-  "download_filename": "arcane_flask-2.2.0.tar.gz",
-  "download_time": "2025-12-02T13:36:19.282271",
+  "download_filename": "arcane_flask-2.2.1.tar.gz",
+  "download_time": "2025-12-03T09:23:44.653616",
   "package_url": "https://pypi.org/project/arcane-flask/"
 }

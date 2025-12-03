@@ -1,0 +1,11 @@
+{
+  "name": "PyNetstockQuoteLib",
+  "version": "1.0.9",
+  "summary": "兆源股份有限公司(FISTEK)提供台股報價API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynetstockquotelib-1.0.9.tar.gz",
+  "download_time": "2025-12-03T09:23:44.142223",
+  "package_url": "https://pypi.org/project/PyNetstockQuoteLib/"
+}

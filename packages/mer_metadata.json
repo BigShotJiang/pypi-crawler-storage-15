@@ -1,0 +1,11 @@
+{
+  "name": "mer",
+  "version": "1.1.1",
+  "summary": "Mer (មើល): Khmer/English OCR with CNN-Transformer + Surya layout/latex/tables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mer-1.1.1.tar.gz",
+  "download_time": "2025-12-03T09:23:45.164660",
+  "package_url": "https://pypi.org/project/mer/"
+}

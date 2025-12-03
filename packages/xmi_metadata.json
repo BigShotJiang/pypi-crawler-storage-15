@@ -1,11 +1,11 @@
 {
   "name": "xmi",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Used to interpret XMI Schema",
   "author": "darellchua",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xmi-0.3.0.tar.gz",
-  "download_time": "2025-12-03T07:52:42.500787",
+  "download_filename": "xmi-0.4.0.tar.gz",
+  "download_time": "2025-12-03T09:23:39.539787",
   "package_url": "https://pypi.org/project/xmi/"
 }

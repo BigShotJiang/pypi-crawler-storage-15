@@ -1,0 +1,11 @@
+{
+  "name": "accuknox-llm-defense",
+  "version": "0.1.5",
+  "summary": "Python SDK for AccuKnox LLM Defence API",
+  "author": "Yash Sanjay Kulkarni",
+  "license": null,
+  "home_page": "https://github.com/yourusername/accuknox-llm-defense",
+  "download_filename": "accuknox_llm_defense-0.1.5.tar.gz",
+  "download_time": "2025-12-03T09:23:45.675903",
+  "package_url": "https://pypi.org/project/accuknox-llm-defense/"
+}

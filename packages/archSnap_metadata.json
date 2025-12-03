@@ -1,0 +1,11 @@
+{
+  "name": "archSnap",
+  "version": "0.1.4",
+  "summary": "A package for the archSnap visualisation generator",
+  "author": "Jordy Didier Orellana Figueroa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "archsnap-0.1.4.tar.gz",
+  "download_time": "2025-12-03T09:23:54.966669",
+  "package_url": "https://pypi.org/project/archSnap/"
+}
