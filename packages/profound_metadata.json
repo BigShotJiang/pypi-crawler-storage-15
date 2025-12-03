@@ -1,0 +1,11 @@
+{
+  "name": "profound",
+  "version": "0.13.0",
+  "summary": "The official Python library for the profound API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "profound-0.13.0.tar.gz",
+  "download_time": "2025-12-03T18:33:36.789310",
+  "package_url": "https://pypi.org/project/profound/"
+}

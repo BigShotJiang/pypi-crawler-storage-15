@@ -1,0 +1,11 @@
+{
+  "name": "pysqlite3-binary",
+  "version": "0.5.4.post2",
+  "summary": "DB-API 2.0 interface for Sqlite 3.x",
+  "author": "Charles Leifer",
+  "license": "zlib/libpng",
+  "home_page": "https://github.com/coleifer/pysqlite3",
+  "download_filename": "pysqlite3_binary-0.5.4.post2-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-12-03T18:34:07.644014",
+  "package_url": "https://pypi.org/project/pysqlite3-binary/"
+}

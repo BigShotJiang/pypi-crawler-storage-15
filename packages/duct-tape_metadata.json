@@ -1,0 +1,11 @@
+{
+  "name": "duct-tape",
+  "version": "0.26.3",
+  "summary": "Duct Tape is a Python interface for downloading data, uploading data, and controlling supported Ed-Tech software.",
+  "author": "Patrick Yoho",
+  "license": null,
+  "home_page": "https://github.com/SummitPublicSchools/ducttape",
+  "download_filename": "duct_tape-0.26.3.tar.gz",
+  "download_time": "2025-12-03T18:33:49.748387",
+  "package_url": "https://pypi.org/project/duct-tape/"
+}

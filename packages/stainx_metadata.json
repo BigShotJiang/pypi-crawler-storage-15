@@ -1,11 +1,11 @@
 {
   "name": "stainx",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "GPU-accelerated stain normalization",
   "author": "Samir Moustafa",
   "license": null,
   "home_page": "https://github.com/rendeirolab/stainx",
-  "download_filename": "stainx-0.0.4.tar.gz",
-  "download_time": "2025-12-03T17:46:05.701089",
+  "download_filename": "stainx-0.0.5.tar.gz",
+  "download_time": "2025-12-03T18:33:47.170184",
   "package_url": "https://pypi.org/project/stainx/"
 }

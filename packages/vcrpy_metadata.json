@@ -1,0 +1,11 @@
+{
+  "name": "vcrpy",
+  "version": "8.0.0",
+  "summary": "Automatically mock your HTTP interactions to simplify and speed up testing",
+  "author": "Kevin McCarthy",
+  "license": "MIT",
+  "home_page": "https://github.com/kevin1024/vcrpy",
+  "download_filename": "vcrpy-8.0.0.tar.gz",
+  "download_time": "2025-12-03T18:33:50.264065",
+  "package_url": "https://pypi.org/project/vcrpy/"
+}

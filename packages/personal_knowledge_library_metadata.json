@@ -1,0 +1,11 @@
+{
+  "name": "personal_knowledge_library",
+  "version": "4.0.3",
+  "summary": "Library to access Wacom's Personal Knowledge graph.",
+  "author": "Markus Weber",
+  "license": null,
+  "home_page": null,
+  "download_filename": "personal_knowledge_library-4.0.3.tar.gz",
+  "download_time": "2025-12-03T18:33:46.143307",
+  "package_url": "https://pypi.org/project/personal_knowledge_library/"
+}

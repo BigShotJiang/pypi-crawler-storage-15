@@ -1,11 +1,11 @@
 {
   "name": "composennent",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Composable neural network components for building models in PyTorch.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "composennent-0.3.0.tar.gz",
-  "download_time": "2025-12-02T20:23:18.876672",
+  "download_filename": "composennent-0.3.1.tar.gz",
+  "download_time": "2025-12-03T18:34:17.026990",
   "package_url": "https://pypi.org/project/composennent/"
 }

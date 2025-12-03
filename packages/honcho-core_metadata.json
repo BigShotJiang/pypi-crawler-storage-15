@@ -1,0 +1,11 @@
+{
+  "name": "honcho-core",
+  "version": "1.6.0",
+  "summary": "The official Python library for the honcho API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "honcho_core-1.6.0.tar.gz",
+  "download_time": "2025-12-03T18:33:34.172055",
+  "package_url": "https://pypi.org/project/honcho-core/"
+}
