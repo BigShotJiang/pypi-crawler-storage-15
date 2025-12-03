@@ -1,11 +1,11 @@
 {
   "name": "utg-base",
-  "version": "1.8.1",
+  "version": "1.9.0",
   "summary": "UTG Base Package",
   "author": "Olimboy",
   "license": null,
   "home_page": null,
-  "download_filename": "utg_base-1.8.1.tar.gz",
-  "download_time": "2025-12-03T05:43:17.939622",
+  "download_filename": "utg_base-1.9.0.tar.gz",
+  "download_time": "2025-12-03T06:30:22.124039",
   "package_url": "https://pypi.org/project/utg-base/"
 }

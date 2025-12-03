@@ -1,0 +1,11 @@
+{
+  "name": "reasonforge-logic",
+  "version": "0.1.0",
+  "summary": "Symbolic AI and formal logic MCP server - 13 tools for reasoning and proofs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reasonforge_logic-0.1.0.tar.gz",
+  "download_time": "2025-12-03T06:30:31.363337",
+  "package_url": "https://pypi.org/project/reasonforge-logic/"
+}

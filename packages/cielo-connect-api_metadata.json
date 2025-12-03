@@ -1,0 +1,11 @@
+{
+  "name": "cielo-connect-api",
+  "version": "1.0.1",
+  "summary": "Python package for Cielo Connect APIs.",
+  "author": "Cielo Wigle Inc. and Muhammad Ihsan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cielo_connect_api-1.0.1.tar.gz",
+  "download_time": "2025-12-03T06:30:37.011747",
+  "package_url": "https://pypi.org/project/cielo-connect-api/"
+}
