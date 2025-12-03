@@ -1,11 +1,11 @@
 {
   "name": "glove80-keymap-visualizer",
-  "version": "0.2.1",
+  "version": "0.4.1",
   "summary": "Generate PDF visualizations of Glove80 keyboard layers from ZMK keymap files",
   "author": "Dave Sifry",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glove80_keymap_visualizer-0.2.1.tar.gz",
-  "download_time": "2025-12-03T01:25:38.371285",
+  "download_filename": "glove80_keymap_visualizer-0.4.1.tar.gz",
+  "download_time": "2025-12-03T04:56:53.832171",
   "package_url": "https://pypi.org/project/glove80-keymap-visualizer/"
 }

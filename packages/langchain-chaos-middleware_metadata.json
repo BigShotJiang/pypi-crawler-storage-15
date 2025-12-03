@@ -1,0 +1,11 @@
+{
+  "name": "langchain-chaos-middleware",
+  "version": "0.1.4",
+  "summary": "Chaos testing middleware for LangChain agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_chaos_middleware-0.1.4.tar.gz",
+  "download_time": "2025-12-03T04:56:56.953363",
+  "package_url": "https://pypi.org/project/langchain-chaos-middleware/"
+}
