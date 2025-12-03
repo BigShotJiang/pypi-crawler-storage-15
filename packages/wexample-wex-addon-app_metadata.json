@@ -1,11 +1,11 @@
 {
   "name": "wexample-wex-addon-app",
-  "version": "0.0.54",
+  "version": "0.0.55",
   "summary": "App management with wex",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_wex_addon_app-0.0.54.tar.gz",
-  "download_time": "2025-12-02T19:32:12.912305",
+  "download_filename": "wexample_wex_addon_app-0.0.55.tar.gz",
+  "download_time": "2025-12-03T11:51:22.156377",
   "package_url": "https://pypi.org/project/wexample-wex-addon-app/"
 }

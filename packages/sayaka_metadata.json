@@ -1,0 +1,11 @@
+{
+  "name": "sayaka",
+  "version": "0.7.0",
+  "summary": "A Rust-backed Python module for decrypting and decompressing data for an anime game.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sayaka-0.7.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-03T11:51:12.939545",
+  "package_url": "https://pypi.org/project/sayaka/"
+}

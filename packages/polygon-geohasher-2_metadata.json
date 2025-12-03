@@ -1,0 +1,11 @@
+{
+  "name": "polygon-geohasher-2",
+  "version": "0.2.0",
+  "summary": "Wrapper over Shapely that returns the set of geohashes that form a Polygon.",
+  "author": "Alberto Bonsanto; maintained by Jon Duckworth",
+  "license": "MIT",
+  "home_page": "https://github.com/duckontheweb/polygon-geohasher",
+  "download_filename": "polygon_geohasher_2-0.2.0.tar.gz",
+  "download_time": "2025-12-03T11:51:37.062192",
+  "package_url": "https://pypi.org/project/polygon-geohasher-2/"
+}

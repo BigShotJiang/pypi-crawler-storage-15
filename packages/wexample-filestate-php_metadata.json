@@ -1,11 +1,11 @@
 {
   "name": "wexample-filestate-php",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "Helpers for Php.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_filestate_php-0.0.13.tar.gz",
-  "download_time": "2025-12-02T19:32:18.814874",
+  "download_filename": "wexample_filestate_php-0.0.14.tar.gz",
+  "download_time": "2025-12-03T11:51:27.269189",
   "package_url": "https://pypi.org/project/wexample-filestate-php/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "astroIm",
+  "version": "0.8",
+  "summary": "Astropy Wrapper and specialised functions for FIR/Submm Astro Images",
+  "author": "Matthew Smith",
+  "license": "MIT",
+  "home_page": "https://github.com/mwls/astroIm",
+  "download_filename": "astroim-0.8.tar.gz",
+  "download_time": "2025-12-03T11:51:04.079583",
+  "package_url": "https://pypi.org/project/astroIm/"
+}

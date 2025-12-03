@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-mysql",
+  "version": "3.0.4",
+  "summary": "MySQL wrapper from Bryn",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_mysql-3.0.4.tar.gz",
+  "download_time": "2025-12-03T11:51:23.178372",
+  "package_url": "https://pypi.org/project/brynq-sdk-mysql/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-renderpdf",
+  "version": "6.0.0",
+  "summary": "Django app to render django templates as PDF files.",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "django_renderpdf-6.0.0.tar.gz",
+  "download_time": "2025-12-03T11:51:09.319073",
+  "package_url": "https://pypi.org/project/django-renderpdf/"
+}

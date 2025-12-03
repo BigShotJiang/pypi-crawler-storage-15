@@ -1,11 +1,11 @@
 {
   "name": "wexample-filestate-dev",
-  "version": "0.0.49",
+  "version": "0.0.51",
   "summary": "Some python basic helpers.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wexample_filestate_dev-0.0.49.tar.gz",
-  "download_time": "2025-12-02T19:32:22.418292",
+  "download_filename": "wexample_filestate_dev-0.0.51.tar.gz",
+  "download_time": "2025-12-03T11:51:33.432791",
   "package_url": "https://pypi.org/project/wexample-filestate-dev/"
 }
