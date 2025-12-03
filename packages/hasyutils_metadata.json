@@ -1,11 +1,11 @@
 {
   "name": "hasyutils",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "summary": null,
   "author": "Thorsten Kracht",
   "license": null,
   "home_page": "https://gitlab.desy.de/fs-ec/hasyutils",
-  "download_filename": "hasyutils-2.7.0.tar.gz",
-  "download_time": "2025-12-02T19:32:06.024961",
+  "download_filename": "hasyutils-2.7.1.tar.gz",
+  "download_time": "2025-12-03T07:22:56.749677",
   "package_url": "https://pypi.org/project/hasyutils/"
 }

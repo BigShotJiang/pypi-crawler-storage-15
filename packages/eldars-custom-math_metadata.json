@@ -1,0 +1,11 @@
+{
+  "name": "eldars-custom-math",
+  "version": "1.2.0",
+  "summary": "Fake Math Library with classes and functions like math module",
+  "author": "Eldar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eldars_custom_math-1.2.0.tar.gz",
+  "download_time": "2025-12-03T07:22:17.763054",
+  "package_url": "https://pypi.org/project/eldars-custom-math/"
+}

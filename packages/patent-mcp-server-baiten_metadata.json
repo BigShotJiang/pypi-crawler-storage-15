@@ -1,0 +1,11 @@
+{
+  "name": "patent-mcp-server-baiten",
+  "version": "0.1.0",
+  "summary": "MCP Server for Patent Search Functions - integrates with Baiten Patent API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "patent_mcp_server_baiten-0.1.0.tar.gz",
+  "download_time": "2025-12-03T07:22:21.056158",
+  "package_url": "https://pypi.org/project/patent-mcp-server-baiten/"
+}

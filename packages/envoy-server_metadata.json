@@ -1,0 +1,11 @@
+{
+  "name": "envoy-server",
+  "version": "1.36.2.post1",
+  "summary": "A Python wheel distribution of the Envoy server",
+  "author": "CurioSwitch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "envoy_server-1.36.2.post1.tar.gz",
+  "download_time": "2025-12-03T07:22:44.485040",
+  "package_url": "https://pypi.org/project/envoy-server/"
+}

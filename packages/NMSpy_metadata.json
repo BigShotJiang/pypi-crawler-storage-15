@@ -1,0 +1,11 @@
+{
+  "name": "NMSpy",
+  "version": "156355.0",
+  "summary": "No Man's Sky python modding API",
+  "author": "monkeyman192",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nmspy-156355.0.tar.gz",
+  "download_time": "2025-12-03T07:22:21.622402",
+  "package_url": "https://pypi.org/project/NMSpy/"
+}
