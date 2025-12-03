@@ -1,0 +1,11 @@
+{
+  "name": "shade-privacy",
+  "version": "1.0.2",
+  "summary": "Python SDK for private cross-chain transactions with ZK proofs. Supports ETH, SOL, StarkNet, Base, Sei, AVAX, SUI + 13 chains.",
+  "author": "Shade Privacy",
+  "license": "MIT",
+  "home_page": "https://github.com/Shade-privacy/python-sdk",
+  "download_filename": "shade_privacy-1.0.2.tar.gz",
+  "download_time": "2025-12-03T17:57:30.366935",
+  "package_url": "https://pypi.org/project/shade-privacy/"
+}
