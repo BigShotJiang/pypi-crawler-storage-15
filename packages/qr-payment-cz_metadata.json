@@ -1,0 +1,11 @@
+{
+  "name": "qr-payment-cz",
+  "version": "0.2.15",
+  "summary": "QR code or string generator for CZ banks payments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qr_payment_cz-0.2.15.tar.gz",
+  "download_time": "2025-12-03T17:01:47.573632",
+  "package_url": "https://pypi.org/project/qr-payment-cz/"
+}

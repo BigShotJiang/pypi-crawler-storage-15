@@ -1,0 +1,11 @@
+{
+  "name": "cfdna",
+  "version": "2.5.0",
+  "summary": "Python package for fragment manipulation for cfDNA",
+  "author": "Kyle S. Smith",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://github.com/kylessmith/cfdna",
+  "download_filename": "cfdna-2.5.0.tar.gz",
+  "download_time": "2025-12-03T17:01:23.772073",
+  "package_url": "https://pypi.org/project/cfdna/"
+}

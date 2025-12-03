@@ -1,0 +1,11 @@
+{
+  "name": "hmmCNV",
+  "version": "1.1.7",
+  "summary": "Python package for Copy-Number Variation calling",
+  "author": "Kyle S. Smith",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://github.com/kylessmith/hmmCNV",
+  "download_filename": "hmmcnv-1.1.7.tar.gz",
+  "download_time": "2025-12-03T17:01:55.768810",
+  "package_url": "https://pypi.org/project/hmmCNV/"
+}

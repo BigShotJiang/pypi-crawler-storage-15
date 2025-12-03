@@ -1,11 +1,11 @@
 {
   "name": "taggin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Taggin logging with dynamic tags, structured storage, and CLI search.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "taggin-0.1.0-py3-none-any.whl",
-  "download_time": "2025-12-03T01:25:09.052609",
+  "download_filename": "taggin-0.1.1.tar.gz",
+  "download_time": "2025-12-03T17:01:56.789344",
   "package_url": "https://pypi.org/project/taggin/"
 }

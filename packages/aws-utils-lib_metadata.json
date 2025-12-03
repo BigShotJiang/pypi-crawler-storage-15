@@ -1,11 +1,11 @@
 {
   "name": "aws-utils-lib",
-  "version": "1.5.5",
+  "version": "1.5.7",
   "summary": "AWS utils library ",
   "author": "Jonathan E. Aguiar",
   "license": "MIT",
   "home_page": "https://github.com/swanm96",
-  "download_filename": "aws_utils_lib-1.5.5.tar.gz",
-  "download_time": "2025-12-02T19:00:36.637997",
+  "download_filename": "aws_utils_lib-1.5.7.tar.gz",
+  "download_time": "2025-12-03T17:01:37.208718",
   "package_url": "https://pypi.org/project/aws-utils-lib/"
 }
