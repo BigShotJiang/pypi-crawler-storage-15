@@ -1,0 +1,11 @@
+{
+  "name": "investor-paradise-cli",
+  "version": "0.1.2",
+  "summary": "AI-powered NSE stock analysis agent with interactive CLI and web interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "investor_paradise_cli-0.1.2.tar.gz",
+  "download_time": "2025-12-03T15:22:17.530487",
+  "package_url": "https://pypi.org/project/investor-paradise-cli/"
+}

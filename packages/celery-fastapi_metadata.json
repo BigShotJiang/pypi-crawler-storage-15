@@ -1,0 +1,11 @@
+{
+  "name": "celery-fastapi",
+  "version": "0.1.2",
+  "summary": "Automatic REST API generation for Celery tasks with FastAPI",
+  "author": "ilkerkara",
+  "license": "MIT",
+  "home_page": "https://github.com/karailker/celery-fastapi",
+  "download_filename": "celery_fastapi-0.1.2.tar.gz",
+  "download_time": "2025-12-03T15:22:33.205585",
+  "package_url": "https://pypi.org/project/celery-fastapi/"
+}

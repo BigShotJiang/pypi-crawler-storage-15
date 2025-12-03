@@ -1,0 +1,11 @@
+{
+  "name": "hoardy-adb",
+  "version": "2.0.1",
+  "summary": "Backup and restore Android devices, list contents of, unpack, and convert Android Backup files to TAR files and back, decrypt, encrypt, split them into by-app pieces, etc. Android Backup files are `backup.ab`, `*.ab`, `*.adb`, and similarly named files produced by `adb shell bu backup`, `adb backup`, `bmgr`, and similar tools.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "hoardy_adb-2.0.1.tar.gz",
+  "download_time": "2025-12-03T15:22:13.401746",
+  "package_url": "https://pypi.org/project/hoardy-adb/"
+}

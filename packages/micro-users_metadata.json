@@ -1,11 +1,11 @@
 {
   "name": "micro-users",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Arabic Django user management app with abstract user, permissions, and activity logging",
   "author": "DeBeski",
   "license": "MIT",
   "home_page": "https://github.com/debeski/micro-users",
-  "download_filename": "micro_users-1.0.3.tar.gz",
-  "download_time": "2025-12-03T14:47:40.514532",
+  "download_filename": "micro_users-1.0.4.tar.gz",
+  "download_time": "2025-12-03T15:22:40.446558",
   "package_url": "https://pypi.org/project/micro-users/"
 }

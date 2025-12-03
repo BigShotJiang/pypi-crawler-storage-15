@@ -1,0 +1,11 @@
+{
+  "name": "libarx",
+  "version": "0.4.1",
+  "summary": "Read and create arx archives.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/jubako/arx",
+  "download_filename": "libarx-0.4.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-03T15:22:14.649570",
+  "package_url": "https://pypi.org/project/libarx/"
+}
