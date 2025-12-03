@@ -1,0 +1,11 @@
+{
+  "name": "pykoppu",
+  "version": "0.2.1",
+  "summary": "SDK for KOPPU (K-dimensional Organoid Probabilistic Processing Unit)",
+  "author": "KOPPU Team",
+  "license": "MIT",
+  "home_page": "https://koppu.io",
+  "download_filename": "pykoppu-0.2.1.tar.gz",
+  "download_time": "2025-12-03T01:25:33.688478",
+  "package_url": "https://pypi.org/project/pykoppu/"
+}

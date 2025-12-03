@@ -1,0 +1,11 @@
+{
+  "name": "rya",
+  "version": "0.2.36",
+  "summary": "rya is a Python application bootstrapper.",
+  "author": "Alexander Haller, Mahadi Xion",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rya-0.2.36.tar.gz",
+  "download_time": "2025-12-03T01:25:48.226416",
+  "package_url": "https://pypi.org/project/rya/"
+}

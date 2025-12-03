@@ -1,0 +1,11 @@
+{
+  "name": "arcade-hubspot-events-api",
+  "version": "1.0.0",
+  "summary": "Tools that enable LLMs to interact directly with the Hubspot Events API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcade_hubspot_events_api-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-03T01:25:12.251212",
+  "package_url": "https://pypi.org/project/arcade-hubspot-events-api/"
+}

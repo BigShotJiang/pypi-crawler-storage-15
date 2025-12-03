@@ -1,0 +1,11 @@
+{
+  "name": "mayatk",
+  "version": "0.9.44",
+  "summary": "A comprehensive toolkit for Autodesk Maya providing utilities for modeling, animation, rigging, and UI management.",
+  "author": "Ryan Simpson",
+  "license": "MIT",
+  "home_page": "https://github.com/m3trik/mayatk",
+  "download_filename": "mayatk-0.9.44-py3-none-any.whl",
+  "download_time": "2025-12-03T01:25:30.038130",
+  "package_url": "https://pypi.org/project/mayatk/"
+}

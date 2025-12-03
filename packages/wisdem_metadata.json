@@ -1,0 +1,11 @@
+{
+  "name": "wisdem",
+  "version": "4.0.4",
+  "summary": "Wind-Plant Integrated System Design & Engineering Model",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wisdem-4.0.4.tar.gz",
+  "download_time": "2025-12-03T01:25:14.873806",
+  "package_url": "https://pypi.org/project/wisdem/"
+}
