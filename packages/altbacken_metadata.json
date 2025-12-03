@@ -1,11 +1,11 @@
 {
   "name": "altbacken",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Package for running simulated annealing.",
   "author": "voidpointercast",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "altbacken-0.1.0.tar.gz",
-  "download_time": "2025-12-03T23:17:00.515473",
+  "home_page": "https://gitlab.com/patrick.daniel.gress/altbacken",
+  "download_filename": "altbacken-0.1.1.tar.gz",
+  "download_time": "2025-12-03T23:50:47.624375",
   "package_url": "https://pypi.org/project/altbacken/"
 }
