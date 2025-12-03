@@ -1,0 +1,11 @@
+{
+  "name": "deli-chem",
+  "version": "0.1.1",
+  "summary": "DNA encoded library sequence analysis software with custom library design support",
+  "author": "James Wellnitz",
+  "license": null,
+  "home_page": "https://github.com/Popov-Lab-UNC/DELi",
+  "download_filename": "deli_chem-0.1.1.tar.gz",
+  "download_time": "2025-12-03T18:59:37.293957",
+  "package_url": "https://pypi.org/project/deli-chem/"
+}

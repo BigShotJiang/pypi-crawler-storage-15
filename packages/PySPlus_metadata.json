@@ -1,0 +1,11 @@
+{
+  "name": "PySPlus",
+  "version": "0.8.2",
+  "summary": "the library SPlus platform for bots.",
+  "author": "seyyed mohamad hosein moosavi raja(01)",
+  "license": "MIT",
+  "home_page": "https://github.com/OandONE/SPlus",
+  "download_filename": "pysplus-0.8.2.tar.gz",
+  "download_time": "2025-12-03T18:59:55.928093",
+  "package_url": "https://pypi.org/project/PySPlus/"
+}

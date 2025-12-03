@@ -1,11 +1,11 @@
 {
   "name": "recce-cloud-nightly",
-  "version": "1.27.0.20251202",
+  "version": "1.28.0.20251203",
   "summary": "Lightweight CLI for Recce Cloud operations",
   "author": "InfuseAI Dev Team",
   "license": null,
   "home_page": "https://github.com/InfuseAI/recce",
-  "download_filename": "recce_cloud_nightly-1.27.0.20251202.tar.gz",
-  "download_time": "2025-12-02T19:01:11.210889",
+  "download_filename": "recce_cloud_nightly-1.28.0.20251203.tar.gz",
+  "download_time": "2025-12-03T19:00:02.669617",
   "package_url": "https://pypi.org/project/recce-cloud-nightly/"
 }

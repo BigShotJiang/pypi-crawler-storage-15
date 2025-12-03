@@ -1,11 +1,11 @@
 {
   "name": "puncover",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "summary": "Analyses C/C++ build output for code size, static variables, and stack usage.",
-  "author": null,
+  "author": "Hendrik Behrens",
   "license": null,
   "home_page": null,
-  "download_filename": "puncover-0.6.1.tar.gz",
-  "download_time": "2025-12-03T18:33:45.628910",
+  "download_filename": "puncover-0.7.0.tar.gz",
+  "download_time": "2025-12-03T19:00:02.155269",
   "package_url": "https://pypi.org/project/puncover/"
 }

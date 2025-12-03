@@ -1,0 +1,11 @@
+{
+  "name": "asterix-decoder",
+  "version": "0.7.11",
+  "summary": "ASTERIX decoder in Python",
+  "author": "Damir Salantic",
+  "license": "GPL",
+  "home_page": "https://github.com/CroatiaControlLtd/asterix",
+  "download_filename": "asterix_decoder-0.7.11.tar.gz",
+  "download_time": "2025-12-03T18:59:44.526144",
+  "package_url": "https://pypi.org/project/asterix-decoder/"
+}

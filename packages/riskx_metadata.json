@@ -1,0 +1,11 @@
+{
+  "name": "riskx",
+  "version": "0.1.0",
+  "summary": "End-to-End Automated Risk Scoring Platform for Credit, Fraud, and Churn Prediction",
+  "author": "Idriss Bado",
+  "license": "MIT",
+  "home_page": "https://github.com/idrissbado/RiskX",
+  "download_filename": "riskx-0.1.0.tar.gz",
+  "download_time": "2025-12-03T19:00:01.639623",
+  "package_url": "https://pypi.org/project/riskx/"
+}

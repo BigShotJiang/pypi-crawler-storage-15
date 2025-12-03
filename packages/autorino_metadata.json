@@ -1,0 +1,11 @@
+{
+  "name": "autorino",
+  "version": "2.4.0",
+  "summary": "autorino is a tool for Assisted Unloading, Treatment & Organisation of RINex Observations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autorino-2.4.0.tar.gz",
+  "download_time": "2025-12-03T19:00:00.608418",
+  "package_url": "https://pypi.org/project/autorino/"
+}
