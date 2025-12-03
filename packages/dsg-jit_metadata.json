@@ -1,0 +1,11 @@
+{
+  "name": "dsg-jit",
+  "version": "0.5.0",
+  "summary": "Differentiable Scene Graphs with JAX-based factor graphs and SLAM tooling.",
+  "author": "Tanner Kocher",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dsg_jit-0.5.0.tar.gz",
+  "download_time": "2025-12-03T22:54:54.519358",
+  "package_url": "https://pypi.org/project/dsg-jit/"
+}

@@ -1,20 +1,74 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-03T22:44:53.135946
-- **Total Packages**: 94
-- **Total Size**: 39.72 MB
+- **Download Time**: 2025-12-03T22:55:30.339918
+- **Total Packages**: 91
+- **Total Size**: 16.89 MB
 
 ## Packages List
+- tgzr.shell
+- rumdl
+- w2rpy
+- symmray
+- stringzillas-cuda
+- cdk-opinionated-constructs
+- CASSIA
+- dynafield
+- oxutils
+- django-core-micha
+- sagemaker-mlops
+- hybig-py
+- xrcg
+- process-inspector
+- crc-pulp-service-client
+- slurmray
+- crc-pulp-file-client
+- cvsx2mvsx
+- crc-pulp-maven-client
+- win-can-tool
+- crc-pulp-rpm-client
+- laszip
+- crc-pulp-gem-client
+- crc-pulp-npm-client
+- libretranslate
+- crc-pulp-python-client
+- dsg-jit
+- crc-pulpcore-client
+- py-nymta
+- megatron-core
+- megatron-fsdp
+- miniml-engine
+- pulumi-aws-apigateway
+- sagemaker-serve
+- mosaic-dataset
+- globus-sdk
+- pulumi-kong
+- zpace
+- pulumi-harness
+- pulumi-keycloak
+- jaxace
+- pulumi-hcloud
+- splunk-soar-sdk
+- keishis-sandbox
+- daita-agents
+- iceframe
+- docfind
+- jl-ecms-server
+- jl-ecms-client
+- dbos
+- aimodelshare
+- sagemaker-train
+- pulumi-ise
+- enginecli-dev
+- pytrain-ogr-api
+- pulumi-kafka
 - easy-logging-formatter
 - condynsate
 - pulumi-gitlab
 - dkist-processing-common
-- win-can-tool
 - greenstream-config
 - google-adk
 - pulumi-http
-- dynafield
 - koi-net
 - opentrons
 - pwsh
@@ -24,7 +78,6 @@
 - policyengine-us
 - super-bario
 - fastapi-construct
-- tgzr.shell
 - mloda
 - gym_info
 - atomate2
@@ -44,59 +97,3 @@
 - omdev-rs
 - omserv
 - ominfra
-- omextra-cext
-- omdev
-- ommlds-rs
-- omdev-cli
-- opentrons-shared-data
-- sphinx-markdown-builder-reloaded
-- vital
-- pulumi-fastly
-- xrcg
-- upasak
-- sagemaker-core
-- ohcs
-- growthbook
-- lpibydevcoder
-- cvsx2mvsx
-- abi-core-ai
-- agilicus
-- Ba137-hyperfine-hamiltonian-solver
-- satori-ci
-- streamstraight-server
-- edison-client
-- impala-calib
-- codegraph-mcp-server
-- vellum-workflow-server
-- langrepl
-- pyzyconfig
-- MethylVerse
-- mcp-ticketer
-- doc-manager-mcp
-- ucow
-- qudit-visualizer
-- rskfd
-- icsneopy
-- pulumi-f5bigip
-- pulumi-external
-- large-image-source-zarr
-- fabric-cicd
-- large-image-source-vips
-- large-image-source-tifffile
-- retell-sdk
-- large-image-source-tiff
-- large-image-source-test
-- agentmake
-- large-image-source-rasterio
-- large-image-source-pil
-- large-image-source-openslide
-- large-image-source-openjpeg
-- hannoy
-- large-image-source-ometiff
-- large-image-source-nd2
-- large-image-source-multi
-- large-image-source-mapnik
-- large-image-source-gdal
-- large-image-source-dummy
-- large-image-source-dicom
-- large-image-source-deepzoom
