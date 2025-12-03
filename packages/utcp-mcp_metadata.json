@@ -1,0 +1,11 @@
+{
+  "name": "utcp-mcp",
+  "version": "1.1.1",
+  "summary": "UTCP communication protocol plugin for interoperability with the Model Context Protocol (MCP).",
+  "author": "UTCP Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utcp_mcp-1.1.1.tar.gz",
+  "download_time": "2025-12-03T17:22:08.752754",
+  "package_url": "https://pypi.org/project/utcp-mcp/"
+}

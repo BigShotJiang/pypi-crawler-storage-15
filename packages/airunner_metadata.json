@@ -1,11 +1,11 @@
 {
   "name": "airunner",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "Run local opensource AI models (Stable Diffusion, LLMs, TTS, STT, chatbots) in a lightweight Python GUI",
   "author": "Capsize LLC",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Capsize-Games/airunner",
-  "download_filename": "airunner-5.0.2.tar.gz",
-  "download_time": "2025-12-02T22:50:57.961592",
+  "download_filename": "airunner-5.0.4.tar.gz",
+  "download_time": "2025-12-03T17:22:16.582879",
   "package_url": "https://pypi.org/project/airunner/"
 }

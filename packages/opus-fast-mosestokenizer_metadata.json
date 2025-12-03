@@ -1,0 +1,11 @@
+{
+  "name": "opus-fast-mosestokenizer",
+  "version": "0.0.8.11",
+  "summary": "c++ mosestokenizer",
+  "author": "Wang Ming Rui",
+  "license": null,
+  "home_page": "https://github.com/Helsinki-NLP/opus-fast-mosestokenizer",
+  "download_filename": "opus_fast_mosestokenizer-0.0.8.11.tar.gz",
+  "download_time": "2025-12-03T17:22:21.738413",
+  "package_url": "https://pypi.org/project/opus-fast-mosestokenizer/"
+}
