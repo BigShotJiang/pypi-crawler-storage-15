@@ -1,0 +1,11 @@
+{
+  "name": "lpibydevcoder",
+  "version": "0.2.0",
+  "summary": "Гибридный язык программирования: Python + C++ + Rust стиль",
+  "author": "DevCooder",
+  "license": null,
+  "home_page": "https://github.com/ZeroMurder/My-Programming-Language",
+  "download_filename": "lpibydevcoder-0.2.0.tar.gz",
+  "download_time": "2025-12-03T22:44:30.701837",
+  "package_url": "https://pypi.org/project/lpibydevcoder/"
+}

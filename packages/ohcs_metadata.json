@@ -1,11 +1,11 @@
 {
   "name": "ohcs",
-  "version": "0.0.2",
+  "version": "1.0.4",
   "summary": "Omnissa Horizon Cloud Service SDK",
-  "author": "OHCS Team",
-  "license": "Apache",
-  "home_page": "https://github.com/euc-eng/ohcs-sdk",
-  "download_filename": "ohcs-0.0.2.tar.gz",
-  "download_time": "2025-12-03T22:20:05.217586",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ohcs-1.0.4.tar.gz",
+  "download_time": "2025-12-03T22:44:29.672580",
   "package_url": "https://pypi.org/project/ohcs/"
 }

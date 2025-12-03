@@ -1,11 +1,11 @@
 {
   "name": "mcp-ticketer",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "summary": "Universal ticket management interface for AI agents with MCP support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_ticketer-2.0.2.tar.gz",
-  "download_time": "2025-12-03T14:21:12.481917",
+  "download_filename": "mcp_ticketer-2.0.4.tar.gz",
+  "download_time": "2025-12-03T22:44:37.982618",
   "package_url": "https://pypi.org/project/mcp-ticketer/"
 }
