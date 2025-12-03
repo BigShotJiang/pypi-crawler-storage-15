@@ -1,0 +1,11 @@
+{
+  "name": "px-django-actions-tracker",
+  "version": "0.1.10",
+  "summary": "Simple in-app actions tracker.",
+  "author": "Alex Tkachenko",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "px_django_actions_tracker-0.1.10.tar.gz",
+  "download_time": "2025-12-03T08:54:17.924106",
+  "package_url": "https://pypi.org/project/px-django-actions-tracker/"
+}

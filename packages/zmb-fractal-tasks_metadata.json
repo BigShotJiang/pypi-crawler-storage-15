@@ -1,0 +1,11 @@
+{
+  "name": "zmb-fractal-tasks",
+  "version": "0.3.0",
+  "summary": "A collection of fractal tasks used for varying ZMB projects.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "zmb_fractal_tasks-0.3.0.tar.gz",
+  "download_time": "2025-12-03T08:54:19.971193",
+  "package_url": "https://pypi.org/project/zmb-fractal-tasks/"
+}

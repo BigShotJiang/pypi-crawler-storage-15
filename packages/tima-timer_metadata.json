@@ -1,11 +1,11 @@
 {
   "name": "tima-timer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A sleek desktop productivity timer for managing multiple projects",
   "author": "Amir Rosenfeld",
   "license": null,
   "home_page": null,
-  "download_filename": "tima_timer-1.0.3.tar.gz",
-  "download_time": "2025-12-03T08:27:21.125451",
+  "download_filename": "tima_timer-1.0.4.tar.gz",
+  "download_time": "2025-12-03T08:54:19.459596",
   "package_url": "https://pypi.org/project/tima-timer/"
 }

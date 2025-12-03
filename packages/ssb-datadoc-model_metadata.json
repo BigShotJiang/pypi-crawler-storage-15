@@ -1,0 +1,11 @@
+{
+  "name": "ssb-datadoc-model",
+  "version": "8.0.1",
+  "summary": "Data Model for use in Statistics Norway's Metadata system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssb_datadoc_model-8.0.1.tar.gz",
+  "download_time": "2025-12-03T08:54:08.149224",
+  "package_url": "https://pypi.org/project/ssb-datadoc-model/"
+}
