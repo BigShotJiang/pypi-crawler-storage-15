@@ -1,0 +1,11 @@
+{
+  "name": "sbcommons",
+  "version": "1.2.2",
+  "summary": "Packages shared between several Data related systems in Haypp Group",
+  "author": "Haypp Group",
+  "license": null,
+  "home_page": "https://github.com/Snusbolaget",
+  "download_filename": "sbcommons-1.2.2.tar.gz",
+  "download_time": "2025-12-03T09:46:37.895529",
+  "package_url": "https://pypi.org/project/sbcommons/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "colab-ask",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "An LLM assistant magic command for Google Colab notebooks.",
   "author": "NeuralVFX",
   "license": "MIT",
   "home_page": "https://github.com/NeuralVFX/colab-ask",
-  "download_filename": "colab_ask-0.1.5.tar.gz",
-  "download_time": "2025-12-02T21:20:20.964646",
+  "download_filename": "colab_ask-0.1.6.tar.gz",
+  "download_time": "2025-12-03T09:47:14.569679",
   "package_url": "https://pypi.org/project/colab-ask/"
 }

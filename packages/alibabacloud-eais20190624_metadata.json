@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-eais20190624",
+  "version": "3.0.6",
+  "summary": "Alibaba Cloud eais (20190624) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_eais20190624-3.0.6.tar.gz",
+  "download_time": "2025-12-03T09:47:15.593042",
+  "package_url": "https://pypi.org/project/alibabacloud-eais20190624/"
+}

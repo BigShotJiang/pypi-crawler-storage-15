@@ -1,11 +1,11 @@
 {
   "name": "quantum-debugger",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Interactive debugger and profiler for quantum circuits",
   "author": "warlord9004",
   "license": null,
   "home_page": "https://github.com/yourusername/quantum-debugger",
-  "download_filename": "quantum_debugger-0.2.0.tar.gz",
-  "download_time": "2025-12-02T20:45:29.052137",
+  "download_filename": "quantum_debugger-0.2.1.tar.gz",
+  "download_time": "2025-12-03T09:46:38.410266",
   "package_url": "https://pypi.org/project/quantum-debugger/"
 }

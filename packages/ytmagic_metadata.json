@@ -1,11 +1,11 @@
 {
   "name": "ytmagic",
-  "version": "1.2.9",
+  "version": "1.3.0",
   "summary": "Download videos or extract audio from YouTube, Instagram, Facebook, TikTok, X (Twitter), and more — easily and fast.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ytmagic-1.2.9.tar.gz",
-  "download_time": "2025-12-03T09:23:53.939318",
+  "download_filename": "ytmagic-1.3.0.tar.gz",
+  "download_time": "2025-12-03T09:46:47.715132",
   "package_url": "https://pypi.org/project/ytmagic/"
 }

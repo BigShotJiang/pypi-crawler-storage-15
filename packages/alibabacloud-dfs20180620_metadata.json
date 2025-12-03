@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-dfs20180620",
+  "version": "2.0.0",
+  "summary": "Alibaba Cloud DFS (20180620) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_dfs20180620-2.0.0.tar.gz",
+  "download_time": "2025-12-03T09:47:01.681143",
+  "package_url": "https://pypi.org/project/alibabacloud-dfs20180620/"
+}
