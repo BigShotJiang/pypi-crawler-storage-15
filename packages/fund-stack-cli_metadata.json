@@ -1,0 +1,11 @@
+{
+  "name": "fund-stack-cli",
+  "version": "0.1.0",
+  "summary": "A comprehensive personal finance management CLI tool.",
+  "author": "Sourashis Ghosh Roy",
+  "license": null,
+  "home_page": "https://github.com/ItzSouraseez/fund-stack-cli",
+  "download_filename": "fund_stack_cli-0.1.0.tar.gz",
+  "download_time": "2025-12-03T19:51:29.481774",
+  "package_url": "https://pypi.org/project/fund-stack-cli/"
+}

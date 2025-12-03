@@ -1,11 +1,11 @@
 {
   "name": "risk-network",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "A Python package for scalable network analysis and high-quality visualization.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "risk_network-0.0.15.tar.gz",
-  "download_time": "2025-12-03T19:39:20.035916",
+  "download_filename": "risk_network-0.0.16.tar.gz",
+  "download_time": "2025-12-03T19:51:37.666702",
   "package_url": "https://pypi.org/project/risk-network/"
 }

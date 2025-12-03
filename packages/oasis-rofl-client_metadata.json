@@ -1,0 +1,11 @@
+{
+  "name": "oasis-rofl-client",
+  "version": "0.1.7",
+  "summary": "Python client SDK for Oasis ROFL.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oasis_rofl_client-0.1.7.tar.gz",
+  "download_time": "2025-12-03T19:51:31.371486",
+  "package_url": "https://pypi.org/project/oasis-rofl-client/"
+}

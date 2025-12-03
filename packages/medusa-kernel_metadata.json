@@ -1,0 +1,11 @@
+{
+  "name": "medusa-kernel",
+  "version": "1.4.3",
+  "summary": "Advanced biosignal processing toolbox",
+  "author": "Eduardo Santamaría-Vázquez, Víctor Martínez-Cagigal, Diego Marcos-Martínez, Víctor Rodríguez-González, Sergio Pérez-Velasco",
+  "license": "CC Attribution-NonCommercial-NoDerivs 2.0",
+  "home_page": "https://medusabci.com/",
+  "download_filename": "medusa_kernel-1.4.3.tar.gz",
+  "download_time": "2025-12-03T19:51:21.999357",
+  "package_url": "https://pypi.org/project/medusa-kernel/"
+}

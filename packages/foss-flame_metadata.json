@@ -1,0 +1,11 @@
+{
+  "name": "foss-flame",
+  "version": "0.21.5",
+  "summary": "FOSS License Additional Metadata",
+  "author": "Henrik Sanklef",
+  "license": null,
+  "home_page": "https://github.com/hesa/foss-licenses",
+  "download_filename": "foss_flame-0.21.5.tar.gz",
+  "download_time": "2025-12-03T19:51:35.629938",
+  "package_url": "https://pypi.org/project/foss-flame/"
+}
