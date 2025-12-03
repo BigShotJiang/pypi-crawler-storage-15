@@ -1,0 +1,11 @@
+{
+  "name": "pypabhiveagent",
+  "version": "1.0.2",
+  "summary": "A Python package for querying Hive data and processing with AIGC applications",
+  "author": "pypabhiveagent",
+  "license": "MIT",
+  "home_page": "https://github.com/Nevernamed/pypabhiveagent",
+  "download_filename": "pypabhiveagent-1.0.2.tar.gz",
+  "download_time": "2025-12-03T03:58:56.915069",
+  "package_url": "https://pypi.org/project/pypabhiveagent/"
+}

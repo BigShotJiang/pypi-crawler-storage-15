@@ -1,0 +1,11 @@
+{
+  "name": "vexen-rbac",
+  "version": "0.1.4",
+  "summary": "Role-Based Access Control library with hexagonal architecture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vexen_rbac-0.1.4.tar.gz",
+  "download_time": "2025-12-03T03:59:15.257122",
+  "package_url": "https://pypi.org/project/vexen-rbac/"
+}

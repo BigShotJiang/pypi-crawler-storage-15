@@ -1,0 +1,11 @@
+{
+  "name": "tmo-api",
+  "version": "0.1.5",
+  "summary": "Wrapper for The Mortgage Office API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tmo_api-0.1.5.tar.gz",
+  "download_time": "2025-12-03T03:58:36.509893",
+  "package_url": "https://pypi.org/project/tmo-api/"
+}

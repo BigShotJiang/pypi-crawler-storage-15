@@ -1,0 +1,11 @@
+{
+  "name": "safetensors-layer-grabber",
+  "version": "0.1.0a0",
+  "summary": "Extracts all weights corresponding to a specific layer or block from large models saved in safetensors format, and exports them as a PyTorch-compatible `.pt` state dict.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safetensors_layer_grabber-0.1.0a0.tar.gz",
+  "download_time": "2025-12-03T03:59:04.530120",
+  "package_url": "https://pypi.org/project/safetensors-layer-grabber/"
+}

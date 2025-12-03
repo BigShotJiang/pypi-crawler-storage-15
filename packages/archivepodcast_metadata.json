@@ -1,11 +1,11 @@
 {
   "name": "archivepodcast",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Flask webapp that will archive a podcast from a RSS feed. It will download the episodes and re-host them.",
   "author": "Kieran Gee",
   "license": null,
   "home_page": null,
-  "download_filename": "archivepodcast-1.5.0.tar.gz",
-  "download_time": "2025-12-03T03:02:04.967098",
+  "download_filename": "archivepodcast-1.5.1.tar.gz",
+  "download_time": "2025-12-03T03:58:41.815102",
   "package_url": "https://pypi.org/project/archivepodcast/"
 }

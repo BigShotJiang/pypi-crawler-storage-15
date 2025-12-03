@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addons-oca-odoo-repository",
+  "version": "16.0.20251203.0",
+  "summary": "Meta package for oca-odoo-repository Odoo addons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_addons_oca_odoo_repository-16.0.20251203.0-py3-none-any.whl",
+  "download_time": "2025-12-03T03:58:45.326261",
+  "package_url": "https://pypi.org/project/odoo-addons-oca-odoo-repository/"
+}

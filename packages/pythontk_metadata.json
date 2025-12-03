@@ -1,11 +1,11 @@
 {
   "name": "pythontk",
-  "version": "0.7.45",
+  "version": "0.7.48",
   "summary": "A modular Python toolkit providing utilities for file handling, string processing, iteration, math operations, and more.",
-  "author": "Ryan Simpson",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/m3trik/pythontk",
-  "download_filename": "pythontk-0.7.45-py3-none-any.whl",
-  "download_time": "2025-12-03T03:01:48.388979",
+  "home_page": null,
+  "download_filename": "pythontk-0.7.48-py3-none-any.whl",
+  "download_time": "2025-12-03T03:59:09.844448",
   "package_url": "https://pypi.org/project/pythontk/"
 }
