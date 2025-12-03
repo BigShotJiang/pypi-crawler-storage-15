@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-oca",
+  "version": "18.0.1.5.2.10",
+  "summary": "Integrate all EDI modules together",
+  "author": "ACSONE,Dixmit,Camptocamp,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/edi-framework",
+  "download_filename": "odoo_addon_edi_oca-18.0.1.5.2.10-py3-none-any.whl",
+  "download_time": "2025-12-03T03:01:29.187008",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-oca/"
+}

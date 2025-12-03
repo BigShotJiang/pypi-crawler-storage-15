@@ -1,0 +1,11 @@
+{
+  "name": "vexen-core",
+  "version": "0.1.2",
+  "summary": "Integration layer for Vexen systems (user, rbac, auth)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vexen_core-0.1.2.tar.gz",
+  "download_time": "2025-12-03T03:02:14.973222",
+  "package_url": "https://pypi.org/project/vexen-core/"
+}

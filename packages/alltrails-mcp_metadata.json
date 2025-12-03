@@ -1,0 +1,11 @@
+{
+  "name": "alltrails-mcp",
+  "version": "0.1.4",
+  "summary": "A Model Context Protocol (MCP) server for accessing AllTrails hiking trail data",
+  "author": "Srinath Srinivasan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alltrails_mcp-0.1.4.tar.gz",
+  "download_time": "2025-12-03T03:01:30.264979",
+  "package_url": "https://pypi.org/project/alltrails-mcp/"
+}

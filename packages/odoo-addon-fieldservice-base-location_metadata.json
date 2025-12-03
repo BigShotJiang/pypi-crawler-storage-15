@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fieldservice-base-location",
+  "version": "17.0.1.0.0.2",
+  "summary": "Autocomplete address in field service locations",
+  "author": "Apsl - Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/field-service",
+  "download_filename": "odoo_addon_fieldservice_base_location-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-03T03:01:24.174364",
+  "package_url": "https://pypi.org/project/odoo-addon-fieldservice-base-location/"
+}

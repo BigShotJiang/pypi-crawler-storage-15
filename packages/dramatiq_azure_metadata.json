@@ -1,0 +1,11 @@
+{
+  "name": "dramatiq_azure",
+  "version": "1.0.0",
+  "summary": "Azure Queue Brokers for Dramatiq",
+  "author": "Stanislas H.B. Sodonon",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/bidossessi/dramatiq-azure",
+  "download_filename": "dramatiq_azure-1.0.0.tar.gz",
+  "download_time": "2025-12-03T03:01:32.056133",
+  "package_url": "https://pypi.org/project/dramatiq_azure/"
+}
