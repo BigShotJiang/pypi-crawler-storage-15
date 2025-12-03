@@ -1,0 +1,11 @@
+{
+  "name": "pbixtrans",
+  "version": "0.1.1",
+  "summary": "Translate a PBIX report visuals into another language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pbixtrans-0.1.1.tar.gz",
+  "download_time": "2025-12-03T14:47:56.524472",
+  "package_url": "https://pypi.org/project/pbixtrans/"
+}

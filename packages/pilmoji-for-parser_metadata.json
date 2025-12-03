@@ -1,11 +1,11 @@
 {
   "name": "pilmoji-for-parser",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "Pilmoji for nonebot-plugin-parser",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pilmoji_for_parser-0.1.5.tar.gz",
-  "download_time": "2025-12-03T08:54:26.214714",
+  "download_filename": "pilmoji_for_parser-0.2.0.tar.gz",
+  "download_time": "2025-12-03T14:47:52.948835",
   "package_url": "https://pypi.org/project/pilmoji-for-parser/"
 }

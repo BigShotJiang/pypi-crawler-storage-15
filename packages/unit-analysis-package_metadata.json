@@ -1,0 +1,11 @@
+{
+  "name": "unit-analysis-package",
+  "version": "1.0.2",
+  "summary": "A powerful class for physical unit and dimensional analysis in engineering applications.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "unit_analysis_package-1.0.2.tar.gz",
+  "download_time": "2025-12-03T14:48:12.533838",
+  "package_url": "https://pypi.org/project/unit-analysis-package/"
+}

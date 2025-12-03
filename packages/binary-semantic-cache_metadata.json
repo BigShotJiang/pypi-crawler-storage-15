@@ -1,11 +1,11 @@
 {
   "name": "binary-semantic-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "High-performance semantic caching for LLM APIs using binary embeddings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "binary_semantic_cache-1.0.0-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-12-03T14:21:05.990054",
+  "download_filename": "binary_semantic_cache-1.0.1.tar.gz",
+  "download_time": "2025-12-03T14:48:19.740547",
   "package_url": "https://pypi.org/project/binary-semantic-cache/"
 }

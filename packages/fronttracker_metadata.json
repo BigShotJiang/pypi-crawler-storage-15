@@ -1,0 +1,11 @@
+{
+  "name": "fronttracker",
+  "version": "1.1.0",
+  "summary": "Library for detection and monitoring of ocean fronts",
+  "author": "Emmanuel Romero",
+  "license": "CC-BY-4.0",
+  "home_page": "https://github.com/romeroqe/fronttracker",
+  "download_filename": "fronttracker-1.1.0.tar.gz",
+  "download_time": "2025-12-03T14:48:13.556643",
+  "package_url": "https://pypi.org/project/fronttracker/"
+}
