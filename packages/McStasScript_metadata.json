@@ -1,0 +1,11 @@
+{
+  "name": "McStasScript",
+  "version": "0.0.76",
+  "summary": "A python scripting interface for McStas",
+  "author": "Mads Bertelsen",
+  "license": null,
+  "home_page": "https://github.com/PaNOSC-ViNYL/McStasScript",
+  "download_filename": "mcstasscript-0.0.76.tar.gz",
+  "download_time": "2025-12-03T10:49:49.092242",
+  "package_url": "https://pypi.org/project/McStasScript/"
+}

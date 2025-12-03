@@ -1,0 +1,11 @@
+{
+  "name": "dnv-hydrod",
+  "version": "1.0.3rc48",
+  "summary": "Python library for working with DNV HydroD workspaces and workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dnv_hydrod-1.0.3rc48.tar.gz",
+  "download_time": "2025-12-03T10:49:46.479926",
+  "package_url": "https://pypi.org/project/dnv-hydrod/"
+}

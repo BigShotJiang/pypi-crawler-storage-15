@@ -1,0 +1,11 @@
+{
+  "name": "django-headless",
+  "version": "1.0.0b6",
+  "summary": "Automagically create a REST API for your Django models",
+  "author": "Leon van der Grient",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_headless-1.0.0b6.tar.gz",
+  "download_time": "2025-12-03T10:49:55.324147",
+  "package_url": "https://pypi.org/project/django-headless/"
+}

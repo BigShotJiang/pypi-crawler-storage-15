@@ -1,0 +1,11 @@
+{
+  "name": "py_mini_logger",
+  "version": "0.1.6",
+  "summary": "Easily run bash commands with boolean conversion utilities",
+  "author": "lamnguyenx",
+  "license": "apache",
+  "home_page": "https://github.com/lamnguyenx/mini_logger.git",
+  "download_filename": "py_mini_logger-0.1.6.tar.gz",
+  "download_time": "2025-12-03T10:50:00.972092",
+  "package_url": "https://pypi.org/project/py_mini_logger/"
+}

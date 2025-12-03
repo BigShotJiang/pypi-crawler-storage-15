@@ -1,0 +1,11 @@
+{
+  "name": "xraydc",
+  "version": "0.0.0",
+  "summary": "X-Ray Diffraction Cooking -- nx5d data processing recipes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xraydc-0.0.0.tar.gz",
+  "download_time": "2025-12-03T10:49:38.685793",
+  "package_url": "https://pypi.org/project/xraydc/"
+}

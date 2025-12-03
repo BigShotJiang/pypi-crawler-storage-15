@@ -1,0 +1,11 @@
+{
+  "name": "ps_eor",
+  "version": "0.34.1",
+  "summary": "Power Spectra generation for 21-cm experiments and Foreground modeling/removal",
+  "author": "Florent Mertens",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ps_eor-0.34.1.tar.gz",
+  "download_time": "2025-12-03T10:50:09.169960",
+  "package_url": "https://pypi.org/project/ps_eor/"
+}
