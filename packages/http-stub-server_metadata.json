@@ -1,0 +1,11 @@
+{
+  "name": "http-stub-server",
+  "version": "1.0.0",
+  "summary": "A configurable HTTP stub server for e-commerce API testing",
+  "author": "Soumya Sagar",
+  "license": "MIT",
+  "home_page": "https://github.com/Soumya-codr/OJTCheats",
+  "download_filename": "http_stub_server-1.0.0.tar.gz",
+  "download_time": "2025-12-03T17:45:47.236347",
+  "package_url": "https://pypi.org/project/http-stub-server/"
+}

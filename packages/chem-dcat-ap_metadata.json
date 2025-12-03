@@ -1,0 +1,11 @@
+{
+  "name": "chem-dcat-ap",
+  "version": "0.1.0rc1",
+  "summary": "An extension of the DCAT Application Profile extended to provide chemistry specific specific metadata for datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chem_dcat_ap-0.1.0rc1.tar.gz",
+  "download_time": "2025-12-03T17:46:13.979105",
+  "package_url": "https://pypi.org/project/chem-dcat-ap/"
+}

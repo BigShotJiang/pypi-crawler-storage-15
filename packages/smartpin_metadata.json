@@ -1,0 +1,11 @@
+{
+  "name": "smartpin",
+  "version": "0.2.4",
+  "summary": "AI-powered Pinboard bookmark manager using AI for tagging and summarization",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "smartpin-0.2.4.tar.gz",
+  "download_time": "2025-12-03T17:46:14.488398",
+  "package_url": "https://pypi.org/project/smartpin/"
+}

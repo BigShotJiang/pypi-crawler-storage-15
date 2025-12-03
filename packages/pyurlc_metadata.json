@@ -1,11 +1,11 @@
 {
   "name": "pyurlc",
-  "version": "2.0.1",
-  "summary": "Ultra-fast URL encoding/decoding in C with SIMD",
-  "author": "pyurlc developer",
-  "license": null,
+  "version": "3.0.0",
+  "summary": "Ultra-fast URL encoding/decoding in C with SIMD optimizations (30-35x faster than urllib.parse)",
+  "author": "Maksym Kuzmych",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyurlc-2.0.1.tar.gz",
-  "download_time": "2025-12-03T17:21:59.503937",
+  "download_filename": "pyurlc-3.0.0.tar.gz",
+  "download_time": "2025-12-03T17:45:59.407764",
   "package_url": "https://pypi.org/project/pyurlc/"
 }

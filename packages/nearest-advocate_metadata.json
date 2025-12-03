@@ -1,0 +1,11 @@
+{
+  "name": "nearest-advocate",
+  "version": "0.2.0.5",
+  "summary": "A time delay estimation method for discrete event-based time-series data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nearest_advocate-0.2.0.5-py3-none-any.whl",
+  "download_time": "2025-12-03T17:45:52.096398",
+  "package_url": "https://pypi.org/project/nearest-advocate/"
+}

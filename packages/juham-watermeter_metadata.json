@@ -1,11 +1,11 @@
 {
   "name": "juham-watermeter",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Web-camera based watermeter for Juham",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "juham_watermeter-0.1.4.tar.gz",
-  "download_time": "2025-12-03T16:28:35.555397",
+  "download_filename": "juham_watermeter-0.1.5.tar.gz",
+  "download_time": "2025-12-03T17:45:53.116805",
   "package_url": "https://pypi.org/project/juham-watermeter/"
 }

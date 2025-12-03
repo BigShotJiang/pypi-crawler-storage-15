@@ -1,0 +1,11 @@
+{
+  "name": "caterva2",
+  "version": "2025.12.3",
+  "summary": "A high-performance storage and computation system for Blosc2 datasets",
+  "author": null,
+  "license": "GNU Affero General Public License version 3",
+  "home_page": null,
+  "download_filename": "caterva2-2025.12.3.tar.gz",
+  "download_time": "2025-12-03T17:45:50.495058",
+  "package_url": "https://pypi.org/project/caterva2/"
+}
