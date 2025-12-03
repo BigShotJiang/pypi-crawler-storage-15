@@ -1,0 +1,11 @@
+{
+  "name": "haxball",
+  "version": "1.1",
+  "summary": "A powerful library for interacting with the Haxball Headless API",
+  "author": "haxball.py contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "haxball-1.1.tar.gz",
+  "download_time": "2025-12-03T22:19:30.544037",
+  "package_url": "https://pypi.org/project/haxball/"
+}

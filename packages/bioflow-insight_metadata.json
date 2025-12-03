@@ -1,0 +1,11 @@
+{
+  "name": "bioflow-insight",
+  "version": "2.0.1",
+  "summary": "A software to extract and analyze the structure and associated metadata from a Nextflow workflow.",
+  "author": "George Marchment",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bioflow_insight-2.0.1.tar.gz",
+  "download_time": "2025-12-03T22:19:27.913693",
+  "package_url": "https://pypi.org/project/bioflow-insight/"
+}

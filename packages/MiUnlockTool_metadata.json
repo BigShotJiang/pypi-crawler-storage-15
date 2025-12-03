@@ -1,0 +1,11 @@
+{
+  "name": "MiUnlockTool",
+  "version": "0.0.1",
+  "summary": "Wrapper to install the miunlock library",
+  "author": "offici5l",
+  "license": null,
+  "home_page": null,
+  "download_filename": "miunlocktool-0.0.1.tar.gz",
+  "download_time": "2025-12-03T22:19:59.046534",
+  "package_url": "https://pypi.org/project/MiUnlockTool/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ngsfragments",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "summary": "Python package for Next Generation Sequencing fragment manipulation",
   "author": "Kyle S. Smith",
   "license": "GPL-2.0-or-later",
   "home_page": "https://github.com/kylessmith/ngsfragments",
-  "download_filename": "ngsfragments-2.5.2.tar.gz",
-  "download_time": "2025-12-03T18:33:43.566631",
+  "download_filename": "ngsfragments-2.5.3.tar.gz",
+  "download_time": "2025-12-03T22:19:29.515278",
   "package_url": "https://pypi.org/project/ngsfragments/"
 }

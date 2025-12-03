@@ -1,0 +1,11 @@
+{
+  "name": "pop-python",
+  "version": "1.0.4",
+  "summary": "Prompt Oriented Programming (POP): reusable, composable prompt functions for LLMs.",
+  "author": "Guotai Shen",
+  "license": null,
+  "home_page": "https://github.com/sgt1796/POP",
+  "download_filename": "pop_python-1.0.4.tar.gz",
+  "download_time": "2025-12-03T22:19:30.030377",
+  "package_url": "https://pypi.org/project/pop-python/"
+}

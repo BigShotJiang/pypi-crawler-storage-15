@@ -1,0 +1,11 @@
+{
+  "name": "pyzyconfig",
+  "version": "0.0.1",
+  "summary": "Easy experiment configuration saver for ML projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyzyconfig-0.0.1.tar.gz",
+  "download_time": "2025-12-03T22:19:45.017994",
+  "package_url": "https://pypi.org/project/pyzyconfig/"
+}

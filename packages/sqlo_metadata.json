@@ -1,0 +1,11 @@
+{
+  "name": "sqlo",
+  "version": "0.2.0",
+  "summary": "A modern, type-safe, and extensible SQL query builder for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlo-0.2.0.tar.gz",
+  "download_time": "2025-12-03T22:19:25.333893",
+  "package_url": "https://pypi.org/project/sqlo/"
+}

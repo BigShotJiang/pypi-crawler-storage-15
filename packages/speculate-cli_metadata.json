@@ -1,11 +1,11 @@
 {
   "name": "speculate-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Structured agent specs, shortcuts, and doc workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "speculate_cli-0.0.4.tar.gz",
-  "download_time": "2025-12-03T10:50:00.460840",
+  "download_filename": "speculate_cli-0.0.5.tar.gz",
+  "download_time": "2025-12-03T22:19:53.903903",
   "package_url": "https://pypi.org/project/speculate-cli/"
 }
