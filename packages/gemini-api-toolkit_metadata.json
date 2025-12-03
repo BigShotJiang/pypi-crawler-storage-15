@@ -1,0 +1,11 @@
+{
+  "name": "gemini-api-toolkit",
+  "version": "0.2.0",
+  "summary": "A robust, lightweight Python wrapper for the Google Gemini API.",
+  "author": "Danielnara24",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemini_api_toolkit-0.2.0.tar.gz",
+  "download_time": "2025-12-03T05:53:00.808630",
+  "package_url": "https://pypi.org/project/gemini-api-toolkit/"
+}

@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-03T05:43:50.136040
+- **Download Time**: 2025-12-03T05:53:42.235273
 - **Total Packages**: 84
-- **Total Size**: 27.03 MB
+- **Total Size**: 3.99 MB
 
 ## Packages List
+- plugo
+- aider-ce
+- eval-protocol
+- fwauto
+- py-infinigram
+- gemini-api-toolkit
+- pulumi-aws-apigateway
+- pulumi-f5bigip
+- pulumi-external
+- edx-games
+- ldr-modelling
+- memoire
+- advent-of-code-wim
 - paytechuz
 - tencent-wedata-auto-ml
 - django-growl-notifier
@@ -24,7 +37,6 @@
 - segment-geospatial
 - semantic-text-aligner
 - pulumi-confluentcloud
-- fwauto
 - pulumi-archive
 - mbari-aidata
 - fast-backend-builder
@@ -33,7 +45,6 @@
 - utg-base
 - pywebtask
 - agentscope-extension-nacos
-- pulumi-aws-apigateway
 - uoc-va-boi
 - tuya2mqtt
 - pulumi-cloudamqp
@@ -79,14 +90,3 @@
 - masterpiece-influx
 - produckai-mcp-server
 - flex-evals
-- jetflow
-- vizforge
-- horus-robotics
-- beartype
-- pgcopylib
-- omendb
-- torch-pns
-- langchain-chaos-middleware
-- dastaans-lib-manager
-- ai-debugger-inc
-- turboloader

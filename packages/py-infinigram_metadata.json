@@ -1,0 +1,11 @@
+{
+  "name": "py-infinigram",
+  "version": "0.4.1",
+  "summary": "Variable-length n-gram language models using suffix arrays",
+  "author": "Alex Towell",
+  "license": null,
+  "home_page": "https://github.com/queelius/infinigram",
+  "download_filename": "py_infinigram-0.4.1.tar.gz",
+  "download_time": "2025-12-03T05:53:00.224719",
+  "package_url": "https://pypi.org/project/py-infinigram/"
+}

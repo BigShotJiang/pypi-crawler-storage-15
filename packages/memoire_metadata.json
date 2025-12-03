@@ -1,0 +1,11 @@
+{
+  "name": "memoire",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Mémoire memory engine",
+  "author": "Memoire Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memoire-0.1.0.tar.gz",
+  "download_time": "2025-12-03T05:53:04.470016",
+  "package_url": "https://pypi.org/project/memoire/"
+}
