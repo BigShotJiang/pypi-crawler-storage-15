@@ -1,0 +1,11 @@
+{
+  "name": "jaxace",
+  "version": "0.4.0",
+  "summary": "JAX implementation of AbstractCosmologicalEmulators.jl interface with artifact support",
+  "author": "marcobonici",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaxace-0.4.0.tar.gz",
+  "download_time": "2025-12-03T05:20:37.159907",
+  "package_url": "https://pypi.org/project/jaxace/"
+}

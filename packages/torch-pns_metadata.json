@@ -1,0 +1,11 @@
+{
+  "name": "torch-pns",
+  "version": "0.1.0",
+  "summary": "PyTorch implementation of principal nested spheres (PNS) analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_pns-0.1.0.tar.gz",
+  "download_time": "2025-12-03T05:20:48.505000",
+  "package_url": "https://pypi.org/project/torch-pns/"
+}

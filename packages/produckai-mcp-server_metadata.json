@@ -1,0 +1,11 @@
+{
+  "name": "produckai-mcp-server",
+  "version": "0.7.0",
+  "summary": "ProduckAI MCP Server - Product feedback analysis integration for Claude Desktop",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "produckai_mcp_server-0.7.0.tar.gz",
+  "download_time": "2025-12-03T05:20:42.287677",
+  "package_url": "https://pypi.org/project/produckai-mcp-server/"
+}

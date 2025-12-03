@@ -1,0 +1,11 @@
+{
+  "name": "semantic-link",
+  "version": "0.13.0",
+  "summary": "Semantic link for Microsoft Fabric",
+  "author": "Microsoft",
+  "license": "proprietary and confidential",
+  "home_page": "https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-overview",
+  "download_filename": "semantic_link-0.13.0-py3-none-any.whl",
+  "download_time": "2025-12-03T05:20:56.902112",
+  "package_url": "https://pypi.org/project/semantic-link/"
+}

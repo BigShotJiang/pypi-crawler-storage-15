@@ -1,0 +1,11 @@
+{
+  "name": "cheetah-greb",
+  "version": "2.1.0",
+  "summary": "AI-powered intelligent code search - client package with grep, read, and AST analysis (GPU reranking via cloud API)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cheetah_greb-2.1.0.tar.gz",
+  "download_time": "2025-12-03T05:21:02.211041",
+  "package_url": "https://pypi.org/project/cheetah-greb/"
+}

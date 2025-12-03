@@ -1,0 +1,11 @@
+{
+  "name": "semantic-link-functions-meteostat",
+  "version": "0.13.0",
+  "summary": "Semantic link functions for meteostat package. Enables enrichment of FabricDataFrame with historical weather data.",
+  "author": "Microsoft",
+  "license": "MIT License",
+  "home_page": "https://github.com/microsoft/semantic-link-functions",
+  "download_filename": "semantic_link_functions_meteostat-0.13.0-py3-none-any.whl",
+  "download_time": "2025-12-03T05:20:55.218378",
+  "package_url": "https://pypi.org/project/semantic-link-functions-meteostat/"
+}

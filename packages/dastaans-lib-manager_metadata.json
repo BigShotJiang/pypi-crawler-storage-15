@@ -1,0 +1,11 @@
+{
+  "name": "dastaans-lib-manager",
+  "version": "0.1.0",
+  "summary": "A library manager for installing private Python libraries from Git",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/dastaans-lib-manager",
+  "download_filename": "dastaans_lib_manager-0.1.0.tar.gz",
+  "download_time": "2025-12-03T05:20:49.616245",
+  "package_url": "https://pypi.org/project/dastaans-lib-manager/"
+}
