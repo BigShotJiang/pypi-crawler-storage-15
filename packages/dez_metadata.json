@@ -1,11 +1,11 @@
 {
   "name": "dez",
-  "version": "0.10.10.43",
+  "version": "0.10.10.44",
   "summary": "A set of pyevent-based network services",
   "author": "Mario Balibrera",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "dez-0.10.10.43-py3-none-any.whl",
-  "download_time": "2025-12-03T07:22:33.278698",
+  "download_filename": "dez-0.10.10.44-py3-none-any.whl",
+  "download_time": "2025-12-03T07:42:42.244030",
   "package_url": "https://pypi.org/project/dez/"
 }

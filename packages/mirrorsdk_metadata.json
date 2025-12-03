@@ -1,0 +1,11 @@
+{
+  "name": "mirrorsdk",
+  "version": "0.1.2",
+  "summary": "Python SDK for Mirror Chat API",
+  "author": "Dipesh Majithia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mirrorsdk-0.1.2.tar.gz",
+  "download_time": "2025-12-03T07:42:45.055495",
+  "package_url": "https://pypi.org/project/mirrorsdk/"
+}

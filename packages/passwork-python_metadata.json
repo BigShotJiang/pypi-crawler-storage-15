@@ -1,0 +1,11 @@
+{
+  "name": "passwork-python",
+  "version": "0.1.7",
+  "summary": "Python client for Passwork 7 API",
+  "author": "Passwork Team",
+  "license": "MIT",
+  "home_page": "https://github.com/passwork-me/passwork-python",
+  "download_filename": "passwork_python-0.1.7.tar.gz",
+  "download_time": "2025-12-03T07:42:37.249391",
+  "package_url": "https://pypi.org/project/passwork-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "shakti-config",
+  "version": "2.4.0",
+  "summary": "C-Class Core Generator",
+  "author": "IIT Madras",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "shakti_config-2.4.0.tar.gz",
+  "download_time": "2025-12-03T07:42:44.514491",
+  "package_url": "https://pypi.org/project/shakti-config/"
+}
