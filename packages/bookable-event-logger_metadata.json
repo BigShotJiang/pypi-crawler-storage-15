@@ -1,0 +1,11 @@
+{
+  "name": "bookable-event-logger",
+  "version": "0.1.0",
+  "summary": "Internal Pub/Sub → BigQuery event logger for Bookable services (Python)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bookable_event_logger-0.1.0.tar.gz",
+  "download_time": "2025-12-03T10:22:43.299439",
+  "package_url": "https://pypi.org/project/bookable-event-logger/"
+}

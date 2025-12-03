@@ -1,0 +1,11 @@
+{
+  "name": "holcstore",
+  "version": "0.5.12",
+  "summary": "A Django App to efficiently store dense timeseries",
+  "author": "Jean-Pierre Lartigue, Yohan Roy",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "holcstore-0.5.12.tar.gz",
+  "download_time": "2025-12-03T10:23:06.991675",
+  "package_url": "https://pypi.org/project/holcstore/"
+}

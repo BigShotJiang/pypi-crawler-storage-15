@@ -1,0 +1,11 @@
+{
+  "name": "mcp-xray",
+  "version": "0.1.0",
+  "summary": "Xray MCP server for proxying and managing Jira Xray requests with AI language models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_xray-0.1.0.tar.gz",
+  "download_time": "2025-12-03T10:23:16.919149",
+  "package_url": "https://pypi.org/project/mcp-xray/"
+}

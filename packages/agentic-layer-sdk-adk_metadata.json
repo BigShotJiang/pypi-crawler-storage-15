@@ -1,11 +1,11 @@
 {
   "name": "agentic-layer-sdk-adk",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentic_layer_sdk_adk-0.8.0.tar.gz",
-  "download_time": "2025-12-03T09:24:08.757067",
+  "download_filename": "agentic_layer_sdk_adk-0.8.1.tar.gz",
+  "download_time": "2025-12-03T10:22:48.013027",
   "package_url": "https://pypi.org/project/agentic-layer-sdk-adk/"
 }

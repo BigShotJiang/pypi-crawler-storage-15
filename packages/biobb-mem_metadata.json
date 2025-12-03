@@ -1,0 +1,11 @@
+{
+  "name": "biobb-mem",
+  "version": "5.1.2",
+  "summary": "Biobb_mem is a complete code template to promote and facilitate the creation of new Biobbs by the community.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_mem",
+  "download_filename": "biobb_mem-5.1.2.tar.gz",
+  "download_time": "2025-12-03T10:23:00.207677",
+  "package_url": "https://pypi.org/project/biobb-mem/"
+}

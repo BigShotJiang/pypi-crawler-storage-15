@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-energy-communities-crm",
+  "version": "16.0.0.3.4",
+  "summary": "Use CRM for coordinators and energy communities",
+  "author": "Som Comunitats",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/comunitats-energetiques/odoo-ce",
+  "download_filename": "odoo_addon_energy_communities_crm-16.0.0.3.4.tar.gz",
+  "download_time": "2025-12-03T10:23:15.899201",
+  "package_url": "https://pypi.org/project/odoo-addon-energy-communities-crm/"
+}

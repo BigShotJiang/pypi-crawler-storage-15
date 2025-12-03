@@ -1,0 +1,11 @@
+{
+  "name": "neuroflow-viz",
+  "version": "0.2.0",
+  "summary": "Lightweight dataflow tracer for Python functions",
+  "author": "Nipun Sujesh",
+  "license": null,
+  "home_page": "https://github.com/Luc0-0/NeuroFlow",
+  "download_filename": "neuroflow_viz-0.2.0.tar.gz",
+  "download_time": "2025-12-03T10:22:31.886975",
+  "package_url": "https://pypi.org/project/neuroflow-viz/"
+}

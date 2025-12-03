@@ -1,11 +1,11 @@
 {
   "name": "smartpi",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "summary": "A library use for H2-RCU",
   "author": "ZMROBO",
   "license": null,
   "home_page": null,
-  "download_filename": "smartpi-0.1.32-py3-none-any.whl",
-  "download_time": "2025-12-03T09:24:05.061023",
+  "download_filename": "smartpi-0.1.33-py3-none-any.whl",
+  "download_time": "2025-12-03T10:22:42.279446",
   "package_url": "https://pypi.org/project/smartpi/"
 }

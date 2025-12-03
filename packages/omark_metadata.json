@@ -1,0 +1,11 @@
+{
+  "name": "omark",
+  "version": "0.4.1",
+  "summary": "OMArk - Proteome quality assesment based on OMAmer placements",
+  "author": "Yannis Nevers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omark-0.4.1.tar.gz",
+  "download_time": "2025-12-03T10:22:48.541317",
+  "package_url": "https://pypi.org/project/omark/"
+}
