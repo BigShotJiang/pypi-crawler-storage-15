@@ -1,0 +1,11 @@
+{
+  "name": "thumbtack",
+  "version": "0.5.8",
+  "summary": "Service to manage disk image mounts.",
+  "author": "The MITRE Corporation",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mitre/thumbtack",
+  "download_filename": "thumbtack-0.5.8.tar.gz",
+  "download_time": "2025-12-03T16:28:51.471872",
+  "package_url": "https://pypi.org/project/thumbtack/"
+}

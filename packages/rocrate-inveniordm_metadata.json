@@ -1,0 +1,11 @@
+{
+  "name": "rocrate-inveniordm",
+  "version": "2.1.0",
+  "summary": "Upload RO-Crates to InvenioRDM and automatically fill the metadata. Supports any InvenioRDM instance, including Zenodo.",
+  "author": "Philipp Beer",
+  "license": "MIT",
+  "home_page": "https://www.researchobject.org/ro-crate/",
+  "download_filename": "rocrate_inveniordm-2.1.0.tar.gz",
+  "download_time": "2025-12-03T16:28:07.722865",
+  "package_url": "https://pypi.org/project/rocrate-inveniordm/"
+}

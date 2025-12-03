@@ -1,0 +1,11 @@
+{
+  "name": "jules-cli",
+  "version": "12.0.0",
+  "summary": "A developer CLI for Jules API automation",
+  "author": "dhruv13x",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jules_cli-12.0.0.tar.gz",
+  "download_time": "2025-12-03T16:28:02.360785",
+  "package_url": "https://pypi.org/project/jules-cli/"
+}

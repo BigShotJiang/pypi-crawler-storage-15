@@ -1,0 +1,11 @@
+{
+  "name": "st-styled",
+  "version": "0.2.0",
+  "summary": "Advanced styling and custom components for Streamlit applications",
+  "author": "JonathanAlles",
+  "license": "MIT",
+  "home_page": "https://st-styled.evo-byte.com/",
+  "download_filename": "st_styled-0.2.0.tar.gz",
+  "download_time": "2025-12-03T16:28:37.176394",
+  "package_url": "https://pypi.org/project/st-styled/"
+}

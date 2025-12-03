@@ -1,11 +1,11 @@
 {
   "name": "desc-crow",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Cluster Reconstruction of Observables Workbench",
   "author": "The LSST DESC CROW Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "desc_crow-0.5.1.tar.gz",
-  "download_time": "2025-12-03T14:21:16.066365",
+  "download_filename": "desc_crow-0.5.2.tar.gz",
+  "download_time": "2025-12-03T16:28:41.066107",
   "package_url": "https://pypi.org/project/desc-crow/"
 }

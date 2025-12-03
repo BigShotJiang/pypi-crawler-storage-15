@@ -1,11 +1,11 @@
 {
   "name": "ape-lang",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Ape — The Because-I-Said-So Language for deterministic AI programming",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ape_lang-0.1.1.tar.gz",
-  "download_time": "2025-12-03T11:51:01.457038",
+  "download_filename": "ape_lang-0.1.2.tar.gz",
+  "download_time": "2025-12-03T16:28:03.968806",
   "package_url": "https://pypi.org/project/ape-lang/"
 }

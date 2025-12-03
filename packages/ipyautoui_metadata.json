@@ -1,0 +1,11 @@
+{
+  "name": "ipyautoui",
+  "version": "0.8.3",
+  "summary": "wrapper that sits on top of ipywidgets and other ipy widget libraries to template / automate the creation of widget forms. Uses pydantic to create defined data-container and serialisation to JSON. Includes example patterns for adding new custom widgets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipyautoui-0.8.3.tar.gz",
+  "download_time": "2025-12-03T16:28:09.358926",
+  "package_url": "https://pypi.org/project/ipyautoui/"
+}
