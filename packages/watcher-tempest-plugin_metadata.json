@@ -1,0 +1,11 @@
+{
+  "name": "watcher-tempest-plugin",
+  "version": "3.6.0",
+  "summary": "Tempest plugin watcher-tempest-plugin",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/watcher/latest/",
+  "download_filename": "watcher_tempest_plugin-3.6.0.tar.gz",
+  "download_time": "2025-12-04T05:54:21.967041",
+  "package_url": "https://pypi.org/project/watcher-tempest-plugin/"
+}

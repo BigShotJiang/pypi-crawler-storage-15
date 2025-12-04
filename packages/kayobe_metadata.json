@@ -1,11 +1,11 @@
 {
   "name": "kayobe",
-  "version": "18.3.0",
+  "version": "19.0.0",
   "summary": "Deployment of OpenStack to bare metal using OpenStack kolla and bifrost",
   "author": "OpenStack",
   "license": "Apache License, Version 2.0",
   "home_page": "https://docs.openstack.org/kayobe/latest/",
-  "download_filename": "kayobe-18.3.0.tar.gz",
-  "download_time": "2025-12-03T14:48:20.768265",
+  "download_filename": "kayobe-19.0.0.tar.gz",
+  "download_time": "2025-12-04T05:54:09.326408",
   "package_url": "https://pypi.org/project/kayobe/"
 }

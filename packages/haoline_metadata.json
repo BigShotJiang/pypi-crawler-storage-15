@@ -1,11 +1,11 @@
 {
   "name": "haoline",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "HaoLine (好线) - Universal Model Inspector. See what's really inside your models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "haoline-0.1.0.tar.gz",
-  "download_time": "2025-12-04T05:44:19.360523",
+  "download_filename": "haoline-0.2.1.tar.gz",
+  "download_time": "2025-12-04T05:54:07.716983",
   "package_url": "https://pypi.org/project/haoline/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ironic",
+  "version": "33.0.0",
+  "summary": "OpenStack Bare Metal Provisioning",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ironic-33.0.0.tar.gz",
+  "download_time": "2025-12-04T05:54:27.708103",
+  "package_url": "https://pypi.org/project/ironic/"
+}
