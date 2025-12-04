@@ -1,11 +1,11 @@
 {
   "name": "llm-benchmark-toolkit",
-  "version": "2.2.1",
-  "summary": "Benchmark LLMs with real academic datasets: MMLU, TruthfulQA, HellaSwag, ARC & more. Web dashboard included.",
+  "version": "2.3.1",
+  "summary": "Benchmark LLMs with 9 benchmarks & 100K+ questions. 8 providers: OpenAI, Anthropic, Groq, Together, Fireworks, DeepSeek, Ollama, HuggingFace. Web dashboard included.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_benchmark_toolkit-2.2.1.tar.gz",
-  "download_time": "2025-12-02T22:51:01.982706",
+  "download_filename": "llm_benchmark_toolkit-2.3.1.tar.gz",
+  "download_time": "2025-12-04T01:26:15.763991",
   "package_url": "https://pypi.org/project/llm-benchmark-toolkit/"
 }

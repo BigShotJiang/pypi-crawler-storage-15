@@ -1,0 +1,11 @@
+{
+  "name": "firestone-lib",
+  "version": "0.2.4",
+  "summary": "Library to help build OpenAPI, AsyncAPI and gRPC specs based off one or more resource json schema files",
+  "author": "Erick Bourgeois",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "firestone_lib-0.2.4.tar.gz",
+  "download_time": "2025-12-04T01:25:55.748507",
+  "package_url": "https://pypi.org/project/firestone-lib/"
+}

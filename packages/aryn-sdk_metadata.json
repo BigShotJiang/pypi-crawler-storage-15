@@ -1,0 +1,11 @@
+{
+  "name": "aryn-sdk",
+  "version": "0.2.14",
+  "summary": "The client library for Aryn services.",
+  "author": "aryn.ai",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "aryn_sdk-0.2.14.tar.gz",
+  "download_time": "2025-12-04T01:26:33.526424",
+  "package_url": "https://pypi.org/project/aryn-sdk/"
+}

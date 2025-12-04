@@ -1,0 +1,11 @@
+{
+  "name": "repligit",
+  "version": "0.2.0",
+  "summary": "A python library implementing the git http transfer protocol.",
+  "author": "Alec Scott, Caetano Melone",
+  "license": null,
+  "home_page": null,
+  "download_filename": "repligit-0.2.0.tar.gz",
+  "download_time": "2025-12-04T01:26:05.699749",
+  "package_url": "https://pypi.org/project/repligit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ese-parser",
+  "version": "0.1.1",
+  "summary": "Fast ESE database parser with Rust backend",
+  "author": "ESE-RS Contributors",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "ese_parser-0.1.1-cp313-cp313-win_amd64.whl",
+  "download_time": "2025-12-04T01:26:41.775482",
+  "package_url": "https://pypi.org/project/ese-parser/"
+}

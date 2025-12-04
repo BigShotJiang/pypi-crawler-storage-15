@@ -1,0 +1,11 @@
+{
+  "name": "mac-alias",
+  "version": "2.2.3",
+  "summary": "Generate/parse macOS Alias records from Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mac_alias-2.2.3.tar.gz",
+  "download_time": "2025-12-04T01:26:41.220743",
+  "package_url": "https://pypi.org/project/mac-alias/"
+}

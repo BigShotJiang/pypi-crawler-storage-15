@@ -1,0 +1,11 @@
+{
+  "name": "wagtailterms",
+  "version": "0.2.1",
+  "summary": "A Wagtail plugin to add support for glossary terms entity to Draftail",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/smark-1/wagtailterms/",
+  "download_filename": "wagtailterms-0.2.1.tar.gz",
+  "download_time": "2025-12-04T01:26:08.106255",
+  "package_url": "https://pypi.org/project/wagtailterms/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sqlite-graft",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": "Carl Sverre",
   "license": "MIT OR Apache",
   "home_page": "https://github.com/orbitinghail/graft",
-  "download_filename": "sqlite_graft-0.2.0-py3-none-win_arm64.whl",
-  "download_time": "2025-12-03T20:46:17.215270",
+  "download_filename": "sqlite_graft-0.2.1-py3-none-win_arm64.whl",
+  "download_time": "2025-12-04T01:26:23.594808",
   "package_url": "https://pypi.org/project/sqlite-graft/"
 }
