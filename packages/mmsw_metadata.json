@@ -1,11 +1,11 @@
 {
   "name": "mmsw",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "summary": "Matilo (C) Deep-Learning Model Serving Worker Module",
   "author": "ryuvsken",
-  "license": null,
+  "license": "BSD",
   "home_page": "https://github.com/ryuvsken",
-  "download_filename": "mmsw-0.0.1.tar.gz",
-  "download_time": "2025-12-04T05:44:10.529752",
+  "download_filename": "mmsw-0.0.4.tar.gz",
+  "download_time": "2025-12-04T06:30:44.344882",
   "package_url": "https://pypi.org/project/mmsw/"
 }

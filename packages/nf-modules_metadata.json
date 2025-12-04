@@ -1,0 +1,11 @@
+{
+  "name": "nf-modules",
+  "version": "0.2.0",
+  "summary": "Nextflow bioinformatics modules",
+  "author": "Josh L. Espinoza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nf_modules-0.2.0.tar.gz",
+  "download_time": "2025-12-04T06:30:55.258487",
+  "package_url": "https://pypi.org/project/nf-modules/"
+}

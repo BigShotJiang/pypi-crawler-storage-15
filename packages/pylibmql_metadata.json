@@ -1,11 +1,11 @@
 {
   "name": "pylibmql",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylibmql-0.1.10.tar.gz",
-  "download_time": "2025-12-04T05:54:18.842336",
+  "download_filename": "pylibmql-0.1.11.tar.gz",
+  "download_time": "2025-12-04T06:30:46.648214",
   "package_url": "https://pypi.org/project/pylibmql/"
 }
