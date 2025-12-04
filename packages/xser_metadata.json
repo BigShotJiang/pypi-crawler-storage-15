@@ -1,0 +1,11 @@
+{
+  "name": "xser",
+  "version": "0.5.1",
+  "summary": "Socket and HTTP Server",
+  "author": "Mingzhe Zou",
+  "license": "GPLv2",
+  "home_page": "https://github.com/bondbox/xser/",
+  "download_filename": "xser-0.5.1.tar.gz",
+  "download_time": "2025-12-04T08:15:20.019831",
+  "package_url": "https://pypi.org/project/xser/"
+}

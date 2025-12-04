@@ -1,0 +1,11 @@
+{
+  "name": "django-queryable-properties",
+  "version": "1.12.1",
+  "summary": "Write Django model properties that can be used in database queries.",
+  "author": "Marcus Klöpfel",
+  "license": "BSD",
+  "home_page": "https://github.com/W1ldPo1nter/django-queryable-properties",
+  "download_filename": "django_queryable_properties-1.12.1.tar.gz",
+  "download_time": "2025-12-04T08:15:29.504399",
+  "package_url": "https://pypi.org/project/django-queryable-properties/"
+}

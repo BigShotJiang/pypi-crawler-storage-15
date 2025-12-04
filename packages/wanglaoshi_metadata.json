@@ -1,11 +1,11 @@
 {
   "name": "wanglaoshi",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "A utility module for DA and ML and DL tasks",
   "author": "WangLaoShi",
   "license": null,
   "home_page": "https://github.com/wanglaoshi/wanglaoshi-pypi",
-  "download_filename": "wanglaoshi-0.11.1.tar.gz",
-  "download_time": "2025-12-04T07:42:07.655293",
+  "download_filename": "wanglaoshi-0.11.2.tar.gz",
+  "download_time": "2025-12-04T08:15:28.348732",
   "package_url": "https://pypi.org/project/wanglaoshi/"
 }

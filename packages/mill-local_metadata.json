@@ -1,0 +1,11 @@
+{
+  "name": "mill-local",
+  "version": "0.5.0",
+  "summary": "A python3 library to communicate with Mill heaters using local Gen 3 API",
+  "author": "Daniel Hjelseth Høyer",
+  "license": "MIT",
+  "home_page": "https://github.com/Danielhiversen/pyMillLocal",
+  "download_filename": "mill_local-0.5.0.tar.gz",
+  "download_time": "2025-12-04T08:15:59.291324",
+  "package_url": "https://pypi.org/project/mill-local/"
+}

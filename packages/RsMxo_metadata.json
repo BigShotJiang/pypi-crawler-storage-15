@@ -1,0 +1,11 @@
+{
+  "name": "RsMxo",
+  "version": "2.7.3",
+  "summary": "MXO Series Digital Oscilloscopes Driver Remote-control module",
+  "author": "Rohde & Schwarz GmbH & Co. KG",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsmxo-2.7.3.tar.gz",
+  "download_time": "2025-12-04T08:15:30.663132",
+  "package_url": "https://pypi.org/project/RsMxo/"
+}

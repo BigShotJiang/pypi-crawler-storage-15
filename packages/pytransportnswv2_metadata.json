@@ -1,0 +1,11 @@
+{
+  "name": "pytransportnswv2",
+  "version": "2.2.0",
+  "summary": "Get detailed per-trip transport information from TransportNSW",
+  "author": "andystewart999",
+  "license": null,
+  "home_page": "https://github.com/andystewart999/TransportNSWv2",
+  "download_filename": "pytransportnswv2-2.2.0.tar.gz",
+  "download_time": "2025-12-04T08:15:44.189585",
+  "package_url": "https://pypi.org/project/pytransportnswv2/"
+}
