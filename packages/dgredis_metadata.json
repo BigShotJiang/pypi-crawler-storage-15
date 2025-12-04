@@ -1,0 +1,11 @@
+{
+  "name": "dgredis",
+  "version": "1.0.0",
+  "summary": "A convenient Redis client wrapper with JSON and datetime support.",
+  "author": "Malanris",
+  "license": "MIT License",
+  "home_page": "https://gitlab.com/gng-group/dgredis.git",
+  "download_filename": "dgredis-1.0.0.tar.gz",
+  "download_time": "2025-12-04T09:46:23.636008",
+  "package_url": "https://pypi.org/project/dgredis/"
+}

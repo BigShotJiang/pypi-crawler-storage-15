@@ -1,11 +1,11 @@
 {
   "name": "simple-language-recognizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Package that recognizes the language of an input string from over 70 languages. The package is probabilistic as the words in the input string are sampled. ",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simple_language_recognizer-0.0.1-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-12-04T08:53:26.477972",
+  "download_filename": "simple_language_recognizer-0.0.2-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-12-04T09:46:31.553959",
   "package_url": "https://pypi.org/project/simple-language-recognizer/"
 }

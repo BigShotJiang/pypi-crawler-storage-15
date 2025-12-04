@@ -1,0 +1,11 @@
+{
+  "name": "tokatami",
+  "version": "0.0.1",
+  "summary": "Python bindings for Tokatami",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tokatami-0.0.1.tar.gz",
+  "download_time": "2025-12-04T09:46:42.012535",
+  "package_url": "https://pypi.org/project/tokatami/"
+}

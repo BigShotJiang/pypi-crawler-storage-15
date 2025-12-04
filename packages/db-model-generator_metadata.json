@@ -1,0 +1,11 @@
+{
+  "name": "db-model-generator",
+  "version": "1.5.1",
+  "summary": "Генератор моделей sqlalchemy из таблиц базы данных",
+  "author": "Маг Ильяс DOMA (MagIlyasDOMA)",
+  "license": "MIT",
+  "home_page": "https://github.com/MagIlyasDOMA/db_model_generator",
+  "download_filename": "db_model_generator-1.5.1.tar.gz",
+  "download_time": "2025-12-04T09:46:13.547038",
+  "package_url": "https://pypi.org/project/db-model-generator/"
+}

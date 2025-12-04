@@ -1,0 +1,11 @@
+{
+  "name": "beans-logging-fastapi",
+  "version": "2.0.0",
+  "summary": "This is a middleware for FastAPI HTTP access logs. It is based on 'beans-logging' package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beans_logging_fastapi-2.0.0.tar.gz",
+  "download_time": "2025-12-04T09:46:29.990700",
+  "package_url": "https://pypi.org/project/beans-logging-fastapi/"
+}
