@@ -1,11 +1,11 @@
 {
   "name": "local-package-visualizer",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Local package dependency visualizer tool",
-  "author": "Nesar",
-  "license": null,
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "local_package_visualizer-0.1.1.tar.gz",
-  "download_time": "2025-12-04T10:23:28.204593",
+  "download_filename": "local_package_visualizer-0.1.3.tar.gz",
+  "download_time": "2025-12-04T11:19:23.031092",
   "package_url": "https://pypi.org/project/local-package-visualizer/"
 }

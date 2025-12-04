@@ -1,0 +1,11 @@
+{
+  "name": "tilebox-storage",
+  "version": "0.46.0",
+  "summary": "Storage client for Tilebox",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "tilebox_storage-0.46.0.tar.gz",
+  "download_time": "2025-12-04T11:19:39.554973",
+  "package_url": "https://pypi.org/project/tilebox-storage/"
+}

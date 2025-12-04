@@ -1,0 +1,11 @@
+{
+  "name": "nostage",
+  "version": "0.1.2",
+  "summary": "🛡️ Protect files from accidental Git commits",
+  "author": "Gururagavendra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nostage-0.1.2.tar.gz",
+  "download_time": "2025-12-04T11:19:24.415027",
+  "package_url": "https://pypi.org/project/nostage/"
+}

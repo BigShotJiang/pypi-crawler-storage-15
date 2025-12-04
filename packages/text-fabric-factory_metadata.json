@@ -1,0 +1,11 @@
+{
+  "name": "text-fabric-factory",
+  "version": "1.0.8",
+  "summary": "Factory for Text-Fabric datasets",
+  "author": "Dirk Roorda",
+  "license": "MIT",
+  "home_page": "https://github.com/annotation/text-fabric-factory",
+  "download_filename": "text_fabric_factory-1.0.8.tar.gz",
+  "download_time": "2025-12-04T11:19:14.231110",
+  "package_url": "https://pypi.org/project/text-fabric-factory/"
+}

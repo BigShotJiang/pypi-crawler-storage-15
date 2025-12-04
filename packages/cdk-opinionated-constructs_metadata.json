@@ -1,11 +1,11 @@
 {
   "name": "cdk-opinionated-constructs",
-  "version": "4.7.16",
+  "version": "4.7.17",
   "summary": "AWS CDK constructs come without added security configurations.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cdk_opinionated_constructs-4.7.16.tar.gz",
-  "download_time": "2025-12-04T09:46:36.265746",
+  "download_filename": "cdk_opinionated_constructs-4.7.17.tar.gz",
+  "download_time": "2025-12-04T11:19:19.009192",
   "package_url": "https://pypi.org/project/cdk-opinionated-constructs/"
 }

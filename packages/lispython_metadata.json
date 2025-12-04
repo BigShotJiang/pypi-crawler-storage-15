@@ -1,0 +1,11 @@
+{
+  "name": "lispython",
+  "version": "0.2.1",
+  "summary": "Lisp-like Syntax for Python with Lisp-like Macros",
+  "author": "Jetack",
+  "license": "MIT",
+  "home_page": "https://jetack.github.io/lispython",
+  "download_filename": "lispython-0.2.1.tar.gz",
+  "download_time": "2025-12-04T11:19:57.044957",
+  "package_url": "https://pypi.org/project/lispython/"
+}

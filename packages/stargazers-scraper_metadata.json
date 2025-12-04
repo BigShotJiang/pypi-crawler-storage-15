@@ -1,0 +1,11 @@
+{
+  "name": "stargazers-scraper",
+  "version": "0.1.0",
+  "summary": "Scrape stargazers from a GitHub repository.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stargazers_scraper-0.1.0.tar.gz",
+  "download_time": "2025-12-04T11:19:44.518126",
+  "package_url": "https://pypi.org/project/stargazers-scraper/"
+}

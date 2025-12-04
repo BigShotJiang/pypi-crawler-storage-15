@@ -1,11 +1,11 @@
 {
   "name": "smallevals",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Small Language Models Evaluation Suite for RAG Systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smallevals-0.1.4.tar.gz",
-  "download_time": "2025-12-04T10:49:35.073573",
+  "download_filename": "smallevals-0.1.5.tar.gz",
+  "download_time": "2025-12-04T11:19:28.412307",
   "package_url": "https://pypi.org/project/smallevals/"
 }

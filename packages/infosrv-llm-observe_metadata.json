@@ -1,0 +1,11 @@
+{
+  "name": "infosrv-llm-observe",
+  "version": "0.1.4",
+  "summary": "A small observability wrapper for LLM projects (Phoenix adapter included)",
+  "author": "Your Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "infosrv_llm_observe-0.1.4.tar.gz",
+  "download_time": "2025-12-04T11:19:55.945120",
+  "package_url": "https://pypi.org/project/infosrv-llm-observe/"
+}
