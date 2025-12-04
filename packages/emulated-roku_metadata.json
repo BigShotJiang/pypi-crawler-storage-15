@@ -1,0 +1,11 @@
+{
+  "name": "emulated-roku",
+  "version": "0.4.0",
+  "summary": "Library to emulate the Roku API for Home Assistant and other automation tools.",
+  "author": "mindigmarton",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/mindig.marton/emulated_roku",
+  "download_filename": "emulated_roku-0.4.0.tar.gz",
+  "download_time": "2025-12-04T08:53:19.692448",
+  "package_url": "https://pypi.org/project/emulated-roku/"
+}

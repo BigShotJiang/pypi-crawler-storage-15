@@ -1,0 +1,11 @@
+{
+  "name": "startup-control-mcp",
+  "version": "0.1.2",
+  "summary": "A powerful cross-platform startup item management tool with MCP support | 强大的跨平台开机启动项管理工具",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "startup_control_mcp-0.1.2.tar.gz",
+  "download_time": "2025-12-04T08:53:24.301544",
+  "package_url": "https://pypi.org/project/startup-control-mcp/"
+}

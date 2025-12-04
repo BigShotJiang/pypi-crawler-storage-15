@@ -1,0 +1,11 @@
+{
+  "name": "openstb-simulator",
+  "version": "0.6.1",
+  "summary": "SONAR simulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openstb_simulator-0.6.1.tar.gz",
+  "download_time": "2025-12-04T08:53:04.831017",
+  "package_url": "https://pypi.org/project/openstb-simulator/"
+}

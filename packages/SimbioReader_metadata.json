@@ -1,0 +1,11 @@
+{
+  "name": "SimbioReader",
+  "version": "0.5.11",
+  "summary": "Python Reader for the data from SIMBIO-SYS instrument suite on-board the ESA mission BepiColombo",
+  "author": "Romolo Politi",
+  "license": "GNU GPL ver3",
+  "home_page": "https://github.com/SIMBIO-SYS/SimbioReader",
+  "download_filename": "simbioreader-0.5.11.tar.gz",
+  "download_time": "2025-12-04T08:53:21.749447",
+  "package_url": "https://pypi.org/project/SimbioReader/"
+}

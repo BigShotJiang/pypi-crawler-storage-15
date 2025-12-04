@@ -1,0 +1,11 @@
+{
+  "name": "update-mypy-hook",
+  "version": "0.3.0",
+  "summary": "Update the additional dependencies of mypy pre-commit hook from uv.lock",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "update_mypy_hook-0.3.0.tar.gz",
+  "download_time": "2025-12-04T08:53:20.205551",
+  "package_url": "https://pypi.org/project/update-mypy-hook/"
+}
