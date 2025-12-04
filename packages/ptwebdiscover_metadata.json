@@ -1,0 +1,11 @@
+{
+  "name": "ptwebdiscover",
+  "version": "1.1.5",
+  "summary": "Web Source Discovery Tool",
+  "author": "Penterep",
+  "license": "GPLv3",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptwebdiscover-1.1.5.tar.gz",
+  "download_time": "2025-12-04T21:51:06.784439",
+  "package_url": "https://pypi.org/project/ptwebdiscover/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gitro",
+  "version": "1.0.0",
+  "summary": "Open the current repository on your browser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitro-1.0.0.tar.gz",
+  "download_time": "2025-12-04T21:51:15.320507",
+  "package_url": "https://pypi.org/project/gitro/"
+}
