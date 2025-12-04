@@ -1,0 +1,11 @@
+{
+  "name": "core-module-chemical-composition-simple-app",
+  "version": "2.18.0",
+  "summary": "Chemical composition simple module for the parser core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_module_chemical_composition_simple_app",
+  "download_filename": "core_module_chemical_composition_simple_app-2.18.0.tar.gz",
+  "download_time": "2025-12-04T17:22:10.537286",
+  "package_url": "https://pypi.org/project/core-module-chemical-composition-simple-app/"
+}

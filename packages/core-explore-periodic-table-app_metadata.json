@@ -1,0 +1,11 @@
+{
+  "name": "core-explore-periodic-table-app",
+  "version": "2.18.0",
+  "summary": "Core explore periodic table capabilities for the curator core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_explore_periodic_table_app",
+  "download_filename": "core_explore_periodic_table_app-2.18.0.tar.gz",
+  "download_time": "2025-12-04T17:22:19.890896",
+  "package_url": "https://pypi.org/project/core-explore-periodic-table-app/"
+}

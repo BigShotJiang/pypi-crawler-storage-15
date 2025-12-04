@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-usability",
+  "version": "18.0.1.0.0.2",
+  "summary": "Adds missing menu entries for Product module and adds extra groups to fine-tune access rights",
+  "author": "GRAP, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-attribute",
+  "download_filename": "odoo_addon_product_usability-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-04T17:22:31.222474",
+  "package_url": "https://pypi.org/project/odoo-addon-product-usability/"
+}

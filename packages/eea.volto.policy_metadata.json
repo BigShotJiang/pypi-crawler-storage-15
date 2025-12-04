@@ -1,11 +1,11 @@
 {
   "name": "eea.volto.policy",
-  "version": "9.3",
+  "version": "10.0",
   "summary": "An add-on for Plone",
   "author": "European Environment Agency: IDM2 A-Team",
   "license": "GPL version 2",
   "home_page": "https://github.com/eea/eea.volto.policy",
-  "download_filename": "eea_volto_policy-9.3.tar.gz",
-  "download_time": "2025-12-04T16:55:44.615980",
+  "download_filename": "eea_volto_policy-10.0.tar.gz",
+  "download_time": "2025-12-04T17:22:23.653767",
   "package_url": "https://pypi.org/project/eea.volto.policy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-conestack-theme",
+  "version": "1.1.0",
+  "summary": "Mobile friendly Bootstrap 5 based Sphinx theme",
+  "author": null,
+  "license": "BSD 2-Clause License",
+  "home_page": null,
+  "download_filename": "sphinx_conestack_theme-1.1.0.tar.gz",
+  "download_time": "2025-12-04T17:22:40.274924",
+  "package_url": "https://pypi.org/project/sphinx-conestack-theme/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "core-file-preview-app",
+  "version": "2.18.0",
+  "summary": "File preview functionalities for the curator core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_main_app",
+  "download_filename": "core_file_preview_app-2.18.0.tar.gz",
+  "download_time": "2025-12-04T17:22:17.280249",
+  "package_url": "https://pypi.org/project/core-file-preview-app/"
+}

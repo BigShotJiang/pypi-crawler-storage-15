@@ -1,0 +1,11 @@
+{
+  "name": "core-oaipmh-provider-app",
+  "version": "2.18.0",
+  "summary": "OAI-PMH provider capabilities for the curator core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_oaipmh_provider_app",
+  "download_filename": "core_oaipmh_provider_app-2.18.0.tar.gz",
+  "download_time": "2025-12-04T17:22:00.680938",
+  "package_url": "https://pypi.org/project/core-oaipmh-provider-app/"
+}

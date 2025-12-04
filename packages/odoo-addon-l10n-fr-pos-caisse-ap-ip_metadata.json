@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-fr-pos-caisse-ap-ip",
+  "version": "19.0.1.0.0.3",
+  "summary": "Add support for Caisse-AP payment protocol used in France",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-france",
+  "download_filename": "odoo_addon_l10n_fr_pos_caisse_ap_ip-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-04T17:21:57.075679",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-fr-pos-caisse-ap-ip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "core-module-fancy-tree-registry-app",
+  "version": "2.18.0",
+  "summary": "Fancy Tree module for the parser core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_module_fancy_tree_registry_app",
+  "download_filename": "core_module_fancy_tree_registry_app-2.18.0.tar.gz",
+  "download_time": "2025-12-04T17:22:08.484705",
+  "package_url": "https://pypi.org/project/core-module-fancy-tree-registry-app/"
+}

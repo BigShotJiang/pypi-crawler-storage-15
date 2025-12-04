@@ -1,0 +1,11 @@
+{
+  "name": "core-module-remote-blob-host-app",
+  "version": "2.18.0",
+  "summary": "Remote Blob Host module for the parser core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_module_remote_blob_host_app",
+  "download_filename": "core_module_remote_blob_host_app-2.18.0.tar.gz",
+  "download_time": "2025-12-04T17:22:05.919251",
+  "package_url": "https://pypi.org/project/core-module-remote-blob-host-app/"
+}
