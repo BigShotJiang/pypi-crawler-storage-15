@@ -1,0 +1,11 @@
+{
+  "name": "mylib-pujith",
+  "version": "0.1.0",
+  "summary": "My custom Python library",
+  "author": "robotics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mylib_pujith-0.1.0.tar.gz",
+  "download_time": "2025-12-04T07:42:40.228214",
+  "package_url": "https://pypi.org/project/mylib-pujith/"
+}

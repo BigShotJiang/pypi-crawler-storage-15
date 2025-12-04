@@ -1,0 +1,11 @@
+{
+  "name": "cytopix",
+  "version": "0.2.2",
+  "summary": "GUI for pixel-based manual segmentation of DC images",
+  "author": "Paul Müller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cytopix-0.2.2.tar.gz",
+  "download_time": "2025-12-04T07:42:14.386394",
+  "package_url": "https://pypi.org/project/cytopix/"
+}

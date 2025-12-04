@@ -1,0 +1,11 @@
+{
+  "name": "industrio",
+  "version": "0.1.0",
+  "summary": "物联网网关控制与传感器数据读取包",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "industrio-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-04T07:42:27.741082",
+  "package_url": "https://pypi.org/project/industrio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "babygrad",
+  "version": "2.0.0",
+  "summary": "A dynamic library for competitive programming with tree and graph algorithms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "babygrad-2.0.0.tar.gz",
+  "download_time": "2025-12-04T07:42:29.851968",
+  "package_url": "https://pypi.org/project/babygrad/"
+}

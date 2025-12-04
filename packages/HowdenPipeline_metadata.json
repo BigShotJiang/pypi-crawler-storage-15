@@ -1,0 +1,11 @@
+{
+  "name": "HowdenPipeline",
+  "version": "3.0.0",
+  "summary": "A simple configuration manager with Pydantic and JSON export.",
+  "author": "JesperThoftIllemannJ",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/config",
+  "download_filename": "howdenpipeline-3.0.0.tar.gz",
+  "download_time": "2025-12-04T07:42:25.688720",
+  "package_url": "https://pypi.org/project/HowdenPipeline/"
+}

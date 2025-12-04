@@ -1,11 +1,11 @@
 {
   "name": "pysensedf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "PySenseDF — AI-powered native Python DataFrame that kills Pandas",
   "author": "Idriss Bado",
   "license": "MIT",
   "home_page": "https://github.com/idrissbado/PySenseDF",
-  "download_filename": "pysensedf-0.1.0.tar.gz",
-  "download_time": "2025-12-03T20:23:52.483914",
+  "download_filename": "pysensedf-0.1.1.tar.gz",
+  "download_time": "2025-12-04T07:42:03.557760",
   "package_url": "https://pypi.org/project/pysensedf/"
 }

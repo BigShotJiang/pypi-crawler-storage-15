@@ -1,0 +1,11 @@
+{
+  "name": "synthetic-data-maker",
+  "version": "0.4.0",
+  "summary": "A powerful CLI tool to generate realistic synthetic data for testing and development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synthetic_data_maker-0.4.0.tar.gz",
+  "download_time": "2025-12-04T07:42:12.847449",
+  "package_url": "https://pypi.org/project/synthetic-data-maker/"
+}

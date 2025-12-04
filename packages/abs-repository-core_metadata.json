@@ -1,0 +1,11 @@
+{
+  "name": "abs-repository-core",
+  "version": "0.3.1",
+  "summary": "Shared base repository and service utilities for SQLAlchemy-backed FastAPI apps.",
+  "author": "AutoBridgeSystems",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abs_repository_core-0.3.1.tar.gz",
+  "download_time": "2025-12-04T07:42:25.177913",
+  "package_url": "https://pypi.org/project/abs-repository-core/"
+}

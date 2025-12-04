@@ -1,11 +1,11 @@
 {
   "name": "wardcliff",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Multi-agent prediction market trading simulation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wardcliff-0.1.2.tar.gz",
-  "download_time": "2025-12-04T06:56:40.149650",
+  "download_filename": "wardcliff-0.1.5.tar.gz",
+  "download_time": "2025-12-04T07:42:09.713511",
   "package_url": "https://pypi.org/project/wardcliff/"
 }

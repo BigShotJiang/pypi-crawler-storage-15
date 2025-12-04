@@ -1,0 +1,11 @@
+{
+  "name": "sui-lang",
+  "version": "0.1.0",
+  "summary": "A programming language optimized for LLM code generation",
+  "author": "Sui Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sui_lang-0.1.0.tar.gz",
+  "download_time": "2025-12-04T07:42:23.127876",
+  "package_url": "https://pypi.org/project/sui-lang/"
+}
