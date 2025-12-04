@@ -1,0 +1,11 @@
+{
+  "name": "proteusllp-actuarial-library",
+  "version": "0.2.7",
+  "summary": "Proteus Actuarial Library: A package for building and running stochastic actuarial models in Python.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "proteusllp_actuarial_library-0.2.7.tar.gz",
+  "download_time": "2025-12-04T14:21:48.795902",
+  "package_url": "https://pypi.org/project/proteusllp-actuarial-library/"
+}

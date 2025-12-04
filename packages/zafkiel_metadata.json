@@ -1,0 +1,11 @@
+{
+  "name": "zafkiel",
+  "version": "0.3.1",
+  "summary": "A cross-platform UI automation framework based on Airtest and StarRailCopilot.",
+  "author": "Aues6uen11Z",
+  "license": "GPL-3.0 license",
+  "home_page": null,
+  "download_filename": "zafkiel-0.3.1.tar.gz",
+  "download_time": "2025-12-04T14:21:51.948466",
+  "package_url": "https://pypi.org/project/zafkiel/"
+}

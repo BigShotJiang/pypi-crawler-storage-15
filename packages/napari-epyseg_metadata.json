@@ -1,0 +1,11 @@
+{
+  "name": "napari-epyseg",
+  "version": "0.0.10",
+  "summary": "Napari plugin to segment epithelia with EpySeg",
+  "author": "Gaëlle Letort",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Image-Analysis-Hub/napari-epyseg",
+  "download_filename": "napari_epyseg-0.0.10.tar.gz",
+  "download_time": "2025-12-04T14:21:45.490068",
+  "package_url": "https://pypi.org/project/napari-epyseg/"
+}

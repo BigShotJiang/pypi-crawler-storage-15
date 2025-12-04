@@ -1,11 +1,11 @@
 {
   "name": "bp-tokenizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A high-performance Python tokenizer using Byte-Pair Encoding (BPE) with 100k vocabulary, supporting text encoding, decoding, and normalization for NLP applications.",
   "author": "Md Mohsin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bp_tokenizer-1.0.0.tar.gz",
-  "download_time": "2025-12-04T13:54:38.075843",
+  "download_filename": "bp_tokenizer-1.0.1.tar.gz",
+  "download_time": "2025-12-04T14:21:34.635381",
   "package_url": "https://pypi.org/project/bp-tokenizer/"
 }

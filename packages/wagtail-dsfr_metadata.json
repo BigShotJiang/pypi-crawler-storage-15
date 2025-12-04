@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-dsfr",
+  "version": "2.4.0rc2",
+  "summary": "Gestionnaire de contenu permettant de créer et gérer un site internet basé sur le Système de design de l'État, accessible et responsive",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_dsfr-2.4.0rc2.tar.gz",
+  "download_time": "2025-12-04T14:21:58.364856",
+  "package_url": "https://pypi.org/project/wagtail-dsfr/"
+}

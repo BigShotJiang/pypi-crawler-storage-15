@@ -1,0 +1,11 @@
+{
+  "name": "statsman",
+  "version": "0.1.2",
+  "summary": "A real-time terminal-based system monitoring tool with ASCII visualizations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "statsman-0.1.2.tar.gz",
+  "download_time": "2025-12-04T14:21:44.449209",
+  "package_url": "https://pypi.org/project/statsman/"
+}

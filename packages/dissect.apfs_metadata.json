@@ -1,0 +1,11 @@
+{
+  "name": "dissect.apfs",
+  "version": "1.0.1",
+  "summary": "A Dissect module implementing a parser for the APFS file system, a commonly used Apple file system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dissect_apfs-1.0.1-py3-none-any.whl",
+  "download_time": "2025-12-04T14:22:03.200597",
+  "package_url": "https://pypi.org/project/dissect.apfs/"
+}

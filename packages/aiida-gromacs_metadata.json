@@ -1,0 +1,11 @@
+{
+  "name": "aiida-gromacs",
+  "version": "2.1.1",
+  "summary": "A plugin for using GROMACS with AiiDA for molecular dymanics simulations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiida_gromacs-2.1.1-py3-none-any.whl",
+  "download_time": "2025-12-04T14:21:22.290142",
+  "package_url": "https://pypi.org/project/aiida-gromacs/"
+}

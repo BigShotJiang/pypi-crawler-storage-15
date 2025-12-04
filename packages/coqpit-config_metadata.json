@@ -1,0 +1,11 @@
+{
+  "name": "coqpit-config",
+  "version": "0.2.2",
+  "summary": "Simple (maybe too simple), light-weight config management through python data-classes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coqpit_config-0.2.2.tar.gz",
+  "download_time": "2025-12-04T14:21:37.831633",
+  "package_url": "https://pypi.org/project/coqpit-config/"
+}

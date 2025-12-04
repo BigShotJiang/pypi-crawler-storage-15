@@ -1,0 +1,11 @@
+{
+  "name": "weather-harvester",
+  "version": "0.1.2",
+  "summary": "Weather Data Harvester with caching, alerts, CLI, and exports",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "weather_harvester-0.1.2.tar.gz",
+  "download_time": "2025-12-04T14:21:20.040895",
+  "package_url": "https://pypi.org/project/weather-harvester/"
+}
