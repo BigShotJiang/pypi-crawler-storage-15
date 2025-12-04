@@ -1,0 +1,11 @@
+{
+  "name": "cec2rs232",
+  "version": "0.4.0",
+  "summary": "Enables a Raspberry Pi to act as a bridge between CEC and RS-232 or IR",
+  "author": "travis mick",
+  "license": "MIT",
+  "home_page": "https://github.com/tmick0/cec2rs232",
+  "download_filename": "cec2rs232-0.4.0.tar.gz",
+  "download_time": "2025-12-04T07:21:56.123991",
+  "package_url": "https://pypi.org/project/cec2rs232/"
+}

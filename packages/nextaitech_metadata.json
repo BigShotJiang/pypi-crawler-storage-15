@@ -1,11 +1,11 @@
 {
   "name": "nextaitech",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Decentralized AI Network",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nextaitech-0.0.2.tar.gz",
-  "download_time": "2025-12-04T06:56:23.885149",
+  "download_filename": "nextaitech-0.0.3.tar.gz",
+  "download_time": "2025-12-04T07:22:05.072529",
   "package_url": "https://pypi.org/project/nextaitech/"
 }

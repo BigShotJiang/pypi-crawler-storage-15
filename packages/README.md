@@ -1,14 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-04T06:57:02.043983
+- **Download Time**: 2025-12-04T07:22:35.810435
 - **Total Packages**: 80
-- **Total Size**: 36.87 MB
+- **Total Size**: 9.43 MB
 
 ## Packages List
+- wxdata
+- dlght
+- kion-pgvectorstore
+- streamlit-nightly
+- pubplots
+- abs-exception-core
+- NO1-1EXIT
+- langgraph-runtime-inmem
+- nrobo
+- DensityFlow2
+- notnews
+- cec2rs232
+- pulumi-cloudflare
+- npcpy
+- ncuhep
+- TopDownHockey-Scraper
+- silars
 - apex-saas-framework
 - cc-toolkit
-- pubplots
 - ry
 - pyeqx-opentelemetry
 - medicafe
@@ -32,8 +48,6 @@
 - ado-task-manager
 - xparse-client
 - rp-backscatter
-- ncuhep
-- DensityFlow2
 - rqalpha-futu-datasource
 - dry-foundation
 - pgsql-mcp-server
@@ -43,7 +57,6 @@
 - grzctl
 - matrice-inference
 - guidelinely
-- silars
 - sleipnirgroup-jormungandr
 - xrcg
 - ayechat
@@ -73,16 +86,3 @@
 - actingweb
 - autoriskml
 - mmsw
-- cdk8s-awscdk-resolver
-- ansys-stk
-- paper-weaver
-- scc-firewall-manager-sdk
-- nexo-middlewares
-- kuzu-memory
-- arthur-client
-- snapquery
-- nexo-google
-- tuikit
-- memax
-- bouquin
-- feedback-mcp
