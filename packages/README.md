@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-04T11:20:03.790558
-- **Total Packages**: 94
-- **Total Size**: 48.7 MB
+- **Download Time**: 2025-12-04T11:41:22.896308
+- **Total Packages**: 86
+- **Total Size**: 38.22 MB
 
 ## Packages List
+- skore-hub-project
+- tressed
+- volcengine-python-sdk
+- oarepo-invenio-typing-stubs
+- apex-saas-framework
+- qr-payment-cz
+- AOT-biomaps
+- apis-core-rdf
+- quercle
+- memorygraphMCP
+- chipstream
+- nhsuk-frontend-jinja
+- ctapipe-io-nectarcam
+- mindrove
+- volcengine
+- pyavd-utils
+- noqa-runner
+- torchx-nightly
+- triggercalib
+- pyeasycore
+- alita-sdk
+- smudgeplot
+- turbo-gepa
+- well-log-toolkit
+- frequenz-lib-notebooks
+- gnss-dsp
+- taskbadger
+- easyrip
+- rs-mrt-dau-utilities
+- openmeter
+- llm-goose
+- torchft-nightly
+- py-micro-hil
+- nvidia-ifbench
+- policyengine-us
+- uniai
+- tenso
+- winidjango
+- microimpute
+- ptmanager
+- swisper-studio-sdk
+- akademy-company
+- styletext
+- deep-pipe
+- mcp-git-analyzer
+- winipyside
+- nanoplot
+- clearml-agent
+- agentkernel-distributed
+- objectdb
+- django5-spoll
+- legit-api-client
 - finam-mcp-server
 - prowler-cloud
 - prowler
@@ -18,8 +70,6 @@
 - agentic-graph-mem
 - text-fabric-factory
 - tf-keras-nightly
-- apex-saas-framework
-- pyeasycore
 - ttyg
 - bids-manager
 - text-fabric
@@ -42,61 +92,3 @@
 - uipath-runtime
 - primalscheme3
 - ancientlinesoftheworld
-- pycutwm
-- async-task-q
-- winiutils
-- flatgrep
-- tressed
-- noqa-runner
-- szn-doporucovani-model-tf
-- szn-doporucovani-model-exchange
-- szn-doporucovani-model-configlib
-- aiqtoolkit-langchain
-- szn-doporucovani-model-classifier
-- szn-doporucovani-model
-- szn-doporucovani-logging-json-formatter
-- tilebox-datasets
-- tilebox-grpc
-- tilebox-storage
-- szn-doporucovani-llm-client
-- tilebox-workflows
-- szn-doporucovani-jobslib-metrics-otel-wrapper
-- vauban
-- szn-doporucovani-jobslib-metrics-influxdb-wrapper
-- aiqtoolkit-zep-cloud
-- szn-doporucovani-influxdb-wrapper
-- szn-doporucovani-indexlib
-- stargazers-scraper
-- szn-doporucovani-indexer
-- szn-doporucovani-hpfeed-user-service-client
-- judge0-client
-- szn-doporucovani-hpfeed-trainer-tf
-- n8nControl
-- szn-doporucovani-hpfeed-storage-eventstore
-- szn-doporucovani-hpfeed-storage-entity
-- szn-doporucovani-hpfeed-storage
-- aiqtoolkit-llama-index
-- szn-doporucovani-hpfeed-model-vw
-- dcs-sdk
-- szn-doporucovani-hpfeed-model-tf
-- szn-doporucovani-hpfeed-indexlib
-- aiqtoolkit-mem0ai
-- AOT-biomaps
-- fast-plaid
-- akademy-party
-- medicafe
-- aiqtoolkit
-- infosrv-llm-observe
-- smart-model-card
-- lispython
-- matrice-inference
-- alethiotx
-- nvidia-nat-redis
-- ai4ce-helpers
-- bpmn2neo
-- qtealeaves
-- decoupage-libelles
-- pyrig
-- spacy-transformers-specifind
-- uipath-core
-- psengine

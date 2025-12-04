@@ -1,0 +1,11 @@
+{
+  "name": "triggercalib",
+  "version": "1.5.2",
+  "summary": "A turnkey package for estimating LHCb trigger efficiencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "triggercalib-1.5.2.tar.gz",
+  "download_time": "2025-12-04T11:40:42.269555",
+  "package_url": "https://pypi.org/project/triggercalib/"
+}

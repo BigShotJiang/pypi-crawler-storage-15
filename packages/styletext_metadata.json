@@ -1,0 +1,11 @@
+{
+  "name": "styletext",
+  "version": "1.0.0",
+  "summary": "A Python library providing a styleText function similar to Node.js util.styleText",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "styletext-1.0.0.tar.gz",
+  "download_time": "2025-12-04T11:40:57.010038",
+  "package_url": "https://pypi.org/project/styletext/"
+}
