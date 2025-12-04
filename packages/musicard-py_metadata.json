@@ -1,11 +1,11 @@
 {
   "name": "musicard-py",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "🎵 Generate stunning music card images in Python with multiple themes, SVG export, and advanced customization. Inspired by unburn/musicard.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "musicard_py-2.1.0.tar.gz",
-  "download_time": "2025-12-03T01:25:01.793849",
+  "download_filename": "musicard_py-2.2.0.tar.gz",
+  "download_time": "2025-12-04T04:01:05.086415",
   "package_url": "https://pypi.org/project/musicard-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-maintenance-plan-only",
+  "version": "18.0.1.0.0.6",
+  "summary": "Technical module to hide built-in recurrent settings",
+  "author": "DEC, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/maintenance",
+  "download_filename": "odoo_addon_maintenance_plan_only-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-12-04T04:01:06.619988",
+  "package_url": "https://pypi.org/project/odoo-addon-maintenance-plan-only/"
+}

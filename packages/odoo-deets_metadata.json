@@ -1,0 +1,11 @@
+{
+  "name": "odoo-deets",
+  "version": "0.1.2",
+  "summary": "Memory profiling for Odoo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_deets-0.1.2.tar.gz",
+  "download_time": "2025-12-04T04:00:38.960030",
+  "package_url": "https://pypi.org/project/odoo-deets/"
+}

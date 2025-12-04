@@ -1,0 +1,11 @@
+{
+  "name": "orion-lang",
+  "version": "0.1.0",
+  "summary": "Orion language interpreter.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orion_lang-0.1.0.tar.gz",
+  "download_time": "2025-12-04T04:00:47.365718",
+  "package_url": "https://pypi.org/project/orion-lang/"
+}

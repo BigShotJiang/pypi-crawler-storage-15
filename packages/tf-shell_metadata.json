@@ -1,0 +1,11 @@
+{
+  "name": "tf-shell",
+  "version": "0.5.0",
+  "summary": "TF-Shell: Privacy preserving machine learning with Tensorflow and the SHELL encryption library, built for python 3.10.",
+  "author": "Google Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/google/tf-shell",
+  "download_filename": "tf_shell-0.5.0-cp310-cp310-manylinux_2_35_x86_64.whl",
+  "download_time": "2025-12-04T04:00:21.946903",
+  "package_url": "https://pypi.org/project/tf-shell/"
+}
