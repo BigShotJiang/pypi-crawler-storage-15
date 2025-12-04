@@ -1,0 +1,11 @@
+{
+  "name": "AltTester-Driver",
+  "version": "2.2.7",
+  "summary": "Python bindings for the AltTester® framework. AltTester® is an open-source UI driven test automation tool that helps you find objects in your game and interacts with them.",
+  "author": "Altom Consulting",
+  "license": "GNU GPLv3",
+  "home_page": "https://alttester.com/docs/sdk/latest/",
+  "download_filename": "alttester_driver-2.2.7.tar.gz",
+  "download_time": "2025-12-04T18:32:18.346476",
+  "package_url": "https://pypi.org/project/AltTester-Driver/"
+}

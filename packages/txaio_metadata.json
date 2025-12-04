@@ -1,0 +1,11 @@
+{
+  "name": "txaio",
+  "version": "25.12.1",
+  "summary": "Compatibility API between asyncio/Twisted/Trollius",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txaio-25.12.1.tar.gz",
+  "download_time": "2025-12-04T18:32:24.046888",
+  "package_url": "https://pypi.org/project/txaio/"
+}

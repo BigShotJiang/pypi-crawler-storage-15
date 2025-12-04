@@ -1,11 +1,11 @@
 {
   "name": "stmath",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "The Next-Generation Unified Math + AI + ML + Quantum Engine",
   "author": "Saksham Tomar",
   "license": "MIT",
   "home_page": "https://github.com/stmath-org/stmath",
-  "download_filename": "stmath-1.0.8.tar.gz",
-  "download_time": "2025-12-03T08:53:51.165877",
+  "download_filename": "stmath-1.0.9.tar.gz",
+  "download_time": "2025-12-04T18:32:15.540066",
   "package_url": "https://pypi.org/project/stmath/"
 }
