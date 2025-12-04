@@ -1,0 +1,11 @@
+{
+  "name": "youtube-sync",
+  "version": "1.2.86",
+  "summary": "syncs youtube for offline play",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/zackees/youtube-sync",
+  "download_filename": "youtube_sync-1.2.86-py3-none-any.whl",
+  "download_time": "2025-12-04T23:41:18.117906",
+  "package_url": "https://pypi.org/project/youtube-sync/"
+}

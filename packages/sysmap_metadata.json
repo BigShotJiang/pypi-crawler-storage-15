@@ -1,0 +1,11 @@
+{
+  "name": "sysmap",
+  "version": "0.1.0",
+  "summary": "A comprehensive system inventory tool for tracking installed software, versions, and configurations across multiple platforms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sysmap-0.1.0.tar.gz",
+  "download_time": "2025-12-04T23:40:43.767818",
+  "package_url": "https://pypi.org/project/sysmap/"
+}

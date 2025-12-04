@@ -1,0 +1,11 @@
+{
+  "name": "redrock",
+  "version": "0.21.0",
+  "summary": "Redrock redshift fitter",
+  "author": "DESI Collaboration",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/desihub/redrock",
+  "download_filename": "redrock-0.21.0.tar.gz",
+  "download_time": "2025-12-04T23:41:19.238444",
+  "package_url": "https://pypi.org/project/redrock/"
+}

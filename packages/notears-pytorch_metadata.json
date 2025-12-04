@@ -1,0 +1,11 @@
+{
+  "name": "notears-pytorch",
+  "version": "0.3.0",
+  "summary": "A PyTorch implementation of the NOTEARS Linear algorithm for causal discovery.",
+  "author": "Rafat Ashraf Joy",
+  "license": null,
+  "home_page": "https://github.com/rajoy99/notears-pytorch",
+  "download_filename": "notears_pytorch-0.3.0.tar.gz",
+  "download_time": "2025-12-04T23:40:54.357330",
+  "package_url": "https://pypi.org/project/notears-pytorch/"
+}

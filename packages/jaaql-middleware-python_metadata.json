@@ -1,0 +1,11 @@
+{
+  "name": "jaaql-middleware-python",
+  "version": "4.33.21",
+  "summary": "The jaaql package, allowing for rapid development and deployment of RESTful HTTP applications",
+  "author": "Software Quality Measurement and Improvement bv",
+  "license": "Mozilla Public License Version 2.0 with Commons Clause",
+  "home_page": "https://github.com/JAAQL/JAAQL-middleware-python",
+  "download_filename": "jaaql_middleware_python-4.33.21.tar.gz",
+  "download_time": "2025-12-04T23:40:40.077433",
+  "package_url": "https://pypi.org/project/jaaql-middleware-python/"
+}

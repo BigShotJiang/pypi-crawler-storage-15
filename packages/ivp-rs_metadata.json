@@ -1,11 +1,11 @@
 {
   "name": "ivp-rs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Rust library for solving initial value problems (IVPs) for ordinary differential equations (ODEs).",
   "author": null,
   "license": null,
   "home_page": "https://github.com/Ryan-D-Gast/ivp",
-  "download_filename": "ivp_rs-0.1.1.tar.gz",
-  "download_time": "2025-12-04T22:53:36.372886",
+  "download_filename": "ivp_rs-0.1.2.tar.gz",
+  "download_time": "2025-12-04T23:40:58.582550",
   "package_url": "https://pypi.org/project/ivp-rs/"
 }

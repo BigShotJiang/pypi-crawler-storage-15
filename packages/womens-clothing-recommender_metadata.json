@@ -1,0 +1,11 @@
+{
+  "name": "womens-clothing-recommender",
+  "version": "1.0.0",
+  "summary": "High-performance clothing recommendation predictor using ensemble ML",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "womens_clothing_recommender-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-04T23:40:37.920897",
+  "package_url": "https://pypi.org/project/womens-clothing-recommender/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lsstdesc-dataregistry",
+  "version": "1.5.0",
+  "summary": "Creation and user API for DESC data registry.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsstdesc_dataregistry-1.5.0.tar.gz",
+  "download_time": "2025-12-04T23:40:46.881062",
+  "package_url": "https://pypi.org/project/lsstdesc-dataregistry/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "heaserver-people",
+  "version": "1.10.0",
+  "summary": "A microservice designed to provide CRUD operations for the Person HEA object type",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaserver_people-1.10.0.tar.gz",
+  "download_time": "2025-12-04T23:40:42.682414",
+  "package_url": "https://pypi.org/project/heaserver-people/"
+}

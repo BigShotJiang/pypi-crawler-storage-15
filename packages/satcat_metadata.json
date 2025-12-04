@@ -1,0 +1,11 @@
+{
+  "name": "satcat",
+  "version": "1.1.0",
+  "summary": "Satcat Software Development Kit by Kayhan Space",
+  "author": "Derek Strobel",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "satcat-1.1.0.tar.gz",
+  "download_time": "2025-12-04T23:41:08.102114",
+  "package_url": "https://pypi.org/project/satcat/"
+}
