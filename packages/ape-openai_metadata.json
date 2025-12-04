@@ -1,0 +1,11 @@
+{
+  "name": "ape-openai",
+  "version": "0.1.2",
+  "summary": "OpenAI integration for the Ape AI-first programming language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ape_openai-0.1.2.tar.gz",
+  "download_time": "2025-12-04T14:48:32.164847",
+  "package_url": "https://pypi.org/project/ape-openai/"
+}

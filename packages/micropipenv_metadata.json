@@ -1,0 +1,11 @@
+{
+  "name": "micropipenv",
+  "version": "1.10.0",
+  "summary": "A simple wrapper around pip to support requirements.txt, Pipenv and Poetry files for containerized applications",
+  "author": "Fridolin Pokorny",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/thoth-station/micropipenv",
+  "download_filename": "micropipenv-1.10.0.tar.gz",
+  "download_time": "2025-12-04T14:48:51.467253",
+  "package_url": "https://pypi.org/project/micropipenv/"
+}

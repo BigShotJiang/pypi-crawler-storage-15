@@ -1,0 +1,11 @@
+{
+  "name": "sharepointlib",
+  "version": "0.0.45",
+  "summary": "Microsoft SharePoint client Python package that uses the requests library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sharepointlib-0.0.45.tar.gz",
+  "download_time": "2025-12-04T14:48:13.107732",
+  "package_url": "https://pypi.org/project/sharepointlib/"
+}

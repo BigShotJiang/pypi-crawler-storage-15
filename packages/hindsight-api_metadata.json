@@ -1,11 +1,11 @@
 {
   "name": "hindsight-api",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "Temporal + Semantic + Entity Memory System for AI agents using PostgreSQL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hindsight_api-0.0.16.tar.gz",
-  "download_time": "2025-12-04T11:51:17.323816",
+  "download_filename": "hindsight_api-0.0.17.tar.gz",
+  "download_time": "2025-12-04T14:48:24.453134",
   "package_url": "https://pypi.org/project/hindsight-api/"
 }

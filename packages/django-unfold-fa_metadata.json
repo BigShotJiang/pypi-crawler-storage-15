@@ -1,0 +1,11 @@
+{
+  "name": "django-unfold-fa",
+  "version": "0.72.5",
+  "summary": "Django Unfold admin theme with built-in RTL (right-to-left) support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_unfold_fa-0.72.5.tar.gz",
+  "download_time": "2025-12-04T14:48:17.776756",
+  "package_url": "https://pypi.org/project/django-unfold-fa/"
+}

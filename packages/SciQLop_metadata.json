@@ -1,11 +1,11 @@
 {
   "name": "SciQLop",
-  "version": "0.10.3",
+  "version": "0.10.4",
   "summary": "An ergonomic and efficient application to browse and label in situ plasma measurements from multi-mission satellite data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sciqlop-0.10.3.tar.gz",
-  "download_time": "2025-12-02T15:46:40.838287",
+  "download_filename": "sciqlop-0.10.4.tar.gz",
+  "download_time": "2025-12-04T14:48:42.568673",
   "package_url": "https://pypi.org/project/SciQLop/"
 }

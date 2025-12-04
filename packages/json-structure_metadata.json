@@ -1,0 +1,11 @@
+{
+  "name": "json-structure",
+  "version": "0.4.0",
+  "summary": "Validators for JSON Structure schemas and instances",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_structure-0.4.0.tar.gz",
+  "download_time": "2025-12-04T14:48:12.594118",
+  "package_url": "https://pypi.org/project/json-structure/"
+}

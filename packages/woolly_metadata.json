@@ -1,11 +1,11 @@
 {
   "name": "woolly",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Check if package dependencies are available in Fedora. Supports Rust, Python, and more.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "woolly-0.2.0.tar.gz",
-  "download_time": "2025-12-04T12:41:56.857098",
+  "download_filename": "woolly-0.3.0.tar.gz",
+  "download_time": "2025-12-04T14:48:15.714994",
   "package_url": "https://pypi.org/project/woolly/"
 }
