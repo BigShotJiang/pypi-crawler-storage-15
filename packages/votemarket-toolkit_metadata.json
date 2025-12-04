@@ -1,0 +1,11 @@
+{
+  "name": "votemarket-toolkit",
+  "version": "1.0.8",
+  "summary": "Python SDK for VoteMarket - campaign management, proofs, and analytics",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "votemarket_toolkit-1.0.8.tar.gz",
+  "download_time": "2025-12-04T17:47:27.458784",
+  "package_url": "https://pypi.org/project/votemarket-toolkit/"
+}

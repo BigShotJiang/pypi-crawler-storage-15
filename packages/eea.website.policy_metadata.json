@@ -1,11 +1,11 @@
 {
   "name": "eea.website.policy",
-  "version": "4.1",
+  "version": "4.2",
   "summary": "EEA Website Plone backend policy",
   "author": "European Environment Agency: IDM2 A-Team",
   "license": "GPL version 2",
   "home_page": "https://github.com/eea/eea.website.policy",
-  "download_filename": "eea_website_policy-4.1.tar.gz",
-  "download_time": "2025-12-04T16:55:39.033418",
+  "download_filename": "eea_website_policy-4.2.tar.gz",
+  "download_time": "2025-12-04T17:46:53.302962",
   "package_url": "https://pypi.org/project/eea.website.policy/"
 }

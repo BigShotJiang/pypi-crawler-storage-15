@@ -1,11 +1,11 @@
 {
   "name": "upsonic",
-  "version": "0.68.0",
+  "version": "0.68.1",
   "summary": "Agent Framework For Fintech",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "upsonic-0.68.0.tar.gz",
-  "download_time": "2025-12-02T16:26:59.009107",
+  "download_filename": "upsonic-0.68.1.tar.gz",
+  "download_time": "2025-12-04T17:46:54.557079",
   "package_url": "https://pypi.org/project/upsonic/"
 }
