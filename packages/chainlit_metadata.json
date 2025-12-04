@@ -1,0 +1,11 @@
+{
+  "name": "chainlit",
+  "version": "2.9.3",
+  "summary": "Build Conversational AI.",
+  "author": "Willy Douhard, Dan Andre Constantini",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "chainlit-2.9.3.tar.gz",
+  "download_time": "2025-12-04T22:43:06.765067",
+  "package_url": "https://pypi.org/project/chainlit/"
+}

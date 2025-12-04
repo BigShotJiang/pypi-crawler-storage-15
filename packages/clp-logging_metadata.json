@@ -1,0 +1,11 @@
+{
+  "name": "clp-logging",
+  "version": "0.0.15",
+  "summary": "Logging/encoding/decoding using CLP's IR stream format",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "clp_logging-0.0.15.tar.gz",
+  "download_time": "2025-12-04T22:43:07.413906",
+  "package_url": "https://pypi.org/project/clp-logging/"
+}

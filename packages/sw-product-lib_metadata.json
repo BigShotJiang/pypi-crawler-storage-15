@@ -1,0 +1,11 @@
+{
+  "name": "sw-product-lib",
+  "version": "0.10.2",
+  "summary": "Python library for Strangeworks products to interact with the Strangeworks Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sw_product_lib-0.10.2.tar.gz",
+  "download_time": "2025-12-04T22:42:57.624512",
+  "package_url": "https://pypi.org/project/sw-product-lib/"
+}
