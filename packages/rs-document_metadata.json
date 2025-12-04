@@ -1,0 +1,11 @@
+{
+  "name": "rs-document",
+  "version": "0.1.7",
+  "summary": "High-performance Rust implementation of LangChain's Document model and Unstructured.io's text cleaners for RAG applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rs_document-0.1.7-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-04T15:46:55.612931",
+  "package_url": "https://pypi.org/project/rs-document/"
+}

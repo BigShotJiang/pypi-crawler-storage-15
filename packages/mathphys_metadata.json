@@ -1,0 +1,11 @@
+{
+  "name": "mathphys",
+  "version": "2.11.0",
+  "summary": "LNLS Math and Physics Utilities",
+  "author": "lnls-fac",
+  "license": null,
+  "home_page": "https://github.com/lnls-fac/mathphys",
+  "download_filename": "mathphys-2.11.0.tar.gz",
+  "download_time": "2025-12-04T15:47:28.495766",
+  "package_url": "https://pypi.org/project/mathphys/"
+}

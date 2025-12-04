@@ -1,11 +1,11 @@
 {
   "name": "ns1-python",
-  "version": "0.26.0",
+  "version": "0.27.1",
   "summary": "Python SDK for the NS1 DNS platform",
   "author": "NS1 Developers",
   "license": "MIT",
   "home_page": "https://github.com/ns1/ns1-python",
-  "download_filename": "ns1_python-0.26.0-py2.py3-none-any.whl",
-  "download_time": "2025-12-02T14:50:16.639599",
+  "download_filename": "ns1_python-0.27.1.tar.gz",
+  "download_time": "2025-12-04T15:46:43.329593",
   "package_url": "https://pypi.org/project/ns1-python/"
 }

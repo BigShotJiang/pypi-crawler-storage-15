@@ -1,0 +1,11 @@
+{
+  "name": "brainary",
+  "version": "0.1.1",
+  "summary": "A cognitive computing platform for AI development",
+  "author": "NTU Brainary Team",
+  "license": "MIT",
+  "home_page": "https://github.com/cs-wangchong/Brainary",
+  "download_filename": "brainary-0.1.1.tar.gz",
+  "download_time": "2025-12-04T15:47:06.268466",
+  "package_url": "https://pypi.org/project/brainary/"
+}

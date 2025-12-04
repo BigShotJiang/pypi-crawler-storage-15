@@ -1,0 +1,11 @@
+{
+  "name": "npmai",
+  "version": "0.0.6",
+  "summary": "A lightweight Selenium-based LangChain-compatible multi-LLM bridge (Gemini, ChatGPT, Grok, Perplexity,Image_Model,GeminiAIMode) built by Sonu Kumar.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "npmai-0.0.6.tar.gz",
+  "download_time": "2025-12-04T15:47:05.744176",
+  "package_url": "https://pypi.org/project/npmai/"
+}
