@@ -1,0 +1,11 @@
+{
+  "name": "quantnet-server",
+  "version": "1.0.0.post1",
+  "summary": "The QN Server (Controller) for Quant-Net Control Plane",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantnet_server-1.0.0.post1.tar.gz",
+  "download_time": "2025-12-04T19:43:53.233409",
+  "package_url": "https://pypi.org/project/quantnet-server/"
+}

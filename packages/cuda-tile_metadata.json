@@ -1,11 +1,11 @@
 {
   "name": "cuda-tile",
-  "version": "1.0.0rc6",
+  "version": "1.0.0",
   "summary": "CUDA Tile Compiler",
   "author": "NVIDIA Corporation",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "cuda_tile-1.0.0rc6-cp310-cp310-manylinux2014_aarch64.whl",
-  "download_time": "2025-12-04T04:57:28.947056",
+  "download_filename": "cuda_tile-1.0.0-cp310-cp310-manylinux2014_aarch64.whl",
+  "download_time": "2025-12-04T19:43:52.650103",
   "package_url": "https://pypi.org/project/cuda-tile/"
 }

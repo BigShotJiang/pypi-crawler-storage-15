@@ -1,11 +1,11 @@
 {
   "name": "HeteroSymNN",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": null,
   "author": "Dilosch03",
   "license": null,
   "home_page": null,
-  "download_filename": "heterosymnn-0.1.6.tar.gz",
-  "download_time": "2025-12-02T20:56:20.312075",
+  "download_filename": "heterosymnn-0.1.7.tar.gz",
+  "download_time": "2025-12-04T19:43:45.554502",
   "package_url": "https://pypi.org/project/HeteroSymNN/"
 }

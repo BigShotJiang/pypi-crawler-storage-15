@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-starrocks20221019",
+  "version": "1.2.2",
+  "summary": "Alibaba Cloud starrocks (20221019) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_starrocks20221019-1.2.2.tar.gz",
+  "download_time": "2025-12-04T19:43:56.889011",
+  "package_url": "https://pypi.org/project/alibabacloud-starrocks20221019/"
+}

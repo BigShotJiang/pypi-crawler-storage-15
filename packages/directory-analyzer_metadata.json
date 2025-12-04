@@ -1,0 +1,11 @@
+{
+  "name": "directory-analyzer",
+  "version": "0.1.0",
+  "summary": "Recursive directory analyzer with stats, top files and duplicate detection",
+  "author": "Volodymyr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "directory_analyzer-0.1.0.tar.gz",
+  "download_time": "2025-12-04T19:43:48.185758",
+  "package_url": "https://pypi.org/project/directory-analyzer/"
+}

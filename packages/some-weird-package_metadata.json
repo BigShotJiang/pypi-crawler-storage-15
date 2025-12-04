@@ -1,0 +1,11 @@
+{
+  "name": "some-weird-package",
+  "version": "0.1.0",
+  "summary": "whatever",
+  "author": "You",
+  "license": null,
+  "home_page": null,
+  "download_filename": "some_weird_package-0.1.0.tar.gz",
+  "download_time": "2025-12-04T19:44:00.260200",
+  "package_url": "https://pypi.org/project/some-weird-package/"
+}
