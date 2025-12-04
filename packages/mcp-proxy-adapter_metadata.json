@@ -1,11 +1,11 @@
 {
   "name": "mcp-proxy-adapter",
-  "version": "6.9.87",
+  "version": "6.9.88",
   "summary": "Powerful JSON-RPC microservices framework with built-in security, authentication, and proxy registration",
   "author": "Vasiliy Zdanovskiy",
   "license": "MIT",
   "home_page": "https://github.com/maverikod/mcp-proxy-adapter",
-  "download_filename": "mcp_proxy_adapter-6.9.87.tar.gz",
-  "download_time": "2025-12-03T17:01:18.604082",
+  "download_filename": "mcp_proxy_adapter-6.9.88.tar.gz",
+  "download_time": "2025-12-04T12:42:04.332883",
   "package_url": "https://pypi.org/project/mcp-proxy-adapter/"
 }

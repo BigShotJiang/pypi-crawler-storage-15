@@ -1,0 +1,11 @@
+{
+  "name": "pulumiverse-cpln",
+  "version": "0.0.77",
+  "summary": "A Pulumi package for creating and managing Control Plane (cpln) resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumiverse_cpln-0.0.77.tar.gz",
+  "download_time": "2025-12-04T12:42:10.222779",
+  "package_url": "https://pypi.org/project/pulumiverse-cpln/"
+}

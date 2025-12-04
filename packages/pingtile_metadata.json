@@ -1,11 +1,11 @@
 {
   "name": "pingtile",
-  "version": "0.0.1b7",
+  "version": "0.0.1b8",
   "summary": "Interface to tile sonar mosaics and maps.",
   "author": "Cameron Bodine",
   "license": null,
   "home_page": null,
-  "download_filename": "pingtile-0.0.1b7.tar.gz",
-  "download_time": "2025-12-03T20:23:33.919123",
+  "download_filename": "pingtile-0.0.1b8.tar.gz",
+  "download_time": "2025-12-04T12:42:06.616855",
   "package_url": "https://pypi.org/project/pingtile/"
 }

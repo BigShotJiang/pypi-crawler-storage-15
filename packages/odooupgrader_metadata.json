@@ -1,0 +1,11 @@
+{
+  "name": "odooupgrader",
+  "version": "0.2.0",
+  "summary": "Docker-based Odoo database migration tool using OpenUpgrade framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "odooupgrader-0.2.0.tar.gz",
+  "download_time": "2025-12-04T12:42:38.139882",
+  "package_url": "https://pypi.org/project/odooupgrader/"
+}

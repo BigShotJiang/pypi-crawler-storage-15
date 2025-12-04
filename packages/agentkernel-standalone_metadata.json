@@ -1,0 +1,11 @@
+{
+  "name": "agentkernel-standalone",
+  "version": "1.0.0",
+  "summary": "A standalone multi-agent system framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentkernel_standalone-1.0.0.tar.gz",
+  "download_time": "2025-12-04T12:41:54.722776",
+  "package_url": "https://pypi.org/project/agentkernel-standalone/"
+}

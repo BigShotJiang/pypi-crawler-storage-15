@@ -1,0 +1,11 @@
+{
+  "name": "corva-worker-python",
+  "version": "2.2.1",
+  "summary": "SDK for interacting with Corva",
+  "author": "Jordan Ambra <jordan.ambra@corva.ai>, Mohammadreza Kamyab <m.kamyab@corva.ai>",
+  "license": "Unlicensed",
+  "home_page": "https://github.com/corva-ai/corva-worker-python",
+  "download_filename": "corva_worker_python-2.2.1.tar.gz",
+  "download_time": "2025-12-04T12:42:33.781536",
+  "package_url": "https://pypi.org/project/corva-worker-python/"
+}

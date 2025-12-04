@@ -1,11 +1,11 @@
 {
   "name": "wcgw",
-  "version": "5.5.2",
+  "version": "5.5.3",
   "summary": "Shell and coding agent for Claude and other mcp clients",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wcgw-5.5.2-py3-none-any.whl",
-  "download_time": "2025-12-02T19:01:14.950420",
+  "download_filename": "wcgw-5.5.3-py3-none-any.whl",
+  "download_time": "2025-12-04T12:41:48.930515",
   "package_url": "https://pypi.org/project/wcgw/"
 }
