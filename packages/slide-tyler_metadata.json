@@ -1,0 +1,11 @@
+{
+  "name": "slide-tyler",
+  "version": "5.2.2",
+  "summary": "Tyler: A development kit for manifesting AI agents with a complete lack of conventional limitations",
+  "author": "adamwdraper",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slide_tyler-5.2.2.tar.gz",
+  "download_time": "2025-12-04T04:38:57.585814",
+  "package_url": "https://pypi.org/project/slide-tyler/"
+}

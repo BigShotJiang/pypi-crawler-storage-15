@@ -1,11 +1,11 @@
 {
   "name": "ciit-checkin",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "简易签到系统：提供基于 HTTP 的签到表单、管理页面与导出 CSV 功能，适合教室点名与记录。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ciit_checkin-0.2.0.tar.gz",
-  "download_time": "2025-12-03T08:27:55.435910",
+  "download_filename": "ciit_checkin-0.2.1.tar.gz",
+  "download_time": "2025-12-04T04:38:39.300155",
   "package_url": "https://pypi.org/project/ciit-checkin/"
 }

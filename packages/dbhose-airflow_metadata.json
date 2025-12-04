@@ -1,11 +1,11 @@
 {
   "name": "dbhose-airflow",
-  "version": "0.0.3.6",
+  "version": "0.0.3.7",
   "summary": "airflow class for exchanging data between DBMSs in native binary formats.",
   "author": "0xMihalich",
   "license": null,
   "home_page": "https://github.com/0xMihalich/dbhose_airflow",
-  "download_filename": "dbhose_airflow-0.0.3.6-py3-none-any.whl",
-  "download_time": "2025-12-04T01:26:20.698346",
+  "download_filename": "dbhose_airflow-0.0.3.7-py3-none-any.whl",
+  "download_time": "2025-12-04T04:38:54.371248",
   "package_url": "https://pypi.org/project/dbhose-airflow/"
 }

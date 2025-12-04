@@ -1,11 +1,11 @@
 {
   "name": "pyjinhx",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "UI components for Python using Pydantic and Jinja2 templates",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyjinhx-0.1.0.tar.gz",
-  "download_time": "2025-12-04T01:26:31.860218",
+  "download_filename": "pyjinhx-0.1.2.tar.gz",
+  "download_time": "2025-12-04T04:38:59.701973",
   "package_url": "https://pypi.org/project/pyjinhx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopfloor-gs1",
+  "version": "18.0.1.0.0.4",
+  "summary": "Integrate GS1 barcode scan into Shopfloor app",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-shopfloor",
+  "download_filename": "odoo_addon_shopfloor_gs1-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-04T04:38:52.765495",
+  "package_url": "https://pypi.org/project/odoo-addon-shopfloor-gs1/"
+}
