@@ -1,0 +1,11 @@
+{
+  "name": "gspy",
+  "version": "2.2.4",
+  "summary": "gspy converts commonly used data formats into a netcdf file honoring our GS convention.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gspy-2.2.4.tar.gz",
+  "download_time": "2025-12-04T19:27:40.048206",
+  "package_url": "https://pypi.org/project/gspy/"
+}

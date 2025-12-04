@@ -1,11 +1,11 @@
 {
   "name": "quantnet-mq",
-  "version": "1.0.0",
-  "summary": "A messaging library for the Quant-Net Control Plane",
-  "author": "ESnet",
-  "license": "BSD license",
-  "home_page": "https://github.com/quant-net/quant-net-mq",
-  "download_filename": "quantnet_mq-1.0.0.tar.gz",
-  "download_time": "2025-12-04T19:02:25.149101",
+  "version": "1.0.0.post1",
+  "summary": "The schema and messaging library for the Quant-Net Control Plane",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantnet_mq-1.0.0.post1.tar.gz",
+  "download_time": "2025-12-04T19:28:09.172585",
   "package_url": "https://pypi.org/project/quantnet-mq/"
 }

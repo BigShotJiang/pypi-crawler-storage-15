@@ -1,0 +1,11 @@
+{
+  "name": "co2-reading-plugin",
+  "version": "0.3.0",
+  "summary": "Return a CO₂ reading every interval from an Adafruit CO₂ sensors SCD30, SCD40 or SCD41.",
+  "author": "Kelly Tran, Cameron Davidson-Pilon",
+  "license": "MIT",
+  "home_page": "https://github.com/Pioreactor/co2_reading_plugin",
+  "download_filename": "co2_reading_plugin-0.3.0.tar.gz",
+  "download_time": "2025-12-04T19:27:43.464983",
+  "package_url": "https://pypi.org/project/co2-reading-plugin/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "eL-tfgen",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "AI-powered Terraform module generator - Create Terraform configurations from provider documentation",
   "author": "eLTitans",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "el_tfgen-0.2.4.tar.gz",
-  "download_time": "2025-12-03T11:51:25.224935",
+  "download_filename": "el_tfgen-0.2.6.tar.gz",
+  "download_time": "2025-12-04T19:28:00.721636",
   "package_url": "https://pypi.org/project/eL-tfgen/"
 }

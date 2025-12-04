@@ -1,11 +1,11 @@
 {
   "name": "sakit",
-  "version": "14.1.7",
+  "version": "14.1.8",
   "summary": "Solana Agent Kit",
   "author": "Bevan Hunt",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sakit-14.1.7.tar.gz",
-  "download_time": "2025-12-04T17:47:11.245078",
+  "download_filename": "sakit-14.1.8.tar.gz",
+  "download_time": "2025-12-04T19:27:56.677252",
   "package_url": "https://pypi.org/project/sakit/"
 }

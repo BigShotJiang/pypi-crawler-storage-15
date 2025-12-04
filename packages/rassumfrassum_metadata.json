@@ -1,11 +1,11 @@
 {
   "name": "rassumfrassum",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "LSP/JSONRPC multiplexer for connecting one LSP client to multiple servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rassumfrassum-0.1.2.tar.gz",
-  "download_time": "2025-12-04T14:48:53.004406",
+  "download_filename": "rassumfrassum-0.1.3.tar.gz",
+  "download_time": "2025-12-04T19:27:30.354129",
   "package_url": "https://pypi.org/project/rassumfrassum/"
 }

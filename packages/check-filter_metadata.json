@@ -1,0 +1,11 @@
+{
+  "name": "check-filter",
+  "version": "2.5.0",
+  "summary": "Check URLs that filtered (or not) in Iran.",
+  "author": "Arash Hatami",
+  "license": "MIT",
+  "home_page": "https://arash-hatami.ir",
+  "download_filename": "check_filter-2.5.0.tar.gz",
+  "download_time": "2025-12-04T19:27:23.315923",
+  "package_url": "https://pypi.org/project/check-filter/"
+}

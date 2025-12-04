@@ -1,11 +1,11 @@
 {
   "name": "arretify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Arrêtify est une librairie Python permettant la conversion d'arrêtés préfectoraux français en HTML sémantique.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arretify-0.0.1.tar.gz",
-  "download_time": "2025-12-04T16:55:38.485469",
+  "download_filename": "arretify-0.0.2.tar.gz",
+  "download_time": "2025-12-04T19:27:29.773273",
   "package_url": "https://pypi.org/project/arretify/"
 }
