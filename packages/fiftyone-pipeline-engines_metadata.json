@@ -1,0 +1,11 @@
+{
+  "name": "fiftyone-pipeline-engines",
+  "version": "4.5.2",
+  "summary": "This package extends the flow element class created by the fiftyone-pipeline-core package into a specialized type of flow element called an engine.",
+  "author": "51Degrees Engineering",
+  "license": "EUPL-1.2",
+  "home_page": "https://51degrees.com/",
+  "download_filename": "fiftyone_pipeline_engines-4.5.2.tar.gz",
+  "download_time": "2025-12-04T03:07:02.523946",
+  "package_url": "https://pypi.org/project/fiftyone-pipeline-engines/"
+}

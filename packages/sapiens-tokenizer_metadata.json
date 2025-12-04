@@ -1,0 +1,11 @@
+{
+  "name": "sapiens-tokenizer",
+  "version": "1.2.3",
+  "summary": null,
+  "author": "SAPIENS TECHNOLOGY",
+  "license": "Proprietary Software",
+  "home_page": "https://github.com/sapiens-technology/SapiensTokenizer",
+  "download_filename": "sapiens_tokenizer-1.2.3.tar.gz",
+  "download_time": "2025-12-04T03:06:41.108043",
+  "package_url": "https://pypi.org/project/sapiens-tokenizer/"
+}

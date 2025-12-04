@@ -1,11 +1,11 @@
 {
   "name": "syft-crypto-python",
-  "version": "0.1.2b1",
+  "version": "0.1.2b2",
   "summary": "Python bindings for the Syft crypto protocol",
   "author": "OpenMined",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "syft_crypto_python-0.1.2b1.tar.gz",
-  "download_time": "2025-12-03T04:33:35.255255",
+  "download_filename": "syft_crypto_python-0.1.2b2.tar.gz",
+  "download_time": "2025-12-04T03:06:25.896714",
   "package_url": "https://pypi.org/project/syft-crypto-python/"
 }

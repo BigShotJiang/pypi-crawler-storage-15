@@ -1,0 +1,11 @@
+{
+  "name": "caffeinated-whale-cli",
+  "version": "0.21.1",
+  "summary": "A CLI tool to help manage Frappe Docker instances.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "caffeinated_whale_cli-0.21.1.tar.gz",
+  "download_time": "2025-12-04T03:06:40.526023",
+  "package_url": "https://pypi.org/project/caffeinated-whale-cli/"
+}

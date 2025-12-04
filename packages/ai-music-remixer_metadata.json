@@ -1,0 +1,11 @@
+{
+  "name": "ai-music-remixer",
+  "version": "3.0.0",
+  "summary": "AI-powered intelligent music remixer with optional neural transitions",
+  "author": "YourName",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_music_remixer-3.0.0.tar.gz",
+  "download_time": "2025-12-04T03:07:02.002164",
+  "package_url": "https://pypi.org/project/ai-music-remixer/"
+}

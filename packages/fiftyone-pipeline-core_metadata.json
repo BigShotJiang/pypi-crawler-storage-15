@@ -1,0 +1,11 @@
+{
+  "name": "fiftyone-pipeline-core",
+  "version": "4.5.2",
+  "summary": "This package defines the essential components of the 51Degrees Pipeline API such as flow elements, flow data and evidence. It also packages together JavaScript served by a pipeline and allows for client side requests for additional data populated by evidence from the client side.",
+  "author": "51Degrees Engineering",
+  "license": "EUPL-1.2",
+  "home_page": "https://51degrees.com/",
+  "download_filename": "fiftyone_pipeline_core-4.5.2.tar.gz",
+  "download_time": "2025-12-04T03:07:03.570809",
+  "package_url": "https://pypi.org/project/fiftyone-pipeline-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fin-infra",
-  "version": "0.1.52",
+  "version": "0.1.53",
   "summary": "Financial infrastructure toolkit: banking connections, market data, credit, cashflows, and brokerage integrations",
   "author": "Ali Khatami",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fin_infra-0.1.52.tar.gz",
-  "download_time": "2025-12-04T01:25:57.963547",
+  "download_filename": "fin_infra-0.1.53.tar.gz",
+  "download_time": "2025-12-04T03:06:53.332955",
   "package_url": "https://pypi.org/project/fin-infra/"
 }

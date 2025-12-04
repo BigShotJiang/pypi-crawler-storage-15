@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-trending",
+  "version": "0.1.5",
+  "summary": "MCP Server for trending data from multiple platforms for indie developers",
+  "author": "MCP Server Trending Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_trending-0.1.5.tar.gz",
+  "download_time": "2025-12-04T03:06:42.689069",
+  "package_url": "https://pypi.org/project/mcp-server-trending/"
+}

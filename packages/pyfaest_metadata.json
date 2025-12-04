@@ -1,0 +1,11 @@
+{
+  "name": "pyfaest",
+  "version": "1.0.15",
+  "summary": "Python bindings for FAEST post-quantum signature scheme",
+  "author": "PyFAEST Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/Shreyas582/pyfaest",
+  "download_filename": "pyfaest-1.0.15.tar.gz",
+  "download_time": "2025-12-04T03:06:34.180260",
+  "package_url": "https://pypi.org/project/pyfaest/"
+}
