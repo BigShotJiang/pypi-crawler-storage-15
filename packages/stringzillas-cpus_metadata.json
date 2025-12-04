@@ -1,11 +1,11 @@
 {
   "name": "stringzillas-cpus",
-  "version": "4.4.1",
+  "version": "4.4.2",
   "summary": "Search, hash, sort, fingerprint, and fuzzy-match strings faster via SWAR, SIMD, on multi-core CPUs",
   "author": "Ash Vardanian",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ashvardanian/StringZilla",
-  "download_filename": "stringzillas_cpus-4.4.1.tar.gz",
-  "download_time": "2025-12-03T23:39:53.065962",
+  "download_filename": "stringzillas_cpus-4.4.2.tar.gz",
+  "download_time": "2025-12-04T20:23:15.404798",
   "package_url": "https://pypi.org/project/stringzillas-cpus/"
 }

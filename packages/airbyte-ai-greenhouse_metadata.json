@@ -1,11 +1,11 @@
 {
   "name": "airbyte-ai-greenhouse",
-  "version": "0.7.0",
+  "version": "0.11.0",
   "summary": "Airbyte Greenhouse Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_ai_greenhouse-0.7.0.tar.gz",
-  "download_time": "2025-12-03T01:25:04.906487",
+  "download_filename": "airbyte_ai_greenhouse-0.11.0.tar.gz",
+  "download_time": "2025-12-04T20:23:43.297287",
   "package_url": "https://pypi.org/project/airbyte-ai-greenhouse/"
 }
