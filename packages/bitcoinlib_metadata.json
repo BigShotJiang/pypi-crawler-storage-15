@@ -1,0 +1,11 @@
+{
+  "name": "bitcoinlib",
+  "version": "0.7.6",
+  "summary": "Bitcoin cryptocurrency Library",
+  "author": "1200wd",
+  "license": "GNU3",
+  "home_page": "http://github.com/1200wd/bitcoinlib",
+  "download_filename": "bitcoinlib-0.7.6.tar.gz",
+  "download_time": "2025-12-04T21:41:36.330054",
+  "package_url": "https://pypi.org/project/bitcoinlib/"
+}

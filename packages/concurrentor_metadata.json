@@ -1,11 +1,11 @@
 {
   "name": "concurrentor",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.1.1",
+  "summary": "A simple wrapper class around anyio to help create programs that contain multiple concurrent but interacting parts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "concurrentor-0.1.0.tar.gz",
-  "download_time": "2025-12-04T20:23:09.691671",
+  "download_filename": "concurrentor-0.1.1.tar.gz",
+  "download_time": "2025-12-04T21:41:27.812756",
   "package_url": "https://pypi.org/project/concurrentor/"
 }

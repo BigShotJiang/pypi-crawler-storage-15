@@ -1,0 +1,11 @@
+{
+  "name": "owon-psu",
+  "version": "0.0.5",
+  "summary": "Simple Python library for controlling Owon SPE6103 and SPE3103 power supplies",
+  "author": "Robbe Derks",
+  "license": null,
+  "home_page": "https://github.com/robbederks/owon-psu-control",
+  "download_filename": "owon_psu-0.0.5.tar.gz",
+  "download_time": "2025-12-04T21:41:41.600764",
+  "package_url": "https://pypi.org/project/owon-psu/"
+}

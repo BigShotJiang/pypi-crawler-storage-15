@@ -1,0 +1,11 @@
+{
+  "name": "terratest",
+  "version": "0.1.0",
+  "summary": "Terratest Web UI - Interfaz web para ejecutar y gestionar tests de Terraform en contenedores Docker",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "terratest-0.1.0.tar.gz",
+  "download_time": "2025-12-04T21:41:08.598829",
+  "package_url": "https://pypi.org/project/terratest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kiarina-lib-cloudflare-auth",
+  "version": "1.12.0",
+  "summary": "Cloudflare client library for kiarina namespace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kiarina_lib_cloudflare_auth-1.12.0.tar.gz",
+  "download_time": "2025-12-04T21:41:16.175426",
+  "package_url": "https://pypi.org/project/kiarina-lib-cloudflare-auth/"
+}

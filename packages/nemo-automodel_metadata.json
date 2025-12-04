@@ -1,0 +1,11 @@
+{
+  "name": "nemo-automodel",
+  "version": "0.2.0",
+  "summary": "DTensor-native pretraining and fine-tuning for LLMs/VLMs with day-0 Hugging Face support, GPU-acceleration, and memory efficiency.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nemo_automodel-0.2.0.tar.gz",
+  "download_time": "2025-12-04T21:41:44.733721",
+  "package_url": "https://pypi.org/project/nemo-automodel/"
+}

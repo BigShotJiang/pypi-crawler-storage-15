@@ -1,0 +1,11 @@
+{
+  "name": "atlas-consortia-commons",
+  "version": "1.1.6",
+  "summary": "The common code supporting the web services in the consortia.",
+  "author": "Atlas Consortia",
+  "license": null,
+  "home_page": "https://github.com/x-atlas-consortia/commons",
+  "download_filename": "atlas_consortia_commons-1.1.6.tar.gz",
+  "download_time": "2025-12-04T21:41:29.930000",
+  "package_url": "https://pypi.org/project/atlas-consortia-commons/"
+}
