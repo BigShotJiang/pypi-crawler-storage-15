@@ -1,0 +1,11 @@
+{
+  "name": "diffqcp",
+  "version": "0.4.3",
+  "summary": "Engine to compute Jacobian-vector and vector-Jacobian products for (convex) quadratic cone programs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diffqcp-0.4.3.tar.gz",
+  "download_time": "2025-12-04T13:55:14.223445",
+  "package_url": "https://pypi.org/project/diffqcp/"
+}

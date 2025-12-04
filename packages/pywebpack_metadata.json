@@ -1,0 +1,11 @@
+{
+  "name": "pywebpack",
+  "version": "2.2.1",
+  "summary": "Webpack integration layer for Python.",
+  "author": "CERN",
+  "license": "BSD",
+  "home_page": "https://github.com/inveniosoftware/pywebpack",
+  "download_filename": "pywebpack-2.2.1.tar.gz",
+  "download_time": "2025-12-04T13:55:10.593265",
+  "package_url": "https://pypi.org/project/pywebpack/"
+}

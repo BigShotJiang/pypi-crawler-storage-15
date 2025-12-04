@@ -1,0 +1,11 @@
+{
+  "name": "featomic-torch",
+  "version": "0.7.2",
+  "summary": "TorchScript bindings to featomic",
+  "author": "Guillaume Fraux, Philip Loche, Sergei Kliavinek, Kevin Kazuki Huguenin-Dumittan, Davide Tisi, Alexander Goscinski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "featomic_torch-0.7.2.tar.gz",
+  "download_time": "2025-12-04T13:55:13.702901",
+  "package_url": "https://pypi.org/project/featomic-torch/"
+}

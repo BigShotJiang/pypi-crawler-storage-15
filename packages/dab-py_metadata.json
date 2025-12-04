@@ -1,0 +1,11 @@
+{
+  "name": "dab-py",
+  "version": "0.2.0",
+  "summary": "A Python client for DAB Terms API and O&M API",
+  "author": "Alun Sagara Putra (CNR Internship),Ahmad Mahmoud (CNR internship)",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/ESSI-Lab/dab-py/tree/main",
+  "download_filename": "dab_py-0.2.0.tar.gz",
+  "download_time": "2025-12-04T13:54:43.356742",
+  "package_url": "https://pypi.org/project/dab-py/"
+}

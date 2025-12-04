@@ -1,0 +1,11 @@
+{
+  "name": "comet-for-mlflow",
+  "version": "0.1.9",
+  "summary": "Extend MLFlow with Comet.ml",
+  "author": "Boris Feld",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/comet-ml/comet-for-mlflow",
+  "download_filename": "comet_for_mlflow-0.1.9.tar.gz",
+  "download_time": "2025-12-04T13:54:39.176193",
+  "package_url": "https://pypi.org/project/comet-for-mlflow/"
+}
