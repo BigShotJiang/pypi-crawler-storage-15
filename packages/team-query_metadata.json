@@ -1,11 +1,11 @@
 {
   "name": "team-query",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "summary": "The ORM you get when you love SQL but hate typing it twice.",
   "author": "Javier Echenique",
   "license": "MIT",
   "home_page": "https://github.com/jechenique/team-query",
-  "download_filename": "team_query-1.0.17.tar.gz",
-  "download_time": "2025-12-04T13:55:03.279157",
+  "download_filename": "team_query-1.0.18.tar.gz",
+  "download_time": "2025-12-04T15:22:52.156618",
   "package_url": "https://pypi.org/project/team-query/"
 }

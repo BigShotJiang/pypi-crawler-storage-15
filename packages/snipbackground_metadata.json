@@ -1,11 +1,11 @@
 {
   "name": "snipbackground",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Fast CPU-based SNIP background subtraction",
   "author": "Yifan Yao",
   "license": null,
   "home_page": null,
-  "download_filename": "snipbackground-0.1.2.tar.gz",
-  "download_time": "2025-12-04T14:48:16.229312",
+  "download_filename": "snipbackground-0.1.5.tar.gz",
+  "download_time": "2025-12-04T15:22:55.349653",
   "package_url": "https://pypi.org/project/snipbackground/"
 }

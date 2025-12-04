@@ -1,11 +1,11 @@
 {
   "name": "pycharting",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "summary": "High-performance financial charting library for OHLC data visualization with technical indicators",
   "author": "ali askar",
   "license": "MIT",
   "home_page": "https://github.com/alihaskar/pycharting",
-  "download_filename": "pycharting-0.2.6.tar.gz",
-  "download_time": "2025-12-04T14:21:33.581727",
+  "download_filename": "pycharting-0.2.8.tar.gz",
+  "download_time": "2025-12-04T15:22:49.997714",
   "package_url": "https://pypi.org/project/pycharting/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "colbert-client",
+  "version": "0.1.0",
+  "summary": "Python SDK for ColBERT Reranker Server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "colbert_client-0.1.0.tar.gz",
+  "download_time": "2025-12-04T15:22:52.694005",
+  "package_url": "https://pypi.org/project/colbert-client/"
+}

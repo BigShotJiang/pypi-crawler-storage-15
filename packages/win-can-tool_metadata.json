@@ -1,11 +1,11 @@
 {
   "name": "win-can-tool",
-  "version": "1.2.12",
+  "version": "1.2.17",
   "summary": "Windows CAN simulator and testing tool with GUI and CLI.",
   "author": "Kurtis Fafard",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "win_can_tool-1.2.12.tar.gz",
-  "download_time": "2025-12-03T23:17:24.753440",
+  "download_filename": "win_can_tool-1.2.17.tar.gz",
+  "download_time": "2025-12-04T15:22:51.622065",
   "package_url": "https://pypi.org/project/win-can-tool/"
 }

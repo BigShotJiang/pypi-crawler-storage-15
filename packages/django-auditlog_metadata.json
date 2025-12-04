@@ -1,0 +1,11 @@
+{
+  "name": "django-auditlog",
+  "version": "3.4.0",
+  "summary": "Audit log app for Django",
+  "author": "Jan-Jelle Kester",
+  "license": "MIT",
+  "home_page": "https://github.com/jazzband/django-auditlog",
+  "download_filename": "django_auditlog-3.4.0.tar.gz",
+  "download_time": "2025-12-04T15:22:57.421113",
+  "package_url": "https://pypi.org/project/django-auditlog/"
+}

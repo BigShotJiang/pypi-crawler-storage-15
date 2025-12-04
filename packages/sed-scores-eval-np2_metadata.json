@@ -1,0 +1,11 @@
+{
+  "name": "sed-scores-eval-np2",
+  "version": "0.0.4",
+  "summary": "(Threshold-Independent) Evaluation of Sound Event Detection Scores",
+  "author": "Department of Communications Engineering, Paderborn University",
+  "license": "MIT",
+  "home_page": "https://github.com/fgnt/sed_scores_eval",
+  "download_filename": "sed_scores_eval_np2-0.0.4.tar.gz",
+  "download_time": "2025-12-04T15:23:10.576669",
+  "package_url": "https://pypi.org/project/sed-scores-eval-np2/"
+}
