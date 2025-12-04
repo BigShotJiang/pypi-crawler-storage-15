@@ -1,0 +1,11 @@
+{
+  "name": "mem0-mcp-server",
+  "version": "0.2.0",
+  "summary": "Model Context Protocol server that exposes the Mem0 long-term memory API as tools",
+  "author": "Mem0",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mem0_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-12-04T21:22:44.725019",
+  "package_url": "https://pypi.org/project/mem0-mcp-server/"
+}

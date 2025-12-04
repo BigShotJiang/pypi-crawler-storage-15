@@ -1,11 +1,11 @@
 {
   "name": "weavexpy",
-  "version": "0.0.2",
-  "summary": "WeavexPy - 0.0.2 - beta",
+  "version": "0.0.5",
+  "summary": "WeavexPy - 0.0.1 - beta",
   "author": "João Victor",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "weavexpy-0.0.2.tar.gz",
-  "download_time": "2025-12-04T20:46:38.080150",
+  "download_filename": "weavexpy-0.0.5.tar.gz",
+  "download_time": "2025-12-04T21:22:11.034606",
   "package_url": "https://pypi.org/project/weavexpy/"
 }
