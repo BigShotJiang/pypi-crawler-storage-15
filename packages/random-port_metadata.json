@@ -1,0 +1,11 @@
+{
+  "name": "random-port",
+  "version": "0.0.6",
+  "summary": "Generate a free TCP or UDP random port",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "random_port-0.0.6.tar.gz",
+  "download_time": "2025-12-04T22:18:51.772119",
+  "package_url": "https://pypi.org/project/random-port/"
+}
