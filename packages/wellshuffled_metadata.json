@@ -1,0 +1,11 @@
+{
+  "name": "wellshuffled",
+  "version": "0.1.0",
+  "summary": "A command line utility for shuffling biological sample positions in microwell plates.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "wellshuffled-0.1.0.tar.gz",
+  "download_time": "2025-12-04T23:51:33.333552",
+  "package_url": "https://pypi.org/project/wellshuffled/"
+}
