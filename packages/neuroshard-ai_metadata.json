@@ -1,11 +1,11 @@
 {
   "name": "neuroshard-ai",
-  "version": "0.4.15",
-  "summary": "Decentralized AI Training Network - Train LLMs together, earn NEURO tokens",
+  "version": "0.4.23",
+  "summary": "Decentralized AI Network",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "neuroshard_ai-0.4.15.tar.gz",
-  "download_time": "2025-12-04T05:22:35.470010",
+  "download_filename": "neuroshard_ai-0.4.23.tar.gz",
+  "download_time": "2025-12-04T05:44:12.087204",
   "package_url": "https://pypi.org/project/neuroshard-ai/"
 }

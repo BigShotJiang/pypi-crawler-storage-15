@@ -1,0 +1,11 @@
+{
+  "name": "ssmbak",
+  "version": "0.3.0",
+  "summary": "Event-driven SSM Param backups and point-in-time restore.",
+  "author": "olmouse",
+  "license": "MIT",
+  "home_page": "https://github.com/newvoll/ssmbak",
+  "download_filename": "ssmbak-0.3.0.tar.gz",
+  "download_time": "2025-12-04T05:44:05.242386",
+  "package_url": "https://pypi.org/project/ssmbak/"
+}

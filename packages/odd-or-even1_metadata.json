@@ -1,0 +1,11 @@
+{
+  "name": "odd-or-even1",
+  "version": "0.1.0",
+  "summary": "A simple Python library to check if a number is odd or even.",
+  "author": "Akshay Shibu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "odd_or_even1-0.1.0.tar.gz",
+  "download_time": "2025-12-04T05:44:26.678178",
+  "package_url": "https://pypi.org/project/odd-or-even1/"
+}

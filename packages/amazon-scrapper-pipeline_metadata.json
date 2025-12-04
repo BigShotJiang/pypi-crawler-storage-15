@@ -1,0 +1,11 @@
+{
+  "name": "amazon-scrapper-pipeline",
+  "version": "0.2.4",
+  "summary": "Independent URL and Product scraping pipelines for Amazon",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amazon_scrapper_pipeline-0.2.4.tar.gz",
+  "download_time": "2025-12-04T05:44:15.196808",
+  "package_url": "https://pypi.org/project/amazon-scrapper-pipeline/"
+}

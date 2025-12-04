@@ -1,0 +1,11 @@
+{
+  "name": "odd-or-even-s",
+  "version": "0.1.0",
+  "summary": "A simple Python package to check if a number is odd or even.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "odd_or_even_s-0.1.0.tar.gz",
+  "download_time": "2025-12-04T05:44:09.489448",
+  "package_url": "https://pypi.org/project/odd-or-even-s/"
+}
