@@ -1,11 +1,11 @@
 {
   "name": "pyboot-commons-coroutine",
-  "version": "1.3.3.3",
+  "version": "1.3.3.4",
   "summary": "Pyboot-commons-coroutine is an open-source utility package that simplifies the development of coroutine.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyboot_commons_coroutine-1.3.3.3.tar.gz",
-  "download_time": "2025-12-04T04:00:23.101595",
+  "download_filename": "pyboot_commons_coroutine-1.3.3.4.tar.gz",
+  "download_time": "2025-12-04T09:24:03.541465",
   "package_url": "https://pypi.org/project/pyboot-commons-coroutine/"
 }

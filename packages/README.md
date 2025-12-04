@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-04T08:53:44.808650
-- **Total Packages**: 80
-- **Total Size**: 19.32 MB
+- **Download Time**: 2025-12-04T09:24:57.350227
+- **Total Packages**: 89
+- **Total Size**: 22.34 MB
 
 ## Packages List
+- umpyre
+- nebulatk
+- pyboot-commons-coroutine
+- shopcloud-django-toolbox
+- first-llms
+- doc-store
+- SURE-tools
+- airflan-workflow
+- lsst-pipe-base
+- aheadworks-deploy-manager
+- lsst-utils
+- FastArray-TPU
+- es-translator
+- prometheus-http-sd
+- ty
+- lsst-rucio-register
+- aioesphomeapi
+- numerous-apps
+- lsst-pex-config
+- pydiscobasepro
+- lsst-dax-obscore
+- cnloc
+- lsst-felis
+- stablehlo-coreml-experimental
+- bridge-transfer-11
+- lsst-ctrl-bps-parsl
+- vietnamadminunits-update
+- lsst-ctrl-bps-htcondor
+- lsst-ctrl-bps
+- lsst-ctrl-bps-panda
+- pytest-bec-e2e
+- bec-server
+- bec-lib
+- bec-ipython-client
+- bluer-sbc
+- dynafield
+- docx2tiptap
+- pysensedf
+- eida-statistics-aggregator
+- odoo-addon-account-credit-control
+- django-json-schema-editor
+- moai-adk
+- crawilfy-mcp-server
+- ucdp
+- decoupage-libelles
+- pulumi-volcenginecc
+- cloudbrew
+- zecmf
+- ksfaceapi
+- dicomtool-for-cvpilot
+- toollib
 - ai-debugger-inc
 - nia-mcp-server
 - pyeasycore
@@ -32,7 +83,6 @@
 - jacksung
 - yellowdog-sdk
 - wallpaper-mcp
-- vietnamadminunits-update
 - ansys-simai-core
 - exstruct
 - dj-lucide
@@ -40,49 +90,8 @@
 - batch-rename-mcp
 - agent-framework-lib
 - turbopuffer
-- pysensedf
 - emulated-roku
 - update-mypy-hook
 - dumbmoney
 - tokazen
 - SimbioReader
-- pytest-html5
-- pydiscobasepro
-- tpu-inference
-- interception-driver
-- startup-control-mcp
-- cognite-toolkit
-- bridge-transfer-10
-- chipstream
-- simple-language-recognizer
-- web3mc
-- abs-auth-rbac-core
-- dynafield
-- azure-sfi-agent
-- networka
-- PipeGraphPy
-- abstract-block-dumper
-- UAVision
-- abs-utils
-- delos-llmax
-- ory-client
-- abs-exception-core
-- autonomous-claude
-- gitcrumbs
-- bridge-transfer-9
-- fdsnnetextender
-- ccdcoe
-- moai-adk
-- torchunlearn
-- paradex-cli
-- quantum-debugger
-- axion-hdl
-- drawtetrado
-- DensityFlow2
-- aait
-- fastapi
-- m2s
-- fastapi-slim
-- bili-video-converter
-- stepup
-- maltorch

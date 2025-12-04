@@ -1,0 +1,11 @@
+{
+  "name": "FastArray-TPU",
+  "version": "1.0.0",
+  "summary": "Advanced compressed array library with extreme TPU-optimized compression and multi-device support - drop-in replacement for NumPy",
+  "author": "FastArray Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/fastarray/fastarray",
+  "download_filename": "fastarray_tpu-1.0.0.tar.gz",
+  "download_time": "2025-12-04T09:24:09.981318",
+  "package_url": "https://pypi.org/project/FastArray-TPU/"
+}

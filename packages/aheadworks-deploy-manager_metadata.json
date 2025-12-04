@@ -1,0 +1,11 @@
+{
+  "name": "aheadworks-deploy-manager",
+  "version": "1.8.1",
+  "summary": "deploy manager from aheadworks",
+  "author": "nnuser",
+  "license": "EULA",
+  "home_page": "https://bitbucket.org/awimpl/deploy-tools",
+  "download_filename": "aheadworks_deploy_manager-1.8.1.tar.gz",
+  "download_time": "2025-12-04T09:24:08.183775",
+  "package_url": "https://pypi.org/project/aheadworks-deploy-manager/"
+}

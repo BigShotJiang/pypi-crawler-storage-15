@@ -1,0 +1,11 @@
+{
+  "name": "stablehlo-coreml-experimental",
+  "version": "0.0.13",
+  "summary": "Convert StableHLO models into Apple Core ML format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stablehlo_coreml_experimental-0.0.13.tar.gz",
+  "download_time": "2025-12-04T09:24:17.862931",
+  "package_url": "https://pypi.org/project/stablehlo-coreml-experimental/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nia-mcp-server",
-  "version": "1.0.36",
+  "version": "1.0.37",
   "summary": "Nia Knowledge Agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nia_mcp_server-1.0.36.tar.gz",
-  "download_time": "2025-12-04T08:53:01.754981",
+  "download_filename": "nia_mcp_server-1.0.37.tar.gz",
+  "download_time": "2025-12-04T09:24:36.364071",
   "package_url": "https://pypi.org/project/nia-mcp-server/"
 }

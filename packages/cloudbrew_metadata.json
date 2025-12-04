@@ -1,11 +1,11 @@
 {
   "name": "cloudbrew",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "summary": "CloudBrew: vendor-neutral cloud orchestration CLI",
   "author": "Alakh Awasthi",
   "license": null,
   "home_page": null,
-  "download_filename": "cloudbrew-0.0.2.tar.gz",
-  "download_time": "2025-12-04T08:37:36.759629",
+  "download_filename": "cloudbrew-1.0.0.tar.gz",
+  "download_time": "2025-12-04T09:24:32.731071",
   "package_url": "https://pypi.org/project/cloudbrew/"
 }
