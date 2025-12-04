@@ -1,0 +1,11 @@
+{
+  "name": "ctpbee-kline",
+  "version": "0.2",
+  "summary": "ctpbee里面提供的k线生成算法",
+  "author": "somewheve",
+  "license": null,
+  "home_page": "https://www.github.com/ctpbee/ckline",
+  "download_filename": "ctpbee_kline-0.2.tar.gz",
+  "download_time": "2025-12-04T16:56:09.628922",
+  "package_url": "https://pypi.org/project/ctpbee-kline/"
+}

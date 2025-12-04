@@ -1,11 +1,11 @@
 {
   "name": "ancientlinesoftheworld",
-  "version": "2.6.5",
+  "version": "3.0.0",
   "summary": "Convert Persian and English text to ancient scripts like Pahlavi, Avestan, Cuneiform, and Manichaean.",
   "author": "Amir Hossein Khazaei",
   "license": "MIT",
   "home_page": "https://github.com/amirhossinpython/ancientlinesoftheworld-",
-  "download_filename": "ancientlinesoftheworld-2.6.5.tar.gz",
-  "download_time": "2025-12-04T11:19:30.548712",
+  "download_filename": "ancientlinesoftheworld-3.0.0.tar.gz",
+  "download_time": "2025-12-04T16:56:07.484969",
   "package_url": "https://pypi.org/project/ancientlinesoftheworld/"
 }

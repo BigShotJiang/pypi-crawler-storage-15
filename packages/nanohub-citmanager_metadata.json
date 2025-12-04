@@ -1,0 +1,11 @@
+{
+  "name": "nanohub-citmanager",
+  "version": "0.1.0",
+  "summary": "A Python library for interacting with HubZero Citation Manager API",
+  "author": "Daniel Mejia",
+  "license": "MIT",
+  "home_page": "https://github.com/denphi/nanohub-citmanager",
+  "download_filename": "nanohub_citmanager-0.1.0.tar.gz",
+  "download_time": "2025-12-04T16:56:05.754335",
+  "package_url": "https://pypi.org/project/nanohub-citmanager/"
+}

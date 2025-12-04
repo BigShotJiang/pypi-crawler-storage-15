@@ -1,11 +1,11 @@
 {
   "name": "asteroid_spinprops",
-  "version": "1.2.5",
+  "version": "1.3.0",
   "summary": "Collection of tools used for fitting sHG1G2 and SOCCA photometric models to sparse asteroid photometry",
   "author": "Odysseas",
   "license": "MIT",
   "home_page": "https://gitlab.com/odysseas_xenos/asteroid-spinprops",
-  "download_filename": "asteroid_spinprops-1.2.5.tar.gz",
-  "download_time": "2025-12-04T13:54:56.997771",
+  "download_filename": "asteroid_spinprops-1.3.0.tar.gz",
+  "download_time": "2025-12-04T16:55:59.302989",
   "package_url": "https://pypi.org/project/asteroid_spinprops/"
 }
