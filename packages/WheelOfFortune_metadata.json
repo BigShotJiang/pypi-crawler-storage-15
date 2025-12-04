@@ -1,0 +1,11 @@
+{
+  "name": "WheelOfFortune",
+  "version": "0.1.0",
+  "summary": "Игра \"Поле чудес\" на Python",
+  "author": "Страхов Арсений Павлович",
+  "license": null,
+  "home_page": "https://github.com/kekeIRL/wheel-of-fortune-game",
+  "download_filename": "wheeloffortune-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-04T20:46:41.720221",
+  "package_url": "https://pypi.org/project/WheelOfFortune/"
+}

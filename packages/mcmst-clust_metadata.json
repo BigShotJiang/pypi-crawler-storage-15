@@ -1,11 +1,11 @@
 {
   "name": "mcmst-clust",
-  "version": "1.0.7",
-  "summary": "Multi-Center Minimum Spanning Tree Clustering algorithm",
+  "version": "1.0.9",
+  "summary": "MCMSTClustering: Minimum Spanning Tree and Micro-Cluster based Clustering Algorithm",
   "author": "Ali Senol",
   "license": null,
   "home_page": "https://github.com/yourusername/mcmstclustering",
-  "download_filename": "mcmst_clust-1.0.7.tar.gz",
-  "download_time": "2025-12-04T19:02:50.700263",
+  "download_filename": "mcmst_clust-1.0.9.tar.gz",
+  "download_time": "2025-12-04T20:46:24.086804",
   "package_url": "https://pypi.org/project/mcmst-clust/"
 }

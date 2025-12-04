@@ -1,0 +1,11 @@
+{
+  "name": "tiledb-ml",
+  "version": "0.10.1",
+  "summary": "Package supports all machine learning functionality for TileDB Embedded and TileDB Cloud",
+  "author": "TileDB, Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/TileDB-Inc/TileDB-ML",
+  "download_filename": "tiledb_ml-0.10.1.tar.gz",
+  "download_time": "2025-12-04T20:46:39.141020",
+  "package_url": "https://pypi.org/project/tiledb-ml/"
+}

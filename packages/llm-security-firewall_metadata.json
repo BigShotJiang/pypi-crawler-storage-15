@@ -1,0 +1,11 @@
+{
+  "name": "llm-security-firewall",
+  "version": "2.5.0",
+  "summary": "Cognitive Security Middleware - The 'Electronic Stability Program' (ESP) for Large Language Models. Bidirectional containment system with defense-in-depth architecture (6 validation layers), stateful tracking, and mathematical safety constraints. Validated against Unicode/encoding attacks, pattern evasion, multilingual/polyglot attacks (12+ languages including Basque, Maltese), and memory/session attacks. Protocol-based hexagonal architecture with LangChain integration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_security_firewall-2.5.0-py3-none-any.whl",
+  "download_time": "2025-12-04T20:46:14.727061",
+  "package_url": "https://pypi.org/project/llm-security-firewall/"
+}

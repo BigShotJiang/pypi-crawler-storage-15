@@ -1,0 +1,11 @@
+{
+  "name": "unifi-network-mcp",
+  "version": "0.3.1",
+  "summary": "Unifi Network MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unifi_network_mcp-0.3.1.tar.gz",
+  "download_time": "2025-12-04T20:46:17.330764",
+  "package_url": "https://pypi.org/project/unifi-network-mcp/"
+}
