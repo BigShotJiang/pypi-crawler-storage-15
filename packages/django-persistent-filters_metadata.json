@@ -1,0 +1,11 @@
+{
+  "name": "django-persistent-filters",
+  "version": "1.2",
+  "summary": "Provide a django middleware that take care to persist the querystring in the browser cookies or in the Django session object.",
+  "author": "Lorenzo Prodon",
+  "license": "MIT",
+  "home_page": "https://github.com/LorenzoProd/django-persistent-filters",
+  "download_filename": "django_persistent_filters-1.2.tar.gz",
+  "download_time": "2025-12-04T10:23:18.367074",
+  "package_url": "https://pypi.org/project/django-persistent-filters/"
+}

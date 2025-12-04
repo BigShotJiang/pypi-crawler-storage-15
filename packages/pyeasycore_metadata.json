@@ -1,11 +1,11 @@
 {
   "name": "pyeasycore",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": null,
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "pyeasycore-0.2.1.tar.gz",
-  "download_time": "2025-12-04T08:53:02.265980",
+  "download_filename": "pyeasycore-0.2.2.tar.gz",
+  "download_time": "2025-12-04T10:23:33.323045",
   "package_url": "https://pypi.org/project/pyeasycore/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vectorwave",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "VectorWave: Seamless Auto-Vectorization Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vectorwave-0.2.2.tar.gz",
-  "download_time": "2025-12-03T10:50:12.759768",
+  "download_filename": "vectorwave-0.2.3.tar.gz",
+  "download_time": "2025-12-04T10:23:41.035299",
   "package_url": "https://pypi.org/project/vectorwave/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fundamend",
-  "version": "0.28.0",
+  "version": "0.28.1",
   "summary": "XML basierte Formate und DatemModelle für die Energiewirtschaft in Deutschland",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fundamend-0.28.0.tar.gz",
-  "download_time": "2025-12-02T22:16:55.370513",
+  "download_filename": "fundamend-0.28.1.tar.gz",
+  "download_time": "2025-12-04T10:23:32.298240",
   "package_url": "https://pypi.org/project/fundamend/"
 }

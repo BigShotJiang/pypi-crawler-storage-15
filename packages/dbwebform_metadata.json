@@ -1,0 +1,11 @@
+{
+  "name": "dbwebform",
+  "version": "1.0.1",
+  "summary": "Flask-based web forms for database models with auto-generated forms and admin interface",
+  "author": "Маг Ильяс DOMA (MagIlyasDOMA)",
+  "license": "MIT",
+  "home_page": "https://github.com/MagIlyasDOMA/dbwebform",
+  "download_filename": "dbwebform-1.0.1.tar.gz",
+  "download_time": "2025-12-04T10:23:36.413960",
+  "package_url": "https://pypi.org/project/dbwebform/"
+}

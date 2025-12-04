@@ -1,0 +1,11 @@
+{
+  "name": "hypomnema",
+  "version": "0.4.2",
+  "summary": "Python library for manipulating, creating and editing tmx files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hypomnema-0.4.2.tar.gz",
+  "download_time": "2025-12-04T10:23:27.172624",
+  "package_url": "https://pypi.org/project/hypomnema/"
+}
