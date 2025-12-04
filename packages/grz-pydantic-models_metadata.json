@@ -1,0 +1,11 @@
+{
+  "name": "grz-pydantic-models",
+  "version": "2.5.0",
+  "summary": "Pydantic models for the GRZ metadata schema",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grz_pydantic_models-2.5.0.tar.gz",
+  "download_time": "2025-12-04T06:56:34.366686",
+  "package_url": "https://pypi.org/project/grz-pydantic-models/"
+}

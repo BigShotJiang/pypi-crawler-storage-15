@@ -1,11 +1,11 @@
 {
   "name": "rp-backscatter",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "Usage of Red Pitaya embedded signal acquisition platform to collect backscatter data from INSITE2 chip",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rp_backscatter-0.0.3.tar.gz",
-  "download_time": "2025-12-04T01:26:29.077867",
+  "download_filename": "rp_backscatter-0.0.6.tar.gz",
+  "download_time": "2025-12-04T06:56:31.192857",
   "package_url": "https://pypi.org/project/rp-backscatter/"
 }

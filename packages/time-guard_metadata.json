@@ -1,0 +1,11 @@
+{
+  "name": "time-guard",
+  "version": "0.0.4",
+  "summary": "Python-based screen activity tracker that captures images every 5 seconds for AI-powered computer usage analysis.",
+  "author": "Bryce Drennan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "time_guard-0.0.4.tar.gz",
+  "download_time": "2025-12-04T06:56:24.414179",
+  "package_url": "https://pypi.org/project/time-guard/"
+}

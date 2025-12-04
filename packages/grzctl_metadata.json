@@ -1,0 +1,11 @@
+{
+  "name": "grzctl",
+  "version": "1.4.0",
+  "summary": "Control CLI for GRZ administrators.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grzctl-1.4.0.tar.gz",
+  "download_time": "2025-12-04T06:56:36.005980",
+  "package_url": "https://pypi.org/project/grzctl/"
+}
