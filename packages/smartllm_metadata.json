@@ -1,0 +1,11 @@
+{
+  "name": "smartllm",
+  "version": "0.0.8",
+  "summary": "A unified interface for interacting with multiple Large Language Model providers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartllm-0.0.8.tar.gz",
+  "download_time": "2025-12-04T19:02:32.136411",
+  "package_url": "https://pypi.org/project/smartllm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "urlprobe",
+  "version": "0.0.0",
+  "summary": "A tool to request a specified `url` and return the response.",
+  "author": "Andrew Vella",
+  "license": null,
+  "home_page": null,
+  "download_filename": "urlprobe-0.0.0.tar.gz",
+  "download_time": "2025-12-04T19:02:45.261702",
+  "package_url": "https://pypi.org/project/urlprobe/"
+}

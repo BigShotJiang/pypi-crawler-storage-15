@@ -1,0 +1,11 @@
+{
+  "name": "hubview",
+  "version": "0.5",
+  "summary": "GitHub-like local file viewer built with Flask",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hubview-0.5.tar.gz",
+  "download_time": "2025-12-04T19:02:24.037604",
+  "package_url": "https://pypi.org/project/hubview/"
+}

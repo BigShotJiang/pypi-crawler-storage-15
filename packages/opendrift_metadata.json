@@ -1,0 +1,11 @@
+{
+  "name": "opendrift",
+  "version": "1.14.7",
+  "summary": "OpenDrift - a framework for ocean trajectory modeling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opendrift-1.14.7-py3-none-any.whl",
+  "download_time": "2025-12-04T19:02:26.813080",
+  "package_url": "https://pypi.org/project/opendrift/"
+}

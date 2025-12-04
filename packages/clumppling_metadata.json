@@ -1,0 +1,11 @@
+{
+  "name": "clumppling",
+  "version": "2.0.6",
+  "summary": "Clumppling: cluster matching and permutation program with integer linear programming",
+  "author": "Xiran Liu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clumppling-2.0.6.tar.gz",
+  "download_time": "2025-12-04T19:02:58.039454",
+  "package_url": "https://pypi.org/project/clumppling/"
+}

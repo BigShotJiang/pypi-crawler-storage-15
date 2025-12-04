@@ -1,0 +1,11 @@
+{
+  "name": "reviewhound",
+  "version": "1.0.0",
+  "summary": "Business review aggregator and monitoring tool with sentiment analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reviewhound-1.0.0.tar.gz",
+  "download_time": "2025-12-04T19:02:55.988289",
+  "package_url": "https://pypi.org/project/reviewhound/"
+}

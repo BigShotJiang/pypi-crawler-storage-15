@@ -1,11 +1,11 @@
 {
   "name": "arbiter-engine",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "26MB semantic disambiguation engine. No ML inference. Your vector search can't tell 'river bank' from 'financial bank'. This can.",
   "author": "Joel Trout II",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arbiter_engine-0.4.1.tar.gz",
-  "download_time": "2025-12-04T17:47:19.964172",
+  "download_filename": "arbiter_engine-0.4.2.tar.gz",
+  "download_time": "2025-12-04T19:02:55.477360",
   "package_url": "https://pypi.org/project/arbiter-engine/"
 }

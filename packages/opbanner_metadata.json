@@ -1,11 +1,11 @@
 {
   "name": "opbanner",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A customizable banner display tool for your terminal.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opbanner-0.1.6.tar.gz",
-  "download_time": "2025-12-04T14:48:40.430296",
+  "download_filename": "opbanner-0.1.7.tar.gz",
+  "download_time": "2025-12-04T19:02:50.125391",
   "package_url": "https://pypi.org/project/opbanner/"
 }

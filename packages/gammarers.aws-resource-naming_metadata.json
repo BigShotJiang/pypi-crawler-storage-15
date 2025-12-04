@@ -1,0 +1,11 @@
+{
+  "name": "gammarers.aws-resource-naming",
+  "version": "0.11.18",
+  "summary": "@gammarers/aws-resource-naming",
+  "author": "yicr<yicr@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gammarers/aws-resource-naming.git",
+  "download_filename": "gammarers_aws_resource_naming-0.11.18.tar.gz",
+  "download_time": "2025-12-04T19:02:44.688108",
+  "package_url": "https://pypi.org/project/gammarers.aws-resource-naming/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "simpnmr",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "A package for working with paramagnetic NMR spectra",
   "author": "Suturina Group",
   "license": null,
   "home_page": "https://gitlab.com/suturina-group/simpnmr",
-  "download_filename": "simpnmr-1.2.1.tar.gz",
-  "download_time": "2025-12-04T17:22:11.592347",
+  "download_filename": "simpnmr-1.2.2.tar.gz",
+  "download_time": "2025-12-04T19:02:40.649291",
   "package_url": "https://pypi.org/project/simpnmr/"
 }
