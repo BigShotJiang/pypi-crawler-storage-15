@@ -1,0 +1,11 @@
+{
+  "name": "django-deadcode",
+  "version": "0.7.0",
+  "summary": "A Django dead code analysis tool that tracks relationships between templates, URLs, and views",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_deadcode-0.7.0.tar.gz",
+  "download_time": "2025-12-04T19:51:20.005051",
+  "package_url": "https://pypi.org/project/django-deadcode/"
+}

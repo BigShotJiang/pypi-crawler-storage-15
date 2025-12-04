@@ -1,21 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-04T19:44:17.539660
-- **Total Packages**: 86
-- **Total Size**: 10.4 MB
+- **Download Time**: 2025-12-04T19:51:59.687789
+- **Total Packages**: 79
+- **Total Size**: 10.02 MB
 
 ## Packages List
+- pyFTLE
+- pytemporal
+- pulumi-aws-apigateway
+- pipzap
+- sakit
+- crashs
+- ceffyl
+- django-deadcode
+- upathtools
+- pulumi-xyz
+- rumoca
+- syntaxmatrix
+- rxlm
+- typed-everywhere
+- llama-index
+- retgit
+- pytest-xdocker
+- yarobot
+- readysignal
+- scalar-fastapi
+- kumoai
+- clue-api
+- sai-akruti
+- spa-cli
 - qumulo-api
 - ipyspeck
 - pulumi-random
 - arize
 - reserver-client
-- retgit
 - qldata
 - stringzillas-cuda
 - mcp-proxy-adapter
-- pyscsopt
 - transfusion-pytorch
 - czitools
 - pysynthbio
@@ -23,13 +45,11 @@
 - rp-backscatter
 - agentfield
 - imagejenerator
-- pulumi-xyz
 - emcd-projects
 - ptlibs
 - aserpc
 - recreate-sdk
 - owui-client
-- readysignal
 - prime-uve
 - sphinx-click
 - deltachat-rpc-client
@@ -45,7 +65,6 @@
 - climate-finance
 - moose-lib
 - nrobo
-- pyFTLE
 - alibabacloud-sae20190506
 - alibabacloud-dataworks-public20240518
 - cuda-tile
@@ -63,32 +82,6 @@
 - twg
 - some-weird-package
 - v4-proto
-- yarobot
 - py-radix
 - axion-hdl
 - dvt-core
-- agentready
-- dataclass-args
-- ezKit
-- alibabacloud-gpdb20160503
-- check-filter
-- sift-stack-py
-- centralcli
-- shadowlib
-- weblaunch
-- seeq
-- claude-code-supervisor
-- AgentManager
-- eclipse-zenoh
-- usgs-strec
-- arretify
-- rassumfrassum
-- grasp_agents
-- linear-app
-- crc-pulp-service-client
-- crc-pulp-file-client
-- crc-pulp-maven-client
-- crc-pulp-rpm-client
-- crc-pulp-gem-client
-- crc-pulp-npm-client
-- crc-pulp-python-client

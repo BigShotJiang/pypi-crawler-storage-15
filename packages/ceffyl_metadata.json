@@ -1,0 +1,11 @@
+{
+  "name": "ceffyl",
+  "version": "1.41.2",
+  "summary": "Software to rapidly and flexibly analyse Pulsar Timing Array data via factorised likelihood methods (Lamb et al. 2023)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ceffyl-1.41.2.tar.gz",
+  "download_time": "2025-12-04T19:51:19.485295",
+  "package_url": "https://pypi.org/project/ceffyl/"
+}

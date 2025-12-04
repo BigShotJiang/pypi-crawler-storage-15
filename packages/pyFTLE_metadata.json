@@ -1,11 +1,11 @@
 {
   "name": "pyFTLE",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Python package to compute Finite Time Lyapunov Exponents (FTLE).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyftle-1.0.2-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-12-04T19:43:50.973125",
+  "download_filename": "pyftle-1.0.3-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-04T19:51:15.728862",
   "package_url": "https://pypi.org/project/pyFTLE/"
 }
