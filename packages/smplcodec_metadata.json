@@ -1,0 +1,11 @@
+{
+  "name": "smplcodec",
+  "version": "2.3.0",
+  "summary": "A library to read and write .smpl avatar files",
+  "author": "Talha Zaman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smplcodec-2.3.0.tar.gz",
+  "download_time": "2025-12-04T08:37:27.536092",
+  "package_url": "https://pypi.org/project/smplcodec/"
+}

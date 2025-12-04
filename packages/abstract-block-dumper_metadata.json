@@ -1,11 +1,11 @@
 {
   "name": "abstract-block-dumper",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "abstract_block_dumper-0.0.8.tar.gz",
-  "download_time": "2025-12-04T07:42:30.882592",
+  "download_filename": "abstract_block_dumper-0.0.9.tar.gz",
+  "download_time": "2025-12-04T08:37:01.375570",
   "package_url": "https://pypi.org/project/abstract-block-dumper/"
 }

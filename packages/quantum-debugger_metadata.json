@@ -1,11 +1,11 @@
 {
   "name": "quantum-debugger",
-  "version": "0.2.1",
-  "summary": "Interactive debugger and profiler for quantum circuits",
+  "version": "0.3.0",
+  "summary": "Interactive debugger and profiler for quantum circuits with realistic noise simulation",
   "author": "warlord9004",
   "license": null,
-  "home_page": "https://github.com/yourusername/quantum-debugger",
-  "download_filename": "quantum_debugger-0.2.1.tar.gz",
-  "download_time": "2025-12-03T09:46:38.410266",
+  "home_page": "https://github.com/Raunakg2005/quantum-debugger",
+  "download_filename": "quantum_debugger-0.3.0.tar.gz",
+  "download_time": "2025-12-04T08:37:09.661263",
   "package_url": "https://pypi.org/project/quantum-debugger/"
 }

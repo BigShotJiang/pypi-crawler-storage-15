@@ -1,0 +1,11 @@
+{
+  "name": "torchunlearn",
+  "version": "0.1.0",
+  "summary": "Torchunlearn is a PyTorch library that provides machine unlearning methods to remove the influence of forget data.",
+  "author": "Harry Kim",
+  "license": "MIT",
+  "home_page": "https://github.com/Harry24k/machine-unlearning-pytorch",
+  "download_filename": "torchunlearn-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-04T08:37:08.123503",
+  "package_url": "https://pypi.org/project/torchunlearn/"
+}

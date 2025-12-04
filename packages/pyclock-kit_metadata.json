@@ -1,0 +1,11 @@
+{
+  "name": "pyclock-kit",
+  "version": "0.1.1",
+  "summary": "A simple time utility package for getting current time in various formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyclock_kit-0.1.1.tar.gz",
+  "download_time": "2025-12-04T08:37:21.299905",
+  "package_url": "https://pypi.org/project/pyclock-kit/"
+}

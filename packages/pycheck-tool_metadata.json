@@ -1,11 +1,11 @@
 {
   "name": "pycheck-tool",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A simple, dynamic sanity-check library for Python distributions.",
   "author": "Aubrey",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "pycheck_tool-0.1.2.tar.gz",
-  "download_time": "2025-12-03T09:24:17.844317",
+  "download_filename": "pycheck_tool-0.1.4.tar.gz",
+  "download_time": "2025-12-04T08:37:26.380089",
   "package_url": "https://pypi.org/project/pycheck-tool/"
 }

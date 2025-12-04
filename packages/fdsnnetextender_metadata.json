@@ -1,0 +1,11 @@
+{
+  "name": "fdsnnetextender",
+  "version": "5.0.2",
+  "summary": "Library to determine the extended seismological network code from FDSN web service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fdsnnetextender-5.0.2.tar.gz",
+  "download_time": "2025-12-04T08:37:06.564876",
+  "package_url": "https://pypi.org/project/fdsnnetextender/"
+}
