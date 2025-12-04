@@ -1,11 +1,11 @@
 {
   "name": "pysensedf",
-  "version": "0.3.0",
-  "summary": "PySenseDF — AI-powered native Python DataFrame that kills Pandas",
+  "version": "0.4.0",
+  "summary": "PySenseDF — AI-powered Python DataFrame that beats Pandas - 27-92x faster with smart caching & NumPy backend",
   "author": "Idriss Bado",
   "license": "MIT",
   "home_page": "https://github.com/idrissbado/PySenseDF",
-  "download_filename": "pysensedf-0.3.0.tar.gz",
-  "download_time": "2025-12-04T10:49:20.260846",
+  "download_filename": "pysensedf-0.4.0.tar.gz",
+  "download_time": "2025-12-04T11:51:45.498835",
   "package_url": "https://pypi.org/project/pysensedf/"
 }

@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-04T11:41:22.896308
-- **Total Packages**: 86
-- **Total Size**: 38.22 MB
+- **Download Time**: 2025-12-04T11:52:02.887372
+- **Total Packages**: 87
+- **Total Size**: 34.57 MB
 
 ## Packages List
+- tracesmith
+- nvidia-bigcode-eval
+- security-scanner-analyzers
+- aiauto-client
+- hindsight-api
+- hindsight-client
+- nvidia-hle
+- aheadworks-deploy-manager
+- taskrepo
+- moduvent
+- centra-sdk
+- rotools
+- noqa-runner
+- odoo-addon-gestion-editorial
+- weac
+- solokit
+- nvidia-lm-eval
+- dekmedia
+- traia-tools
+- issue-solver
+- promptbind
+- liblaf-grapes
+- pyfreeproxy
+- sweatstack
+- mdformat-front-matters
+- typst
+- aiodatacube
+- flagright
+- nvidia-genai-perf-eval
+- pbir-utils
+- blosc2
+- camel-oasis
+- slurmray
+- locaria-integrated-testing
+- odoo-addon-product-print-category
+- isar
+- nvidia-tooltalk
+- uipath
+- cachka
+- objectdb
+- apilmoji
+- flowhive-agent
+- fractal-client
+- hcom
+- well-log-toolkit
+- nvidia-bfcl
+- fractal-server
+- mkdocstrings-luau
+- antigranular-enterprise
+- tenso
+- pearmut
+- shannon-sdk
+- nonebot-plugin-clock
+- django-ninja
+- pysensedf
+- wheel-getter
 - skore-hub-project
 - tressed
 - volcengine-python-sdk
@@ -22,14 +78,12 @@
 - mindrove
 - volcengine
 - pyavd-utils
-- noqa-runner
 - torchx-nightly
 - triggercalib
 - pyeasycore
 - alita-sdk
 - smudgeplot
 - turbo-gepa
-- well-log-toolkit
 - frequenz-lib-notebooks
 - gnss-dsp
 - taskbadger
@@ -39,56 +93,3 @@
 - llm-goose
 - torchft-nightly
 - py-micro-hil
-- nvidia-ifbench
-- policyengine-us
-- uniai
-- tenso
-- winidjango
-- microimpute
-- ptmanager
-- swisper-studio-sdk
-- akademy-company
-- styletext
-- deep-pipe
-- mcp-git-analyzer
-- winipyside
-- nanoplot
-- clearml-agent
-- agentkernel-distributed
-- objectdb
-- django5-spoll
-- legit-api-client
-- finam-mcp-server
-- prowler-cloud
-- prowler
-- scc-firewall-manager-sdk
-- atomicshop
-- nvidia-mmath
-- amniotic
-- gliner2
-- ezga-lib
-- agentic-graph-mem
-- text-fabric-factory
-- tf-keras-nightly
-- ttyg
-- bids-manager
-- text-fabric
-- cdk-opinionated-constructs
-- scheduler-alarms-cli
-- ado-pr-manager
-- doclayer-cli
-- odoo-addon-partner-event
-- pybraads
-- steam-sdk
-- local-package-visualizer
-- OpenFisca-France
-- nostage
-- arthur-client
-- odoo-addon-helpdesk-mgmt
-- testdino
-- pytemporal
-- nanoget
-- smallevals
-- uipath-runtime
-- primalscheme3
-- ancientlinesoftheworld

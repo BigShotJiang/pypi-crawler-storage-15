@@ -1,11 +1,11 @@
 {
   "name": "blosc2",
-  "version": "3.12.1",
+  "version": "3.12.2",
   "summary": "A fast & compressed ndarray library with a flexible compute engine.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "blosc2-3.12.1.tar.gz",
-  "download_time": "2025-12-03T16:28:34.461259",
+  "download_filename": "blosc2-3.12.2.tar.gz",
+  "download_time": "2025-12-04T11:51:31.294157",
   "package_url": "https://pypi.org/project/blosc2/"
 }
