@@ -1,11 +1,11 @@
 {
   "name": "caca-transformers",
-  "version": "0.1.0",
-  "summary": "Caca: Transformer Architecture",
+  "version": "1.1.0",
+  "summary": "Modern Transformer Architecture with GQA, RoPE, SwiGLU & Flash Attention",
   "author": "Lyon",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Lyon-28/caca-transformers",
-  "download_filename": "caca_transformers-0.1.0.tar.gz",
-  "download_time": "2025-12-03T09:46:48.757197",
+  "download_filename": "caca_transformers-1.1.0.tar.gz",
+  "download_time": "2025-12-04T10:49:27.013033",
   "package_url": "https://pypi.org/project/caca-transformers/"
 }

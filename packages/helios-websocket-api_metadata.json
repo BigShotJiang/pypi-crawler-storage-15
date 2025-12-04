@@ -1,0 +1,11 @@
+{
+  "name": "helios-websocket-api",
+  "version": "1.0.0",
+  "summary": "Helios WebSocket API",
+  "author": "Jan Späth",
+  "license": "LGPL 3",
+  "home_page": "https://github.com/helios-ventilatoren-com/helios_websocket_api",
+  "download_filename": "helios_websocket_api-1.0.0.tar.gz",
+  "download_time": "2025-12-04T10:49:18.185043",
+  "package_url": "https://pypi.org/project/helios-websocket-api/"
+}

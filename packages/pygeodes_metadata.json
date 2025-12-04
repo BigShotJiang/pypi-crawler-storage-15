@@ -1,0 +1,11 @@
+{
+  "name": "pygeodes",
+  "version": "0.1.5",
+  "summary": "A Python client for Geodes APIs",
+  "author": "CNES",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygeodes-0.1.5.tar.gz",
+  "download_time": "2025-12-04T10:49:38.712516",
+  "package_url": "https://pypi.org/project/pygeodes/"
+}

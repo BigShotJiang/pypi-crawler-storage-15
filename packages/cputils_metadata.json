@@ -1,0 +1,11 @@
+{
+  "name": "cputils",
+  "version": "0.6.0",
+  "summary": "Utilities for Competitive Programming",
+  "author": "Dih5",
+  "license": null,
+  "home_page": "https://github.com/Dih5/cputils",
+  "download_filename": "cputils-0.6.0.tar.gz",
+  "download_time": "2025-12-04T10:49:19.223858",
+  "package_url": "https://pypi.org/project/cputils/"
+}

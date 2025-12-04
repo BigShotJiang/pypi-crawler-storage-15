@@ -1,11 +1,11 @@
 {
   "name": "env-loader-pro",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A typed, validated, and secure environment loader for Python projects with automatic type casting, validation, secret masking, and schema support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "env_loader_pro-0.2.0.tar.gz",
-  "download_time": "2025-12-04T09:46:15.745138",
+  "download_filename": "env_loader_pro-0.3.0.tar.gz",
+  "download_time": "2025-12-04T10:49:36.636152",
   "package_url": "https://pypi.org/project/env-loader-pro/"
 }

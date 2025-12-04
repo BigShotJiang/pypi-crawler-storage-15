@@ -1,11 +1,11 @@
 {
   "name": "networka",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "Modern Python cli toolkit for network device automation",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "networka-0.1.12.tar.gz",
-  "download_time": "2025-12-04T08:53:29.589863",
+  "download_filename": "networka-0.1.13.tar.gz",
+  "download_time": "2025-12-04T10:49:22.349750",
   "package_url": "https://pypi.org/project/networka/"
 }
