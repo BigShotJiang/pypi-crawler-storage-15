@@ -1,0 +1,11 @@
+{
+  "name": "netrun-logging",
+  "version": "1.1.0",
+  "summary": "Unified structured logging service with Azure App Insights integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netrun_logging-1.1.0.tar.gz",
+  "download_time": "2025-12-04T13:26:41.155518",
+  "package_url": "https://pypi.org/project/netrun-logging/"
+}

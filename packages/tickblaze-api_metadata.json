@@ -1,11 +1,11 @@
 {
   "name": "tickblaze-api",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tickblaze_api-0.1.6.tar.gz",
-  "download_time": "2025-12-02T20:23:49.066972",
+  "download_filename": "tickblaze_api-0.1.8.tar.gz",
+  "download_time": "2025-12-04T13:25:59.585949",
   "package_url": "https://pypi.org/project/tickblaze-api/"
 }

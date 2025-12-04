@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-website-require-login",
+  "version": "14.0.1.1.0",
+  "summary": "Website Login Required",
+  "author": "Advitus MB, Ooops, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/website",
+  "download_filename": "odoo14_addon_website_require_login-14.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-12-04T13:26:26.072124",
+  "package_url": "https://pypi.org/project/odoo14-addon-website-require-login/"
+}

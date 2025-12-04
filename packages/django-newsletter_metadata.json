@@ -1,0 +1,11 @@
+{
+  "name": "django-newsletter",
+  "version": "1.2.1",
+  "summary": "Django app for managing multiple mass-mailing lists with both plaintext as well as HTML templates (and pluggable WYSIWYG editors for messages), images and a smart queueing system all right from the admin interface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_newsletter-1.2.1.tar.gz",
+  "download_time": "2025-12-04T13:25:58.012575",
+  "package_url": "https://pypi.org/project/django-newsletter/"
+}

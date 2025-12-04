@@ -1,11 +1,11 @@
 {
   "name": "auto-trainer-training",
-  "version": "0.9.5",
+  "version": "0.9.7",
   "summary": "Training protocol objects and implementations for Mouse-GYM autotrainer",
   "author": null,
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "auto_trainer_training-0.9.5.tar.gz",
-  "download_time": "2025-12-02T15:22:08.577998",
+  "download_filename": "auto_trainer_training-0.9.7.tar.gz",
+  "download_time": "2025-12-04T13:26:21.384294",
   "package_url": "https://pypi.org/project/auto-trainer-training/"
 }

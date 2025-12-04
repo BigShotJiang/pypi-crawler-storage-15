@@ -1,0 +1,11 @@
+{
+  "name": "meiosis",
+  "version": "0.1.4",
+  "summary": "Meiosis is a Python package for creating new Images, usable for generating extra image data for ML-workflows. Thank you for using the Meiosis package.",
+  "author": "desalami@proton.me",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meiosis-0.1.4.tar.gz",
+  "download_time": "2025-12-04T13:26:30.749296",
+  "package_url": "https://pypi.org/project/meiosis/"
+}

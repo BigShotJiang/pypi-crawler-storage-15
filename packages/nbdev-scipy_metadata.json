@@ -1,11 +1,11 @@
 {
   "name": "nbdev-scipy",
-  "version": "0.0.2245",
+  "version": "0.0.2247",
   "summary": "nbdev docs lookup for scipy",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/fastai/nbdev-index/tree/master/",
-  "download_filename": "nbdev_scipy-0.0.2245.tar.gz",
-  "download_time": "2025-12-03T13:25:42.362480",
+  "download_filename": "nbdev_scipy-0.0.2247.tar.gz",
+  "download_time": "2025-12-04T13:26:11.398289",
   "package_url": "https://pypi.org/project/nbdev-scipy/"
 }

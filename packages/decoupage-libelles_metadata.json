@@ -1,11 +1,11 @@
 {
   "name": "decoupage-libelles",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Algorithme NLP de découpage d'un nom de voie en type de voie + nom de voie + complément adresse",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "decoupage_libelles-0.1.0.tar.gz",
-  "download_time": "2025-12-04T12:41:47.184849",
+  "download_filename": "decoupage_libelles-0.1.1.tar.gz",
+  "download_time": "2025-12-04T13:26:25.551842",
   "package_url": "https://pypi.org/project/decoupage-libelles/"
 }
