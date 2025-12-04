@@ -1,0 +1,11 @@
+{
+  "name": "joseph-oddeven-checker",
+  "version": "0.1.0",
+  "summary": "A tiny library to check whether numbers are odd or even.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "joseph_oddeven_checker-0.1.0.tar.gz",
+  "download_time": "2025-12-04T04:57:20.027276",
+  "package_url": "https://pypi.org/project/joseph-oddeven-checker/"
+}

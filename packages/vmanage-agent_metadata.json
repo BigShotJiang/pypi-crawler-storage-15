@@ -1,0 +1,11 @@
+{
+  "name": "vmanage-agent",
+  "version": "0.1.28",
+  "summary": "Pip module for node to join salt-master",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmanage_agent-0.1.28.tar.gz",
+  "download_time": "2025-12-04T04:57:25.814533",
+  "package_url": "https://pypi.org/project/vmanage-agent/"
+}

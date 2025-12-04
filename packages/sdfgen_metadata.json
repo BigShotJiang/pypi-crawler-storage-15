@@ -1,0 +1,11 @@
+{
+  "name": "sdfgen",
+  "version": "0.28.1",
+  "summary": "Automating the creation of Microkit System Description Files (SDF)",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/au-ts/microkit_sdf_gen",
+  "download_filename": "sdfgen-0.28.1-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-12-04T04:57:26.342912",
+  "package_url": "https://pypi.org/project/sdfgen/"
+}

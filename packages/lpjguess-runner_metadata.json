@@ -1,0 +1,11 @@
+{
+  "name": "lpjguess-runner",
+  "version": "1.0.3",
+  "summary": "Python wrapper for LPJ-Guess experiment runner (via pythonnet + .NET 9)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lpjguess_runner-1.0.3-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-04T04:57:17.926034",
+  "package_url": "https://pypi.org/project/lpjguess-runner/"
+}

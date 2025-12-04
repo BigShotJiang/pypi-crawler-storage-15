@@ -1,0 +1,11 @@
+{
+  "name": "stark-engine",
+  "version": "4.3.0",
+  "summary": "S.T.A.R.K - Speech and Text Algorithmic Recognition Kit. Modern framework for creating powerfull voice assistants.",
+  "author": "MarkParker5",
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": null,
+  "download_filename": "stark_engine-4.3.0.tar.gz",
+  "download_time": "2025-12-04T04:57:19.509183",
+  "package_url": "https://pypi.org/project/stark-engine/"
+}
