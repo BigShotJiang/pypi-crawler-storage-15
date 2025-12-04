@@ -1,0 +1,11 @@
+{
+  "name": "programgarden",
+  "version": "0.1.24",
+  "summary": "자동화매매 오픈소스의 실행, 로그, 환경 등의 핵심이되는 오픈소스",
+  "author": "프로그램동산",
+  "license": null,
+  "home_page": null,
+  "download_filename": "programgarden-0.1.24.tar.gz",
+  "download_time": "2025-12-04T16:29:20.538338",
+  "package_url": "https://pypi.org/project/programgarden/"
+}

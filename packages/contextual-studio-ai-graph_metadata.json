@@ -1,11 +1,11 @@
 {
   "name": "contextual-studio-ai-graph",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "IA library to create logic graphs and components.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contextual_studio_ai_graph-0.1.5.tar.gz",
-  "download_time": "2025-12-03T16:28:06.092633",
+  "download_filename": "contextual_studio_ai_graph-0.1.6.tar.gz",
+  "download_time": "2025-12-04T16:29:39.729905",
   "package_url": "https://pypi.org/project/contextual-studio-ai-graph/"
 }

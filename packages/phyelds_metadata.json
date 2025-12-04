@@ -1,11 +1,11 @@
 {
   "name": "phyelds",
-  "version": "3.1.0",
+  "version": "4.0.0",
   "summary": "A lightweight Python library to support aggregate computing!",
   "author": "Davide Domini",
   "license": "Apache-2.0",
   "home_page": "https://github.com/phyelds/phyelds",
-  "download_filename": "phyelds-3.1.0.tar.gz",
-  "download_time": "2025-12-03T17:21:52.273178",
+  "download_filename": "phyelds-4.0.0.tar.gz",
+  "download_time": "2025-12-04T16:29:26.250920",
   "package_url": "https://pypi.org/project/phyelds/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gemprf",
+  "version": "0.1.9",
+  "summary": "A Python library for population receptive field (pRF) analysis",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "gemprf-0.1.9.tar.gz",
+  "download_time": "2025-12-04T16:29:19.003356",
+  "package_url": "https://pypi.org/project/gemprf/"
+}

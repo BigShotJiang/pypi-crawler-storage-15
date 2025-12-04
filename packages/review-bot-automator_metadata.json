@@ -1,0 +1,11 @@
+{
+  "name": "review-bot-automator",
+  "version": "2.0.2",
+  "summary": "Universal AI-powered automation for GitHub code review bots with intelligent conflict resolution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "review_bot_automator-2.0.2.tar.gz",
+  "download_time": "2025-12-04T16:29:34.584556",
+  "package_url": "https://pypi.org/project/review-bot-automator/"
+}

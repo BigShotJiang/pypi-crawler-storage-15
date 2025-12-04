@@ -1,11 +1,11 @@
 {
   "name": "turbo-gepa",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "High-throughput prompt evolution framework - production fork of GEPA with island-based parallelism, async orchestration, and ASHA successive halving.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turbo_gepa-0.1.5.tar.gz",
-  "download_time": "2025-12-04T11:40:45.120458",
+  "download_filename": "turbo_gepa-0.1.6.tar.gz",
+  "download_time": "2025-12-04T16:29:32.987336",
   "package_url": "https://pypi.org/project/turbo-gepa/"
 }

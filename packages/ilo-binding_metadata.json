@@ -1,0 +1,11 @@
+{
+  "name": "ilo-binding",
+  "version": "1.0.0",
+  "summary": "Python binding for the ilo protocol",
+  "author": "Sigmanificient",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ilo_binding-1.0.0.tar.gz",
+  "download_time": "2025-12-04T16:29:21.562846",
+  "package_url": "https://pypi.org/project/ilo-binding/"
+}

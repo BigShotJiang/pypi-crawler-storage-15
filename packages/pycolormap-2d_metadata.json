@@ -1,0 +1,11 @@
+{
+  "name": "pycolormap-2d",
+  "version": "1.1.7",
+  "summary": "A Python package mapping 2D coordinates to colors based on different 2D color maps.",
+  "author": "Thilo Spinner",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pycolormap_2d-1.1.7.tar.gz",
+  "download_time": "2025-12-04T16:29:56.961977",
+  "package_url": "https://pypi.org/project/pycolormap-2d/"
+}

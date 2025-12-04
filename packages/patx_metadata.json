@@ -1,0 +1,11 @@
+{
+  "name": "patx",
+  "version": "0.4.6",
+  "summary": "Pattern eXtraction for Time Series and Spatial Data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "patx-0.4.6.tar.gz",
+  "download_time": "2025-12-04T16:29:55.422489",
+  "package_url": "https://pypi.org/project/patx/"
+}
