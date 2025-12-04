@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-applicationcostprofiler",
+  "version": "1.42.3",
+  "summary": "Type annotations for boto3 ApplicationCostProfiler 1.42.3 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_applicationcostprofiler-1.42.3.tar.gz",
+  "download_time": "2025-12-04T20:57:59.284119",
+  "package_url": "https://pypi.org/project/mypy-boto3-applicationcostprofiler/"
+}

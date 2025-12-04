@@ -1,0 +1,11 @@
+{
+  "name": "loghtml",
+  "version": "0.1.23",
+  "summary": "Library for generating HTML logs with support for colors, rotation and filters via JavaScript. Optimized for continuous applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loghtml-0.1.23.tar.gz",
+  "download_time": "2025-12-04T20:58:09.658783",
+  "package_url": "https://pypi.org/project/loghtml/"
+}
