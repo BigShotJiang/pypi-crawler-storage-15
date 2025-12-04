@@ -1,0 +1,11 @@
+{
+  "name": "mj-odd-or-even",
+  "version": "0.1.0",
+  "summary": "A simple library to check odd and even numbers.",
+  "author": null,
+  "license": "MIT License\r\n        \r\n        Copyright (c) 2025 MARIA JOSE\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy\r\n        of this software and associated documentation files (the \"Software\"), to deal\r\n        in the Software without restriction...",
+  "home_page": null,
+  "download_filename": "mj_odd_or_even-0.1.0.tar.gz",
+  "download_time": "2025-12-04T05:22:19.299778",
+  "package_url": "https://pypi.org/project/mj-odd-or-even/"
+}

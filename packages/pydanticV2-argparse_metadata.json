@@ -1,11 +1,11 @@
 {
   "name": "pydanticV2-argparse",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Typed Argument Parsing with Pydantic",
   "author": "HUANGYI QIN",
   "license": null,
   "home_page": null,
-  "download_filename": "pydanticv2_argparse-1.0.3.tar.gz",
-  "download_time": "2025-12-04T04:39:03.890199",
+  "download_filename": "pydanticv2_argparse-1.0.5.tar.gz",
+  "download_time": "2025-12-04T05:22:23.474402",
   "package_url": "https://pypi.org/project/pydanticV2-argparse/"
 }

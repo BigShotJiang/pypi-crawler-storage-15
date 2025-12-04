@@ -1,11 +1,11 @@
 {
   "name": "oddoreven-merlin",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A simple Python library to check whether a number is odd or even",
   "author": "Merlin",
   "license": null,
   "home_page": null,
-  "download_filename": "oddoreven_merlin-0.2.0.tar.gz",
-  "download_time": "2025-12-04T04:57:12.146021",
+  "download_filename": "oddoreven_merlin-0.3.0.tar.gz",
+  "download_time": "2025-12-04T05:22:31.300498",
   "package_url": "https://pypi.org/project/oddoreven-merlin/"
 }

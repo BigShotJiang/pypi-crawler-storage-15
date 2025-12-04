@@ -1,11 +1,11 @@
 {
   "name": "slide-narrator",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "summary": "Thread and file storage components for conversational AI - the companion to Tyler AI framework",
   "author": "adamwdraper",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "slide_narrator-5.2.2.tar.gz",
-  "download_time": "2025-12-04T04:38:57.053111",
+  "download_filename": "slide_narrator-5.2.3.tar.gz",
+  "download_time": "2025-12-04T05:22:33.897664",
   "package_url": "https://pypi.org/project/slide-narrator/"
 }
