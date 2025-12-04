@@ -1,21 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-04T22:53:47.510823
-- **Total Packages**: 92
-- **Total Size**: 33.98 MB
+- **Download Time**: 2025-12-04T23:19:40.724237
+- **Total Packages**: 89
+- **Total Size**: 2.06 MB
 
 ## Packages List
-- pulumi-opsgenie
-- pulumi-ise
-- pulumi-kafka
-- astreum
-- pulumi-keycloak
-- pulumi-http
-- pulumi-artifactory
-- pulumi-minio
-- pulumi-github
-- pulumi-external
 - pulumi-ns1
 - pulumi-auth0
 - pulumi-azuread
@@ -98,3 +88,10 @@
 - metaxy
 - kuzu-memory
 - emmet-builders
+- megatron-core
+- megatron-fsdp
+- emmet-core
+- worker-automate-hub
+- ghi-cli
+- uhppoted
+- faff-cli

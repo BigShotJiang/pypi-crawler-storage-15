@@ -1,18 +1,8 @@
 {
-  "download_time": "2025-12-04T22:53:47.510823",
-  "total_packages_downloaded": 92,
-  "total_size_mb": 33.98,
+  "download_time": "2025-12-04T23:19:40.724237",
+  "total_packages_downloaded": 89,
+  "total_size_mb": 2.06,
   "packages": [
-    "pulumi-opsgenie",
-    "pulumi-ise",
-    "pulumi-kafka",
-    "astreum",
-    "pulumi-keycloak",
-    "pulumi-http",
-    "pulumi-artifactory",
-    "pulumi-minio",
-    "pulumi-github",
-    "pulumi-external",
     "pulumi-ns1",
     "pulumi-auth0",
     "pulumi-azuread",
@@ -94,6 +84,13 @@
     "esmjax",
     "metaxy",
     "kuzu-memory",
-    "emmet-builders"
+    "emmet-builders",
+    "megatron-core",
+    "megatron-fsdp",
+    "emmet-core",
+    "worker-automate-hub",
+    "ghi-cli",
+    "uhppoted",
+    "faff-cli"
   ]
 }

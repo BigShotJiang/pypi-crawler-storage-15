@@ -1,11 +1,11 @@
 {
   "name": "sdss-coordio",
-  "version": "1.18.0",
+  "version": "1.18.1",
   "summary": "Coordinate conversion for SDSS-V",
   "author": "Conor Sayres",
   "license": "BSD 3-Clause License",
   "home_page": "https://github.com/sdss/coordio",
-  "download_filename": "sdss_coordio-1.18.0.tar.gz",
-  "download_time": "2025-12-04T22:53:24.395046",
+  "download_filename": "sdss_coordio-1.18.1.tar.gz",
+  "download_time": "2025-12-04T23:19:14.041437",
   "package_url": "https://pypi.org/project/sdss-coordio/"
 }
