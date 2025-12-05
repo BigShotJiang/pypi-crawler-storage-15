@@ -1,0 +1,11 @@
+{
+  "name": "trisigma-cli",
+  "version": "0.1.2",
+  "summary": "Trisigma CLI - инструмент командной строки для работы с Репозиторием метрик. Помогает создавать, валидировать и публиковать изменния в семантическом слое.",
+  "author": "Vlad Bozhev",
+  "license": "Proprietary",
+  "home_page": "https://trisigma.io/",
+  "download_filename": "trisigma_cli-0.1.2.tar.gz",
+  "download_time": "2025-12-05T14:46:39.488927",
+  "package_url": "https://pypi.org/project/trisigma-cli/"
+}

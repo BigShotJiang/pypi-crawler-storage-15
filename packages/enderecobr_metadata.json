@@ -1,0 +1,11 @@
+{
+  "name": "enderecobr",
+  "version": "0.0.6",
+  "summary": "Bindings em Rust para padronizar endereços brasileiros",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "enderecobr-0.0.6.tar.gz",
+  "download_time": "2025-12-05T14:46:15.194676",
+  "package_url": "https://pypi.org/project/enderecobr/"
+}

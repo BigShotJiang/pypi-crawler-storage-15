@@ -1,0 +1,11 @@
+{
+  "name": "claude-prometheus-exporter",
+  "version": "0.1.0",
+  "summary": "Prometheus exporter for Claude API usage and cost metrics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_prometheus_exporter-0.1.0.tar.gz",
+  "download_time": "2025-12-05T14:46:30.206259",
+  "package_url": "https://pypi.org/project/claude-prometheus-exporter/"
+}

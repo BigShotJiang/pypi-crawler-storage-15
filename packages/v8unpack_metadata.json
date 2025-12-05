@@ -1,0 +1,11 @@
+{
+  "name": "v8unpack",
+  "version": "1.2.6",
+  "summary": "Unpacking binaries 1C to JSON for GIT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "v8unpack-1.2.6.tar.gz",
+  "download_time": "2025-12-05T14:46:20.424471",
+  "package_url": "https://pypi.org/project/v8unpack/"
+}

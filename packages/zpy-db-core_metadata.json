@@ -1,0 +1,11 @@
+{
+  "name": "zpy-db-core",
+  "version": "2.3.0",
+  "summary": "Helper module for manage database connection",
+  "author": "Noé Cruz | linkedin.com/in/zurckz/",
+  "license": null,
+  "home_page": "https://github.com/NoeCruzMW",
+  "download_filename": "zpy_db_core-2.3.0.tar.gz",
+  "download_time": "2025-12-05T14:45:57.070441",
+  "package_url": "https://pypi.org/project/zpy-db-core/"
+}

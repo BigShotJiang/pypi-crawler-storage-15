@@ -1,0 +1,11 @@
+{
+  "name": "specsync-bridge",
+  "version": "0.2.0",
+  "summary": "Cross-repository API contract synchronization for SpecSync",
+  "author": "SpecSync Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "specsync_bridge-0.2.0.tar.gz",
+  "download_time": "2025-12-05T14:46:25.059331",
+  "package_url": "https://pypi.org/project/specsync-bridge/"
+}

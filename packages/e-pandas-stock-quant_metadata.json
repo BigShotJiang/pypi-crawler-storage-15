@@ -1,0 +1,11 @@
+{
+  "name": "e-pandas-stock-quant",
+  "version": "0.1.1",
+  "summary": "A pandas-based stock quantitative analysis library",
+  "author": "rtc2475592453",
+  "license": null,
+  "home_page": "https://github.com/rtc2475592453/e-pandas-stock-quant",
+  "download_filename": "e_pandas_stock_quant-0.1.1.tar.gz",
+  "download_time": "2025-12-05T14:46:16.219163",
+  "package_url": "https://pypi.org/project/e-pandas-stock-quant/"
+}
