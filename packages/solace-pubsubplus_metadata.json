@@ -1,0 +1,11 @@
+{
+  "name": "solace-pubsubplus",
+  "version": "1.11.0",
+  "summary": "Solace Messaging API for Python.",
+  "author": "Solace Corporation",
+  "license": "Apache 2.0",
+  "home_page": "https://docs.solace.com/API/Messaging-APIs/Python-API/python-home.htm",
+  "download_filename": "solace_pubsubplus-1.11.0-py36-none-manylinux_2_12_x86_64.whl",
+  "download_time": "2025-12-05T18:28:38.555130",
+  "package_url": "https://pypi.org/project/solace-pubsubplus/"
+}

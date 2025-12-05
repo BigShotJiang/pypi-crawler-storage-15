@@ -1,0 +1,11 @@
+{
+  "name": "django-tailwind",
+  "version": "4.4.2",
+  "summary": "Tailwind CSS Framework for Django projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_tailwind-4.4.2.tar.gz",
+  "download_time": "2025-12-05T18:28:34.433355",
+  "package_url": "https://pypi.org/project/django-tailwind/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-doten",
+  "version": "0.1.0",
+  "summary": "A tiny framework for doing things in sets of ten — reps, retries, batches, and rituals.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_doten-0.1.0.tar.gz",
+  "download_time": "2025-12-05T18:29:13.301500",
+  "package_url": "https://pypi.org/project/python-doten/"
+}

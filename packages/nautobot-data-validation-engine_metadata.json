@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-data-validation-engine",
+  "version": "3.4.0",
+  "summary": "Provides UI to build custom data validation rules for data in Nautobot",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_data_validation_engine-3.4.0.tar.gz",
+  "download_time": "2025-12-05T18:29:06.303234",
+  "package_url": "https://pypi.org/project/nautobot-data-validation-engine/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "guardianhub",
-  "version": "0.1.50",
+  "version": "0.1.51",
   "summary": "Unified SDK for Local AI Guardian",
   "author": "Jayant",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "guardianhub-0.1.50.tar.gz",
-  "download_time": "2025-12-04T14:21:47.754133",
+  "download_filename": "guardianhub-0.1.51.tar.gz",
+  "download_time": "2025-12-05T18:29:23.327614",
   "package_url": "https://pypi.org/project/guardianhub/"
 }

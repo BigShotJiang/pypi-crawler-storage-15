@@ -1,0 +1,11 @@
+{
+  "name": "setuptools-zig-build",
+  "version": "0.2.0",
+  "summary": "A setuptools extension, for building cpython extensions with zig build",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://codeberg.org/dasimmet/setuptools-zig-build",
+  "download_filename": "setuptools_zig_build-0.2.0.tar.gz",
+  "download_time": "2025-12-05T18:28:39.707960",
+  "package_url": "https://pypi.org/project/setuptools-zig-build/"
+}
