@@ -1,11 +1,11 @@
 {
   "name": "midsv",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "summary": "Python module to convert SAM to MIDSV format.",
   "author": "Akihiro Kuno",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "midsv-0.12.0.tar.gz",
-  "download_time": "2025-12-05T05:44:31.773902",
+  "download_filename": "midsv-0.12.1.tar.gz",
+  "download_time": "2025-12-05T06:31:05.731434",
   "package_url": "https://pypi.org/project/midsv/"
 }

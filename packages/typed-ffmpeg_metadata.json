@@ -1,0 +1,11 @@
+{
+  "name": "typed-ffmpeg",
+  "version": "3.8.0",
+  "summary": "Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_ffmpeg-3.8.0.tar.gz",
+  "download_time": "2025-12-05T06:31:18.505236",
+  "package_url": "https://pypi.org/project/typed-ffmpeg/"
+}

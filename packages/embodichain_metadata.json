@@ -1,0 +1,11 @@
+{
+  "name": "embodichain",
+  "version": "0.0.1",
+  "summary": "An end-to-end, GPU-accelerated, and modular platform for building generalized Embodied Intelligence.",
+  "author": "EmbodiChain Developers",
+  "license": null,
+  "home_page": "https://github.com/DexForce/EmbodiChain",
+  "download_filename": "embodichain-0.0.1-py3-none-any.whl",
+  "download_time": "2025-12-05T06:31:08.959130",
+  "package_url": "https://pypi.org/project/embodichain/"
+}
