@@ -1,0 +1,11 @@
+{
+  "name": "smp",
+  "version": "4.0.1",
+  "summary": "Simple Management Protocol (SMP) for remotely managing MCU firmware",
+  "author": "J.P. Hutchins",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/JPHutchins/smp",
+  "download_filename": "smp-4.0.1.tar.gz",
+  "download_time": "2025-12-05T03:59:46.542114",
+  "package_url": "https://pypi.org/project/smp/"
+}

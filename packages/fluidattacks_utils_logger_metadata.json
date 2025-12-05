@@ -1,0 +1,11 @@
+{
+  "name": "fluidattacks_utils_logger",
+  "version": "2.1.0",
+  "summary": "Common logger handlers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluidattacks_utils_logger-2.1.0.tar.gz",
+  "download_time": "2025-12-05T04:00:14.496800",
+  "package_url": "https://pypi.org/project/fluidattacks_utils_logger/"
+}

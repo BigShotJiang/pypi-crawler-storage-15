@@ -1,0 +1,11 @@
+{
+  "name": "rag-agent-mcp",
+  "version": "0.1.4",
+  "summary": "RAG Agent - MCP Server for LightRAG",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rag_agent_mcp-0.1.4.tar.gz",
+  "download_time": "2025-12-05T03:59:48.656602",
+  "package_url": "https://pypi.org/project/rag-agent-mcp/"
+}

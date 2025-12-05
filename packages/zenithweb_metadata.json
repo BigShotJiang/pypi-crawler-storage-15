@@ -1,0 +1,11 @@
+{
+  "name": "zenithweb",
+  "version": "0.0.14",
+  "summary": "Modern Python web framework for building APIs with minimal boilerplate",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zenithweb-0.0.14.tar.gz",
+  "download_time": "2025-12-05T03:59:42.412872",
+  "package_url": "https://pypi.org/project/zenithweb/"
+}

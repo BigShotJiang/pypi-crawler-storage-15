@@ -1,0 +1,11 @@
+{
+  "name": "meld-mcp",
+  "version": "0.1.7",
+  "summary": "Meld MCP Server - Connects Claude Code to Meld cloud",
+  "author": "Phil Glazer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meld_mcp-0.1.7.tar.gz",
+  "download_time": "2025-12-05T03:59:57.045855",
+  "package_url": "https://pypi.org/project/meld-mcp/"
+}

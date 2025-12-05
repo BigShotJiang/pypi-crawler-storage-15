@@ -1,0 +1,11 @@
+{
+  "name": "thonny-chatbot-plugin",
+  "version": "0.1.6",
+  "summary": "A Thonny IDE plugin that provides an AI chat interface.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thonny_chatbot_plugin-0.1.6.tar.gz",
+  "download_time": "2025-12-05T04:00:08.914044",
+  "package_url": "https://pypi.org/project/thonny-chatbot-plugin/"
+}

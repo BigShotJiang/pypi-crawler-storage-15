@@ -1,0 +1,11 @@
+{
+  "name": "backend.ai-account-manager",
+  "version": "25.17.1",
+  "summary": "Backend.AI Account Manager",
+  "author": "Lablup Inc. and contributors",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/lablup/backend.ai",
+  "download_filename": "backend_ai_account_manager-25.17.1.tar.gz",
+  "download_time": "2025-12-05T03:59:36.546258",
+  "package_url": "https://pypi.org/project/backend.ai-account-manager/"
+}
