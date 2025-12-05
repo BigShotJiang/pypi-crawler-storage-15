@@ -1,11 +1,11 @@
 {
   "name": "mlx-openai-server",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "A high-performance API server that provides OpenAI-compatible endpoints for MLX models.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mlx_openai_server-1.4.0.tar.gz",
-  "download_time": "2025-12-05T07:23:22.802966",
+  "download_filename": "mlx_openai_server-1.4.1.tar.gz",
+  "download_time": "2025-12-05T08:27:43.985738",
   "package_url": "https://pypi.org/project/mlx-openai-server/"
 }

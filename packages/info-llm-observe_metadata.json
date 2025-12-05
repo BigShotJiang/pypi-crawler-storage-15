@@ -1,11 +1,11 @@
 {
   "name": "info-llm-observe",
-  "version": "0.1.8",
+  "version": "0.1.12",
   "summary": "A small observability wrapper for LLM projects (Phoenix adapter included)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "info_llm_observe-0.1.8.tar.gz",
-  "download_time": "2025-12-04T10:23:48.224854",
+  "download_filename": "info_llm_observe-0.1.12.tar.gz",
+  "download_time": "2025-12-05T08:27:19.960962",
   "package_url": "https://pypi.org/project/info-llm-observe/"
 }

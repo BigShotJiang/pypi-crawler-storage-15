@@ -1,11 +1,11 @@
 {
   "name": "aniworld",
-  "version": "3.8.0",
+  "version": "3.8.2",
   "summary": "AniWorld Downloader is a command-line tool for downloading and streaming anime, series and movies, compatible with Windows, macOS, and Linux.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aniworld-3.8.0.tar.gz",
-  "download_time": "2025-12-05T07:42:28.664884",
+  "download_filename": "aniworld-3.8.2.tar.gz",
+  "download_time": "2025-12-05T08:27:35.745232",
   "package_url": "https://pypi.org/project/aniworld/"
 }

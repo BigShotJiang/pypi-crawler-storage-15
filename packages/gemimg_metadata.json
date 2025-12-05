@@ -1,0 +1,11 @@
+{
+  "name": "gemimg",
+  "version": "0.4.0",
+  "summary": "Lightweight wrapper for generating and editing images from Nano Banana / Gemini 2.5 Flash Image.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemimg-0.4.0.tar.gz",
+  "download_time": "2025-12-05T08:28:03.819511",
+  "package_url": "https://pypi.org/project/gemimg/"
+}

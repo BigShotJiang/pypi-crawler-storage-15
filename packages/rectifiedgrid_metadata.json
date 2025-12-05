@@ -1,0 +1,11 @@
+{
+  "name": "rectifiedgrid",
+  "version": "3.1.0",
+  "summary": "RectifiedGrid is a python module to deal with rectified grid.",
+  "author": "Stefano Menegon",
+  "license": "GPL3",
+  "home_page": "http://todo.todo",
+  "download_filename": "rectifiedgrid-3.1.0.tar.gz",
+  "download_time": "2025-12-05T08:27:53.350597",
+  "package_url": "https://pypi.org/project/rectifiedgrid/"
+}
