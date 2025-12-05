@@ -1,0 +1,11 @@
+{
+  "name": "maseval",
+  "version": "0.2.0",
+  "summary": "A library for multi-agent systems evaluation and benchmarking.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "maseval-0.2.0.tar.gz",
+  "download_time": "2025-12-05T17:53:34.745016",
+  "package_url": "https://pypi.org/project/maseval/"
+}
