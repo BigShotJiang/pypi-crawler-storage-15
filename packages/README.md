@@ -1,29 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-05T13:51:03.141991
-- **Total Packages**: 87
-- **Total Size**: 120.8 MB
+- **Download Time**: 2025-12-05T14:21:49.475636
+- **Total Packages**: 85
+- **Total Size**: 33.74 MB
 
 ## Packages List
-- capo
-- python-ongtrum
-- aheadworks-deploy-manager
-- skivvy
-- mathyyol
-- icd-att-tools
-- nexaroa
-- hygrep
-- agentgear-ai
-- polly-python
-- janim-stdio-interact
-- aiohttp-openapi-ermelo
-- essreduce
 - softcomputing-jyoti
 - lynxpresence
 - supabase-audit-framework
 - VertexEngine
-- sohyloha
 - exposedfunctionality
 - async-bakalari-api
 - minecode-pipelines
@@ -75,6 +61,7 @@
 - iatoolkit
 - KratosMeshMovingApplication
 - pyhubo
+- python-ongtrum
 - python-bindiff
 - KratosMeshingApplication
 - m269-25j-marking-tool
@@ -93,3 +80,14 @@
 - KratosFSIApplication
 - Uranus-IDE
 - rwkv-emb
+- KratosDemStructuresCouplingApplication
+- KratosDEMApplication
+- KratosDamApplication
+- KratosCSharpWrapperApplication
+- KratosCoSimulationApplication
+- KratosConvectionDiffusionApplication
+- KratosConstitutiveLawsApplication
+- KratosCompressiblePotentialFlowApplication
+- KratosChimeraApplication
+- KratosCableNetApplication
+- vettly
