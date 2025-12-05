@@ -1,0 +1,11 @@
+{
+  "name": "jupyverse",
+  "version": "0.10.28",
+  "summary": "A set of FPS plugins implementing a Jupyter server",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyverse-0.10.28.tar.gz",
+  "download_time": "2025-12-05T16:26:43.284293",
+  "package_url": "https://pypi.org/project/jupyverse/"
+}

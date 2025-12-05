@@ -1,0 +1,11 @@
+{
+  "name": "uaaronium",
+  "version": "1.2.0",
+  "summary": "Uaaronium mathematics engine based on Aaron Craig Sinanan's book.",
+  "author": "Aaron Craig Sinanan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uaaronium-1.2.0.tar.gz",
+  "download_time": "2025-12-05T16:26:26.261634",
+  "package_url": "https://pypi.org/project/uaaronium/"
+}

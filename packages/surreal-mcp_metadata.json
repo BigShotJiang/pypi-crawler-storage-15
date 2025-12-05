@@ -1,11 +1,11 @@
 {
   "name": "surreal-mcp",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "MCP Server for SurrealDB - Bridge AI assistants with SurrealDB databases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "surreal_mcp-0.1.2.tar.gz",
-  "download_time": "2025-12-02T16:27:22.593593",
+  "download_filename": "surreal_mcp-0.2.0.tar.gz",
+  "download_time": "2025-12-05T16:26:09.221514",
   "package_url": "https://pypi.org/project/surreal-mcp/"
 }

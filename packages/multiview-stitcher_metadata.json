@@ -1,0 +1,11 @@
+{
+  "name": "multiview-stitcher",
+  "version": "0.1.43",
+  "summary": "Registration and fusion of large imaging datasets in 2D and 3D.",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "multiview_stitcher-0.1.43.tar.gz",
+  "download_time": "2025-12-05T16:26:31.967631",
+  "package_url": "https://pypi.org/project/multiview-stitcher/"
+}

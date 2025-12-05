@@ -1,11 +1,11 @@
 {
   "name": "supabase-audit-framework",
-  "version": "1.1.12",
+  "version": "1.1.15",
   "summary": "Supabase Audit Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "supabase_audit_framework-1.1.12.tar.gz",
-  "download_time": "2025-12-05T15:45:34.799974",
+  "download_filename": "supabase_audit_framework-1.1.15.tar.gz",
+  "download_time": "2025-12-05T16:26:27.285606",
   "package_url": "https://pypi.org/project/supabase-audit-framework/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dumbmoney",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Technical analysis and quantitative trading toolkit for retail investors taking on the market",
   "author": "littledumb",
   "license": null,
   "home_page": null,
-  "download_filename": "dumbmoney-0.2.0.tar.gz",
-  "download_time": "2025-12-05T08:27:37.797510",
+  "download_filename": "dumbmoney-0.2.2.tar.gz",
+  "download_time": "2025-12-05T16:26:13.338844",
   "package_url": "https://pypi.org/project/dumbmoney/"
 }

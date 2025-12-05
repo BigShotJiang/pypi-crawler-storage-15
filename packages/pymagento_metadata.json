@@ -1,0 +1,11 @@
+{
+  "name": "pymagento",
+  "version": "2.11.0",
+  "summary": "Python client for the Magento 2 API",
+  "author": "Bixoto",
+  "license": "MIT",
+  "home_page": "https://github.com/Bixoto/PyMagento",
+  "download_filename": "pymagento-2.11.0.tar.gz",
+  "download_time": "2025-12-05T16:26:11.796612",
+  "package_url": "https://pypi.org/project/pymagento/"
+}
