@@ -1,0 +1,11 @@
+{
+  "name": "pyspse",
+  "version": "0.1.1",
+  "summary": "SPSE data scraper untuk pengadaan yang ditampilkan pada https://spse.inaproc.id/",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyspse-0.1.1.tar.gz",
+  "download_time": "2025-12-05T11:18:55.914696",
+  "package_url": "https://pypi.org/project/pyspse/"
+}

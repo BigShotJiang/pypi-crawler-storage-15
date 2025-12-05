@@ -1,0 +1,11 @@
+{
+  "name": "imf-reader",
+  "version": "1.4.0",
+  "summary": "A package to access imf data",
+  "author": "The ONE Campaign",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imf_reader-1.4.0.tar.gz",
+  "download_time": "2025-12-05T11:19:06.232962",
+  "package_url": "https://pypi.org/project/imf-reader/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hex-robo-yoco",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "HEXFELLOW YOCO",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hex_robo_yoco-0.0.4.tar.gz",
-  "download_time": "2025-12-05T09:22:04.852887",
+  "download_filename": "hex_robo_yoco-0.0.5.tar.gz",
+  "download_time": "2025-12-05T11:19:23.489318",
   "package_url": "https://pypi.org/project/hex-robo-yoco/"
 }

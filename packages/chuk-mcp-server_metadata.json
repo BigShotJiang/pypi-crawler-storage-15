@@ -1,0 +1,11 @@
+{
+  "name": "chuk-mcp-server",
+  "version": "0.14",
+  "summary": "A developer-friendly MCP framework powered by chuk_mcp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chuk_mcp_server-0.14.tar.gz",
+  "download_time": "2025-12-05T11:19:15.231080",
+  "package_url": "https://pypi.org/project/chuk-mcp-server/"
+}

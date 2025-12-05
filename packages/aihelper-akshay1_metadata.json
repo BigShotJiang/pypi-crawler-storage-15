@@ -1,11 +1,11 @@
 {
   "name": "aihelper-akshay1",
-  "version": "0.2.1",
+  "version": "0.2.0",
   "summary": "A helper library for AI text generation using Google Gemini API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aihelper_akshay1-0.2.1.tar.gz",
-  "download_time": "2025-12-05T10:21:48.953271",
+  "download_filename": "aihelper_akshay1-0.2.0.tar.gz",
+  "download_time": "2025-12-05T11:19:26.685158",
   "package_url": "https://pypi.org/project/aihelper-akshay1/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "treesa-ai-helper",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "An AI helper library for generating text responses",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "treesa_ai_helper-0.0.8.tar.gz",
-  "download_time": "2025-12-05T10:22:20.876412",
+  "download_filename": "treesa_ai_helper-0.0.9.tar.gz",
+  "download_time": "2025-12-05T11:19:08.047498",
   "package_url": "https://pypi.org/project/treesa-ai-helper/"
 }

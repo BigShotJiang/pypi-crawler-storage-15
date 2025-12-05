@@ -1,0 +1,11 @@
+{
+  "name": "designer-plugin",
+  "version": "1.2.1",
+  "summary": "Python library for creating Disguise Designer plugins with DNS-SD discovery and remote Python execution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "designer_plugin-1.2.1.tar.gz",
+  "download_time": "2025-12-05T11:18:55.383504",
+  "package_url": "https://pypi.org/project/designer-plugin/"
+}

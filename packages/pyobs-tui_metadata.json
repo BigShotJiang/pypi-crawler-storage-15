@@ -1,0 +1,11 @@
+{
+  "name": "pyobs-tui",
+  "version": "0.0.1",
+  "summary": "A remote TUI for pyobs",
+  "author": "Tim-Oliver Husser",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyobs_tui-0.0.1.tar.gz",
+  "download_time": "2025-12-05T11:18:53.191547",
+  "package_url": "https://pypi.org/project/pyobs-tui/"
+}

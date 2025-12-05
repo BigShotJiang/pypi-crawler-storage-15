@@ -1,11 +1,11 @@
 {
   "name": "modelmirror",
-  "version": "0.1.25",
+  "version": "0.1.28",
   "summary": "Model Mirror",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modelmirror-0.1.25.tar.gz",
-  "download_time": "2025-12-04T17:47:24.551760",
+  "download_filename": "modelmirror-0.1.28.tar.gz",
+  "download_time": "2025-12-05T11:19:33.587661",
   "package_url": "https://pypi.org/project/modelmirror/"
 }

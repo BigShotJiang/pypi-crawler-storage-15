@@ -1,11 +1,11 @@
 {
   "name": "py-futuur-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A client to interact with Futuur public API.",
   "author": "Futuur .inc",
   "license": "MIT",
   "home_page": "https://github.com/futuur/py_futuur_client.git",
-  "download_filename": "py_futuur_client-1.0.2.tar.gz",
-  "download_time": "2025-12-05T10:47:24.437039",
+  "download_filename": "py_futuur_client-1.0.3.tar.gz",
+  "download_time": "2025-12-05T11:19:25.071798",
   "package_url": "https://pypi.org/project/py-futuur-client/"
 }
