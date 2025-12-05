@@ -1,11 +1,11 @@
 {
   "name": "durabletask.azurefunctions",
-  "version": "0.0.0.dev3",
+  "version": "0.0.0.dev4",
   "summary": "Durable Task Python SDK provider implementation for Durable Azure Functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "durabletask_azurefunctions-0.0.0.dev3.tar.gz",
-  "download_time": "2025-12-05T20:45:06.339508",
+  "download_filename": "durabletask_azurefunctions-0.0.0.dev4.tar.gz",
+  "download_time": "2025-12-05T21:40:44.007292",
   "package_url": "https://pypi.org/project/durabletask.azurefunctions/"
 }

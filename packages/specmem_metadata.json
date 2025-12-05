@@ -1,11 +1,11 @@
 {
   "name": "specmem",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Unified, embeddable memory layer for AI coding agents built on Spec-Driven Development metadata",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "specmem-0.1.0.tar.gz",
-  "download_time": "2025-12-05T21:18:48.841544",
+  "download_filename": "specmem-0.1.1.tar.gz",
+  "download_time": "2025-12-05T21:40:59.450099",
   "package_url": "https://pypi.org/project/specmem/"
 }

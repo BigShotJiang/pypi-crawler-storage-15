@@ -1,11 +1,11 @@
 {
   "name": "markdown_javadoc_references",
-  "version": "0.6",
+  "version": "0.6.2",
   "summary": "A Markdown extension that makes it easy to reference Javadocs",
   "author": "Nick Hensel",
   "license": null,
   "home_page": null,
-  "download_filename": "markdown_javadoc_references-0.6.tar.gz",
-  "download_time": "2025-12-05T10:22:28.715641",
+  "download_filename": "markdown_javadoc_references-0.6.2.tar.gz",
+  "download_time": "2025-12-05T21:40:36.547681",
   "package_url": "https://pypi.org/project/markdown_javadoc_references/"
 }

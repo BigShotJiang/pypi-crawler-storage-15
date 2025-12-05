@@ -1,11 +1,11 @@
 {
   "name": "fastapi",
-  "version": "0.123.9",
+  "version": "0.123.10",
   "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi-0.123.9.tar.gz",
-  "download_time": "2025-12-04T22:53:43.199231",
+  "download_filename": "fastapi-0.123.10.tar.gz",
+  "download_time": "2025-12-05T21:40:53.060617",
   "package_url": "https://pypi.org/project/fastapi/"
 }

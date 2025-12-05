@@ -1,11 +1,11 @@
 {
   "name": "lugia",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Universal schema converter for Python data types with optional dependencies",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "lugia-0.1.0.tar.gz",
-  "download_time": "2025-12-05T20:45:26.182393",
+  "download_filename": "lugia-0.1.1.tar.gz",
+  "download_time": "2025-12-05T21:40:38.306234",
   "package_url": "https://pypi.org/project/lugia/"
 }
