@@ -1,0 +1,11 @@
+{
+  "name": "spoon-cli",
+  "version": "0.1.1",
+  "summary": "CLI for SpoonAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spoon_cli-0.1.1.tar.gz",
+  "download_time": "2025-12-05T17:43:09.038326",
+  "package_url": "https://pypi.org/project/spoon-cli/"
+}

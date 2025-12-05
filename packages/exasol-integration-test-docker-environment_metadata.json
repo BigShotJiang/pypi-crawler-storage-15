@@ -1,0 +1,11 @@
+{
+  "name": "exasol-integration-test-docker-environment",
+  "version": "5.0.0",
+  "summary": "Integration Test Docker Environment for Exasol",
+  "author": "Torsten Kilias",
+  "license": "MIT",
+  "home_page": "https://github.com/exasol/integration-test-docker-environment",
+  "download_filename": "exasol_integration_test_docker_environment-5.0.0.tar.gz",
+  "download_time": "2025-12-05T17:43:21.520577",
+  "package_url": "https://pypi.org/project/exasol-integration-test-docker-environment/"
+}

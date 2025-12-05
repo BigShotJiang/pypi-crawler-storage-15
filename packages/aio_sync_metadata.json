@@ -1,11 +1,11 @@
 {
   "name": "aio_sync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Synchronization helpers for asyncio",
   "author": "Steven Hé (Sīchàng)",
   "license": null,
   "home_page": null,
-  "download_filename": "aio_sync-0.1.0.tar.gz",
-  "download_time": "2025-12-05T17:20:39.180681",
+  "download_filename": "aio_sync-0.1.1.tar.gz",
+  "download_time": "2025-12-05T17:43:18.776751",
   "package_url": "https://pypi.org/project/aio_sync/"
 }

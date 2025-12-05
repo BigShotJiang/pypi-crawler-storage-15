@@ -1,0 +1,11 @@
+{
+  "name": "icalendar-anonymizer",
+  "version": "0.1.0",
+  "summary": "Strip personal data from iCalendar files while preserving technical properties for bug reproduction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icalendar_anonymizer-0.1.0.tar.gz",
+  "download_time": "2025-12-05T17:43:34.396932",
+  "package_url": "https://pypi.org/project/icalendar-anonymizer/"
+}

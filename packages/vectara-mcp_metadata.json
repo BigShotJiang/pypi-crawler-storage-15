@@ -1,0 +1,11 @@
+{
+  "name": "vectara-mcp",
+  "version": "0.2.1",
+  "summary": "A Model Context Protocol (MCP) server that provides tools from Vectara",
+  "author": "Ofer Mendelevitch",
+  "license": null,
+  "home_page": "https://github.com/vectara/vectara-mcp",
+  "download_filename": "vectara_mcp-0.2.1-py3-none-any.whl",
+  "download_time": "2025-12-05T17:43:20.956503",
+  "package_url": "https://pypi.org/project/vectara-mcp/"
+}
