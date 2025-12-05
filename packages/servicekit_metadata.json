@@ -1,0 +1,11 @@
+{
+  "name": "servicekit",
+  "version": "0.5.4",
+  "summary": "Async SQLAlchemy framework with FastAPI integration - reusable foundation for building data services",
+  "author": "Morten Hansen",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "servicekit-0.5.4.tar.gz",
+  "download_time": "2025-12-05T12:40:54.674496",
+  "package_url": "https://pypi.org/project/servicekit/"
+}

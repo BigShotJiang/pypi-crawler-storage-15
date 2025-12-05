@@ -1,0 +1,11 @@
+{
+  "name": "viscore",
+  "version": "0.0.1",
+  "summary": "Core library for Computer Vision research projects at the Mobile Perception Systems (MPS) lab at Eindhoven University of Technology (TU/e)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "viscore-0.0.1.tar.gz",
+  "download_time": "2025-12-05T12:40:37.719632",
+  "package_url": "https://pypi.org/project/viscore/"
+}

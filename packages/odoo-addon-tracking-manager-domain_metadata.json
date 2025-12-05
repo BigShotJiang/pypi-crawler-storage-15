@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-tracking-manager-domain",
+  "version": "18.0.1.0.1",
+  "summary": "This module extends the tracking manager to allow to define a domain on fields to track changes only when certain conditions apply.",
+  "author": "glueckkanja AG, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_tracking_manager_domain-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-12-05T12:40:43.658068",
+  "package_url": "https://pypi.org/project/odoo-addon-tracking-manager-domain/"
+}
