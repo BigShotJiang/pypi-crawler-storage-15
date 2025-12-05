@@ -1,0 +1,11 @@
+{
+  "name": "SeisPlotPy",
+  "version": "1.0.0",
+  "summary": "A high-performance 2D post-stack Interpretation & QC Workstation.",
+  "author": "Arjun V H",
+  "license": null,
+  "home_page": "https://github.com/arjun-vh/SeisPlotPy",
+  "download_filename": "seisplotpy-1.0.0.tar.gz",
+  "download_time": "2025-12-05T22:53:10.232385",
+  "package_url": "https://pypi.org/project/SeisPlotPy/"
+}

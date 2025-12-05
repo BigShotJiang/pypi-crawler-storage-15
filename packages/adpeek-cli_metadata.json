@@ -1,0 +1,11 @@
+{
+  "name": "adpeek-cli",
+  "version": "0.1.1",
+  "summary": "A lightweight Active Directory enumeration and ACL helper over LDAP.",
+  "author": "0xUnd3adBeef",
+  "license": null,
+  "home_page": null,
+  "download_filename": "adpeek_cli-0.1.1.tar.gz",
+  "download_time": "2025-12-05T22:52:59.321625",
+  "package_url": "https://pypi.org/project/adpeek-cli/"
+}

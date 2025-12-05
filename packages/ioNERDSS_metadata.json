@@ -1,0 +1,11 @@
+{
+  "name": "ioNERDSS",
+  "version": "1.2.2",
+  "summary": "Package for preparing NERDSS inputs and analysing outputs.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "ionerdss-1.2.2.tar.gz",
+  "download_time": "2025-12-05T22:53:27.713279",
+  "package_url": "https://pypi.org/project/ioNERDSS/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bbt-test",
+  "version": "0.0.2",
+  "summary": "Bayesian Bradley-Terry model implementation in PyMC",
+  "author": "AGH ML & Cheminformatics Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bbt_test-0.0.2.tar.gz",
+  "download_time": "2025-12-05T22:53:16.014350",
+  "package_url": "https://pypi.org/project/bbt-test/"
+}

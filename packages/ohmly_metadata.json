@@ -1,11 +1,11 @@
 {
   "name": "ohmly",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "An electrical and mechanical analysis tool of overhead conductors.",
   "author": "Axel Rodríguez Chang",
   "license": null,
   "home_page": "https://github.com/axelrogg/ohmly",
-  "download_filename": "ohmly-0.0.1.tar.gz",
-  "download_time": "2025-12-04T22:18:11.392207",
+  "download_filename": "ohmly-0.0.3.tar.gz",
+  "download_time": "2025-12-05T22:53:24.425043",
   "package_url": "https://pypi.org/project/ohmly/"
 }

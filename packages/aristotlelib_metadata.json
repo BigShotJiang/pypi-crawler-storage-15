@@ -1,0 +1,11 @@
+{
+  "name": "aristotlelib",
+  "version": "0.5.5",
+  "summary": "Aristotle SDK - Python library for automated theorem proving with Lean",
+  "author": "Harmonic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aristotlelib-0.5.5.tar.gz",
+  "download_time": "2025-12-05T22:53:20.720592",
+  "package_url": "https://pypi.org/project/aristotlelib/"
+}
