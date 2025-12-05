@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-llms-txt-link",
+  "version": "0.1",
+  "summary": "Sphinx extension for llms.txt links.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_llms_txt_link-0.1.tar.gz",
+  "download_time": "2025-12-05T23:51:38.026773",
+  "package_url": "https://pypi.org/project/sphinx-llms-txt-link/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xdk",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "summary": "Python SDK for the X API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xdk-0.4.5.tar.gz",
-  "download_time": "2025-12-05T01:27:05.571727",
+  "download_filename": "xdk-0.4.6.tar.gz",
+  "download_time": "2025-12-05T23:51:54.115299",
   "package_url": "https://pypi.org/project/xdk/"
 }

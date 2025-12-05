@@ -1,0 +1,11 @@
+{
+  "name": "amazon-music",
+  "version": "1.7.7",
+  "summary": "A Python package for interacting with Amazon Music services",
+  "author": "Amine Soukara",
+  "license": "MIT",
+  "home_page": "https://github.com/AmineSoukara/Amazon-Music",
+  "download_filename": "amazon_music-1.7.7.tar.gz",
+  "download_time": "2025-12-05T23:51:43.176567",
+  "package_url": "https://pypi.org/project/amazon-music/"
+}

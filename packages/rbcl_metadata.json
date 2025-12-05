@@ -1,0 +1,11 @@
+{
+  "name": "rbcl",
+  "version": "1.1.2",
+  "summary": "Python library that bundles libsodium and provides wrappers for its Ristretto group functions.",
+  "author": "Nth Party",
+  "license": "MIT",
+  "home_page": "https://github.com/nthparty/rbcl",
+  "download_filename": "rbcl-1.1.2.tar.gz",
+  "download_time": "2025-12-05T23:51:56.686466",
+  "package_url": "https://pypi.org/project/rbcl/"
+}
