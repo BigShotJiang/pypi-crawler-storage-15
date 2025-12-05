@@ -1,11 +1,11 @@
 {
   "name": "logsynth",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Flexible synthetic log generator with YAML templates, rate control, and LLM-powered template synthesis",
   "author": "Lance",
   "license": null,
   "home_page": null,
-  "download_filename": "logsynth-0.2.0.tar.gz",
-  "download_time": "2025-12-05T19:17:02.425936",
+  "download_filename": "logsynth-0.2.1.tar.gz",
+  "download_time": "2025-12-05T19:51:54.659365",
   "package_url": "https://pypi.org/project/logsynth/"
 }

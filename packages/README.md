@@ -1,68 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-05T19:39:30.594966
-- **Total Packages**: 93
-- **Total Size**: 56.96 MB
+- **Download Time**: 2025-12-05T19:52:12.671148
+- **Total Packages**: 90
+- **Total Size**: 0.15 MB
 
 ## Packages List
-- microsoft-agents-m365copilot-beta
-- sonika-langchain-bot
-- mteb
-- pulumi-random
-- auto-ukg
-- whop-sdk
-- agenticaiframework
-- porespy
-- amigo_sdk
-- dataproc-spark-connect
-- pycarlo
-- petpal
-- microsoft-agents-m365copilot
-- djhtmx
-- netmagus
-- pycroglia
-- nvalchemi-toolkit-ops
-- pyrefly
-- markata
-- videopython
-- universal-agent-nexus
-- agentgear-ai
-- airflow-providers-wherobots
-- tilemaker
-- posebusters
-- tacview-duckdb
-- velocity-python
-- topaz-agent-kit
-- dotenvmodel
-- fastscaff
-- tumblr-backup
-- statsmodels
-- dissect.target
-- robotframework-browserpom
-- tklr-dgraham
-- thrasks
-- dash-docset-builder
-- python-amazon-sp-api
-- thds.mops
-- thds.attrs-utils
-- thds.adls
-- thds.core
-- thds.atacama
-- mcp-json-yaml-toml
-- thds.termtool
-- thds.humenc
-- rustest
-- prefect-azure
-- tunacode-cli
-- streamlit-flowsheet
-- linkarchivetools
-- cpf-cd
-- uipath
-- pg-sui
-- tawala
-- tinystan
-- Ooga-Booga-Python
 - moltres
 - locoformer
 - jsonshift
@@ -75,10 +18,13 @@
 - koil
 - lmcache
 - restalchemy
+- thrasks
 - trigdroid
 - winiutils
+- agenticaiframework
 - leafwaxtools
 - torch-batteries
+- streamlit-flowsheet
 - triform-cli
 - rwse-checker
 - ronet
@@ -99,3 +45,54 @@
 - debmake-dash-docset-generator
 - doclean
 - cybrid-api-bank-python
+- perfetto
+- mgplot
+- cybrid-api-id-python
+- texer
+- cybrid-api-organization-python
+- hegel-ip-client
+- pyrig
+- safe-packages
+- dkist-processing-dlnirsp
+- nichepca
+- chemotion-api
+- trading-models
+- muuntuu
+- svg-ultralight
+- dkist-processing-cryonirsp
+- nercone-fastget
+- logsynth
+- smoosense
+- totvs-dta-utils
+- signalpilot-ai-internal
+- dkist-processing-visp
+- dlt-mcp
+- setuptools-zig-build
+- mlx-audio-plus
+- litestar-vite
+- speechmatics-voice
+- nominal-api-protos
+- nominal-api
+- relationalai
+- claude-agent-sdk
+- dash-docset-builder
+- agentgear-ai
+- univi
+- katana-mcp-server
+- rda-python-dscheck
+- quickscale
+- sys-inspector
+- quickscale-cli
+- quickscale-core
+- exouprf
+- pycarlo
+- workos
+- streamlit
+- PackLab
+- llama-cpp-py
+- agglovar
+- codeio
+- fairscape-models
+- ocacaptcha
+- hzclient
+- gen3datamodel
