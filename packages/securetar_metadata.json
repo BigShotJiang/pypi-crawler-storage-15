@@ -1,0 +1,11 @@
+{
+  "name": "securetar",
+  "version": "2025.12.0",
+  "summary": "Python module to handle tarfile backups.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "securetar-2025.12.0.tar.gz",
+  "download_time": "2025-12-05T15:57:15.753932",
+  "package_url": "https://pypi.org/project/securetar/"
+}

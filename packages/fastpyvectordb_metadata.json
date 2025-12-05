@@ -1,0 +1,11 @@
+{
+  "name": "fastpyvectordb",
+  "version": "0.1.0",
+  "summary": "A high-performance Python vector database for semantic search and RAG applications",
+  "author": "FastPyDB Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastpyvectordb-0.1.0.tar.gz",
+  "download_time": "2025-12-05T15:56:40.215605",
+  "package_url": "https://pypi.org/project/fastpyvectordb/"
+}

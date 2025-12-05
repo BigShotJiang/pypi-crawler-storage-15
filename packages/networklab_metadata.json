@@ -1,0 +1,11 @@
+{
+  "name": "networklab",
+  "version": "25.12",
+  "summary": "CLI-based Virtual Networking Lab Abstraction Layer",
+  "author": "Ivan Pepelnjak",
+  "license": null,
+  "home_page": "https://github.com/ipspace/netlab",
+  "download_filename": "networklab-25.12.tar.gz",
+  "download_time": "2025-12-05T15:57:07.429898",
+  "package_url": "https://pypi.org/project/networklab/"
+}

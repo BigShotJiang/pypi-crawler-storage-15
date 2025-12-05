@@ -1,11 +1,11 @@
 {
   "name": "vellum-workflow-server",
-  "version": "1.11.10.post1",
+  "version": "1.11.11",
   "summary": null,
   "author": null,
   "license": "AGPL",
   "home_page": null,
-  "download_filename": "vellum_workflow_server-1.11.10.post1.tar.gz",
-  "download_time": "2025-12-05T01:27:14.206841",
+  "download_filename": "vellum_workflow_server-1.11.11.tar.gz",
+  "download_time": "2025-12-05T15:56:39.702272",
   "package_url": "https://pypi.org/project/vellum-workflow-server/"
 }

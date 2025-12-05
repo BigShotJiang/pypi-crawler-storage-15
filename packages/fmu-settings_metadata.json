@@ -1,11 +1,11 @@
 {
   "name": "fmu-settings",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "summary": "A library for managing FMU settings",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "fmu_settings-0.13.0.tar.gz",
-  "download_time": "2025-12-03T14:21:31.433491",
+  "download_filename": "fmu_settings-0.14.0.tar.gz",
+  "download_time": "2025-12-05T15:57:02.308229",
   "package_url": "https://pypi.org/project/fmu-settings/"
 }
