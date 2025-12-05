@@ -1,11 +1,11 @@
 {
   "name": "redlite",
-  "version": "0.3.58",
+  "version": "0.4.0",
   "summary": "LLM testing on steroids",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "redlite-0.3.58-py3-none-any.whl",
-  "download_time": "2025-12-03T14:21:32.563288",
+  "download_filename": "redlite-0.4.0-py3-none-any.whl",
+  "download_time": "2025-12-05T16:52:18.922675",
   "package_url": "https://pypi.org/project/redlite/"
 }

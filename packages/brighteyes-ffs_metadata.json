@@ -1,0 +1,11 @@
+{
+  "name": "brighteyes-ffs",
+  "version": "0.0.47",
+  "summary": "Toolbox for analysing FCS/FFS data with array detectors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brighteyes_ffs-0.0.47.tar.gz",
+  "download_time": "2025-12-05T16:52:05.451896",
+  "package_url": "https://pypi.org/project/brighteyes-ffs/"
+}

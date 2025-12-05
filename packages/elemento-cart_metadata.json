@@ -1,11 +1,11 @@
 {
   "name": "elemento-cart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Cart service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elemento_cart-1.0.1-py3-none-any.whl",
-  "download_time": "2025-12-05T15:45:42.114183",
+  "download_filename": "elemento_cart-1.0.2-py3-none-any.whl",
+  "download_time": "2025-12-05T16:52:22.098718",
   "package_url": "https://pypi.org/project/elemento-cart/"
 }

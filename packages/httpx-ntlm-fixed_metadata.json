@@ -1,0 +1,11 @@
+{
+  "name": "httpx-ntlm-fixed",
+  "version": "1.4.1",
+  "summary": "This package allows for HTTP NTLM authentication using the HTTPX library. Fork of httpx_ntlm with fixes.",
+  "author": "LogicDaemon",
+  "license": "ISC",
+  "home_page": "https://github.com/LogicDaemon/httpx-ntlm",
+  "download_filename": "httpx_ntlm_fixed-1.4.1.tar.gz",
+  "download_time": "2025-12-05T16:52:12.742993",
+  "package_url": "https://pypi.org/project/httpx-ntlm-fixed/"
+}

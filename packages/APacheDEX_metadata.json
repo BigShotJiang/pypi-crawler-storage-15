@@ -1,0 +1,11 @@
+{
+  "name": "APacheDEX",
+  "version": "2.3",
+  "summary": "Compute APDEX from Apache-style logs.",
+  "author": "Vincent Pelletier",
+  "license": "GPL 2+",
+  "home_page": "https://lab.nexedi.com/nexedi/apachedex.git",
+  "download_filename": "apachedex-2.3.tar.gz",
+  "download_time": "2025-12-05T16:52:33.557446",
+  "package_url": "https://pypi.org/project/APacheDEX/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "f2xba",
+  "version": "1.9.8",
+  "summary": "f2xba modelling framework: from FBA to extended genome-scale modelling",
+  "author": "Peter Schubert",
+  "license": "GPLv3",
+  "home_page": "https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/computational-cell-biology",
+  "download_filename": "f2xba-1.9.8.tar.gz",
+  "download_time": "2025-12-05T16:52:18.384692",
+  "package_url": "https://pypi.org/project/f2xba/"
+}

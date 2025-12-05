@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-scylladb-theme",
+  "version": "1.8.10",
+  "summary": "A Sphinx Theme for ScyllaDB documentation projects",
+  "author": "David García",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_scylladb_theme-1.8.10.tar.gz",
+  "download_time": "2025-12-05T16:51:57.150260",
+  "package_url": "https://pypi.org/project/sphinx-scylladb-theme/"
+}

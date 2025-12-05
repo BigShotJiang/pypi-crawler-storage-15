@@ -1,0 +1,11 @@
+{
+  "name": "molselector",
+  "version": "1.2.0",
+  "summary": "A web app to quickly triage molecule files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "molselector-1.2.0.tar.gz",
+  "download_time": "2025-12-05T16:52:31.491851",
+  "package_url": "https://pypi.org/project/molselector/"
+}
