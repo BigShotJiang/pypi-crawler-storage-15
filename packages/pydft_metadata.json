@@ -1,0 +1,11 @@
+{
+  "name": "pydft",
+  "version": "0.7.4",
+  "summary": "pydft",
+  "author": "Ivo Filot",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/ifilot/pydft",
+  "download_filename": "pydft-0.7.4-py3-none-any.whl",
+  "download_time": "2025-12-05T20:23:15.444963",
+  "package_url": "https://pypi.org/project/pydft/"
+}

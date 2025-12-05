@@ -1,0 +1,11 @@
+{
+  "name": "dystrack",
+  "version": "1.0.1",
+  "summary": "Microscope automation for dynamic sample tracking.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dystrack-1.0.1.tar.gz",
+  "download_time": "2025-12-05T20:23:02.569014",
+  "package_url": "https://pypi.org/project/dystrack/"
+}

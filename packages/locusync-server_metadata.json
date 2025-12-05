@@ -1,0 +1,11 @@
+{
+  "name": "locusync-server",
+  "version": "1.2.0",
+  "summary": "MCP Server for geospatial operations - geocoding, routing, spatial analysis",
+  "author": "LocuSync Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "locusync_server-1.2.0.tar.gz",
+  "download_time": "2025-12-05T20:23:05.660579",
+  "package_url": "https://pypi.org/project/locusync-server/"
+}

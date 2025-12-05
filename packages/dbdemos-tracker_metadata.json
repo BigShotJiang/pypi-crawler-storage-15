@@ -1,11 +1,11 @@
 {
   "name": "dbdemos-tracker",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A tracking library for Databricks demo analytics.",
   "author": "Databricks",
   "license": "Databricks license",
   "home_page": "https://github.com/databricks-field-eng/dbdemos-tracker",
-  "download_filename": "dbdemos_tracker-0.1.8-py3-none-any.whl",
-  "download_time": "2025-12-03T23:39:50.872817",
+  "download_filename": "dbdemos_tracker-0.1.9-py3-none-any.whl",
+  "download_time": "2025-12-05T20:23:19.053880",
   "package_url": "https://pypi.org/project/dbdemos-tracker/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mlpfile",
+  "version": "0.5.0",
+  "summary": "Multilayer perceptron file format and evaluation.",
+  "author": "James A. Preiss",
+  "license": null,
+  "home_page": "https://github.com/jpreiss/mlpfile",
+  "download_filename": "mlpfile-0.5.0.tar.gz",
+  "download_time": "2025-12-05T20:23:08.739872",
+  "package_url": "https://pypi.org/project/mlpfile/"
+}

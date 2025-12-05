@@ -1,0 +1,11 @@
+{
+  "name": "vectorfieldviz",
+  "version": "3.1.4",
+  "summary": "Vector field visualization and eigenanalysis for 2x2 and 3x3 matrices using Plotly.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vectorfieldviz-3.1.4.tar.gz",
+  "download_time": "2025-12-05T20:23:07.710338",
+  "package_url": "https://pypi.org/project/vectorfieldviz/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "winipyside",
-  "version": "2.1.14",
+  "version": "2.1.15",
   "summary": "A package for pyside utils",
   "author": "Winipedia",
   "license": null,
   "home_page": null,
-  "download_filename": "winipyside-2.1.14.tar.gz",
-  "download_time": "2025-12-05T17:20:33.394932",
+  "download_filename": "winipyside-2.1.15.tar.gz",
+  "download_time": "2025-12-05T20:23:41.939178",
   "package_url": "https://pypi.org/project/winipyside/"
 }

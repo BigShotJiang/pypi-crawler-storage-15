@@ -1,0 +1,11 @@
+{
+  "name": "pizzoo",
+  "version": "0.9.14",
+  "summary": "Pizzoo is a easy-to-use library for rendering on pixel matrix screens like the Pixoo64, featuring easy new device integration, animation tools, and XML template rendering support.",
+  "author": "Pablo Huet",
+  "license": "MIT AND (Apache-2.0 OR BSD-2-Clause)",
+  "home_page": "https://github.com/pabletos/pizzoo#readme",
+  "download_filename": "pizzoo-0.9.14.tar.gz",
+  "download_time": "2025-12-05T20:23:11.322449",
+  "package_url": "https://pypi.org/project/pizzoo/"
+}
