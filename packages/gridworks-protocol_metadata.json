@@ -1,0 +1,11 @@
+{
+  "name": "gridworks-protocol",
+  "version": "1.3.3",
+  "summary": "Gridworks Protocol",
+  "author": "Jessica Millar",
+  "license": "MIT",
+  "home_page": "https://github.com/thegridelectric/gridworks-protocol",
+  "download_filename": "gridworks_protocol-1.3.3.tar.gz",
+  "download_time": "2025-12-05T03:06:22.414709",
+  "package_url": "https://pypi.org/project/gridworks-protocol/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spam-detector-ai",
+  "version": "2.1.19",
+  "summary": "A package for detecting and filtering spam messages using Machine Learning models.",
+  "author": "Adams Pierre David",
+  "license": "MIT",
+  "home_page": "https://github.com/adamspd/spam-detection-project",
+  "download_filename": "spam_detector_ai-2.1.19.tar.gz",
+  "download_time": "2025-12-05T03:07:04.240365",
+  "package_url": "https://pypi.org/project/spam-detector-ai/"
+}

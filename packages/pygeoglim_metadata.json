@@ -1,0 +1,11 @@
+{
+  "name": "pygeoglim",
+  "version": "1.0.7",
+  "summary": "A Python package for extracting geological attributes from GLiM and GLHYMPS datasets",
+  "author": "Mohammad Galib",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygeoglim-1.0.7.tar.gz",
+  "download_time": "2025-12-05T03:07:01.010455",
+  "package_url": "https://pypi.org/project/pygeoglim/"
+}

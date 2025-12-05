@@ -1,0 +1,11 @@
+{
+  "name": "artificial-muscle-network",
+  "version": "2.0.0",
+  "summary": "Artificial Muscle Network: physics-inspired optimization for scheduling, routing, and allocation",
+  "author": "AMN Maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "artificial_muscle_network-2.0.0.tar.gz",
+  "download_time": "2025-12-05T03:06:53.255882",
+  "package_url": "https://pypi.org/project/artificial-muscle-network/"
+}

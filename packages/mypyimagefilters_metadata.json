@@ -1,0 +1,11 @@
+{
+  "name": "mypyimagefilters",
+  "version": "0.1.1",
+  "summary": "Python wrappers for native image filter libraries (CPU, CUDA, OpenACC).",
+  "author": "Ariel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mypyimagefilters-0.1.1.tar.gz",
+  "download_time": "2025-12-05T03:07:02.627689",
+  "package_url": "https://pypi.org/project/mypyimagefilters/"
+}
