@@ -1,11 +1,11 @@
 {
   "name": "bluer-ugv",
-  "version": "7.517.1",
+  "version": "7.518.1",
   "summary": "🐬 AI x UGV.",
   "author": "Arash Abadpour (Kamangir)",
   "license": "CC0-1.0",
   "home_page": "https://github.com/kamangir/bluer-ugv",
-  "download_filename": "bluer_ugv-7.517.1.tar.gz",
-  "download_time": "2025-12-03T17:01:51.678897",
+  "download_filename": "bluer_ugv-7.518.1.tar.gz",
+  "download_time": "2025-12-05T09:44:03.175736",
   "package_url": "https://pypi.org/project/bluer-ugv/"
 }

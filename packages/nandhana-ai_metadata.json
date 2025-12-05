@@ -1,0 +1,11 @@
+{
+  "name": "nandhana-ai",
+  "version": "0.0.1",
+  "summary": "A Python library to interact with AI tools for responses and text summarization",
+  "author": "Nandhana C S",
+  "license": null,
+  "home_page": "https://github.com/yourusername/nandhana_ai",
+  "download_filename": "nandhana_ai-0.0.1.tar.gz",
+  "download_time": "2025-12-05T09:44:02.133106",
+  "package_url": "https://pypi.org/project/nandhana-ai/"
+}

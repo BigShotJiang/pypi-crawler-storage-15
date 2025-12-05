@@ -1,0 +1,11 @@
+{
+  "name": "horsepy",
+  "version": "1.0.0",
+  "summary": "A simple Python framework for cleaning and analyzing data (CSV, Excel, JSON)",
+  "author": "Harshal S",
+  "license": null,
+  "home_page": null,
+  "download_filename": "horsepy-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-05T09:43:57.451121",
+  "package_url": "https://pypi.org/project/horsepy/"
+}

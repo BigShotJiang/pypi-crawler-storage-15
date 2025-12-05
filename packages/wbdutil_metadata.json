@@ -1,0 +1,11 @@
+{
+  "name": "wbdutil",
+  "version": "0.1.1",
+  "summary": "OSDU Wellbore DDMS Data Loader - command line interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wbdutil-0.1.1.tar.gz",
+  "download_time": "2025-12-05T09:44:22.562775",
+  "package_url": "https://pypi.org/project/wbdutil/"
+}

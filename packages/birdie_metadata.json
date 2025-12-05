@@ -1,0 +1,11 @@
+{
+  "name": "birdie",
+  "version": "0.1.28",
+  "summary": "A simple permissive framework to interact with the birdie platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "birdie-0.1.28.tar.gz",
+  "download_time": "2025-12-05T09:44:09.461875",
+  "package_url": "https://pypi.org/project/birdie/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ccmd",
+  "version": "1.1.7",
+  "summary": "Cross-platform Command Manager - Simplify your terminal with intuitive shortcuts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ccmd-1.1.7.tar.gz",
+  "download_time": "2025-12-05T09:43:53.778265",
+  "package_url": "https://pypi.org/project/ccmd/"
+}
