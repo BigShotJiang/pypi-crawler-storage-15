@@ -1,19 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-05T09:44:35.001548
-- **Total Packages**: 89
-- **Total Size**: 49.16 MB
+- **Download Time**: 2025-12-05T09:54:54.182567
+- **Total Packages**: 86
+- **Total Size**: 18.06 MB
 
 ## Packages List
+- AOT-biomaps
+- info-llm-observe
+- openjiuwen
+- xls2ddl
+- pyxetabase
+- authentikate
+- Jaxley
+- rapid-kit
+- ms2deepscore
+- maria-summarize-text-ai-assistant
+- snowflake-id-toolkit
+- MatplotLibAPI
+- kuaijs-ios
+- SimplHDL
+- dossier-tools
+- cps-hhbk
+- inmanta-module-std
+- kraken-decompressor
+- infrastructure-manager-sync
+- treesa-ai-helper
+- viswas-ai
+- conscious-bridge
+- pyams-zfiles
+- rishabh-greetuser
+- lewaf
+- inhpc-dm
+- dw-auditor
+- spotdesirability
+- UtilityLibAPI
+- ChronicleLogger
+- erc7730
+- streamlit-notebook
+- fastapi-view
+- scruby
+- smart-model-card
+- wisent
+- sakit
+- orq-ai-sdk
+- yahwin-ai-assistant-lib-new
+- tfp-nightly
 - oceanbase-mcp
 - xtrack
 - realize-mcp
 - vdata
 - aldera
 - compass_api_sdk
-- cps-hhbk
-- AOT-biomaps
 - dvt-core
 - ezarr
 - cenreg
@@ -29,7 +67,6 @@
 - graphsense-lib
 - hex-zmq-servers
 - MainShortcuts2
-- horsepy
 - xutility
 - dayamol-ai2
 - cnhkmcp
@@ -47,51 +84,11 @@
 - anwin-ai-helpers
 - openepd
 - objectdb
-- viswas-ai
 - space-stream
 - rebrandly-otel
-- streamlit-notebook
 - birdie
 - OpenFisca-France
 - nose-py3
 - gem-botist
 - sirs-import
 - Brian2
-- tasktiger
-- setupEM
-- authentikate
-- clickhouse-chorm
-- elasticipy
-- znvault
-- autocoder-nano
-- aspyx-service
-- UtilityLibAPI
-- JL-helper-functions
-- fasrat
-- configlite
-- rds-proxy-password-rotation
-- smartpi
-- ai-text-ap
-- ai-assist-utils
-- wbdutil
-- dossier-tools
-- seppy
-- databricks-modules-vy
-- worldalphabets
-- markdown_javadoc_references
-- maria-summarize-text-ai-assistant
-- microimpute
-- treesa-ai-helper
-- mrs-inspector
-- nico-sc-sp
-- kuaijs-ios
-- aihelper-akshay1
-- gemini-ai-helper-febin
-- h4-hello
-- funcnodes-worker
-- maid-runner
-- korea-weather-api
-- apex-saas-framework
-- iai-helper
-- soar-locker
-- pynxtools-spm

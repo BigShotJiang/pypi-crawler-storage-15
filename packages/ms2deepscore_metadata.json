@@ -1,0 +1,11 @@
+{
+  "name": "ms2deepscore",
+  "version": "2.6.0",
+  "summary": "Deep learning similarity measure for comparing MS/MS spectra.",
+  "author": "Florian Huber (as part of the ms2deepscore developer team)",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/iomega/ms2deepscore",
+  "download_filename": "ms2deepscore-2.6.0.tar.gz",
+  "download_time": "2025-12-05T09:54:12.193603",
+  "package_url": "https://pypi.org/project/ms2deepscore/"
+}

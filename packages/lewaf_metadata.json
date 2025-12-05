@@ -1,0 +1,11 @@
+{
+  "name": "lewaf",
+  "version": "0.7.0",
+  "summary": "A Web Application Firewall for Python that stops attacks before they reach your application code, with comprehensive audit logging and compliance support.",
+  "author": "Stefane Fermigier",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lewaf-0.7.0.tar.gz",
+  "download_time": "2025-12-05T09:54:20.514099",
+  "package_url": "https://pypi.org/project/lewaf/"
+}

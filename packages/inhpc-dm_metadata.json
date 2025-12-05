@@ -1,0 +1,11 @@
+{
+  "name": "inhpc-dm",
+  "version": "0.8.0",
+  "summary": "Data Management for InHPC-DE",
+  "author": "Jochen Buchholz",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/BerndSchuller/inhpc_dm",
+  "download_filename": "inhpc_dm-0.8.0.tar.gz",
+  "download_time": "2025-12-05T09:54:21.043044",
+  "package_url": "https://pypi.org/project/inhpc-dm/"
+}
