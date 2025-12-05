@@ -1,0 +1,11 @@
+{
+  "name": "geoprepare",
+  "version": "0.6.19",
+  "summary": "A Python package to prepare (download, extract, process input data) for GEOCIF and related models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geoprepare-0.6.19.tar.gz",
+  "download_time": "2025-12-05T04:36:04.517914",
+  "package_url": "https://pypi.org/project/geoprepare/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "molass-legacy",
+  "version": "0.4.2",
+  "summary": "Matrix Optimization with Low-rank factorization for Automated analysis of SEC-SAXS",
+  "author": "Molass Community",
+  "license": "GNU General Public License v3.0",
+  "home_page": null,
+  "download_filename": "molass_legacy-0.4.2.tar.gz",
+  "download_time": "2025-12-05T04:36:25.164415",
+  "package_url": "https://pypi.org/project/molass-legacy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-lung-morphometrics",
+  "version": "0.4.0",
+  "summary": "A set of tools for measuring MLI and the like.",
+  "author": null,
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "python_lung_morphometrics-0.4.0-py3-none-any.whl",
+  "download_time": "2025-12-05T04:36:13.996969",
+  "package_url": "https://pypi.org/project/python-lung-morphometrics/"
+}

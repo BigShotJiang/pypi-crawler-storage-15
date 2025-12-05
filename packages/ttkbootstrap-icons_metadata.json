@@ -1,0 +1,11 @@
+{
+  "name": "ttkbootstrap-icons",
+  "version": "4.0.0",
+  "summary": "Base package for font-based icons in Tkinter/ttkbootstrap with installable icon providers: Bootstrap, Font Awesome, Material, Ionicons, Remix, Fluent, Simple, Weather, Lucide, Eva & more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttkbootstrap_icons-4.0.0.tar.gz",
+  "download_time": "2025-12-05T04:35:55.121787",
+  "package_url": "https://pypi.org/project/ttkbootstrap-icons/"
+}

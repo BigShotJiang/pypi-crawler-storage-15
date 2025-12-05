@@ -1,0 +1,11 @@
+{
+  "name": "filecaching",
+  "version": "0.0.4",
+  "summary": "A simple and easy-to-use file caching tool",
+  "author": "Jeay",
+  "license": "Apache-2.0 License",
+  "home_page": "https://github.com/jeeaay/python-file-cache.git",
+  "download_filename": "filecaching-0.0.4.tar.gz",
+  "download_time": "2025-12-05T04:36:31.742748",
+  "package_url": "https://pypi.org/project/filecaching/"
+}

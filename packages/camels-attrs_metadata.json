@@ -1,0 +1,11 @@
+{
+  "name": "camels-attrs",
+  "version": "1.0.2",
+  "summary": "Extract CAMELS-like catchment attributes for any USGS gauge site in the USA",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "camels_attrs-1.0.2.tar.gz",
+  "download_time": "2025-12-05T04:36:07.262567",
+  "package_url": "https://pypi.org/project/camels-attrs/"
+}

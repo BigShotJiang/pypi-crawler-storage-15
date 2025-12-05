@@ -1,0 +1,11 @@
+{
+  "name": "autoxkit",
+  "version": "0.4.3",
+  "summary": "Python library for automating Windows",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "autoxkit-0.4.3.tar.gz",
+  "download_time": "2025-12-05T04:36:15.714736",
+  "package_url": "https://pypi.org/project/autoxkit/"
+}

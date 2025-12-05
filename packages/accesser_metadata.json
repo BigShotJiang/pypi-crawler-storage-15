@@ -1,0 +1,11 @@
+{
+  "name": "accesser",
+  "version": "0.11.1",
+  "summary": "🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST",
+  "author": "URenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "accesser-0.11.1.tar.gz",
+  "download_time": "2025-12-05T04:36:07.799318",
+  "package_url": "https://pypi.org/project/accesser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "office2md",
+  "version": "0.1.3",
+  "summary": "Convert Microsoft Office documents (DOCX, XLSX, PPTX) and PDFs to Markdown",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "office2md-0.1.3.tar.gz",
+  "download_time": "2025-12-05T04:36:11.162248",
+  "package_url": "https://pypi.org/project/office2md/"
+}

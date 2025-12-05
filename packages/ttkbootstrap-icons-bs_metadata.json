@@ -1,0 +1,11 @@
+{
+  "name": "ttkbootstrap-icons-bs",
+  "version": "1.0.0",
+  "summary": "Bootstrap Icons (font-based) provider for ttkbootstrap-icons",
+  "author": "Israel Dryer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ttkbootstrap_icons_bs-1.0.0.tar.gz",
+  "download_time": "2025-12-05T04:35:54.583724",
+  "package_url": "https://pypi.org/project/ttkbootstrap-icons-bs/"
+}

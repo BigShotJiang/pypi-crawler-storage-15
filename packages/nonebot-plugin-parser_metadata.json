@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-parser",
-  "version": "2.2.4",
+  "version": "2.3.0",
   "summary": "NoneBot2 链接分享解析 Alconna 版, 通用媒体卡片渲染(PIL 实现), 支持 B站/抖音/快手/微博/小红书/youtube/tiktok/twitter/acfun/nga",
   "author": "fllesser",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_parser-2.2.4.tar.gz",
-  "download_time": "2025-12-03T07:22:17.196112",
+  "download_filename": "nonebot_plugin_parser-2.3.0.tar.gz",
+  "download_time": "2025-12-05T04:36:30.085122",
   "package_url": "https://pypi.org/project/nonebot-plugin-parser/"
 }

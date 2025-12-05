@@ -1,11 +1,11 @@
 {
   "name": "agui-adk-endpoint",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "AGUI ADK Endpoint",
   "author": "Bruce Li",
   "license": null,
   "home_page": null,
-  "download_filename": "agui_adk_endpoint-0.0.5.tar.gz",
-  "download_time": "2025-12-04T14:21:40.798363",
+  "download_filename": "agui_adk_endpoint-0.0.6.tar.gz",
+  "download_time": "2025-12-05T04:36:20.641244",
   "package_url": "https://pypi.org/project/agui-adk-endpoint/"
 }

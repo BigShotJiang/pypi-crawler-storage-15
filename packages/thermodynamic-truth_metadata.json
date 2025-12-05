@@ -1,0 +1,11 @@
+{
+  "name": "thermodynamic-truth",
+  "version": "1.1.0",
+  "summary": "Thermodynamic Consensus Protocol - Byzantine Fault Tolerant consensus using statistical mechanics",
+  "author": "Kevin KULL",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Kuonirad/thermo-truth-proto",
+  "download_filename": "thermodynamic_truth-1.1.0.tar.gz",
+  "download_time": "2025-12-05T04:36:18.421289",
+  "package_url": "https://pypi.org/project/thermodynamic-truth/"
+}
