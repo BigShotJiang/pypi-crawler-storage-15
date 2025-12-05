@@ -1,0 +1,11 @@
+{
+  "name": "dotenvmodel",
+  "version": "0.2.0",
+  "summary": "Type-safe environment configuration with automatic .env file loading",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dotenvmodel-0.2.0.tar.gz",
+  "download_time": "2025-12-05T19:38:56.196905",
+  "package_url": "https://pypi.org/project/dotenvmodel/"
+}

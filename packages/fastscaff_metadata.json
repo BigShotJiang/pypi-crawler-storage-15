@@ -1,11 +1,11 @@
 {
   "name": "fastscaff",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "FastAPI project scaffolding tool",
   "author": "FastScaff",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastscaff-0.1.0.tar.gz",
-  "download_time": "2025-12-05T10:22:07.067589",
+  "download_filename": "fastscaff-0.1.1.tar.gz",
+  "download_time": "2025-12-05T19:38:57.228453",
   "package_url": "https://pypi.org/project/fastscaff/"
 }

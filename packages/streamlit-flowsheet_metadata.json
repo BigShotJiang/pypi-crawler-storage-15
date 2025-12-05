@@ -1,11 +1,11 @@
 {
   "name": "streamlit-flowsheet",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A Streamlit component for rendering process flowsheet diagrams with interactive selection",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "streamlit_flowsheet-0.2.2.tar.gz",
-  "download_time": "2025-12-05T19:16:42.302278",
+  "download_filename": "streamlit_flowsheet-0.2.3.tar.gz",
+  "download_time": "2025-12-05T19:39:07.790579",
   "package_url": "https://pypi.org/project/streamlit-flowsheet/"
 }

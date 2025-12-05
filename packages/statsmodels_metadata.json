@@ -1,0 +1,11 @@
+{
+  "name": "statsmodels",
+  "version": "0.14.6",
+  "summary": "Statistical computations and models for Python",
+  "author": null,
+  "license": "BSD License",
+  "home_page": "https://www.statsmodels.org/",
+  "download_filename": "statsmodels-0.14.6-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-05T19:38:58.339260",
+  "package_url": "https://pypi.org/project/statsmodels/"
+}

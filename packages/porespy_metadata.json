@@ -1,11 +1,11 @@
 {
   "name": "porespy",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "summary": "A set of tools for analyzing 3D images of porous materials",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "porespy-3.0.2-py3-none-any.whl",
-  "download_time": "2025-12-05T10:21:57.914473",
+  "download_filename": "porespy-3.0.3-py3-none-any.whl",
+  "download_time": "2025-12-05T19:38:44.556149",
   "package_url": "https://pypi.org/project/porespy/"
 }

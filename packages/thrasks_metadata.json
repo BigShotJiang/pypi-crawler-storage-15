@@ -1,11 +1,11 @@
 {
   "name": "thrasks",
-  "version": "0.1.0",
+  "version": "0.1.0.post1",
   "summary": "Threaded async tasks for free-threaded Python 3.14 - run coroutines across thread pools",
   "author": "Jakub Gajski",
   "license": null,
   "home_page": null,
-  "download_filename": "thrasks-0.1.0.tar.gz",
-  "download_time": "2025-12-05T19:16:39.164417",
+  "download_filename": "thrasks-0.1.0.post1.tar.gz",
+  "download_time": "2025-12-05T19:39:00.445824",
   "package_url": "https://pypi.org/project/thrasks/"
 }

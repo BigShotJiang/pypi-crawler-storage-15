@@ -1,11 +1,11 @@
 {
   "name": "thds.attrs-utils",
-  "version": "1.7.20251204233320",
+  "version": "1.7.20251205192331",
   "summary": "Utilities for attrs record classes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thds_attrs_utils-1.7.20251204233320-py3-none-any.whl",
-  "download_time": "2025-12-04T23:40:49.546903",
+  "download_filename": "thds_attrs_utils-1.7.20251205192331-py3-none-any.whl",
+  "download_time": "2025-12-05T19:39:02.532764",
   "package_url": "https://pypi.org/project/thds.attrs-utils/"
 }
