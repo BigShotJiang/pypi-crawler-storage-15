@@ -1,11 +1,11 @@
 {
   "name": "wisent",
-  "version": "0.5.83",
+  "version": "0.5.84",
   "summary": "Monitor and guard against harmful content in language models",
   "author": "Wisent Team",
   "license": null,
   "home_page": "https://github.com/yourusername/wisent-activation-guardrails",
-  "download_filename": "wisent-0.5.83.tar.gz",
-  "download_time": "2025-12-05T09:54:26.447889",
+  "download_filename": "wisent-0.5.84.tar.gz",
+  "download_time": "2025-12-05T18:51:01.444666",
   "package_url": "https://pypi.org/project/wisent/"
 }

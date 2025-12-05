@@ -1,0 +1,11 @@
+{
+  "name": "latterdns",
+  "version": "0.3.0",
+  "summary": "A lightweight DNS proxy designed to bypass DNS spoofing by exploiting timing differences between fake and legitimate packets",
+  "author": "Amir Hosseini Nasab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "latterdns-0.3.0.tar.gz",
+  "download_time": "2025-12-05T18:50:54.643122",
+  "package_url": "https://pypi.org/project/latterdns/"
+}

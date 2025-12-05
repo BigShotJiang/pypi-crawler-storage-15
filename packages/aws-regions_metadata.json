@@ -1,0 +1,11 @@
+{
+  "name": "aws-regions",
+  "version": "0.5.0",
+  "summary": "Provides functions to get up-to-date AWS regions lists.",
+  "author": "SUSE",
+  "license": "MIT",
+  "home_page": "https://github.com/SUSE-Enceladus/aws-regions",
+  "download_filename": "aws_regions-0.5.0.tar.gz",
+  "download_time": "2025-12-05T18:51:27.135128",
+  "package_url": "https://pypi.org/project/aws-regions/"
+}

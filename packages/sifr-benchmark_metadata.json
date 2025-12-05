@@ -1,11 +1,11 @@
 {
   "name": "sifr-benchmark",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Benchmark for evaluating LLM understanding of web UI: SiFR vs HTML vs AXTree vs Screenshots",
   "author": "SiFR Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "sifr_benchmark-0.1.9.tar.gz",
-  "download_time": "2025-12-05T08:27:36.766046",
+  "download_filename": "sifr_benchmark-0.1.10.tar.gz",
+  "download_time": "2025-12-05T18:51:34.113490",
   "package_url": "https://pypi.org/project/sifr-benchmark/"
 }

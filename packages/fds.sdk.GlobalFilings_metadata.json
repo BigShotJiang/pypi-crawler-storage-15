@@ -1,0 +1,11 @@
+{
+  "name": "fds.sdk.GlobalFilings",
+  "version": "2.3.0",
+  "summary": "Global Filings client library for Python",
+  "author": "FactSet Research Systems",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/FactSet/enterprise-sdk/tree/main/code/python/GlobalFilings/v2",
+  "download_filename": "fds_sdk_globalfilings-2.3.0.tar.gz",
+  "download_time": "2025-12-05T18:51:11.313454",
+  "package_url": "https://pypi.org/project/fds.sdk.GlobalFilings/"
+}

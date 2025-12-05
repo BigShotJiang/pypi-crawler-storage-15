@@ -1,0 +1,11 @@
+{
+  "name": "pykaleidescape",
+  "version": "1.0.2",
+  "summary": "\"A python client library for the Kaleidescape System Control Protocol.\"",
+  "author": "Steve Easley",
+  "license": "MIT",
+  "home_page": "https://github.com/SteveEasley/pykaleidescape",
+  "download_filename": "pykaleidescape-1.0.2.tar.gz",
+  "download_time": "2025-12-05T18:51:08.721366",
+  "package_url": "https://pypi.org/project/pykaleidescape/"
+}

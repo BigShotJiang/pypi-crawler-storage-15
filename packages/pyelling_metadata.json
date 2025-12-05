@@ -1,0 +1,11 @@
+{
+  "name": "pyelling",
+  "version": "0.1.0",
+  "summary": "A Python package for text TRANSFORMATION!",
+  "author": "Python Port of YELLING by Hadley Wickham",
+  "license": "MIT",
+  "home_page": "https://github.com/samcofer/pyell",
+  "download_filename": "pyelling-0.1.0.tar.gz",
+  "download_time": "2025-12-05T18:51:15.543530",
+  "package_url": "https://pypi.org/project/pyelling/"
+}
