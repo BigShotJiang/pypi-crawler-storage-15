@@ -1,0 +1,11 @@
+{
+  "name": "envrihub",
+  "version": "0.0.13",
+  "summary": "Python library to streamline interaction with the ENVRI-Hub APIs, providing a pythonic facade to data and service access.",
+  "author": "ENVRI Community",
+  "license": "MIT",
+  "home_page": "https://gitlab.a.incd.pt/envri-hub-next/vre-lib",
+  "download_filename": "envrihub-0.0.13.tar.gz",
+  "download_time": "2025-12-05T11:44:03.425633",
+  "package_url": "https://pypi.org/project/envrihub/"
+}

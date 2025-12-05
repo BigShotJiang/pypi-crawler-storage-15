@@ -1,0 +1,11 @@
+{
+  "name": "ietf-reviewtool",
+  "version": "0.5.0",
+  "summary": "Review tool for IETF documents",
+  "author": "Lars Eggert",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/larseggert/ietf-reviewtool",
+  "download_filename": "ietf_reviewtool-0.5.0.tar.gz",
+  "download_time": "2025-12-05T11:44:17.176654",
+  "package_url": "https://pypi.org/project/ietf-reviewtool/"
+}

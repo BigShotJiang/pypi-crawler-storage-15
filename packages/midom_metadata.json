@@ -1,0 +1,11 @@
+{
+  "name": "midom",
+  "version": "0.4.0",
+  "summary": "Concepts and relations to describe the process of DICOM deidentification",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midom-0.4.0.tar.gz",
+  "download_time": "2025-12-05T11:44:11.026337",
+  "package_url": "https://pypi.org/project/midom/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "instana_client",
+  "version": "1.0.2",
+  "summary": "Instana REST API documentation",
+  "author": "© Instana",
+  "license": null,
+  "home_page": "https://github.com/instana/client-python",
+  "download_filename": "instana_client-1.0.2.tar.gz",
+  "download_time": "2025-12-05T11:43:53.900901",
+  "package_url": "https://pypi.org/project/instana_client/"
+}

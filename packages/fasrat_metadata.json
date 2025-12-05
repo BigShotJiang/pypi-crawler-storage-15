@@ -1,11 +1,11 @@
 {
   "name": "fasrat",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Fast Area-weighted Spatial ReAggregation Tool - Compute area-weighted intersection weights between shapefile geometries and raster pixels",
   "author": "Jong Woo Nam",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fasrat-1.2.1.tar.gz",
-  "download_time": "2025-12-05T09:44:19.445623",
+  "download_filename": "fasrat-1.2.2.tar.gz",
+  "download_time": "2025-12-05T11:44:14.105513",
   "package_url": "https://pypi.org/project/fasrat/"
 }

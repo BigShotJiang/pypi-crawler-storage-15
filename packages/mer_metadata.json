@@ -1,11 +1,11 @@
 {
   "name": "mer",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "summary": "Khmer OCR",
   "author": "Metythorn Penn",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/MetythornPenn/mer.git",
-  "download_filename": "mer-1.1.2.tar.gz",
-  "download_time": "2025-12-04T04:00:20.681062",
+  "download_filename": "mer-1.2.0.tar.gz",
+  "download_time": "2025-12-05T11:44:18.196452",
   "package_url": "https://pypi.org/project/mer/"
 }

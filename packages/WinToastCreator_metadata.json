@@ -1,0 +1,11 @@
+{
+  "name": "WinToastCreator",
+  "version": "0.2.5",
+  "summary": "WinToastCreator — модуль для отправки уведомлений в Windows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wintoastcreator-0.2.5.tar.gz",
+  "download_time": "2025-12-05T11:44:01.893557",
+  "package_url": "https://pypi.org/project/WinToastCreator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dhan-Tradehull",
+  "version": "3.1.0",
+  "summary": "A Dhan Codebase from TradeHull",
+  "author": "TradeHull",
+  "license": null,
+  "home_page": "https://github.com/TradeHull/Dhan_Tradehull",
+  "download_filename": "dhan_tradehull-3.1.0-py3-none-any.whl",
+  "download_time": "2025-12-05T11:43:59.795786",
+  "package_url": "https://pypi.org/project/Dhan-Tradehull/"
+}
