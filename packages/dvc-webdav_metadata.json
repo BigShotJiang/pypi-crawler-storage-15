@@ -1,0 +1,11 @@
+{
+  "name": "dvc-webdav",
+  "version": "3.0.1",
+  "summary": "webdav plugin for dvc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvc_webdav-3.0.1.tar.gz",
+  "download_time": "2025-12-05T04:56:59.621777",
+  "package_url": "https://pypi.org/project/dvc-webdav/"
+}

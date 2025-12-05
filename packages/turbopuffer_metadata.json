@@ -1,11 +1,11 @@
 {
   "name": "turbopuffer",
-  "version": "1.8.1",
+  "version": "1.9.0",
   "summary": "The official Python library for the turbopuffer API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turbopuffer-1.8.1.tar.gz",
-  "download_time": "2025-12-03T09:23:28.775626",
+  "download_filename": "turbopuffer-1.9.0.tar.gz",
+  "download_time": "2025-12-05T04:56:53.010518",
   "package_url": "https://pypi.org/project/turbopuffer/"
 }

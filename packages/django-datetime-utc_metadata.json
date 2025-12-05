@@ -1,0 +1,11 @@
+{
+  "name": "django-datetime-utc",
+  "version": "1.0.6",
+  "summary": "Django UTC datetime field - timestamp without time zone",
+  "author": "Darren O'Neill",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_datetime_utc-1.0.6.tar.gz",
+  "download_time": "2025-12-05T04:56:54.673119",
+  "package_url": "https://pypi.org/project/django-datetime-utc/"
+}

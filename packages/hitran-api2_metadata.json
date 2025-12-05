@@ -1,0 +1,11 @@
+{
+  "name": "hitran-api2",
+  "version": "0.2",
+  "summary": "HITRAN Application Programming Interface (HAPI) v2",
+  "author": "Roman Kochanov",
+  "license": null,
+  "home_page": "https://github.com/hitranonline/hapi2",
+  "download_filename": "hitran_api2-0.2.tar.gz",
+  "download_time": "2025-12-05T04:57:08.913945",
+  "package_url": "https://pypi.org/project/hitran-api2/"
+}

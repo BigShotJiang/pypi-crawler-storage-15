@@ -1,0 +1,11 @@
+{
+  "name": "coro-runner",
+  "version": "0.2.4",
+  "summary": "It's a python based asyncio task schedular/queue mechanism",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coro_runner-0.2.4.tar.gz",
+  "download_time": "2025-12-05T04:56:55.200127",
+  "package_url": "https://pypi.org/project/coro-runner/"
+}

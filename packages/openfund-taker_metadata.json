@@ -1,11 +1,11 @@
 {
   "name": "openfund-taker",
-  "version": "2.5.21",
+  "version": "2.5.22",
   "summary": "Openfund-taker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openfund_taker-2.5.21.tar.gz",
-  "download_time": "2025-12-04T05:44:26.161295",
+  "download_filename": "openfund_taker-2.5.22.tar.gz",
+  "download_time": "2025-12-05T04:56:48.617671",
   "package_url": "https://pypi.org/project/openfund-taker/"
 }
