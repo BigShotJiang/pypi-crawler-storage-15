@@ -1,0 +1,11 @@
+{
+  "name": "crawl4weibo",
+  "version": "0.3.2",
+  "summary": "A professional Weibo crawler library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crawl4weibo-0.3.2.tar.gz",
+  "download_time": "2025-12-05T07:41:56.964424",
+  "package_url": "https://pypi.org/project/crawl4weibo/"
+}

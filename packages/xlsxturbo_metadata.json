@@ -1,11 +1,11 @@
 {
   "name": "xlsxturbo",
-  "version": "0.1.0",
-  "summary": "High-performance CSV to XLSX converter with automatic type detection",
+  "version": "0.3.0",
+  "summary": "High-performance Excel writer with automatic type detection (pandas, polars, CSV)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xlsxturbo-0.1.0.tar.gz",
-  "download_time": "2025-12-04T14:48:31.653037",
+  "download_filename": "xlsxturbo-0.3.0.tar.gz",
+  "download_time": "2025-12-05T07:42:36.806126",
   "package_url": "https://pypi.org/project/xlsxturbo/"
 }

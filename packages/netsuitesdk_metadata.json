@@ -1,0 +1,11 @@
+{
+  "name": "netsuitesdk",
+  "version": "3.1.1",
+  "summary": "Python SDK for accessing the NetSuite SOAP webservice",
+  "author": "Siva Narayanan",
+  "license": "MIT",
+  "home_page": "https://github.com/fylein/netsuite-sdk-py",
+  "download_filename": "netsuitesdk-3.1.1.tar.gz",
+  "download_time": "2025-12-05T07:42:01.243479",
+  "package_url": "https://pypi.org/project/netsuitesdk/"
+}

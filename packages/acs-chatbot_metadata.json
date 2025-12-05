@@ -1,0 +1,11 @@
+{
+  "name": "acs-chatbot",
+  "version": "0.1.0",
+  "summary": "A helper library for AI chatbot tasks",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acs_chatbot-0.1.0.tar.gz",
+  "download_time": "2025-12-05T07:42:15.586329",
+  "package_url": "https://pypi.org/project/acs-chatbot/"
+}

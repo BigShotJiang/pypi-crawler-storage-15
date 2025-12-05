@@ -1,11 +1,11 @@
 {
   "name": "ai-assist-utils",
-  "version": "0.1.0",
-  "summary": "A simple library of helper functions for AI tasks.",
+  "version": "0.2.2",
+  "summary": "A simple library of helper functions for AI tasks (Gemini Edition).",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "ai_assist_utils-0.1.0.tar.gz",
-  "download_time": "2025-12-05T07:22:43.278902",
+  "download_filename": "ai_assist_utils-0.2.2.tar.gz",
+  "download_time": "2025-12-05T07:42:07.678975",
   "package_url": "https://pypi.org/project/ai-assist-utils/"
 }
