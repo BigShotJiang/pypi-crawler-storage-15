@@ -1,0 +1,11 @@
+{
+  "name": "types-pymob-guts-base",
+  "version": "0.1.0",
+  "summary": "Stub‑only distribution that provides type hints for the pymob package.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "types_pymob_guts_base-0.1.0.tar.gz",
+  "download_time": "2025-12-05T20:45:35.136582",
+  "package_url": "https://pypi.org/project/types-pymob-guts-base/"
+}

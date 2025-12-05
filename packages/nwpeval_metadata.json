@@ -1,0 +1,11 @@
+{
+  "name": "nwpeval",
+  "version": "1.6.0",
+  "summary": "A package for computing metrics for NWP model evaluation",
+  "author": "Debasish Mahapatra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nwpeval-1.6.0.tar.gz",
+  "download_time": "2025-12-05T20:45:24.618544",
+  "package_url": "https://pypi.org/project/nwpeval/"
+}

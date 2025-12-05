@@ -1,11 +1,11 @@
 {
   "name": "botocore-stubs",
-  "version": "1.42.3",
+  "version": "1.42.4",
   "summary": "Type annotations and code completion for botocore",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "botocore_stubs-1.42.3.tar.gz",
-  "download_time": "2025-12-04T19:02:59.156211",
+  "download_filename": "botocore_stubs-1.42.4.tar.gz",
+  "download_time": "2025-12-05T20:45:31.967098",
   "package_url": "https://pypi.org/project/botocore-stubs/"
 }

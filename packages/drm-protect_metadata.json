@@ -1,11 +1,11 @@
 {
   "name": "drm-protect",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Python module to protect source files against modification and unauthorized redistribution.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drm_protect-0.1.2.tar.gz",
-  "download_time": "2025-12-04T21:41:17.757061",
+  "download_filename": "drm_protect-0.1.3.tar.gz",
+  "download_time": "2025-12-05T20:45:04.632675",
   "package_url": "https://pypi.org/project/drm-protect/"
 }

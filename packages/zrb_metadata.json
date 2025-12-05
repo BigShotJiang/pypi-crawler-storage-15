@@ -1,11 +1,11 @@
 {
   "name": "zrb",
-  "version": "1.21.14",
+  "version": "1.21.15",
   "summary": "Your Automation Powerhouse",
   "author": "Go Frendi Gunawan",
   "license": "AGPL-3.0-or-later",
   "home_page": "https://github.com/state-alchemists/zrb",
-  "download_filename": "zrb-1.21.14.tar.gz",
-  "download_time": "2025-12-05T10:47:25.019893",
+  "download_filename": "zrb-1.21.15.tar.gz",
+  "download_time": "2025-12-05T20:45:14.141205",
   "package_url": "https://pypi.org/project/zrb/"
 }

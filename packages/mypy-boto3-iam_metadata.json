@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-iam",
+  "version": "1.42.4",
+  "summary": "Type annotations for boto3 IAM 1.42.4 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_iam-1.42.4.tar.gz",
+  "download_time": "2025-12-05T20:45:19.927726",
+  "package_url": "https://pypi.org/project/mypy-boto3-iam/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "airflow-common",
+  "version": "0.7.8",
+  "summary": "Common operators and tasks for airflow",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "airflow_common-0.7.8.tar.gz",
+  "download_time": "2025-12-05T20:45:28.280942",
+  "package_url": "https://pypi.org/project/airflow-common/"
+}

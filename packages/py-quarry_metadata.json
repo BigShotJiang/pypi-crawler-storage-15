@@ -1,11 +1,11 @@
 {
   "name": "py-quarry",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "An intuitive web scraping toolkit with intelligent templates and interactive workflows",
   "author": "Russell Bomer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_quarry-2.0.4.tar.gz",
-  "download_time": "2025-12-05T19:16:48.110086",
+  "download_filename": "py_quarry-2.0.5.tar.gz",
+  "download_time": "2025-12-05T20:45:02.486645",
   "package_url": "https://pypi.org/project/py-quarry/"
 }

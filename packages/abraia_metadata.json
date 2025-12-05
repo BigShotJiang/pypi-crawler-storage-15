@@ -1,11 +1,11 @@
 {
   "name": "abraia",
-  "version": "0.25.2",
+  "version": "0.25.3",
   "summary": "Abraia Python SDK",
   "author": "Jorge Rodriguez Araujo",
   "license": "MIT",
   "home_page": "https://github.com/abraia/abraia-multiple",
-  "download_filename": "abraia-0.25.2.tar.gz",
-  "download_time": "2025-12-05T20:22:53.317749",
+  "download_filename": "abraia-0.25.3.tar.gz",
+  "download_time": "2025-12-05T20:45:22.536093",
   "package_url": "https://pypi.org/project/abraia/"
 }

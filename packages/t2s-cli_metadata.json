@@ -1,0 +1,11 @@
+{
+  "name": "t2s-cli",
+  "version": "0.3.2",
+  "summary": "Terminal-based Text-to-SQL and Text-to-MQL converter with local and cloud AI model integration",
+  "author": "Lakshman Turlapati",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "t2s_cli-0.3.2.tar.gz",
+  "download_time": "2025-12-05T20:45:05.820003",
+  "package_url": "https://pypi.org/project/t2s-cli/"
+}
