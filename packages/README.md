@@ -1,18 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-05T21:41:23.201009
-- **Total Packages**: 87
-- **Total Size**: 23.39 MB
+- **Download Time**: 2025-12-05T21:52:34.046376
+- **Total Packages**: 85
+- **Total Size**: 12.56 MB
 
 ## Packages List
+- phable
+- ugrc-palletjack
+- volkswagencarnet
+- fal-client
+- agentic-graph-mem
+- coiled
+- fal
+- mknodes
+- markdown_javadoc_references
+- mini-arcade-core
+- ptyrodactyl
+- mmdt-tokenizer
 - guidellm
 - megpy
 - sonika-langchain-bot
-- mini-arcade-core
 - regennexus
 - pkgbuild-parser
-- markdown_javadoc_references
 - langchain-cloudflare
 - christianwhocodes
 - lugia
@@ -27,7 +37,6 @@
 - durabletask.azurefunctions
 - durabletask.azuremanaged
 - sot
-- coiled
 - pyconll
 - icsneopy
 - IM-COOL-BOOY-NGROK
@@ -46,7 +55,6 @@
 - plain.vendor
 - plain.models
 - simple-service-compose
-- phable
 - zaber-motion
 - cliasi
 - scc-firewall-manager-sdk
@@ -83,13 +91,3 @@
 - rtsp-network-scanner
 - lintro
 - skillport
-- pytest-repeated
-- sapiopycommons
-- mcp-memory-service
-- chipscopy
-- ethspecify
-- mpilot
-- Nectar2P
-- duckalog
-- ty
-- wet-net
