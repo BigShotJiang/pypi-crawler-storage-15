@@ -1,11 +1,11 @@
 {
   "name": "lyapprove",
-  "version": "1.0.42",
+  "version": "1.0.43",
   "summary": "lyapprove库，用于访问Flowable流程自动化操作。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lyapprove-1.0.42-py3-none-any.whl",
-  "download_time": "2025-12-04T05:22:25.040683",
+  "download_filename": "lyapprove-1.0.43-py3-none-any.whl",
+  "download_time": "2025-12-05T05:54:38.054548",
   "package_url": "https://pypi.org/project/lyapprove/"
 }
