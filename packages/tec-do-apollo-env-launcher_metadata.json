@@ -1,11 +1,11 @@
 {
   "name": "tec-do-apollo-env-launcher",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "summary": "A zero-dependency Apollo configuration launcher for Python applications",
   "author": "Your Name or Company",
   "license": null,
   "home_page": "https://github.com/yourusername/apollo-launcher",
-  "download_filename": "tec_do_apollo_env_launcher-0.1.0.tar.gz",
-  "download_time": "2025-12-05T06:31:16.847092",
+  "download_filename": "tec_do_apollo_env_launcher-0.0.2.tar.gz",
+  "download_time": "2025-12-05T07:06:33.082718",
   "package_url": "https://pypi.org/project/tec-do-apollo-env-launcher/"
 }

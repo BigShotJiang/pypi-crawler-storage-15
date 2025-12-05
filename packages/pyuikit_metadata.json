@@ -1,11 +1,11 @@
 {
   "name": "pyuikit",
-  "version": "0.1.0b1",
+  "version": "0.1.0b2",
   "summary": "A modern UI library for Python aiming simplicity.",
   "author": "Muhammad Huzaifa Atiq",
   "license": "MIT",
   "home_page": "https://github.com/Huzaifa-atiq/pyuikit",
-  "download_filename": "pyuikit-0.1.0b1.tar.gz",
-  "download_time": "2025-12-04T14:48:44.112470",
+  "download_filename": "pyuikit-0.1.0b2.tar.gz",
+  "download_time": "2025-12-05T07:06:21.204713",
   "package_url": "https://pypi.org/project/pyuikit/"
 }

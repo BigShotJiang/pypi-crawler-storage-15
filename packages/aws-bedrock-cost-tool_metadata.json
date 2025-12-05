@@ -1,0 +1,11 @@
+{
+  "name": "aws-bedrock-cost-tool",
+  "version": "0.1.0",
+  "summary": "A CLI tool that reports on the cost per model on AWS Bedrock",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aws_bedrock_cost_tool-0.1.0.tar.gz",
+  "download_time": "2025-12-05T07:06:27.798649",
+  "package_url": "https://pypi.org/project/aws-bedrock-cost-tool/"
+}

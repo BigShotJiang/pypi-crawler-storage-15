@@ -1,11 +1,11 @@
 {
   "name": "phrasetopicminer",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "PhraseTopicMiner is a phrase-centric topic modeling library that treats multi-word noun (and verb) phrases as the main carriers of meaning. It mines phrases from raw text, embeds and clusters them into geometric topic maps and timelines, and keeps every cluster linked back to the sentences and documents where it appears. An optional TopicLabeler adds LLM-backed titles and descriptions for each phrase cluster.",
   "author": "Ahmad Hashemi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phrasetopicminer-0.2.1.tar.gz",
-  "download_time": "2025-12-05T06:30:43.707462",
+  "download_filename": "phrasetopicminer-0.2.2.tar.gz",
+  "download_time": "2025-12-05T07:06:50.052132",
   "package_url": "https://pypi.org/project/phrasetopicminer/"
 }

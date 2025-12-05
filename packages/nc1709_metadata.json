@@ -1,11 +1,11 @@
 {
   "name": "nc1709",
-  "version": "1.7.0",
+  "version": "1.7.3",
   "summary": "NC1709 - A Local-First AI Developer Assistant CLI",
   "author": "NC1709 Team",
   "license": null,
   "home_page": "https://github.com/yourusername/nc1709",
-  "download_filename": "nc1709-1.7.0.tar.gz",
-  "download_time": "2025-12-05T06:30:50.055557",
+  "download_filename": "nc1709-1.7.3.tar.gz",
+  "download_time": "2025-12-05T07:06:43.071191",
   "package_url": "https://pypi.org/project/nc1709/"
 }

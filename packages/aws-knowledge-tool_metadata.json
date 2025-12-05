@@ -1,0 +1,11 @@
+{
+  "name": "aws-knowledge-tool",
+  "version": "0.1.0",
+  "summary": "CLI tool for querying AWS Knowledge MCP Server - search, read, and discover AWS documentation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aws_knowledge_tool-0.1.0.tar.gz",
+  "download_time": "2025-12-05T07:06:29.576387",
+  "package_url": "https://pypi.org/project/aws-knowledge-tool/"
+}
