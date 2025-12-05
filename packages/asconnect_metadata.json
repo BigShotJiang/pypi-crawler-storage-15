@@ -1,0 +1,11 @@
+{
+  "name": "asconnect",
+  "version": "7.0.1",
+  "summary": "A wrapper around the Apple App Store Connect APIs",
+  "author": "Dale Myers",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/asconnect",
+  "download_filename": "asconnect-7.0.1.tar.gz",
+  "download_time": "2025-12-05T10:47:40.206117",
+  "package_url": "https://pypi.org/project/asconnect/"
+}

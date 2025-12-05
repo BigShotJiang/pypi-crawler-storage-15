@@ -1,11 +1,11 @@
 {
   "name": "netbox-interface-view",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "NetBox Plugin for viewing interfaces in a grid layout with VLAN color-coding",
   "author": "Tolfx",
   "license": "Apache 2.0",
   "home_page": "https://github.com/ITW-Welding-AB/netbox-plugin-interface-view",
-  "download_filename": "netbox_interface_view-0.2.10.tar.gz",
-  "download_time": "2025-12-05T10:21:38.267064",
+  "download_filename": "netbox_interface_view-0.2.11.tar.gz",
+  "download_time": "2025-12-05T10:47:19.109743",
   "package_url": "https://pypi.org/project/netbox-interface-view/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tusk-drift-python-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python SDK for Tusk Drift instrumentation and replay",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tusk_drift_python_sdk-0.1.0.tar.gz",
-  "download_time": "2025-12-03T07:42:38.443835",
+  "download_filename": "tusk_drift_python_sdk-0.1.1.tar.gz",
+  "download_time": "2025-12-05T10:47:52.462209",
   "package_url": "https://pypi.org/project/tusk-drift-python-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "spotdesirability",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "spotdesirability - a Python package for desirability",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spotdesirability-0.0.12.tar.gz",
-  "download_time": "2025-12-05T09:54:22.088088",
+  "download_filename": "spotdesirability-0.0.13.tar.gz",
+  "download_time": "2025-12-05T10:48:03.516655",
   "package_url": "https://pypi.org/project/spotdesirability/"
 }

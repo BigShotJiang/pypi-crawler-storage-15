@@ -1,11 +1,11 @@
 {
   "name": "odoo-apps-Odoo-Apps-Server-Tools",
-  "version": "18.0.20251204.0",
+  "version": "18.0.20251205.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_apps_odoo_apps_server_tools-18.0.20251204.0-py3-none-any.whl",
-  "download_time": "2025-12-04T14:21:56.678704",
+  "download_filename": "odoo_apps_odoo_apps_server_tools-18.0.20251205.0-py3-none-any.whl",
+  "download_time": "2025-12-05T10:47:31.362140",
   "package_url": "https://pypi.org/project/odoo-apps-Odoo-Apps-Server-Tools/"
 }

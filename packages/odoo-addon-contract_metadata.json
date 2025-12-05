@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-contract",
+  "version": "18.0.2.1.2",
+  "summary": "Recurring - Contracts Management",
+  "author": "Tecnativa, ACSONE SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/contract",
+  "download_filename": "odoo_addon_contract-18.0.2.1.2-py3-none-any.whl",
+  "download_time": "2025-12-05T10:47:36.074086",
+  "package_url": "https://pypi.org/project/odoo-addon-contract/"
+}

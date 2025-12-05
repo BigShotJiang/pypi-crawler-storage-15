@@ -1,0 +1,11 @@
+{
+  "name": "uc-manager",
+  "version": "0.1.0",
+  "summary": "Unified Cache Management",
+  "author": "Unified Cache Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uc_manager-0.1.0-cp312-cp312-manylinux1_x86_64.whl",
+  "download_time": "2025-12-05T10:47:37.856371",
+  "package_url": "https://pypi.org/project/uc-manager/"
+}

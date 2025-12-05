@@ -1,11 +1,11 @@
 {
   "name": "z30lib",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "summary": "A cross-platform system & hardware information library by Z30-Development",
   "author": "Z30-Development",
   "license": null,
   "home_page": null,
-  "download_filename": "z30lib-1.0.1.tar.gz",
-  "download_time": "2025-12-05T10:22:02.551918",
+  "download_filename": "z30lib-1.0.7.tar.gz",
+  "download_time": "2025-12-05T10:47:17.403327",
   "package_url": "https://pypi.org/project/z30lib/"
 }

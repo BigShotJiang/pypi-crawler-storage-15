@@ -1,11 +1,11 @@
 {
   "name": "maria-summarize-text-ai-assistant",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A simple AI-powered text summarization helper using Groq API.",
   "author": "Maria Jose",
   "license": null,
   "home_page": null,
-  "download_filename": "maria_summarize_text_ai_assistant-0.1.5.tar.gz",
-  "download_time": "2025-12-05T10:21:52.099142",
+  "download_filename": "maria_summarize_text_ai_assistant-0.1.6.tar.gz",
+  "download_time": "2025-12-05T10:47:51.888286",
   "package_url": "https://pypi.org/project/maria-summarize-text-ai-assistant/"
 }

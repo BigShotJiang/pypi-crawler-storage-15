@@ -1,11 +1,11 @@
 {
   "name": "agentstack-cli",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Agent Stack CLI",
   "author": "IBM Corp.",
   "license": null,
   "home_page": null,
-  "download_filename": "agentstack_cli-0.4.2.tar.gz",
-  "download_time": "2025-12-04T14:48:24.969399",
+  "download_filename": "agentstack_cli-0.4.3.tar.gz",
+  "download_time": "2025-12-05T10:47:54.770166",
   "package_url": "https://pypi.org/project/agentstack-cli/"
 }

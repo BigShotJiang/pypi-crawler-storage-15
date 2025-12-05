@@ -1,11 +1,11 @@
 {
   "name": "cp2077-extractor",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Work in progress audio/music extractor for Cyberpunk 2077.",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/domdfcoding/cp2077-extractor",
-  "download_filename": "cp2077_extractor-0.1.0.tar.gz",
-  "download_time": "2025-12-03T23:17:24.219960",
+  "download_filename": "cp2077_extractor-0.3.0.tar.gz",
+  "download_time": "2025-12-05T10:47:57.627530",
   "package_url": "https://pypi.org/project/cp2077-extractor/"
 }

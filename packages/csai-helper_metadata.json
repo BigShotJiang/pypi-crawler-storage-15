@@ -1,0 +1,11 @@
+{
+  "name": "csai-helper",
+  "version": "0.1.2",
+  "summary": "Lightweight helpers for AI prompts, summarization, and formatting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csai_helper-0.1.2.tar.gz",
+  "download_time": "2025-12-05T10:47:38.456834",
+  "package_url": "https://pypi.org/project/csai-helper/"
+}

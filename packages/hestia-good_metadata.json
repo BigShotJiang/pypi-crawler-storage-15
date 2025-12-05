@@ -1,0 +1,11 @@
+{
+  "name": "hestia-good",
+  "version": "1.0.4",
+  "summary": "Independent evaluation set construction for trustworthy ML models in biochemistry",
+  "author": "Raul Fernandez-Diaz",
+  "license": "MIT",
+  "home_page": "https://github.com/IBM/Hestia-GOOD",
+  "download_filename": "hestia_good-1.0.4.tar.gz",
+  "download_time": "2025-12-05T10:47:49.016984",
+  "package_url": "https://pypi.org/project/hestia-good/"
+}
