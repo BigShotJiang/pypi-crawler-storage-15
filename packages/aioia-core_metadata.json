@@ -1,11 +1,11 @@
 {
   "name": "aioia-core",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Core infrastructure for AIoIA projects",
   "author": "AIoIA, Inc.",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aioia_core-0.2.2.tar.gz",
-  "download_time": "2025-12-02T17:46:03.751124",
+  "download_filename": "aioia_core-0.3.0.tar.gz",
+  "download_time": "2025-12-05T08:52:29.569604",
   "package_url": "https://pypi.org/project/aioia-core/"
 }

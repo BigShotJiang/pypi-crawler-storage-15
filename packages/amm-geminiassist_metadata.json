@@ -1,0 +1,11 @@
+{
+  "name": "amm-geminiassist",
+  "version": "0.1.0",
+  "summary": "Gemini-powered AI helper functions for Flask web apps",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amm_geminiassist-0.1.0.tar.gz",
+  "download_time": "2025-12-05T08:51:59.301550",
+  "package_url": "https://pypi.org/project/amm-geminiassist/"
+}

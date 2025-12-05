@@ -1,0 +1,11 @@
+{
+  "name": "villas-node",
+  "version": "1.1.0",
+  "summary": "Python support for the VILLASnode simulation-data gateway",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "villas_node-1.1.0.tar.gz",
+  "download_time": "2025-12-05T08:51:58.791646",
+  "package_url": "https://pypi.org/project/villas-node/"
+}

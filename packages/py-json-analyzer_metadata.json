@@ -1,0 +1,11 @@
+{
+  "name": "py-json-analyzer",
+  "version": "0.4.0",
+  "summary": "A powerful CLI and Python library for analyzing, visualizing, exploring, and generating code from JSON data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_json_analyzer-0.4.0.tar.gz",
+  "download_time": "2025-12-05T08:52:36.409403",
+  "package_url": "https://pypi.org/project/py-json-analyzer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-rrmngmnt",
+  "version": "0.2.1",
+  "summary": "Tool to manage remote systems and services",
+  "author": null,
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "python_rrmngmnt-0.2.1.tar.gz",
+  "download_time": "2025-12-05T08:52:38.005815",
+  "package_url": "https://pypi.org/project/python-rrmngmnt/"
+}

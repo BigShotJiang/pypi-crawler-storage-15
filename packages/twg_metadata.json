@@ -1,11 +1,11 @@
 {
   "name": "twg",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Inspect. Navigate. Understand. A terminal-based data explorer.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "twg-0.2.0.tar.gz",
-  "download_time": "2025-12-05T07:06:35.397419",
+  "download_filename": "twg-0.2.2.tar.gz",
+  "download_time": "2025-12-05T08:52:07.182218",
   "package_url": "https://pypi.org/project/twg/"
 }

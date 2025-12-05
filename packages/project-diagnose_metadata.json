@@ -1,11 +1,11 @@
 {
   "name": "project-diagnose",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "AI-анализатор хаоса проекта и web-интерфейс для просмотра отчётов.",
   "author": "Razmakh",
   "license": null,
   "home_page": "https://github.com/yourname/project-diagnose",
-  "download_filename": "project_diagnose-0.1.2.tar.gz",
-  "download_time": "2025-12-05T08:27:34.201436",
+  "download_filename": "project_diagnose-0.1.5.tar.gz",
+  "download_time": "2025-12-05T08:52:16.608584",
   "package_url": "https://pypi.org/project/project-diagnose/"
 }

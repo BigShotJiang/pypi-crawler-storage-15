@@ -1,11 +1,11 @@
 {
   "name": "summrai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Secure AI helper library using external API keys and free Gemini models.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "summrai-0.1.0.tar.gz",
-  "download_time": "2025-12-05T07:42:15.013703",
+  "download_filename": "summrai-0.1.1.tar.gz",
+  "download_time": "2025-12-05T08:52:08.264003",
   "package_url": "https://pypi.org/project/summrai/"
 }

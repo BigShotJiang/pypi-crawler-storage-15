@@ -1,0 +1,11 @@
+{
+  "name": "visiongraph-ndi",
+  "version": "0.2.0",
+  "summary": "NDI support for the visiongraph library.",
+  "author": "Florian Bruggisser",
+  "license": "MIT License",
+  "home_page": "https://github.com/cansik/visiongraph-ndi",
+  "download_filename": "visiongraph_ndi-0.2.0-py3-none-any.whl",
+  "download_time": "2025-12-05T08:52:23.859311",
+  "package_url": "https://pypi.org/project/visiongraph-ndi/"
+}
