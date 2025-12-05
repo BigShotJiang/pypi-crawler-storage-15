@@ -1,0 +1,11 @@
+{
+  "name": "netboxlabs-orb-worker",
+  "version": "1.6.0",
+  "summary": "NetBox Labs, Worker backend for Orb Agent",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netboxlabs_orb_worker-1.6.0.tar.gz",
+  "download_time": "2025-12-05T13:22:48.516015",
+  "package_url": "https://pypi.org/project/netboxlabs-orb-worker/"
+}

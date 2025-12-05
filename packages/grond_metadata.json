@@ -1,0 +1,11 @@
+{
+  "name": "grond",
+  "version": "1.8.0",
+  "summary": "A probabilistic earthquake source inversion framework. Designed and crafted in Mordor.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "grond-1.8.0.tar.gz",
+  "download_time": "2025-12-05T13:22:25.521675",
+  "package_url": "https://pypi.org/project/grond/"
+}

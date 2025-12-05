@@ -1,0 +1,11 @@
+{
+  "name": "python-binexport",
+  "version": "0.4.1",
+  "summary": "Python wrapper to manipulate binexport files (protobuf)",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "python_binexport-0.4.1.tar.gz",
+  "download_time": "2025-12-05T13:22:55.706494",
+  "package_url": "https://pypi.org/project/python-binexport/"
+}

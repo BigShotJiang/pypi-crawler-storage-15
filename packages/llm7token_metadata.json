@@ -1,0 +1,11 @@
+{
+  "name": "llm7token",
+  "version": "2025.12.51256",
+  "summary": "Utilities for validating and reporting LLM7 API tokens.",
+  "author": "Eugene Evstafev",
+  "license": "MIT",
+  "home_page": "https://github.com/chigwell/llm7token",
+  "download_filename": "llm7token-2025.12.51256.tar.gz",
+  "download_time": "2025-12-05T13:22:36.602191",
+  "package_url": "https://pypi.org/project/llm7token/"
+}

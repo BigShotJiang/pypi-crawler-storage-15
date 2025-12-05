@@ -1,0 +1,11 @@
+{
+  "name": "napari-nD-annotator",
+  "version": "0.3.3",
+  "summary": "A toolbox for annotating objects one by one in nD",
+  "author": "David Bauer, Jozsef Molnar, Dominik Hirling",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "napari_nd_annotator-0.3.3.tar.gz",
+  "download_time": "2025-12-05T13:22:58.282147",
+  "package_url": "https://pypi.org/project/napari-nD-annotator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nbdev-pytorch",
-  "version": "0.0.2256",
+  "version": "0.0.2258",
   "summary": "nbdev docs lookup for PyTorch",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/fastai/nbdev-index/tree/master/",
-  "download_filename": "nbdev_pytorch-0.0.2256.tar.gz",
-  "download_time": "2025-12-04T13:26:12.980277",
+  "download_filename": "nbdev_pytorch-0.0.2258.tar.gz",
+  "download_time": "2025-12-05T13:22:28.790174",
   "package_url": "https://pypi.org/project/nbdev-pytorch/"
 }
