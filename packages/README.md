@@ -1,13 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-05T07:42:47.061343
-- **Total Packages**: 84
-- **Total Size**: 23.94 MB
+- **Download Time**: 2025-12-05T07:52:41.288653
+- **Total Packages**: 86
+- **Total Size**: 4.72 MB
 
 ## Packages List
-- crawl4weibo
+- kryten-py
+- yaclog-ksp
+- agent-a2z-payment
+- YouBikePython
+- pulumi-gcp
+- maria-summarize-text-ai-assistant
+- agui-adk-endpoint
+- athena-intelligence
+- cloud-logging-handler
+- neo-data-svc
+- narrml
+- protools4py
+- epub-browser
+- realtimex-lead-search
+- POPA
+- jacksung
+- shotgun-sh
+- nikhil-tools
+- dicomtool-for-cvpilot
+- streamlit-notebook
+- redgit
+- treesa-ai-helper
 - isoring
+- tuya2mqtt
+- DensityFlow2
+- norfair-rs
+- textflow-ai
+- zk-doc-mcp-server
+- lmp-sdk
+- classconfig
+- fluxgate
+- odoo-addon-sale-order-lot-selection
+- crawl4weibo
 - roboka
 - pro-craft-infer
 - thanos-cli
@@ -26,14 +57,12 @@
 - gsply
 - ai-assist-utils
 - simstack
-- DensityFlow2
 - gem-assist
 - ai-helpers-meena
 - openfund-taker
 - openfund-maker
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
-- redgit
 - llm-workers
 - summrai
 - acs-chatbot
@@ -63,30 +92,3 @@
 - cdk-opinionated-constructs
 - gsi-protocol-installer
 - first-llms
-- localstack-py-avro-schema
-- odoo-addon-product-state
-- odoo-addon-account-statement-import-online-plaid
-- openfund-core
-- mxcubeweb
-- modellock
-- rumoca
-- textflow-ai
-- my-ai-lib-lena
-- xlsxturbo
-- viswas-ai
-- nc1709
-- mxcubecore
-- quart-shell-ipython
-- glaip-sdk
-- dil-gcm-envelope
-- tcorpus
-- atlan-application-sdk
-- autonomous-claude
-- arrlp
-- steel-sdk
-- aleph
-- suzaku
-- datachain
-- ai-edge-litert-nightly
-- nonebot-plugin-rollpig
-- tuya2mqtt

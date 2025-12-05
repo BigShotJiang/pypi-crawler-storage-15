@@ -1,0 +1,11 @@
+{
+  "name": "agent-a2z-payment",
+  "version": "0.0.2",
+  "summary": "Agent Payment and Billing SDK Integration, Supports All Popular Payment methods Stripe,Paypal,Alipay,WeChat,A2ZAgent Credit Payment. Billing Agent to add transaction and do analysis on expenditure",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "agent_a2z_payment-0.0.2.tar.gz",
+  "download_time": "2025-12-05T07:51:55.985083",
+  "package_url": "https://pypi.org/project/agent-a2z-payment/"
+}

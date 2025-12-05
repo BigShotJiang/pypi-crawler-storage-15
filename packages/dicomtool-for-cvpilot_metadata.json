@@ -1,11 +1,11 @@
 {
   "name": "dicomtool-for-cvpilot",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "基于 MCP (Model Context Protocol) 的 DICOM 医学影像文件分析工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dicomtool_for_cvpilot-1.0.7.tar.gz",
-  "download_time": "2025-12-05T07:06:30.727884",
+  "download_filename": "dicomtool_for_cvpilot-1.0.8.tar.gz",
+  "download_time": "2025-12-05T07:52:04.906819",
   "package_url": "https://pypi.org/project/dicomtool-for-cvpilot/"
 }
