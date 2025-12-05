@@ -1,0 +1,11 @@
+{
+  "name": "mixrpay",
+  "version": "0.2.0",
+  "summary": "MixrPay Agent SDK - Enable AI agents to make x402 payments with session keys",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mixrpay-0.2.0.tar.gz",
+  "download_time": "2025-12-05T23:19:36.277786",
+  "package_url": "https://pypi.org/project/mixrpay/"
+}

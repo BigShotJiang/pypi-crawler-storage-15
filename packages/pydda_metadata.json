@@ -1,0 +1,11 @@
+{
+  "name": "pydda",
+  "version": "2.2.0",
+  "summary": "Py-DDA",
+  "author": "Bobby Jackson",
+  "license": "BSD",
+  "home_page": "https://openradarscience.org/PyDDA",
+  "download_filename": "pydda-2.2.0.tar.gz",
+  "download_time": "2025-12-05T23:19:36.870784",
+  "package_url": "https://pypi.org/project/pydda/"
+}

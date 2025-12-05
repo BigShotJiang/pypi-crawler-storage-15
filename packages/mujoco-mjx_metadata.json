@@ -1,0 +1,11 @@
+{
+  "name": "mujoco-mjx",
+  "version": "3.4.0",
+  "summary": "MuJoCo XLA (MJX)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mujoco_mjx-3.4.0.tar.gz",
+  "download_time": "2025-12-05T23:19:16.324888",
+  "package_url": "https://pypi.org/project/mujoco-mjx/"
+}

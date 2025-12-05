@@ -1,11 +1,11 @@
 {
   "name": "kafka-broker",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "summary": "A python package implementation for the confluent kafka package. Managing producing and consuming.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kafka_broker-0.4.9.tar.gz",
-  "download_time": "2025-12-05T22:53:07.647356",
+  "download_filename": "kafka_broker-0.4.10.tar.gz",
+  "download_time": "2025-12-05T23:19:23.884560",
   "package_url": "https://pypi.org/project/kafka-broker/"
 }

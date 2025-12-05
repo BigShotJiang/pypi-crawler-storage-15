@@ -1,0 +1,11 @@
+{
+  "name": "gomask-cli",
+  "version": "0.0.1",
+  "summary": "GoMask CLI for configuration as code - manage synthetic data generation and masking routines",
+  "author": "GoMask Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gomask_cli-0.0.1.tar.gz",
+  "download_time": "2025-12-05T23:19:35.175478",
+  "package_url": "https://pypi.org/project/gomask-cli/"
+}

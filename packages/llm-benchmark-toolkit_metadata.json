@@ -1,11 +1,11 @@
 {
   "name": "llm-benchmark-toolkit",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "Benchmark LLMs with 10 benchmarks & 132K+ questions. 8 providers: OpenAI, Anthropic, Groq, Together, Fireworks, DeepSeek, Ollama, HuggingFace. Unified CLI + Web dashboard.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_benchmark_toolkit-2.4.1.tar.gz",
-  "download_time": "2025-12-05T22:53:18.126739",
+  "download_filename": "llm_benchmark_toolkit-2.4.2.tar.gz",
+  "download_time": "2025-12-05T23:19:17.412899",
   "package_url": "https://pypi.org/project/llm-benchmark-toolkit/"
 }
