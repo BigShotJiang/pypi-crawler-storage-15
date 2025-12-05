@@ -1,11 +1,11 @@
 {
   "name": "mem-box",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A personal knowledge base for commands and workflows, accessible via MCP",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mem_box-0.1.0.tar.gz",
-  "download_time": "2025-12-05T11:18:57.531441",
+  "download_filename": "mem_box-0.1.1.tar.gz",
+  "download_time": "2025-12-05T14:55:51.685281",
   "package_url": "https://pypi.org/project/mem-box/"
 }
