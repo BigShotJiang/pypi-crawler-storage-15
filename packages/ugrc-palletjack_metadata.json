@@ -1,0 +1,11 @@
+{
+  "name": "ugrc-palletjack",
+  "version": "5.2.9",
+  "summary": "Updating AGOL feature services with data from external tables.",
+  "author": "Jake Adams, UGRC",
+  "license": null,
+  "home_page": "https://github.com/agrc/palletjack",
+  "download_filename": "ugrc_palletjack-5.2.9.tar.gz",
+  "download_time": "2025-12-05T17:20:44.362714",
+  "package_url": "https://pypi.org/project/ugrc-palletjack/"
+}

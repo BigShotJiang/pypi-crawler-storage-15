@@ -1,0 +1,11 @@
+{
+  "name": "llm-file-organizer",
+  "version": "0.1.0",
+  "summary": "AI-powered filesystem cleanup tool with interactive CLI",
+  "author": "Moop",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_file_organizer-0.1.0.tar.gz",
+  "download_time": "2025-12-05T17:20:40.200043",
+  "package_url": "https://pypi.org/project/llm-file-organizer/"
+}

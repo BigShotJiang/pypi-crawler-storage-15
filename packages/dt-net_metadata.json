@@ -1,0 +1,11 @@
+{
+  "name": "dt-net",
+  "version": "0.1.36",
+  "summary": "Network helper tools",
+  "author": "Al DAmico",
+  "license": "MIT",
+  "home_page": "https://github.com/JavaWiz1/dt-net",
+  "download_filename": "dt_net-0.1.36.tar.gz",
+  "download_time": "2025-12-05T17:20:22.586217",
+  "package_url": "https://pypi.org/project/dt-net/"
+}

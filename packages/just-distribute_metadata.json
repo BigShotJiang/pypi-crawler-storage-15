@@ -1,0 +1,11 @@
+{
+  "name": "just-distribute",
+  "version": "0.1.6",
+  "summary": "Provides a @distribute decorator that enables concurrent execution of functions without boilerplate code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "just_distribute-0.1.6.tar.gz",
+  "download_time": "2025-12-05T17:20:28.913030",
+  "package_url": "https://pypi.org/project/just-distribute/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wads-test",
+  "version": "0.0.2",
+  "summary": "A repo to test wads repo management functionality",
+  "author": null,
+  "license": "mit",
+  "home_page": null,
+  "download_filename": "wads_test-0.0.2.tar.gz",
+  "download_time": "2025-12-05T17:20:57.015940",
+  "package_url": "https://pypi.org/project/wads-test/"
+}

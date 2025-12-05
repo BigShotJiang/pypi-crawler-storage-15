@@ -1,0 +1,11 @@
+{
+  "name": "pybsuir",
+  "version": "0.0.1b0",
+  "summary": "Взаимедействие с API БГУИР",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybsuir-0.0.1b0.tar.gz",
+  "download_time": "2025-12-05T17:20:13.637724",
+  "package_url": "https://pypi.org/project/pybsuir/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fsspeckit",
+  "version": "0.6.0",
+  "summary": "Enhanced utilities and extensions for fsspec, storage_options and obstore with multi-format I/O support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fsspeckit-0.6.0.tar.gz",
+  "download_time": "2025-12-05T17:20:35.009001",
+  "package_url": "https://pypi.org/project/fsspeckit/"
+}

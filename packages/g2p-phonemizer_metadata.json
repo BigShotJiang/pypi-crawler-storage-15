@@ -1,11 +1,11 @@
 {
   "name": "g2p-phonemizer",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Grapheme to phoneme conversion with deep learning.",
   "author": "Feiteng Li",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "g2p_phonemizer-0.4.0.tar.gz",
-  "download_time": "2025-12-05T16:52:25.284130",
+  "download_filename": "g2p_phonemizer-0.4.2.tar.gz",
+  "download_time": "2025-12-05T17:20:20.952218",
   "package_url": "https://pypi.org/project/g2p-phonemizer/"
 }

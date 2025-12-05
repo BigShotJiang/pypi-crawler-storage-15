@@ -1,0 +1,11 @@
+{
+  "name": "toondb-client",
+  "version": "0.1.0",
+  "summary": "ToonDB is an AI-native database with token-optimized output, O(|path|) lookups, built-in vector search, and durable transactions.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "toondb_client-0.1.0.tar.gz",
+  "download_time": "2025-12-05T17:20:23.101198",
+  "package_url": "https://pypi.org/project/toondb-client/"
+}
