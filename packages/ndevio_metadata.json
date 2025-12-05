@@ -1,0 +1,11 @@
+{
+  "name": "ndevio",
+  "version": "0.5.1",
+  "summary": "Read, write, and manage images in napari",
+  "author": "Tim Monko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ndevio-0.5.1.tar.gz",
+  "download_time": "2025-12-05T05:44:08.117714",
+  "package_url": "https://pypi.org/project/ndevio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "naver-dict-api",
+  "version": "0.1.1",
+  "summary": "A Python library for accessing Naver Dictionary API",
+  "author": "roamer3147",
+  "license": null,
+  "home_page": null,
+  "download_filename": "naver_dict_api-0.1.1.tar.gz",
+  "download_time": "2025-12-05T05:44:48.296473",
+  "package_url": "https://pypi.org/project/naver-dict-api/"
+}

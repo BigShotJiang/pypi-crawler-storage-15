@@ -1,11 +1,11 @@
 {
   "name": "htest-tools",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "summary": "Simple Z-test helper functions (one mean and two proportions)",
-  "author": "Manohar",
+  "author": "Rajesh kane",
   "license": null,
   "home_page": null,
-  "download_filename": "htest_tools-0.2.6.tar.gz",
-  "download_time": "2025-12-02T19:00:34.476543",
+  "download_filename": "htest_tools-0.2.8.tar.gz",
+  "download_time": "2025-12-05T05:44:16.096135",
   "package_url": "https://pypi.org/project/htest-tools/"
 }
