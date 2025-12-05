@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-app-generator",
+  "version": "0.2.0",
+  "summary": "Generate complete Streamlit applications with authentication and database templates",
+  "author": "Leandro Meyer Dal Cortivo",
+  "license": "MIT",
+  "home_page": "https://github.com/leandrodalcortivo/streamlit-app-generator",
+  "download_filename": "streamlit_app_generator-0.2.0.tar.gz",
+  "download_time": "2025-12-05T01:26:35.300256",
+  "package_url": "https://pypi.org/project/streamlit-app-generator/"
+}

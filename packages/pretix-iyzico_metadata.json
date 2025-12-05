@@ -1,0 +1,11 @@
+{
+  "name": "pretix-iyzico",
+  "version": "1.0.0",
+  "summary": "Pretix payment provider plugin for iyzico integration",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pretix_iyzico-1.0.0.tar.gz",
+  "download_time": "2025-12-05T01:26:37.439366",
+  "package_url": "https://pypi.org/project/pretix-iyzico/"
+}

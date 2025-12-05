@@ -1,0 +1,11 @@
+{
+  "name": "oktoblas",
+  "version": "1.0.1",
+  "summary": "High-Performance BLAS Library by OktoSeek - Tensor Core GEMM and Fused Attention",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oktoblas-1.0.1.tar.gz",
+  "download_time": "2025-12-05T01:26:49.269092",
+  "package_url": "https://pypi.org/project/oktoblas/"
+}

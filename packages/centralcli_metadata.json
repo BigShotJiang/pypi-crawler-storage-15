@@ -1,11 +1,11 @@
 {
   "name": "centralcli",
-  "version": "9.0.3",
+  "version": "9.0.4",
   "summary": "A CLI for interacting with Aruba Central (Cloud Management Platform).  Facilitates bulk imports, exports, reporting.  A handy tool if you have devices managed by Aruba Central.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "centralcli-9.0.3.tar.gz",
-  "download_time": "2025-12-04T19:27:25.060363",
+  "download_filename": "centralcli-9.0.4.tar.gz",
+  "download_time": "2025-12-05T01:26:45.067702",
   "package_url": "https://pypi.org/project/centralcli/"
 }

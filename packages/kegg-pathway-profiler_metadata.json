@@ -1,0 +1,11 @@
+{
+  "name": "kegg-pathway-profiler",
+  "version": "2025.12.4",
+  "summary": "KEGG Pathway Profiler",
+  "author": "Josh L. Espinoza",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/jolespin/kegg_pathway_profiler",
+  "download_filename": "kegg_pathway_profiler-2025.12.4.tar.gz",
+  "download_time": "2025-12-05T01:26:48.748960",
+  "package_url": "https://pypi.org/project/kegg-pathway-profiler/"
+}

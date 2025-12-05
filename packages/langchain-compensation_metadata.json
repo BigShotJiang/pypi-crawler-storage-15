@@ -1,11 +1,11 @@
 {
   "name": "langchain-compensation",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "summary": "Composable compensation middleware for LangChain agents with automatic rollback, pluggable strategies, multi-agent support, and LLM-driven parameter extraction",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_compensation-0.4.1.tar.gz",
-  "download_time": "2025-12-03T04:56:49.396170",
+  "download_filename": "langchain_compensation-0.5.1.tar.gz",
+  "download_time": "2025-12-05T01:26:51.909559",
   "package_url": "https://pypi.org/project/langchain-compensation/"
 }
