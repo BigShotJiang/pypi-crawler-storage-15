@@ -1,0 +1,11 @@
+{
+  "name": "KratosMeshMovingApplication",
+  "version": "10.4.0",
+  "summary": "KRATOS Multiphysics (\"Kratos\") is a framework for building parallel,         multi-disciplinary simulation software, aiming at modularity,         extensibility, and high performance. Kratos is written in C++,         and counts with an extensive Python interface.     ",
+  "author": null,
+  "license": "BSD-4-Clause",
+  "home_page": null,
+  "download_filename": "kratosmeshmovingapplication-10.4.0-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-05T13:50:51.551688",
+  "package_url": "https://pypi.org/project/KratosMeshMovingApplication/"
+}

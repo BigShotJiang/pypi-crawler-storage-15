@@ -1,11 +1,11 @@
 {
   "name": "essreduce",
-  "version": "25.12.0",
+  "version": "25.12.1",
   "summary": "Common data reduction tools for the ESS facility",
   "author": "Scipp contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "essreduce-25.12.0.tar.gz",
-  "download_time": "2025-12-04T10:23:45.143953",
+  "download_filename": "essreduce-25.12.1.tar.gz",
+  "download_time": "2025-12-05T13:50:19.676879",
   "package_url": "https://pypi.org/project/essreduce/"
 }

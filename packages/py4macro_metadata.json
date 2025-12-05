@@ -1,0 +1,11 @@
+{
+  "name": "py4macro",
+  "version": "0.8.16",
+  "summary": "A module for py4macro.github.io",
+  "author": "Tetsu Haruyama",
+  "license": "MIT",
+  "home_page": "https://github.com/Py4Macro/py4macro",
+  "download_filename": "py4macro-0.8.16.tar.gz",
+  "download_time": "2025-12-05T13:50:47.342068",
+  "package_url": "https://pypi.org/project/py4macro/"
+}

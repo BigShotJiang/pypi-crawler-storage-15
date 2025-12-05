@@ -1,11 +1,11 @@
 {
   "name": "hygrep",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Grep + neural reranking for code search",
   "author": "nijaru",
   "license": null,
   "home_page": null,
-  "download_filename": "hygrep-0.0.11-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-05T07:06:25.935177",
+  "download_filename": "hygrep-0.0.12-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-05T13:50:17.008595",
   "package_url": "https://pypi.org/project/hygrep/"
 }

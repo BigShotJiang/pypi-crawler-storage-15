@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-openapi-ermelo",
+  "version": "2.0",
+  "summary": "Builds openapi schemas for aiohttp apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiohttp_openapi_ermelo-2.0.tar.gz",
+  "download_time": "2025-12-05T13:50:19.152445",
+  "package_url": "https://pypi.org/project/aiohttp-openapi-ermelo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "directory-manager",
+  "version": "1.0.0",
+  "summary": "Creating prototypes, managing and visualizing directories.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "directory_manager-1.0.0.tar.gz",
+  "download_time": "2025-12-05T13:50:55.215527",
+  "package_url": "https://pypi.org/project/directory-manager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "icd-att-tools",
+  "version": "3.0.0",
+  "summary": "Utilities for ICD-based ATT preprocessing, estimation, and descriptive tables.",
+  "author": "Tobias Kragholm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "icd_att_tools-3.0.0.tar.gz",
+  "download_time": "2025-12-05T13:50:15.878225",
+  "package_url": "https://pypi.org/project/icd-att-tools/"
+}

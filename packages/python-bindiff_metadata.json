@@ -1,0 +1,11 @@
+{
+  "name": "python-bindiff",
+  "version": "0.3.4",
+  "summary": "Python wrapper to manipulate bindiff files",
+  "author": null,
+  "license": "Apache Software License (Apache License, Version 2)",
+  "home_page": null,
+  "download_filename": "python_bindiff-0.3.4.tar.gz",
+  "download_time": "2025-12-05T13:50:52.588183",
+  "package_url": "https://pypi.org/project/python-bindiff/"
+}

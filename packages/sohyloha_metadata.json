@@ -1,11 +1,11 @@
 {
   "name": "sohyloha",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Socket HTML Logfile Handler — FastAPI app to stream socket logs to a webpage",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sohyloha-0.1.0.tar.gz",
-  "download_time": "2025-12-05T13:22:47.490997",
+  "download_filename": "sohyloha-0.1.1.tar.gz",
+  "download_time": "2025-12-05T13:50:22.396740",
   "package_url": "https://pypi.org/project/sohyloha/"
 }
