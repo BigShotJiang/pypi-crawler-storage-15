@@ -1,11 +1,11 @@
 {
   "name": "langchain-dev-utils",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "summary": "A practical utility library for LangChain and LangGraph development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_dev_utils-1.2.9.tar.gz",
-  "download_time": "2025-12-04T08:15:43.152125",
+  "download_filename": "langchain_dev_utils-1.2.10.tar.gz",
+  "download_time": "2025-12-05T07:22:40.045845",
   "package_url": "https://pypi.org/project/langchain-dev-utils/"
 }

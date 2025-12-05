@@ -1,0 +1,11 @@
+{
+  "name": "first-agentic-csa",
+  "version": "0.2.0",
+  "summary": "Plugin-based FRC documentation agent as an MCP server for WPILib and vendor libraries",
+  "author": "Rami Mouro",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "first_agentic_csa-0.2.0.tar.gz",
+  "download_time": "2025-12-05T07:23:13.767682",
+  "package_url": "https://pypi.org/project/first-agentic-csa/"
+}

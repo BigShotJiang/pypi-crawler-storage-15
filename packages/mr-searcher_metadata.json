@@ -1,11 +1,11 @@
 {
   "name": "mr-searcher",
-  "version": "1.0.0.1",
+  "version": "1.1.0.2",
   "summary": "A non-hostile, terminal-based information retrieval utility using DuckDuckGo.",
   "author": "Om Shailesh Vetale",
   "license": "MIT",
   "home_page": "https://github.com/YourUsername/MrSearcher",
-  "download_filename": "mr_searcher-1.0.0.1.tar.gz",
-  "download_time": "2025-12-04T06:56:24.931986",
+  "download_filename": "mr_searcher-1.1.0.2.tar.gz",
+  "download_time": "2025-12-05T07:23:14.418354",
   "package_url": "https://pypi.org/project/mr-searcher/"
 }

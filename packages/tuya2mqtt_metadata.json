@@ -1,11 +1,11 @@
 {
   "name": "tuya2mqtt",
-  "version": "1.2.10",
+  "version": "1.2.13",
   "summary": "Tuya Devices to MQTT Bridge",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tuya2mqtt-1.2.10.tar.gz",
-  "download_time": "2025-12-04T03:06:57.748635",
+  "download_filename": "tuya2mqtt-1.2.13.tar.gz",
+  "download_time": "2025-12-05T07:22:39.409339",
   "package_url": "https://pypi.org/project/tuya2mqtt/"
 }

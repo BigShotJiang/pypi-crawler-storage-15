@@ -1,0 +1,11 @@
+{
+  "name": "dil-gcm-envelope",
+  "version": "0.1.1",
+  "summary": "AES-256-GCM envelope encryption (payload, iv, tag) compatible cross-language.",
+  "author": "Dev Innovations Labs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dil_gcm_envelope-0.1.1.tar.gz",
+  "download_time": "2025-12-05T07:23:11.816769",
+  "package_url": "https://pypi.org/project/dil-gcm-envelope/"
+}

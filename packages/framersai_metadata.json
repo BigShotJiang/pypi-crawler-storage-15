@@ -1,0 +1,11 @@
+{
+  "name": "framersai",
+  "version": "0.1.0",
+  "summary": "Framers AI - Tools for prompt engineering and LLM evaluation. See promptmachine-eval for the main package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "framersai-0.1.0.tar.gz",
+  "download_time": "2025-12-05T07:23:03.987295",
+  "package_url": "https://pypi.org/project/framersai/"
+}

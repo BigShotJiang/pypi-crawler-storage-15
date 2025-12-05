@@ -1,0 +1,11 @@
+{
+  "name": "rosha-RLIB",
+  "version": "0.1.1",
+  "summary": "A simple AI helper library for generating responses, summarizing text, and formatting output.",
+  "author": "Rosha Thankachan ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rosha_rlib-0.1.1.tar.gz",
+  "download_time": "2025-12-05T07:22:48.702303",
+  "package_url": "https://pypi.org/project/rosha-RLIB/"
+}

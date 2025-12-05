@@ -1,11 +1,11 @@
 {
   "name": "py3-execute",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "python3 execute",
   "author": "mathewgeola",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py3_execute-0.0.1.tar.gz",
-  "download_time": "2025-12-05T06:31:26.016678",
+  "download_filename": "py3_execute-0.0.2.tar.gz",
+  "download_time": "2025-12-05T07:22:55.779091",
   "package_url": "https://pypi.org/project/py3-execute/"
 }
