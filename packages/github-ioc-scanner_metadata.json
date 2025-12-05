@@ -1,0 +1,11 @@
+{
+  "name": "github-ioc-scanner",
+  "version": "1.7.2",
+  "summary": "Scan GitHub repositories for Indicators of Compromise (IOCs) in package dependencies across multiple languages",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "github_ioc_scanner-1.7.2.tar.gz",
+  "download_time": "2025-12-05T09:21:19.131024",
+  "package_url": "https://pypi.org/project/github-ioc-scanner/"
+}

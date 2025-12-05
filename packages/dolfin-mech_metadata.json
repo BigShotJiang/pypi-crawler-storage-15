@@ -1,11 +1,11 @@
 {
   "name": "dolfin-mech",
-  "version": "2025.12.4",
+  "version": "2025.12.5",
   "summary": "[![PyPi Version](https://img.shields.io/pypi/v/dolfin-mech.svg?style=flat-square)](https://pypi.org/project/dolfin-mech)",
   "author": "Martin Genet",
   "license": "GPLv3",
   "home_page": "https://github.com/mgenet/dolfin_mech",
-  "download_filename": "dolfin_mech-2025.12.4.tar.gz",
-  "download_time": "2025-12-04T09:46:11.248978",
+  "download_filename": "dolfin_mech-2025.12.5.tar.gz",
+  "download_time": "2025-12-05T09:21:18.550026",
   "package_url": "https://pypi.org/project/dolfin-mech/"
 }

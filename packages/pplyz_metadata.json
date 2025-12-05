@@ -1,0 +1,11 @@
+{
+  "name": "pplyz",
+  "version": "0.1.2",
+  "summary": "LLM-powered CSV data analyzer with structured output generation using LiteLLM (short for LLM Analyser)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pplyz-0.1.2.tar.gz",
+  "download_time": "2025-12-05T09:22:00.277999",
+  "package_url": "https://pypi.org/project/pplyz/"
+}

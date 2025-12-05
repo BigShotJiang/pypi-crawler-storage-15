@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-pts20201020",
+  "version": "1.10.0",
+  "summary": "Alibaba Cloud Performance Testing (20201020) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_pts20201020-1.10.0.tar.gz",
+  "download_time": "2025-12-05T09:21:27.047933",
+  "package_url": "https://pypi.org/project/alibabacloud-pts20201020/"
+}

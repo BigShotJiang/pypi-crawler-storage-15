@@ -1,11 +1,11 @@
 {
   "name": "programgarden-finance",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "프로그램 동산 운영진이 관리하는 증권사 데이터 오픈소스",
   "author": "프로그램동산",
   "license": null,
   "home_page": null,
-  "download_filename": "programgarden_finance-0.1.11.tar.gz",
-  "download_time": "2025-12-04T16:29:29.839106",
+  "download_filename": "programgarden_finance-0.1.12.tar.gz",
+  "download_time": "2025-12-05T09:21:56.301764",
   "package_url": "https://pypi.org/project/programgarden-finance/"
 }

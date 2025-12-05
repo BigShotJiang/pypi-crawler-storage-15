@@ -1,0 +1,11 @@
+{
+  "name": "kvpress",
+  "version": "0.4.0",
+  "summary": "Efficiently compress the KV cache of any pretrained transformer",
+  "author": "Simon Jegou, Maximilian Jeblick, Alessio Devoto, David Austin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kvpress-0.4.0.tar.gz",
+  "download_time": "2025-12-05T09:22:02.025225",
+  "package_url": "https://pypi.org/project/kvpress/"
+}

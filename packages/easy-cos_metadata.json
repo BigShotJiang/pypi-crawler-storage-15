@@ -1,11 +1,11 @@
 {
   "name": "easy-cos",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "summary": "A simple wrapper for cos",
   "author": "Jiaqi Wu",
   "license": null,
   "home_page": null,
-  "download_filename": "easy_cos-0.2.9.tar.gz",
-  "download_time": "2025-12-03T04:33:32.532707",
+  "download_filename": "easy_cos-0.3.0.tar.gz",
+  "download_time": "2025-12-05T09:21:25.344093",
   "package_url": "https://pypi.org/project/easy-cos/"
 }
