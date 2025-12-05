@@ -1,11 +1,11 @@
 {
   "name": "cawlib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A library for robot control",
   "author": null,
-  "license": null,
+  "license": "Proprietary - All rights reserved",
   "home_page": null,
-  "download_filename": "cawlib-0.0.1-cp313-cp313-manylinux_2_34_x86_64.whl",
-  "download_time": "2025-12-02T14:49:55.564621",
+  "download_filename": "cawlib-0.0.2-cp313-cp313-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-12-05T19:16:47.587447",
   "package_url": "https://pypi.org/project/cawlib/"
 }

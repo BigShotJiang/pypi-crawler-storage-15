@@ -1,11 +1,11 @@
 {
   "name": "speechmatics-voice",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Speechmatics Voice Agent Python client for Real-Time API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "speechmatics_voice-0.2.0.tar.gz",
-  "download_time": "2025-12-05T14:46:03.255891",
+  "download_filename": "speechmatics_voice-0.2.1.tar.gz",
+  "download_time": "2025-12-05T19:17:07.237827",
   "package_url": "https://pypi.org/project/speechmatics-voice/"
 }

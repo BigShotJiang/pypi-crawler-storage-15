@@ -1,11 +1,11 @@
 {
   "name": "rwse-checker",
-  "version": "0.0.2",
-  "summary": null,
+  "version": "0.0.4",
+  "summary": "Finding and correcting real-word spelling errors using masked language models.",
   "author": "dmnc-grdnr",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rwse_checker-0.0.2.tar.gz",
-  "download_time": "2025-12-02T19:00:38.297163",
+  "download_filename": "rwse_checker-0.0.4.tar.gz",
+  "download_time": "2025-12-05T19:16:43.339613",
   "package_url": "https://pypi.org/project/rwse-checker/"
 }

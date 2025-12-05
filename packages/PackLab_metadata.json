@@ -1,11 +1,11 @@
 {
   "name": "PackLab",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "Random Sequential Addition (RSA) particle packing with a fast C++ core.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "packlab-0.0.9-cp311-cp311-macosx_15_0_arm64.whl",
-  "download_time": "2025-12-05T18:51:09.775159",
+  "download_filename": "packlab-0.0.10-cp311-cp311-macosx_15_0_arm64.whl",
+  "download_time": "2025-12-05T19:17:17.233612",
   "package_url": "https://pypi.org/project/PackLab/"
 }

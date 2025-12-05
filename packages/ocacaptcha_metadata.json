@@ -1,0 +1,11 @@
+{
+  "name": "ocacaptcha",
+  "version": "0.2.54",
+  "summary": "This library for solving TikTok captcha via OCA captcha service",
+  "author": "OCA admin",
+  "license": null,
+  "home_page": "https://github.com/OneClickAction/TikTok-Captcha-Solver",
+  "download_filename": "ocacaptcha-0.2.54.tar.gz",
+  "download_time": "2025-12-05T19:17:19.838479",
+  "package_url": "https://pypi.org/project/ocacaptcha/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gen3datamodel",
+  "version": "3.2.7",
+  "summary": null,
+  "author": "CTDS UChicago",
+  "license": "Apache-2.0",
+  "home_page": "https://gen3.org/",
+  "download_filename": "gen3datamodel-3.2.7.tar.gz",
+  "download_time": "2025-12-05T19:17:20.879240",
+  "package_url": "https://pypi.org/project/gen3datamodel/"
+}

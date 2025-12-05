@@ -1,0 +1,11 @@
+{
+  "name": "leafwaxtools",
+  "version": "2.0.0",
+  "summary": "A package for calculating common indices from plant leaf wax carbon chain-length distribution and isotopic data",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "leafwaxtools-2.0.0.tar.gz",
+  "download_time": "2025-12-05T19:16:41.257613",
+  "package_url": "https://pypi.org/project/leafwaxtools/"
+}

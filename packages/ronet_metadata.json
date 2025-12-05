@@ -1,11 +1,11 @@
 {
   "name": "ronet",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A deep learning framework built on NumPy",
   "author": "Rohit Gatne",
   "license": null,
   "home_page": "https://github.com/rohit-2304/ronet",
-  "download_filename": "ronet-0.1.1.tar.gz",
-  "download_time": "2025-12-05T18:50:59.358977",
+  "download_filename": "ronet-0.1.3.tar.gz",
+  "download_time": "2025-12-05T19:16:43.858571",
   "package_url": "https://pypi.org/project/ronet/"
 }

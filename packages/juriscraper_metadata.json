@@ -1,0 +1,11 @@
+{
+  "name": "juriscraper",
+  "version": "2.6.98",
+  "summary": "An API to scrape American court websites for metadata.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "juriscraper-2.6.98.tar.gz",
+  "download_time": "2025-12-05T19:16:44.922120",
+  "package_url": "https://pypi.org/project/juriscraper/"
+}

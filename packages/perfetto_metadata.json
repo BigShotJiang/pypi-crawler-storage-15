@@ -1,0 +1,11 @@
+{
+  "name": "perfetto",
+  "version": "0.16.0",
+  "summary": "Python APIs and bindings for Perfetto (perfetto.dev)",
+  "author": "Perfetto",
+  "license": "apache-2.0",
+  "home_page": "https://perfetto.dev/",
+  "download_filename": "perfetto-0.16.0.tar.gz",
+  "download_time": "2025-12-05T19:16:53.422990",
+  "package_url": "https://pypi.org/project/perfetto/"
+}
