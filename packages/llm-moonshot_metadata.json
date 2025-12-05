@@ -1,0 +1,11 @@
+{
+  "name": "llm-moonshot",
+  "version": "0.3.1",
+  "summary": "Run prompts against LLMs hosted by Moonshot",
+  "author": "NickMystic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_moonshot-0.3.1.tar.gz",
+  "download_time": "2025-12-05T21:18:53.496530",
+  "package_url": "https://pypi.org/project/llm-moonshot/"
+}

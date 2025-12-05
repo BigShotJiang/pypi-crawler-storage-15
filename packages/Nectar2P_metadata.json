@@ -1,0 +1,11 @@
+{
+  "name": "Nectar2P",
+  "version": "1.2.0",
+  "summary": "A secure P2P file transfer library with optional encryption and NAT traversal support",
+  "author": "Glimor",
+  "license": null,
+  "home_page": "https://github.com/Glimor/Nectar2P",
+  "download_filename": "nectar2p-1.2.0.tar.gz",
+  "download_time": "2025-12-05T21:18:49.863515",
+  "package_url": "https://pypi.org/project/Nectar2P/"
+}

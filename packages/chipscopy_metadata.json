@@ -1,0 +1,11 @@
+{
+  "name": "chipscopy",
+  "version": "2025.2.0.55",
+  "summary": "Open-source project from Xilinx® that enables high-level control of Versal debug IP running in hardware",
+  "author": "Xilinx ChipScope Team",
+  "license": "Apache-2.0 AND EPL-2.0",
+  "home_page": "https://github.com/Xilinx/chipscopy",
+  "download_filename": "chipscopy-2025.2.0.55.tar.gz",
+  "download_time": "2025-12-05T21:18:47.814631",
+  "package_url": "https://pypi.org/project/chipscopy/"
+}

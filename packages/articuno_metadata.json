@@ -1,0 +1,11 @@
+{
+  "name": "articuno",
+  "version": "0.10.0",
+  "summary": "Convert Polars or Pandas DataFrames to lists of Pydantic models with schema inference",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "articuno-0.10.0.tar.gz",
+  "download_time": "2025-12-05T21:18:34.300810",
+  "package_url": "https://pypi.org/project/articuno/"
+}

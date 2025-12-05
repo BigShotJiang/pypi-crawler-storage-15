@@ -1,11 +1,11 @@
 {
   "name": "megadetector-utils",
-  "version": "10.0.16",
+  "version": "10.0.17",
   "summary": "Utility code associated with the MegaDetector project.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "megadetector_utils-10.0.16.tar.gz",
-  "download_time": "2025-12-05T04:56:59.106488",
+  "download_filename": "megadetector_utils-10.0.17.tar.gz",
+  "download_time": "2025-12-05T21:18:37.932023",
   "package_url": "https://pypi.org/project/megadetector-utils/"
 }

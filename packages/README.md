@@ -1,15 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-05T20:56:36.493965
-- **Total Packages**: 92
-- **Total Size**: 6.78 MB
+- **Download Time**: 2025-12-05T21:19:15.966634
+- **Total Packages**: 89
+- **Total Size**: 27.99 MB
 
 ## Packages List
+- synqly
+- arcade-tdk
+- arcade-mcp
+- arcade-mcp-server
+- fastpy-cli
+- spnl
+- feed-ursus
+- scc-firewall-manager-sdk
+- openfisca-nouvelle-caledonie
+- articuno
+- librt
+- contextual-studio-ai-graph
+- christianwhocodes
+- schwab-client
+- Brian2Cuda
+- mizan-encoder
+- megadetector-utils
+- baltra-sdk
+- megadetector
+- remdb
+- sifr-benchmark
+- mcp-agent
+- minecode-pipelines
 - peng-ui
+- grammatica
+- sonika-langchain-bot
+- petpal
+- rtsp-network-scanner
+- lintro
+- sloppylint
+- skillport
+- pytest-repeated
+- sapiopycommons
+- mcp-memory-service
+- chipscopy
+- ethspecify
+- specmem
+- mpilot
+- Nectar2P
+- duckalog
+- ty
+- wet-net
+- steam-sdk
+- ha-mcp
+- component-distribution-px01
+- llm-moonshot
+- carrot-transform
+- langgraph-api
+- SQLHelpersAJM
+- mizan-embedder
+- topolib
+- python-amazon-sp-api
+- telekit
+- planar
+- splunk-soar-sdk
+- smart-model-card
 - clickhouse-chorm
 - navfitx
-- mizan-embedder
 - iSVG
 - PyRRA
 - braid-dspy
@@ -23,12 +77,9 @@
 - prelude-sdk-beta
 - omspy
 - peppy-sage
-- lintro
-- mizan-encoder
 - pymob
 - pyjamas-rfglab
 - mini-arcade-native-backend
-- baltra-sdk
 - topaz-agent-kit
 - jsonshift
 - gemini-calo
@@ -44,57 +95,3 @@
 - FireWorks
 - t2s-cli
 - durabletask.azurefunctions
-- durabletask
-- durabletask.azuremanaged
-- velocity-python
-- MistrasDTA
-- ansys-edb-core
-- ha-mcp
-- pynapple
-- pg-sui
-- physicsx-component-host
-- sleipnirgroup-jormungandr
-- putplace-client
-- putplace-server
-- dash-auth-plus
-- physicsx-component-protocol
-- zrb
-- types-boto3-sesv2
-- types-boto3-partnercentral-account
-- boto3-stubs
-- boto3-stubs-lite
-- vha-toolbox
-- mypy-boto3-sesv2
-- mypy-boto3-partnercentral-account
-- types-boto3-iam
-- types-boto3-ecs
-- types-boto3-inspector2
-- mypy-boto3-iam
-- mypy-boto3-ecs
-- mypy-boto3-inspector2
-- polkadot-contract-sdk
-- abraia
-- input-output-build
-- totvs-dta-utils
-- nwpeval
-- footsies-gym
-- athena-intelligence
-- lugia
-- spotoptim
-- simple-service-compose
-- dbdemos-tracker
-- airflow-common
-- rchp
-- videopython
-- composennent
-- minkemap
-- signalpilot-ai-internal
-- particle-tracking-manager
-- botocore-stubs
-- odoo-addon-l10n-ro-stock-account
-- koi-net
-- univi
-- petpal
-- sqlsession
-- types-pymob-guts-base
-- pav3

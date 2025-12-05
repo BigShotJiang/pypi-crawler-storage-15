@@ -1,11 +1,11 @@
 {
   "name": "mizan-encoder",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A scale-aware embedding model and training framework optimized for the Mizan Balance Function.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mizan_encoder-0.1.2.tar.gz",
-  "download_time": "2025-12-05T20:55:58.369690",
+  "download_filename": "mizan_encoder-0.1.3.tar.gz",
+  "download_time": "2025-12-05T21:18:37.408821",
   "package_url": "https://pypi.org/project/mizan-encoder/"
 }

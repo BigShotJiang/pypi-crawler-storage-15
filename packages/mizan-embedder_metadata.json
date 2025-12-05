@@ -1,11 +1,11 @@
 {
   "name": "mizan-embedder",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "Mizan-optimized embedding model training",
   "author": "Ahsan Shaokat",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mizan_embedder-0.2.7.tar.gz",
-  "download_time": "2025-12-05T20:55:50.605086",
+  "download_filename": "mizan_embedder-0.2.8.tar.gz",
+  "download_time": "2025-12-05T21:18:55.556952",
   "package_url": "https://pypi.org/project/mizan-embedder/"
 }

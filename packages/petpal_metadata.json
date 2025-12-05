@@ -1,11 +1,11 @@
 {
   "name": "petpal",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "summary": "PET-PAL (Positron Emission Tomography Processing and Analysis Library)",
-  "author": "Bradley Judge",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "petpal-0.5.5.tar.gz",
-  "download_time": "2025-12-05T20:45:34.093940",
+  "download_filename": "petpal-0.5.6.tar.gz",
+  "download_time": "2025-12-05T21:18:43.148467",
   "package_url": "https://pypi.org/project/petpal/"
 }

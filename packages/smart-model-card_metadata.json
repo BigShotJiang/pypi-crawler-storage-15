@@ -1,11 +1,11 @@
 {
   "name": "smart-model-card",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "summary": "A Python library for generating standardized AI/ML model cards with OMOP Common Data Model integration",
   "author": "Ankur Lohachab",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/smart-model-card",
-  "download_filename": "smart_model_card-1.0.1.tar.gz",
-  "download_time": "2025-12-05T09:54:25.902642",
+  "download_filename": "smart_model_card-2.0.0.tar.gz",
+  "download_time": "2025-12-05T21:18:58.678505",
   "package_url": "https://pypi.org/project/smart-model-card/"
 }

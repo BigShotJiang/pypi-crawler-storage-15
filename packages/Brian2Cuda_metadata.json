@@ -1,0 +1,11 @@
+{
+  "name": "Brian2Cuda",
+  "version": "1.0b1",
+  "summary": "A Brian2 extension to simulate spiking neural networks on GPUs",
+  "author": "Denis Alevi, Moritz Augustin, Marcel Stimberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brian2cuda-1.0b1.tar.gz",
+  "download_time": "2025-12-05T21:18:36.889683",
+  "package_url": "https://pypi.org/project/Brian2Cuda/"
+}
