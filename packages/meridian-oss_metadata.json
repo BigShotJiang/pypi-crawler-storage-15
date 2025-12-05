@@ -1,11 +1,11 @@
 {
   "name": "meridian-oss",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Heroku for ML Features",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "meridian_oss-1.1.0.tar.gz",
-  "download_time": "2025-12-05T16:26:39.656675",
+  "download_filename": "meridian_oss-1.1.1.tar.gz",
+  "download_time": "2025-12-05T22:43:16.127218",
   "package_url": "https://pypi.org/project/meridian-oss/"
 }
