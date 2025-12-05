@@ -1,0 +1,11 @@
+{
+  "name": "nrn-patch",
+  "version": "7.0.1",
+  "summary": "Quality of life patch for the NEURON simulator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nrn_patch-7.0.1.tar.gz",
+  "download_time": "2025-12-05T15:45:29.524702",
+  "package_url": "https://pypi.org/project/nrn-patch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MacSyLib",
+  "version": "1.0.4",
+  "summary": "MacSyLib: Python library that help to detect of macromolecular, systems genetic pathways… in prokaryotes protein datasets using systems modelling and similarity search.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "macsylib-1.0.4-py3-none-any.whl",
+  "download_time": "2025-12-05T15:45:24.683971",
+  "package_url": "https://pypi.org/project/MacSyLib/"
+}

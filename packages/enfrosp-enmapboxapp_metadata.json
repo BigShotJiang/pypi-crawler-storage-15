@@ -1,11 +1,11 @@
 {
   "name": "enfrosp-enmapboxapp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A graphical user interface for EnFROSP as an add-in for the EnMAP-Box QGIS plugin",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "enfrosp_enmapboxapp-0.1.0.tar.gz",
-  "download_time": "2025-12-03T14:48:15.091411",
+  "download_filename": "enfrosp_enmapboxapp-0.1.1.tar.gz",
+  "download_time": "2025-12-05T15:45:43.711154",
   "package_url": "https://pypi.org/project/enfrosp-enmapboxapp/"
 }
