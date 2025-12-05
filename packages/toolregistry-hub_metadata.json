@@ -1,0 +1,11 @@
+{
+  "name": "toolregistry-hub",
+  "version": "0.5.1",
+  "summary": "ToolRegistry Hub: A collection of commonly used tools for LLM function calling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "toolregistry_hub-0.5.1.tar.gz",
+  "download_time": "2025-12-05T15:22:40.626355",
+  "package_url": "https://pypi.org/project/toolregistry-hub/"
+}

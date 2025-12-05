@@ -1,0 +1,11 @@
+{
+  "name": "invenio-theme",
+  "version": "4.5.0",
+  "summary": "\"Invenio standard theme.\"",
+  "author": "Invenio Collaboration",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-theme",
+  "download_filename": "invenio_theme-4.5.0.tar.gz",
+  "download_time": "2025-12-05T15:22:28.618485",
+  "package_url": "https://pypi.org/project/invenio-theme/"
+}

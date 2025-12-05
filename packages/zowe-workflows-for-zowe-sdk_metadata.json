@@ -1,0 +1,11 @@
+{
+  "name": "zowe-workflows-for-zowe-sdk",
+  "version": "1.0.0.dev24",
+  "summary": "Zowe Python SDK - z/OSMF Workflows package",
+  "author": "Zowe",
+  "license": "EPL-2.0",
+  "home_page": "https://github.com/zowe/zowe-client-python-sdk",
+  "download_filename": "zowe_workflows_for_zowe_sdk-1.0.0.dev24.tar.gz",
+  "download_time": "2025-12-05T15:22:25.443822",
+  "package_url": "https://pypi.org/project/zowe-workflows-for-zowe-sdk/"
+}

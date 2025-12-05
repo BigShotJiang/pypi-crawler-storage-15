@@ -1,0 +1,11 @@
+{
+  "name": "chessfluff",
+  "version": "0.0.2",
+  "summary": "Application that pulls various stats for a user from chess.com using the public API.",
+  "author": "Jonathan Fox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chessfluff-0.0.2.tar.gz",
+  "download_time": "2025-12-05T15:22:20.802290",
+  "package_url": "https://pypi.org/project/chessfluff/"
+}

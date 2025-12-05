@@ -1,0 +1,11 @@
+{
+  "name": "wapyt",
+  "version": "0.1.0",
+  "summary": "DHTMLX-free PyTincture widgetset with layout, chat, card panel, and tab widgets.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wapyt-0.1.0.tar.gz",
+  "download_time": "2025-12-05T15:22:31.701568",
+  "package_url": "https://pypi.org/project/wapyt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openlist",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "summary": "A Python client for OpenList API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openlist-0.1.1-py3-none-any.whl",
-  "download_time": "2025-12-05T14:55:34.360175",
+  "download_filename": "openlist-0.1.0.tar.gz",
+  "download_time": "2025-12-05T15:22:43.703342",
   "package_url": "https://pypi.org/project/openlist/"
 }

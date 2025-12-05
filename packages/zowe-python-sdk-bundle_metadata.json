@@ -1,0 +1,11 @@
+{
+  "name": "zowe-python-sdk-bundle",
+  "version": "1.0.0.dev24",
+  "summary": "Zowe Python SDK",
+  "author": "Zowe",
+  "license": "EPL-2.0",
+  "home_page": "https://github.com/zowe/zowe-client-python-sdk",
+  "download_filename": "zowe_python_sdk_bundle-1.0.0.dev24.tar.gz",
+  "download_time": "2025-12-05T15:22:24.913214",
+  "package_url": "https://pypi.org/project/zowe-python-sdk-bundle/"
+}

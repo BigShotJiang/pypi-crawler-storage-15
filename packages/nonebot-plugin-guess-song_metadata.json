@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-guess-song",
+  "version": "1.4.0",
+  "summary": "A Guess song plugin for Nonebot2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_guess_song-1.4.0.tar.gz",
+  "download_time": "2025-12-05T15:22:15.138821",
+  "package_url": "https://pypi.org/project/nonebot-plugin-guess-song/"
+}
