@@ -1,11 +1,11 @@
 {
   "name": "pysynthbio",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "A package to retrieve data and models from Synthesize Bio's API",
   "author": "Alex David, Candace Savonen",
   "license": null,
   "home_page": null,
-  "download_filename": "pysynthbio-4.0.0.tar.gz",
-  "download_time": "2025-12-04T19:43:36.347017",
+  "download_filename": "pysynthbio-4.0.1.tar.gz",
+  "download_time": "2025-12-05T20:55:53.188504",
   "package_url": "https://pypi.org/project/pysynthbio/"
 }

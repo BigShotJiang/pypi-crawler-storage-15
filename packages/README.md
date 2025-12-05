@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-05T20:45:48.844058
-- **Total Packages**: 86
-- **Total Size**: 25.0 MB
+- **Download Time**: 2025-12-05T20:56:36.493965
+- **Total Packages**: 92
+- **Total Size**: 6.78 MB
 
 ## Packages List
+- peng-ui
+- clickhouse-chorm
+- navfitx
+- mizan-embedder
+- iSVG
+- PyRRA
+- braid-dspy
+- githooklib
+- pysynthbio
+- fastapi-client-generator
+- agentlab
+- prelude-cli-beta
+- agentic-graph-mem
+- agilix-api-fr8train
+- prelude-sdk-beta
+- omspy
+- peppy-sage
+- lintro
+- mizan-encoder
+- pymob
+- pyjamas-rfglab
+- mini-arcade-native-backend
+- baltra-sdk
+- topaz-agent-kit
+- jsonshift
+- gemini-calo
+- mini-arcade-core
+- py-dependency-mapper
 - hzclient
 - sliderule
 - py-quarry
@@ -46,7 +74,6 @@
 - mypy-boto3-inspector2
 - polkadot-contract-sdk
 - abraia
-- braid-dspy
 - input-output-build
 - totvs-dta-utils
 - nwpeval
@@ -71,24 +98,3 @@
 - sqlsession
 - types-pymob-guts-base
 - pav3
-- boto3
-- awscli
-- feistel-py
-- mini-arcade-core
-- trigdroid
-- remdb
-- LLM-Bridge
-- dataforge-sdk
-- assisted-service-client
-- netrun-pytest-fixtures
-- netrun-llm
-- netrun-errors
-- netrun-env
-- netrun-db-pool
-- netrun-cors
-- nominal-api-protos
-- nominal-api
-- x-evolution
-- csp
-- x-mlps-pytorch
-- tawala

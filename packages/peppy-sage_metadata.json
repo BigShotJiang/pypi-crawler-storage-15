@@ -1,0 +1,11 @@
+{
+  "name": "peppy-sage",
+  "version": "0.1.9",
+  "summary": "Hybrid Rust/Python peptide scoring library",
+  "author": "Daniel Geiszler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "peppy_sage-0.1.9.tar.gz",
+  "download_time": "2025-12-05T20:55:57.337133",
+  "package_url": "https://pypi.org/project/peppy-sage/"
+}
