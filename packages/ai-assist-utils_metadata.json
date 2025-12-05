@@ -1,11 +1,11 @@
 {
   "name": "ai-assist-utils",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "AI helper utilities for Gemini",
-  "author": null,
-  "license": null,
+  "author": "Your Name",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_assist_utils-0.3.0.tar.gz",
-  "download_time": "2025-12-05T09:44:22.044325",
+  "download_filename": "ai_assist_utils-0.3.1.tar.gz",
+  "download_time": "2025-12-05T10:21:57.279372",
   "package_url": "https://pypi.org/project/ai-assist-utils/"
 }

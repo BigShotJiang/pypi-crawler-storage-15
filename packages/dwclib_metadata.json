@@ -1,0 +1,11 @@
+{
+  "name": "dwclib",
+  "version": "2025.12.5",
+  "summary": "Python wrapper to DataWarehouse Connect",
+  "author": "Jona Joachim",
+  "license": "ISC",
+  "home_page": "https://github.com/larib-data/dwclib",
+  "download_filename": "dwclib-2025.12.5.tar.gz",
+  "download_time": "2025-12-05T10:22:23.568324",
+  "package_url": "https://pypi.org/project/dwclib/"
+}

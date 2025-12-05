@@ -1,0 +1,11 @@
+{
+  "name": "dendromatics",
+  "version": "0.7.0",
+  "summary": "Automatic dendrometry and forest inventory for terrestrial point clouds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dendromatics-0.7.0.tar.gz",
+  "download_time": "2025-12-05T10:21:54.092840",
+  "package_url": "https://pypi.org/project/dendromatics/"
+}

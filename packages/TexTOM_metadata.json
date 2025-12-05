@@ -1,0 +1,11 @@
+{
+  "name": "TexTOM",
+  "version": "0.7.13",
+  "summary": "A program for texture simulations.",
+  "author": "Moritz Frewein, Marc Allain, Tilman Gruenewald",
+  "license": null,
+  "home_page": "https://gitlab.fresnel.fr/textom/textom.git",
+  "download_filename": "textom-0.7.13.tar.gz",
+  "download_time": "2025-12-05T10:22:19.219187",
+  "package_url": "https://pypi.org/project/TexTOM/"
+}

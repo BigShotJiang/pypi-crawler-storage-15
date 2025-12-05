@@ -1,0 +1,11 @@
+{
+  "name": "kwork",
+  "version": "0.1.1",
+  "summary": "Simple async wrapper for kwork.",
+  "author": "kesha1225",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kwork-0.1.1.tar.gz",
+  "download_time": "2025-12-05T10:21:59.195845",
+  "package_url": "https://pypi.org/project/kwork/"
+}

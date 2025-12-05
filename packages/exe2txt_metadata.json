@@ -1,0 +1,11 @@
+{
+  "name": "exe2txt",
+  "version": "0.1.0",
+  "summary": "Convert Windows EXE/DLL files into text representations for LLM prompting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exe2txt-0.1.0.tar.gz",
+  "download_time": "2025-12-05T10:21:40.269346",
+  "package_url": "https://pypi.org/project/exe2txt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "greatfet",
+  "version": "2025.0.0",
+  "summary": "Python library for hardware hacking with the GreatFET",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "greatfet-2025.0.0-py3-none-any.whl",
+  "download_time": "2025-12-05T10:22:10.246932",
+  "package_url": "https://pypi.org/project/greatfet/"
+}
