@@ -1,0 +1,11 @@
+{
+  "name": "hero-mvc-lib",
+  "version": "0.1.0",
+  "summary": "A simple MVC library for Hero management with in-memory database support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hero_mvc_lib-0.1.0.tar.gz",
+  "download_time": "2025-12-05T22:20:06.585298",
+  "package_url": "https://pypi.org/project/hero-mvc-lib/"
+}

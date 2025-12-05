@@ -1,11 +1,11 @@
 {
   "name": "thds.adls",
-  "version": "4.4.20251205192324",
+  "version": "4.4.20251205220331",
   "summary": "ADLS tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "thds_adls-4.4.20251205192324-py3-none-any.whl",
-  "download_time": "2025-12-05T19:39:03.056481",
+  "download_filename": "thds_adls-4.4.20251205220331-py3-none-any.whl",
+  "download_time": "2025-12-05T22:20:00.614941",
   "package_url": "https://pypi.org/project/thds.adls/"
 }

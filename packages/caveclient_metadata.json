@@ -1,0 +1,11 @@
+{
+  "name": "caveclient",
+  "version": "8.0.1",
+  "summary": "A client for interacting with the Connectome Annotation Versioning Engine",
+  "author": "CAVE Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "caveclient-8.0.1.tar.gz",
+  "download_time": "2025-12-05T22:19:59.068800",
+  "package_url": "https://pypi.org/project/caveclient/"
+}

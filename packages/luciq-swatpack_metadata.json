@@ -1,0 +1,11 @@
+{
+  "name": "luciq-swatpack",
+  "version": "0.1.3",
+  "summary": "Deterministic Luciq SWAT Pack collector",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "luciq_swatpack-0.1.3.tar.gz",
+  "download_time": "2025-12-05T22:19:57.229667",
+  "package_url": "https://pypi.org/project/luciq-swatpack/"
+}

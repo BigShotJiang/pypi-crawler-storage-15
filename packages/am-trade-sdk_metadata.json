@@ -1,0 +1,11 @@
+{
+  "name": "am-trade-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for AM Trade Management System",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "am_trade_sdk-1.0.0.tar.gz",
+  "download_time": "2025-12-05T22:20:12.718829",
+  "package_url": "https://pypi.org/project/am-trade-sdk/"
+}

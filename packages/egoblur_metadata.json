@@ -1,0 +1,11 @@
+{
+  "name": "egoblur",
+  "version": "2.0.0a3",
+  "summary": "Demo utilities for running EgoBlur person and license plate blurring models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "egoblur-2.0.0a3.tar.gz",
+  "download_time": "2025-12-05T22:20:10.674801",
+  "package_url": "https://pypi.org/project/egoblur/"
+}
