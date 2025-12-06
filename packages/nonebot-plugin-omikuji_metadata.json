@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-omikuji",
+  "version": "0.1.1",
+  "summary": "Nonebot2的御神签插件",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_omikuji-0.1.1.tar.gz",
+  "download_time": "2025-12-06T14:52:10.397200",
+  "package_url": "https://pypi.org/project/nonebot-plugin-omikuji/"
+}

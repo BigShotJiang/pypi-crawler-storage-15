@@ -1,0 +1,11 @@
+{
+  "name": "madblog",
+  "version": "0.2.39",
+  "summary": "A general-purpose framework for automation",
+  "author": "Fabio Manganiello",
+  "license": "MIT",
+  "home_page": "https://git.platypush.tech/blacklight/madblog",
+  "download_filename": "madblog-0.2.39.tar.gz",
+  "download_time": "2025-12-06T14:52:26.463902",
+  "package_url": "https://pypi.org/project/madblog/"
+}

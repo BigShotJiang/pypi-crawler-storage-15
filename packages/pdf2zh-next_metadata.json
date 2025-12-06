@@ -1,0 +1,11 @@
+{
+  "name": "pdf2zh-next",
+  "version": "2.8.1",
+  "summary": "PDF Translator based on BabelDOC",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf2zh_next-2.8.1.tar.gz",
+  "download_time": "2025-12-06T14:52:38.386352",
+  "package_url": "https://pypi.org/project/pdf2zh-next/"
+}

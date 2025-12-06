@@ -1,0 +1,11 @@
+{
+  "name": "colt",
+  "version": "0.18.0",
+  "summary": "A configuration utility for Python object.",
+  "author": "altescy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "colt-0.18.0.tar.gz",
+  "download_time": "2025-12-06T14:52:31.631353",
+  "package_url": "https://pypi.org/project/colt/"
+}

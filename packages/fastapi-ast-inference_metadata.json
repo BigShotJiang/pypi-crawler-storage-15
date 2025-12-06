@@ -1,11 +1,11 @@
 {
   "name": "fastapi-ast-inference",
-  "version": "0.1.0",
-  "summary": "Automatic response model inference for FastAPI using AST analysis",
+  "version": "0.1.1",
+  "summary": "Automatic response model inference for FastAPI using AST analysis.",
   "author": "g7AzaZLO",
-  "license": null,
-  "home_page": "https://github.com/g7AzaZLO/fastapi-ast-inference",
-  "download_filename": "fastapi_ast_inference-0.1.0.tar.gz",
-  "download_time": "2025-12-06T14:17:32.036542",
+  "license": "MIT",
+  "home_page": "https://github.com/g7AzaZLO/fastapi_ast_inference",
+  "download_filename": "fastapi_ast_inference-0.1.1.tar.gz",
+  "download_time": "2025-12-06T14:52:18.650589",
   "package_url": "https://pypi.org/project/fastapi-ast-inference/"
 }

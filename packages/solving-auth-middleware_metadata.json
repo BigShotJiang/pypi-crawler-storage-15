@@ -1,0 +1,11 @@
+{
+  "name": "solving-auth-middleware",
+  "version": "0.3.0",
+  "summary": "Reusable middleware for jwt checking with modular validators and role hierarchy",
+  "author": "Sahmok",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "solving_auth_middleware-0.3.0.tar.gz",
+  "download_time": "2025-12-06T14:52:29.022584",
+  "package_url": "https://pypi.org/project/solving-auth-middleware/"
+}

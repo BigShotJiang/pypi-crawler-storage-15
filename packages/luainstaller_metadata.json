@@ -1,0 +1,11 @@
+{
+  "name": "luainstaller",
+  "version": "1.0.0",
+  "summary": "Package Lua scripts into standalone, dependency-free native executables",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "luainstaller-1.0.0.tar.gz",
+  "download_time": "2025-12-06T14:52:33.678618",
+  "package_url": "https://pypi.org/project/luainstaller/"
+}
