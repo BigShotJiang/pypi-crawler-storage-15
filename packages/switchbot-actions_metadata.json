@@ -1,0 +1,11 @@
+{
+  "name": "switchbot-actions",
+  "version": "2.0.1",
+  "summary": "A YAML-based automation engine for SwitchBot BLE devices with a Prometheus exporter.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "switchbot_actions-2.0.1.tar.gz",
+  "download_time": "2025-12-06T07:51:54.560882",
+  "package_url": "https://pypi.org/project/switchbot-actions/"
+}

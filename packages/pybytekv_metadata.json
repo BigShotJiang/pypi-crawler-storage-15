@@ -1,0 +1,11 @@
+{
+  "name": "pybytekv",
+  "version": "1.0.0",
+  "summary": "Full-feature Python client for ByteKV server (TCP + RESP)",
+  "author": "VSSCO",
+  "license": "MIT",
+  "home_page": "https://github.com/your-repo/pybytekv",
+  "download_filename": "pybytekv-1.0.0.tar.gz",
+  "download_time": "2025-12-06T07:51:48.800470",
+  "package_url": "https://pypi.org/project/pybytekv/"
+}
