@@ -1,11 +1,11 @@
 {
   "name": "ezmsg-lsl",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "LabStreamingLayer source and sink for ezmsg",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ezmsg_lsl-1.4.0.tar.gz",
-  "download_time": "2025-12-06T08:47:47.831412",
+  "download_filename": "ezmsg_lsl-1.4.1.tar.gz",
+  "download_time": "2025-12-06T16:47:20.180502",
   "package_url": "https://pypi.org/project/ezmsg-lsl/"
 }

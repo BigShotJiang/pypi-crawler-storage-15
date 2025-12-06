@@ -1,11 +1,11 @@
 {
   "name": "PycordViews",
-  "version": "1.3.7.7",
+  "version": "1.3.7.8",
   "summary": "Views and multibot for py-cord library",
   "author": "Chronos (alias BOXERRMD)",
   "license": "MIT License",
   "home_page": "https://github.com/BOXERRMD/Py-cord_Views",
-  "download_filename": "pycordviews-1.3.7.7.tar.gz",
-  "download_time": "2025-12-06T16:23:16.952077",
+  "download_filename": "pycordviews-1.3.7.8.tar.gz",
+  "download_time": "2025-12-06T16:47:17.817582",
   "package_url": "https://pypi.org/project/PycordViews/"
 }

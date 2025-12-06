@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-downloader-hd",
+  "version": "0.0a3",
+  "summary": "A Selenium-based HD TikTok video downloader using SnapTik",
+  "author": "Windyx",
+  "license": null,
+  "home_page": "https://github.com/windyx0/tiktok-downloader",
+  "download_filename": "tiktok_downloader_hd-0.0a3.tar.gz",
+  "download_time": "2025-12-06T16:47:20.755298",
+  "package_url": "https://pypi.org/project/tiktok-downloader-hd/"
+}

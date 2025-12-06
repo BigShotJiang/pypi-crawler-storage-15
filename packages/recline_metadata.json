@@ -1,0 +1,11 @@
+{
+  "name": "recline",
+  "version": "2025.12",
+  "summary": "Writing argparse-based command line applications can become tedious, repetitive, and difficult to do right. Relax and let this library free you from that burden.",
+  "author": "NetApp",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "recline-2025.12.tar.gz",
+  "download_time": "2025-12-06T16:47:23.614932",
+  "package_url": "https://pypi.org/project/recline/"
+}

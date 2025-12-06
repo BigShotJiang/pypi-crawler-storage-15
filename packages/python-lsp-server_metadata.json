@@ -1,0 +1,11 @@
+{
+  "name": "python-lsp-server",
+  "version": "1.14.0",
+  "summary": "Python Language Server for the Language Server Protocol",
+  "author": "Python Language Server Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_lsp_server-1.14.0.tar.gz",
+  "download_time": "2025-12-06T16:47:32.218654",
+  "package_url": "https://pypi.org/project/python-lsp-server/"
+}

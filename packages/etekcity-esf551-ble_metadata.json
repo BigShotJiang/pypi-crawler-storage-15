@@ -1,11 +1,11 @@
 {
   "name": "etekcity-esf551-ble",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "An unofficial Python package for interacting with Etekcity ESF-551 Smart Fitness Scales using BLE. Not affiliated with Etekcity, VeSync Co., Ltd., or any of their subsidiaries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "etekcity_esf551_ble-0.3.7.tar.gz",
-  "download_time": "2025-12-04T23:51:19.652464",
+  "download_filename": "etekcity_esf551_ble-0.3.8.tar.gz",
+  "download_time": "2025-12-06T16:47:36.682407",
   "package_url": "https://pypi.org/project/etekcity-esf551-ble/"
 }

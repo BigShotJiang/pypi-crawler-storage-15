@@ -1,11 +1,11 @@
 {
   "name": "meshagent-mcp",
-  "version": "0.8.4",
+  "version": "0.9.0",
   "summary": "Computer Building Blocks for MCP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_mcp-0.8.4.tar.gz",
-  "download_time": "2025-12-05T07:42:19.613648",
+  "download_filename": "meshagent_mcp-0.9.0.tar.gz",
+  "download_time": "2025-12-06T16:47:13.819594",
   "package_url": "https://pypi.org/project/meshagent-mcp/"
 }

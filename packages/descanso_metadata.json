@@ -1,0 +1,11 @@
+{
+  "name": "descanso",
+  "version": "0.7.1",
+  "summary": "A client framework for HTTP APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "descanso-0.7.1.tar.gz",
+  "download_time": "2025-12-06T16:47:25.967979",
+  "package_url": "https://pypi.org/project/descanso/"
+}
