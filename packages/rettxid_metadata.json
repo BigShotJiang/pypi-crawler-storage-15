@@ -1,0 +1,11 @@
+{
+  "name": "rettxid",
+  "version": "1.0.0",
+  "summary": "Generate, validate, and normalize rettX IDs for the Rett Syndrome Europe ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rettxid-1.0.0.tar.gz",
+  "download_time": "2025-12-06T17:40:16.382233",
+  "package_url": "https://pypi.org/project/rettxid/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tracesmith",
-  "version": "0.7.1",
-  "summary": "Cross-platform GPU Profiling & Replay System",
+  "version": "0.8.0",
+  "summary": "Cross-platform GPU profiling and replay system",
   "author": "Xingqiang Chen",
   "license": "Apache-2.0",
   "home_page": "https://github.com/chenxingqiang/TraceSmith",
-  "download_filename": "tracesmith-0.7.1.tar.gz",
-  "download_time": "2025-12-04T19:02:42.958425",
+  "download_filename": "tracesmith-0.8.0.tar.gz",
+  "download_time": "2025-12-06T17:40:35.586398",
   "package_url": "https://pypi.org/project/tracesmith/"
 }

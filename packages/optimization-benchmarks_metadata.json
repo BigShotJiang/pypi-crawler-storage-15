@@ -1,0 +1,11 @@
+{
+  "name": "optimization-benchmarks",
+  "version": "0.2.0",
+  "summary": "A comprehensive collection of mathematical benchmark functions for testing optimization algorithms with visualization and benchmarking utilities",
+  "author": "AK Rahul",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optimization_benchmarks-0.2.0.tar.gz",
+  "download_time": "2025-12-06T17:40:41.267303",
+  "package_url": "https://pypi.org/project/optimization-benchmarks/"
+}

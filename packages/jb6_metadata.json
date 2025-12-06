@@ -1,11 +1,11 @@
 {
   "name": "jb6",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "summary": "jb6自用",
   "author": "jb6",
   "license": "MIT Licence",
   "home_page": null,
-  "download_filename": "jb6-0.0.22.tar.gz",
-  "download_time": "2025-12-04T05:44:22.503488",
+  "download_filename": "jb6-0.0.23.tar.gz",
+  "download_time": "2025-12-06T17:40:30.418842",
   "package_url": "https://pypi.org/project/jb6/"
 }
