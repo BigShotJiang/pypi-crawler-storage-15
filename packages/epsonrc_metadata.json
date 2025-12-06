@@ -1,11 +1,11 @@
 {
   "name": "epsonrc",
-  "version": "0.0.1",
-  "summary": "EPSON RC Library for Python",
+  "version": "0.2.0",
+  "summary": "Python library for controlling industrial EPSON robots over TCP/IP",
   "author": "David Rosales",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "epsonrc-0.0.1.tar.gz",
-  "download_time": "2025-12-06T18:26:39.275992",
+  "download_filename": "epsonrc-0.2.0.tar.gz",
+  "download_time": "2025-12-06T20:21:33.655298",
   "package_url": "https://pypi.org/project/epsonrc/"
 }

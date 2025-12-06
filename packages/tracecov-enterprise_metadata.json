@@ -1,11 +1,11 @@
 {
   "name": "tracecov-enterprise",
-  "version": "0.9.0",
+  "version": "0.11.0",
   "summary": "Stub package. Install from private index instead.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracecov_enterprise-0.9.0.tar.gz",
-  "download_time": "2025-12-03T22:19:34.680565",
+  "download_filename": "tracecov_enterprise-0.11.0.tar.gz",
+  "download_time": "2025-12-06T20:21:11.399483",
   "package_url": "https://pypi.org/project/tracecov-enterprise/"
 }

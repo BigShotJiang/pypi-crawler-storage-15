@@ -1,0 +1,11 @@
+{
+  "name": "kpi-impact-sim",
+  "version": "0.1.0",
+  "summary": "A business-ready engine for KPI impact simulation using Ridge Regression and interpretable feature contributions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kpi_impact_sim-0.1.0.tar.gz",
+  "download_time": "2025-12-06T20:21:27.369466",
+  "package_url": "https://pypi.org/project/kpi-impact-sim/"
+}

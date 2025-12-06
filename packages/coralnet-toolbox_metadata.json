@@ -1,0 +1,11 @@
+{
+  "name": "coralnet-toolbox",
+  "version": "0.0.98",
+  "summary": "Tools for annotating and developing ML models for benthic imagery",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "coralnet_toolbox-0.0.98.tar.gz",
+  "download_time": "2025-12-06T20:21:15.287991",
+  "package_url": "https://pypi.org/project/coralnet-toolbox/"
+}

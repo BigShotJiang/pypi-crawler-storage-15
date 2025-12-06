@@ -1,11 +1,11 @@
 {
   "name": "poetry-workspaces-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Poetry plugin for managing monorepos, styled after Yarn workspaces.",
   "author": "Translucence Biosystems",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "poetry_workspaces_plugin-0.1.0.tar.gz",
-  "download_time": "2025-12-06T10:43:52.804231",
+  "download_filename": "poetry_workspaces_plugin-0.1.1.tar.gz",
+  "download_time": "2025-12-06T20:21:24.780839",
   "package_url": "https://pypi.org/project/poetry-workspaces-plugin/"
 }
