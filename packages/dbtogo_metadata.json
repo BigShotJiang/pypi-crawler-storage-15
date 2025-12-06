@@ -1,0 +1,11 @@
+{
+  "name": "dbtogo",
+  "version": "0.0.5",
+  "summary": "Python ORM on top of Pydantic models with focus on simplicity",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbtogo-0.0.5.tar.gz",
+  "download_time": "2025-12-06T22:19:38.958688",
+  "package_url": "https://pypi.org/project/dbtogo/"
+}

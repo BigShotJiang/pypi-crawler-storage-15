@@ -1,11 +1,11 @@
 {
   "name": "udtools",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "Python tools for Universal Dependencies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "udtools-0.1.18.tar.gz",
-  "download_time": "2025-12-06T18:26:54.661797",
+  "download_filename": "udtools-0.1.19.tar.gz",
+  "download_time": "2025-12-06T22:19:27.996979",
   "package_url": "https://pypi.org/project/udtools/"
 }
