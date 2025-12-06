@@ -1,15 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T10:44:01.566140
-- **Total Packages**: 87
-- **Total Size**: 20.14 MB
+- **Download Time**: 2025-12-06T10:53:30.680515
+- **Total Packages**: 86
+- **Total Size**: 6.22 MB
 
 ## Packages List
+- binary-refinery
+- bluer-ai
+- gha-utils
+- mcp-server-bitbucket
+- om2m-client
+- aadc-cli
+- lintro
+- Qwael
+- konduktor-nightly
+- uipath
+- quasarr
+- trainy-policy-nightly
+- sifr-benchmark
+- ua-generator
 - spdx_checker
 - django-oscarbot
 - robotframework-schemathesislibrary
-- mcp-server-bitbucket
 - tgmcp
 - dhscan-agent
 - cortex-memory
@@ -49,7 +62,6 @@
 - nvidia-nat-test
 - tremolo-login
 - arxiv-paper-mcp-server
-- Qwael
 - nvidia-nat
 - nvidia-nat-a2a
 - asteroid_spinprops
@@ -80,16 +92,3 @@
 - poetry-workspaces-plugin
 - iso-week-date
 - aiqtoolkit-semantic-kernel
-- notify-africa
-- aiqtoolkit-agno
-- aiqtoolkit-langchain
-- anaplan-sdk
-- aiqtoolkit-zep-cloud
-- llama-assistant
-- aiqtoolkit-llama-index
-- fieldview
-- aiqtoolkit-mem0ai
-- aiqtoolkit
-- quasarr
-- upathtools
-- ecosystem-notebooks
