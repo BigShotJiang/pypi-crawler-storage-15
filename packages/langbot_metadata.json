@@ -1,11 +1,11 @@
 {
   "name": "langbot",
-  "version": "4.6.2",
+  "version": "4.6.3",
   "summary": "Easy-to-use global IM bot platform designed for LLM era",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langbot-4.6.2.tar.gz",
-  "download_time": "2025-12-04T12:42:04.982352",
+  "download_filename": "langbot-4.6.3.tar.gz",
+  "download_time": "2025-12-06T13:52:05.791431",
   "package_url": "https://pypi.org/project/langbot/"
 }

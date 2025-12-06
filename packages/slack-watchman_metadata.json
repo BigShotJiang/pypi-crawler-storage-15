@@ -1,0 +1,11 @@
+{
+  "name": "slack-watchman",
+  "version": "4.4.3",
+  "summary": "Monitoring and enumerating Slack for exposed secrets",
+  "author": "PaperMtn",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/PaperMtn/slack-watchman",
+  "download_filename": "slack_watchman-4.4.3.tar.gz",
+  "download_time": "2025-12-06T13:52:04.689927",
+  "package_url": "https://pypi.org/project/slack-watchman/"
+}

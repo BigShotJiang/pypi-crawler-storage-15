@@ -1,0 +1,11 @@
+{
+  "name": "prompt-vcs",
+  "version": "0.1.0",
+  "summary": "Git-native prompt management library for LLM applications",
+  "author": "Developer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt_vcs-0.1.0.tar.gz",
+  "download_time": "2025-12-06T13:52:03.068092",
+  "package_url": "https://pypi.org/project/prompt-vcs/"
+}

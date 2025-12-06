@@ -1,14 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T13:40:17.960703
-- **Total Packages**: 89
-- **Total Size**: 74.32 MB
+- **Download Time**: 2025-12-06T13:52:48.263090
+- **Total Packages**: 93
+- **Total Size**: 10.21 MB
 
 ## Packages List
+- byte-ai-cli
+- kport
+- cputester
+- scalexi-llm
+- winiutils
+- dbtective
+- charz
+- pyjarowinkler
+- dsf-mobility
+- prompt-vcs
+- edda-framework
+- wordslab-notebooks-lib
+- slack-watchman
+- scrapy-seleniumbase-cdp
+- langbot
+- cml-parser
+- bluer-sbc
+- SURE-tools
+- datachart
+- sm64-binds
+- su_master_mind
+- funx
+- osxphotos
+- trackcell
+- research-assistant-llm
+- openemr
+- bctl
+- ncuhep
+- facial-vision-agent
+- tcorpus
 - mcp-server-bitbucket
 - suggestify
-- winiutils
 - goidalib
 - cz-conventional-plus
 - cosmol-viewer
@@ -29,7 +58,6 @@
 - creditpulse
 - exstruct
 - langbot-plugin
-- mcp-liner
 - alexwlchan-chives
 - asc-bin
 - circle-of-confusion
@@ -71,27 +99,3 @@
 - passagemath-gap-pkg-normalizinterface
 - PyQt6-sip
 - indic-asr-onnx
-- passagemath-gap-pkg-float
-- nlbone
-- PyQt5-sip
-- passagemath-gap-pkg-curlinterface
-- munchboka-edutools
-- passagemath-gap-pkg-cddinterface
-- ape-langchain
-- ncuhep
-- ape-openai
-- ape-anthropic
-- liikesim
-- ape-lang
-- passagemath-coxeter3
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- brliant-calc
-- silver-ai
-- django-minio-backend

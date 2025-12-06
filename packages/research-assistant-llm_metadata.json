@@ -1,0 +1,11 @@
+{
+  "name": "research-assistant-llm",
+  "version": "0.2.0",
+  "summary": "Intelligent research paper analysis pipeline with LLM-driven categorization",
+  "author": "Research Assistant Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "research_assistant_llm-0.2.0.tar.gz",
+  "download_time": "2025-12-06T13:52:11.054880",
+  "package_url": "https://pypi.org/project/research-assistant-llm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dbtective",
-  "version": "0.1.10",
+  "version": "0.1.12",
   "summary": "dbtective is a Rust-powered 'detective' for `dbt metadata` best practices.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/feliblo/dbtective",
-  "download_filename": "dbtective-0.1.10-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2025-12-04T19:27:40.603592",
+  "download_filename": "dbtective-0.1.12-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-06T13:52:00.979513",
   "package_url": "https://pypi.org/project/dbtective/"
 }
