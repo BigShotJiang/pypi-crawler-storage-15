@@ -1,11 +1,11 @@
 {
   "name": "lager-cli",
-  "version": "0.2.26",
+  "version": "0.2.28",
   "summary": "Lager CLI - Gateway and Docker connectivity",
   "author": "Lager Data LLC",
   "license": "MIT",
   "home_page": "https://github.com/lagerdata/lager-mono",
-  "download_filename": "lager_cli-0.2.26.tar.gz",
-  "download_time": "2025-12-05T23:51:58.786045",
+  "download_filename": "lager_cli-0.2.28.tar.gz",
+  "download_time": "2025-12-06T04:32:03.194673",
   "package_url": "https://pypi.org/project/lager-cli/"
 }

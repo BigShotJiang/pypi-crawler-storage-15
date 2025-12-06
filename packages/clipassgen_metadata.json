@@ -1,11 +1,11 @@
 {
   "name": "clipassgen",
-  "version": "2.0.0",
-  "summary": "clipassgen (Console Smart Password Generator CLI) - Command-line smart password generator for deterministic password generation - same secret always produces the same password.",
+  "version": "2.1.0",
+  "summary": "clipassgen (Console Smart Password Generator CLI) - Terminal-based smart password generator with deterministic password generation. Generate passwords from secret phrases - same secret always produces the same password, no storage required.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clipassgen-2.0.0.tar.gz",
-  "download_time": "2025-12-05T05:20:26.331936",
+  "download_filename": "clipassgen-2.1.0.tar.gz",
+  "download_time": "2025-12-06T04:31:56.697171",
   "package_url": "https://pypi.org/project/clipassgen/"
 }

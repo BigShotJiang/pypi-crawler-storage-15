@@ -1,24 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T04:05:20.414422
-- **Total Packages**: 80
-- **Total Size**: 54.28 MB
+- **Download Time**: 2025-12-06T04:32:37.735240
+- **Total Packages**: 79
+- **Total Size**: 4.57 MB
 
 ## Packages List
+- pytest-intent
+- target-gcs
+- gateway-defender
+- SURE-tools
+- clipassgen
+- guidelinely
+- sc-common-interface
+- verge-auth-sdk
+- crispr-millipede
+- keras-nlp-nightly
+- keras-hub-nightly
+- univi
+- pdfalive
+- pypck
+- coiled
+- insight-router
+- lager-cli
+- textual-nerv
+- odoo-addons-oca-stock-logistics-workflow
+- pdbfixer-wheel
+- canvas_downloader
+- snowflake-connector-python-nightly
+- qpa
+- pytest-error
+- dicom-to-video
+- keywordsai-sdk
+- qolsys-controller
+- oiiai-lib
+- cubething_psync
+- chromedriver-binary
+- radonpy-pypi
+- apilmoji
 - parsefy
 - rnow
-- radonpy-pypi
 - apyds
 - odoo-addon-sale-order-lot-selection
 - clipassman
-- univi
-- keywordsai-sdk
 - snapfs
 - datamole
 - datamole-anshu-test
 - cdktf-cdktf-provider-github
-- qpa
 - wisent
 - pgmq
 - pyimport2pkg
@@ -30,12 +58,9 @@
 - ai-dynamo
 - twevals
 - mesh-toolkit
-- crispr-millipede
-- insight-router
 - slvrov-tools
 - pg-sui
 - GameSentenceMiner
-- dicom-to-video
 - programgarden-community
 - pdf-craft-sdk
 - mesh-plugin-manager
@@ -47,7 +72,6 @@
 - cdktf-cdktf-provider-databricks
 - winidjango
 - CASSIA
-- SURE-tools
 - bdnd
 - auto-coder
 - nucleation
@@ -61,28 +85,3 @@
 - sonarcal
 - rds-proxy-password-rotation
 - nextdns-blocker
-- thesportsdb
-- odoo-addon-openupgrade-scripts
-- homeharvest
-- cqc-quam-state
-- bitfloat
-- kryten-userstats
-- GANDLF
-- gmo-fx
-- mlx-weightlifter
-- claude-mpm
-- pyEdge-package-name-reservation-1
-- topk-bench
-- foundationx
-- nominal-api-protos
-- nominal-api
-- pyloopmessage
-- nrepl-lazuli
-- emqx-client-monitor
-- pyAgrum-nightly
-- sonika-langchain-bot
-- byteshare
-- radboy
-- patrix
-- gac
-- blastdns

@@ -1,0 +1,11 @@
+{
+  "name": "target-gcs",
+  "version": "1.2.3",
+  "summary": "`target-gcs` is a Singer target for GCS, built with the Meltano SDK for Singer Targets.",
+  "author": "Datateer Ops",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "target_gcs-1.2.3.tar.gz",
+  "download_time": "2025-12-06T04:31:55.101479",
+  "package_url": "https://pypi.org/project/target-gcs/"
+}
