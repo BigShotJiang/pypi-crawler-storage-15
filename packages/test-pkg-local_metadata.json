@@ -1,0 +1,11 @@
+{
+  "name": "test-pkg-local",
+  "version": "1.1.1",
+  "summary": "A test package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_pkg_local-1.1.1.tar.gz",
+  "download_time": "2025-12-06T18:26:44.558503",
+  "package_url": "https://pypi.org/project/test-pkg-local/"
+}

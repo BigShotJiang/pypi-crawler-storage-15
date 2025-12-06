@@ -1,11 +1,11 @@
 {
   "name": "tenets",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": "MCP server for AI coding assistants — intelligent code context via Model Context Protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tenets-0.6.4.tar.gz",
-  "download_time": "2025-12-06T17:52:42.096087",
+  "download_filename": "tenets-0.6.5.tar.gz",
+  "download_time": "2025-12-06T18:26:32.351097",
   "package_url": "https://pypi.org/project/tenets/"
 }

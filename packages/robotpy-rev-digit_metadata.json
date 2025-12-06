@@ -1,0 +1,11 @@
+{
+  "name": "robotpy-rev-digit",
+  "version": "1.1.0",
+  "summary": "A module for controlling the REV Digit Board from RobotPy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotpy_rev_digit-1.1.0.tar.gz",
+  "download_time": "2025-12-06T18:26:57.793130",
+  "package_url": "https://pypi.org/project/robotpy-rev-digit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-fk-links",
+  "version": "0.1.1",
+  "summary": "Reusable Django admin mixin that turns ForeignKey fields into direct links to their related admin change views.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_admin_fk_links-0.1.1.tar.gz",
+  "download_time": "2025-12-06T18:26:56.226482",
+  "package_url": "https://pypi.org/project/django-admin-fk-links/"
+}

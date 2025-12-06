@@ -1,0 +1,11 @@
+{
+  "name": "scikit-lite",
+  "version": "0.0.1a0",
+  "summary": "Lightweight machine learning library with scikit-learn compatible API",
+  "author": "scikit-lite contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scikit_lite-0.0.1a0.tar.gz",
+  "download_time": "2025-12-06T18:26:42.995469",
+  "package_url": "https://pypi.org/project/scikit-lite/"
+}

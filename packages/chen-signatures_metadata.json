@@ -1,11 +1,11 @@
 {
   "name": "chen-signatures",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Fast path signatures",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chen_signatures-0.3.0.tar.gz",
-  "download_time": "2025-12-04T10:23:15.804735",
+  "download_filename": "chen_signatures-0.3.1.tar.gz",
+  "download_time": "2025-12-06T18:27:06.682908",
   "package_url": "https://pypi.org/project/chen-signatures/"
 }

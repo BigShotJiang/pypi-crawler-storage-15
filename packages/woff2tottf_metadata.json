@@ -1,0 +1,11 @@
+{
+  "name": "woff2tottf",
+  "version": "0.1.2",
+  "summary": "A tool to convert WOFF2 font files to TTF format",
+  "author": "Venvokjr",
+  "license": null,
+  "home_page": "https://github.com/Venvok/Woff2ToTtf",
+  "download_filename": "woff2tottf-0.1.2.tar.gz",
+  "download_time": "2025-12-06T18:26:38.756156",
+  "package_url": "https://pypi.org/project/woff2tottf/"
+}
