@@ -1,0 +1,11 @@
+{
+  "name": "arbitbot",
+  "version": "0.1.1",
+  "summary": "Simple multi-exchange crypto arbitrage detector",
+  "author": "Hung-Ching-Lee",
+  "license": "MIT",
+  "home_page": "https://github.com/Hung-Ching-Lee/Arbitbot",
+  "download_filename": "arbitbot-0.1.1.tar.gz",
+  "download_time": "2025-12-06T13:39:32.470908",
+  "package_url": "https://pypi.org/project/arbitbot/"
+}

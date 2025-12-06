@@ -1,0 +1,11 @@
+{
+  "name": "lightweight-charts-pro",
+  "version": "0.1.0",
+  "summary": "Framework-agnostic Python core library for TradingView Lightweight Charts Pro",
+  "author": "Streamlit Lightweight Charts Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightweight_charts_pro-0.1.0.tar.gz",
+  "download_time": "2025-12-06T13:39:34.029534",
+  "package_url": "https://pypi.org/project/lightweight-charts-pro/"
+}

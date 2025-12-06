@@ -1,0 +1,11 @@
+{
+  "name": "cg3d-maya-casc",
+  "version": "1.6.1",
+  "summary": "Easily bridge data between Maya and Cascadeur with this Maya Module",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cg3d_maya_casc-1.6.1.tar.gz",
+  "download_time": "2025-12-06T13:39:31.952326",
+  "package_url": "https://pypi.org/project/cg3d-maya-casc/"
+}

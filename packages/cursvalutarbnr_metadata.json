@@ -1,11 +1,11 @@
 {
   "name": "cursvalutarbnr",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Conversie valuta straina in lei grei",
   "author": "Climente Alin",
   "license": null,
   "home_page": null,
-  "download_filename": "cursvalutarbnr-1.0.3.tar.gz",
-  "download_time": "2025-12-06T12:37:31.670949",
+  "download_filename": "cursvalutarbnr-1.0.5.tar.gz",
+  "download_time": "2025-12-06T13:39:45.663973",
   "package_url": "https://pypi.org/project/cursvalutarbnr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ape-lang",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "summary": "A deterministic AI-first programming language for unambiguous human-AI collaboration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ape_lang-0.2.2.tar.gz",
-  "download_time": "2025-12-05T23:19:28.685990",
+  "download_filename": "ape_lang-1.0.0.tar.gz",
+  "download_time": "2025-12-06T13:40:11.029830",
   "package_url": "https://pypi.org/project/ape-lang/"
 }
