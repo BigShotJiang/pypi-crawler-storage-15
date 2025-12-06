@@ -1,11 +1,11 @@
 {
   "name": "pir-optics",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Pixel impulse response calculations for DLP 3D printers  based on DMD micro-mirror arrays with projection optics",
   "author": null,
   "license": "BSD-3-Clause-Clear license",
   "home_page": null,
-  "download_filename": "pir_optics-0.1.0-py3-none-any.whl",
-  "download_time": "2025-12-03T19:24:53.921640",
+  "download_filename": "pir_optics-0.1.1-py3-none-any.whl",
+  "download_time": "2025-12-06T01:22:43.658413",
   "package_url": "https://pypi.org/project/pir-optics/"
 }

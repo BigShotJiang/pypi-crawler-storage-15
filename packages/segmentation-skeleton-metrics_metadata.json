@@ -1,11 +1,11 @@
 {
   "name": "segmentation-skeleton-metrics",
-  "version": "5.6.3",
+  "version": "5.6.6",
   "summary": "Python package for evaluating neuron segmentations in terms of the number of splits and merges",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "segmentation_skeleton_metrics-5.6.3.tar.gz",
-  "download_time": "2025-12-05T23:51:30.224255",
+  "download_filename": "segmentation_skeleton_metrics-5.6.6.tar.gz",
+  "download_time": "2025-12-06T01:22:46.366209",
   "package_url": "https://pypi.org/project/segmentation-skeleton-metrics/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-vaex",
+  "version": "1.16.11",
+  "summary": "Vaex plugin for flytekit",
+  "author": "admin@flyte.org",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_vaex-1.16.11.tar.gz",
+  "download_time": "2025-12-06T01:23:22.970261",
+  "package_url": "https://pypi.org/project/flytekitplugins-vaex/"
+}

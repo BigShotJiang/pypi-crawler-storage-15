@@ -1,11 +1,11 @@
 {
   "name": "lionpride",
-  "version": "1.0.0a5",
+  "version": "1.0.0a6",
   "summary": "The kernel layer for production AI agents - protocol-based, type-safe, zero framework lock-in",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lionpride-1.0.0a5.tar.gz",
-  "download_time": "2025-12-05T04:57:02.212937",
+  "download_filename": "lionpride-1.0.0a6.tar.gz",
+  "download_time": "2025-12-06T01:23:11.640416",
   "package_url": "https://pypi.org/project/lionpride/"
 }

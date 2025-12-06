@@ -1,11 +1,11 @@
 {
   "name": "aws-cdk.aws-route53resolver-alpha",
-  "version": "2.232.0a0",
+  "version": "2.232.1a0",
   "summary": "The CDK Construct Library for AWS::Route53Resolver",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws/aws-cdk",
-  "download_filename": "aws_cdk_aws_route53resolver_alpha-2.232.0a0.tar.gz",
-  "download_time": "2025-12-05T13:23:07.595556",
+  "download_filename": "aws_cdk_aws_route53resolver_alpha-2.232.1a0.tar.gz",
+  "download_time": "2025-12-06T01:22:55.115826",
   "package_url": "https://pypi.org/project/aws-cdk.aws-route53resolver-alpha/"
 }

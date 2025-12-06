@@ -1,11 +1,11 @@
 {
   "name": "aws-cdk.integ-tests-alpha",
-  "version": "2.232.0a0",
+  "version": "2.232.1a0",
   "summary": "CDK Integration Testing Constructs",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws/aws-cdk",
-  "download_filename": "aws_cdk_integ_tests_alpha-2.232.0a0.tar.gz",
-  "download_time": "2025-12-05T13:23:03.981040",
+  "download_filename": "aws_cdk_integ_tests_alpha-2.232.1a0.tar.gz",
+  "download_time": "2025-12-06T01:22:51.804971",
   "package_url": "https://pypi.org/project/aws-cdk.integ-tests-alpha/"
 }

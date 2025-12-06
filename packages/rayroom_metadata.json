@@ -1,11 +1,11 @@
 {
   "name": "rayroom",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "A Python-based ray tracing acoustics simulator supporting complex room geometries, materials, and furniture.",
   "author": "Yanis Labrak",
   "license": null,
   "home_page": null,
-  "download_filename": "rayroom-0.1.1-py3-none-any.whl",
-  "download_time": "2025-12-05T07:23:07.774853",
+  "download_filename": "rayroom-0.2.1.tar.gz",
+  "download_time": "2025-12-06T01:23:20.330636",
   "package_url": "https://pypi.org/project/rayroom/"
 }
