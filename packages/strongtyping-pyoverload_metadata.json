@@ -1,0 +1,11 @@
+{
+  "name": "strongtyping-pyoverload",
+  "version": "0.3.2",
+  "summary": "A Runtime method overload decorator.",
+  "author": "FelixTheC",
+  "license": "MIT",
+  "home_page": "https://strongtyping-pyoverload.readthedocs.io/en/latest/",
+  "download_filename": "strongtyping_pyoverload-0.3.2.tar.gz",
+  "download_time": "2025-12-06T08:47:47.253625",
+  "package_url": "https://pypi.org/project/strongtyping-pyoverload/"
+}

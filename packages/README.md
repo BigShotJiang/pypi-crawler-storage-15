@@ -1,11 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T08:25:12.445515
-- **Total Packages**: 69
-- **Total Size**: 2.68 MB
+- **Download Time**: 2025-12-06T08:48:25.080218
+- **Total Packages**: 78
+- **Total Size**: 31.15 MB
 
 ## Packages List
+- quickls
+- sm-py-bc
+- django-model-snapshots
+- mochi-coco
+- oarepo-c4gh
+- fraiseql
+- audiofeatures
+- strongtyping-pyoverload
+- ezmsg-lsl
+- trex-apis
+- trex-model
+- trex-conf
+- ApkPatcherX
+- spytify
+- minibt
+- django-liveview
+- kaq-quant-common
+- bitgrad
+- holocrontoolset
+- termonal-style
+- bookpicker
+- Qwael
+- coze-coding-utils
+- vllm-rs
+- svg-ultralight
+- ryutils
+- linux-ssh-mcp
+- kabukit
+- localization-analyzer
+- tardis-spac
+- mcp-gsheets-folder
+- mcp-memory-service
+- yutipy
+- serato-tools
+- unihra
+- game-ai-client
+- spark-eventlog-mcp
+- qtoggleserver-zigbee2mqtt
+- mcp-audit
+- fatsecret
+- pulumi-eks
+- korea-investment-stock
+- hyundai-kia-connect-api
+- mogu-sdk
+- colour-science
+- pyuikit
+- uipath-runtime
+- crew-sdk
+- tpu-inference
+- Microlensify
+- tf-models-nightly
+- bluer-ugv
+- bluer-sbc
+- snowfl
+- prylint
 - pyglove
 - ltws-parser
 - SimplerLLM
@@ -14,64 +69,18 @@
 - ai-infra
 - unitysvc-services
 - pyutool
-- svg-ultralight
 - contop
 - pypith-cli
 - pypith
 - aurai-imputer
-- mogu-sdk
-- bluer-sbc
 - xray-protocol-helper
 - dspydantic
 - cache-dit
 - python-binance
 - chatmemory
 - frontmatter-mcp
-- snowfl
 - metrima
 - minions
 - GeoBank
 - mcpcn-video-ai-subtitle-mcp
 - feature-generate
-- sm-py-bc
-- fastpy-cli
-- lftools
-- wppkg
-- qen
-- graphbench-lib
-- spellbot
-- pybytekv
-- mcp-memory-service
-- haoline
-- feldera
-- lopk
-- holocrontoolset
-- oelint-data
-- ant-ray-cpp-nightly
-- railguns
-- switchbot-actions
-- oplist-sdk
-- django-cfg
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- pandas-term
-- akari-site
-- Qwael
-- irradpy2
-- jupyterlab-chat-toy
-- wriftai
-- mcp-server-stdio
-- mw2fcitx
-- whereabouts
-- nemo-library-etl
-- kittylog
-- mtgeo
-- apathetic-schema
-- sportsdataverse
-- tidylog
-- exstruct
-- deprecat-agent
-- ttyd-client
-- cc-adapter
-- ai-edge-litert-nightly
-- PyObservability

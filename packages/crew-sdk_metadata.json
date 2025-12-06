@@ -1,0 +1,11 @@
+{
+  "name": "crew-sdk",
+  "version": "1.0.0",
+  "summary": "Crewhive agent SDK for Python",
+  "author": "Crewhive",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crew_sdk-1.0.0.tar.gz",
+  "download_time": "2025-12-06T08:48:09.271635",
+  "package_url": "https://pypi.org/project/crew-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yutipy",
+  "version": "3.0.0",
+  "summary": "A simple Python package to interact with various music platforms APIs.",
+  "author": "Cheap Nightbot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yutipy-3.0.0.tar.gz",
+  "download_time": "2025-12-06T08:48:01.039509",
+  "package_url": "https://pypi.org/project/yutipy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qtoggleserver-zigbee2mqtt",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "summary": "qToggleServer integration with Zigbee2MQTT",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "qtoggleserver_zigbee2mqtt-1.9.1.tar.gz",
-  "download_time": "2025-12-05T18:29:13.877409",
+  "download_filename": "qtoggleserver_zigbee2mqtt-1.9.2.tar.gz",
+  "download_time": "2025-12-06T08:48:04.092645",
   "package_url": "https://pypi.org/project/qtoggleserver-zigbee2mqtt/"
 }
