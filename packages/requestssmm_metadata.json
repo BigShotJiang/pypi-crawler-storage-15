@@ -1,11 +1,11 @@
 {
   "name": "requestssmm",
-  "version": "0.0.2.3",
+  "version": "0.0.2.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "requestssmm-0.0.2.3.tar.gz",
-  "download_time": "2025-12-06T05:53:14.474611",
+  "download_filename": "requestssmm-0.0.2.4.tar.gz",
+  "download_time": "2025-12-06T06:28:24.309370",
   "package_url": "https://pypi.org/project/requestssmm/"
 }

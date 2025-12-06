@@ -1,11 +1,11 @@
 {
   "name": "weegit",
-  "version": "0.0.13",
+  "version": "0.0.15",
   "summary": "Weegit - electrophysiology marking application",
   "author": "LIFT center",
   "license": null,
   "home_page": null,
-  "download_filename": "weegit-0.0.13.tar.gz",
-  "download_time": "2025-12-05T04:57:05.814547",
+  "download_filename": "weegit-0.0.15.tar.gz",
+  "download_time": "2025-12-06T06:28:19.701554",
   "package_url": "https://pypi.org/project/weegit/"
 }

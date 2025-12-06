@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T05:53:54.898916
-- **Total Packages**: 88
-- **Total Size**: 11.6 MB
+- **Download Time**: 2025-12-06T06:29:08.152164
+- **Total Packages**: 90
+- **Total Size**: 2.55 MB
 
 ## Packages List
+- pulumi-hcloud
+- pulumi-harness
+- supabase-audit-framework
+- weegit
+- pulumi-gitlab
+- fyodoros
+- pulumi-ise
+- nebula-client
+- cnhkmcp
+- pqsdk
+- pulumi-http
+- requestssmm
+- pulumi-ec
+- clustercomputers
+- pulumi-digitalocean
+- pulumi-github
+- protobuf-protoc-bin
+- pdf-craft-sdk
+- pulumi-docker
 - fastpy-cli
 - pulumi-f5bigip
 - openfund-taker
@@ -20,7 +39,6 @@
 - dhscan-agent
 - visual-guard
 - pulumi-databricks
-- requestssmm
 - stata-mcp
 - pulumi-dbtcloud
 - c2cwsgiutils
@@ -60,7 +78,6 @@
 - geek-cafe-saas-sdk
 - nonebot-plugin-pErithacus
 - evremixes
-- supabase-audit-framework
 - pulumi-archive
 - slidedeckai
 - pulumi-akamai
@@ -79,18 +96,3 @@
 - pytest-homeassistant-custom-component
 - inspect-scout
 - terra-scientific-pipelines-service-api-client
-- chaosgarden
-- fyodoros
-- oiiai-lib
-- insight-router
-- pdbfixer-wheel
-- leafmap
-- biopipen
-- iamdata
-- inspect-viz
-- llm-sandbox
-- wisent
-- shinymap
-- numba-cuda
-- ceylonai-next
-- jmd
