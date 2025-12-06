@@ -1,8 +1,10 @@
 {
-  "download_time": "2025-12-06T11:42:28.399304",
-  "total_packages_downloaded": 84,
-  "total_size_mb": 12.36,
+  "download_time": "2025-12-06T11:55:34.793154",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 0.17,
   "packages": [
+    "plone.meta",
+    "axpm",
     "zbToolLib",
     "Kekik",
     "fastapi-redaction",
@@ -85,7 +87,6 @@
     "Qwael",
     "binary-refinery",
     "bluer-ai",
-    "gha-utils",
-    "om2m-client"
+    "gha-utils"
   ]
 }

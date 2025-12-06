@@ -1,11 +1,13 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T11:42:28.399304
-- **Total Packages**: 84
-- **Total Size**: 12.36 MB
+- **Download Time**: 2025-12-06T11:55:34.793154
+- **Total Packages**: 85
+- **Total Size**: 0.17 MB
 
 ## Packages List
+- plone.meta
+- axpm
 - zbToolLib
 - Kekik
 - fastapi-redaction
@@ -89,4 +91,3 @@
 - binary-refinery
 - bluer-ai
 - gha-utils
-- om2m-client
