@@ -1,15 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T04:54:12.822963
-- **Total Packages**: 79
-- **Total Size**: 10.97 MB
+- **Download Time**: 2025-12-06T05:20:26.319367
+- **Total Packages**: 78
+- **Total Size**: 19.81 MB
 
 ## Packages List
+- awesome-tatsu-math
+- inspect-scout
+- terra-scientific-pipelines-service-api-client
+- chaosgarden
+- crispr-millipede
+- fyodoros
+- oiiai-lib
+- insight-router
+- pdbfixer-wheel
+- fastquadtree
+- leafmap
+- biopipen
+- iamdata
+- inspect-viz
+- llm-sandbox
+- aadc-cli
+- wisent
+- shinymap
+- numba-cuda
+- ceylonai-next
+- jmd
+- videofetch
+- vllm-rs
+- solarsynth
+- synth-ai
+- pipen-log2file
 - pytest-intent
 - typedpg
 - anyt
-- pdbfixer-wheel
 - nautobot-chatops
 - robloxmemoryapi
 - target-gcs
@@ -19,14 +44,12 @@
 - guidelinely
 - sc-common-interface
 - verge-auth-sdk
-- crispr-millipede
 - keras-nlp-nightly
 - keras-hub-nightly
 - univi
 - pdfalive
 - pypck
 - coiled
-- insight-router
 - lager-cli
 - textual-nerv
 - odoo-addons-oca-stock-logistics-workflow
@@ -37,7 +60,6 @@
 - dicom-to-video
 - keywordsai-sdk
 - qolsys-controller
-- oiiai-lib
 - cubething_psync
 - chromedriver-binary
 - radonpy-pypi
@@ -51,7 +73,6 @@
 - datamole
 - datamole-anshu-test
 - cdktf-cdktf-provider-github
-- wisent
 - pgmq
 - pyimport2pkg
 - fastapi-custom-responses
@@ -63,25 +84,3 @@
 - twevals
 - mesh-toolkit
 - slvrov-tools
-- pg-sui
-- GameSentenceMiner
-- programgarden-community
-- pdf-craft-sdk
-- mesh-plugin-manager
-- nonebot-plugin-rollpig
-- ras-commander
-- pywebtask
-- reap-protocol
-- manimvtk
-- cdktf-cdktf-provider-databricks
-- winidjango
-- CASSIA
-- bdnd
-- auto-coder
-- nucleation
-- byzerllm
-- sawnergy
-- exstruct
-- ivpm
-- winipyside
-- opaque-ke-py

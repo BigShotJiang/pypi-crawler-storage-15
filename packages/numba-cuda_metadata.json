@@ -1,0 +1,11 @@
+{
+  "name": "numba-cuda",
+  "version": "0.22.1",
+  "summary": "CUDA target for Numba",
+  "author": "Anaconda Inc., NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "numba_cuda-0.22.1.tar.gz",
+  "download_time": "2025-12-06T05:19:50.932738",
+  "package_url": "https://pypi.org/project/numba-cuda/"
+}

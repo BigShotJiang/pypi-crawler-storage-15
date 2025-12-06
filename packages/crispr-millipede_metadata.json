@@ -1,11 +1,11 @@
 {
   "name": "crispr-millipede",
-  "version": "0.1.170",
+  "version": "0.1.171",
   "summary": "Calculate the enrichment scores of CRISPR alleles and variants from direct target amplicon-sequencing data using Bayesian linear regression model 'millipede'",
   "author": "Basheer Becerra",
   "license": null,
   "home_page": null,
-  "download_filename": "crispr_millipede-0.1.170.tar.gz",
-  "download_time": "2025-12-06T04:53:32.850489",
+  "download_filename": "crispr_millipede-0.1.171.tar.gz",
+  "download_time": "2025-12-06T05:19:41.666798",
   "package_url": "https://pypi.org/project/crispr-millipede/"
 }
