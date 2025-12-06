@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T19:29:28.137710
+- **Download Time**: 2025-12-06T19:40:41.609177
 - **Total Packages**: 76
-- **Total Size**: 20.59 MB
+- **Total Size**: 11.19 MB
 
 ## Packages List
+- django5-spoll
+- depup
+- auramcp
+- devrules
+- abraia
+- lazy-locker
+- in-layers-core
+- mkx
+- abstract-utilities
+- fastpy-cli
+- octodns-keenetic
+- sportsdatabase
+- intugle
+- MPSPlots
+- PyThermoLinkDB
+- rayforce-py
+- django-spellbook
+- lazy-log-formatter
+- openscoring
+- haoline
 - andclust
 - fastkafka2
 - abstract-flask
@@ -13,11 +33,9 @@
 - hopsworks
 - jps-llm-prompt-app
 - xhshow
-- haoline
 - useful-rdkit-utils
 - truchet-viewer
 - growthbook
-- in-layers-core
 - hbat
 - py-ds-academy
 - ape-langchain
@@ -30,7 +48,6 @@
 - hatch
 - easyborg
 - topaz-agent-kit
-- fastpy-cli
 - cltk
 - oktoblas
 - x-evolution
@@ -50,7 +67,6 @@
 - putergenai
 - gac
 - fastrub
-- auramcp
 - lestra
 - fastmlapi
 - context-portal-mcp
@@ -66,19 +82,3 @@
 - supabase-pydantic
 - sakuragasaki46-suou
 - suou
-- lib-hero-raf
-- colour-demosaicing
-- abstract-utilities
-- relia-oss
-- geometor-explorer
-- edu-difficulty-rank
-- dusted
-- chat2edit
-- vizforge
-- code-puppy
-- mecha
-- redgit
-- django-telegram-app
-- lcc2json
-- exc-analyzer
-- ikigai

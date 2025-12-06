@@ -1,0 +1,11 @@
+{
+  "name": "openscoring",
+  "version": "0.8.0.post1",
+  "summary": "Python client library for the Openscoring REST web service (https://github.com/openscoring/openscoring)",
+  "author": "Villu Ruusmann",
+  "license": "GNU Affero General Public License (AGPL) version 3.0",
+  "home_page": "https://github.com/openscoring/openscoring-python",
+  "download_filename": "openscoring-0.8.0.post1.tar.gz",
+  "download_time": "2025-12-06T19:40:11.045054",
+  "package_url": "https://pypi.org/project/openscoring/"
+}
