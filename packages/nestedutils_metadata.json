@@ -1,0 +1,11 @@
+{
+  "name": "nestedutils",
+  "version": "1.0.0",
+  "summary": "A lightweight Python library for safely navigating and manipulating nested data structures (dicts, lists) using simple dot-notation paths. Ideal for JSON APIs, configs, and complex dict/list objects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nestedutils-1.0.0.tar.gz",
+  "download_time": "2025-12-06T07:18:35.747053",
+  "package_url": "https://pypi.org/project/nestedutils/"
+}

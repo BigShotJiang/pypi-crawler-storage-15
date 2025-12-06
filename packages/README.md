@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T06:51:57.925250
-- **Total Packages**: 88
-- **Total Size**: 56.14 MB
+- **Download Time**: 2025-12-06T07:19:17.347738
+- **Total Packages**: 87
+- **Total Size**: 15.46 MB
 
 ## Packages List
+- pykaos
+- zephyr-mcumgr
+- haoline
+- tritonparse
+- azarashi
+- bdnd
+- mesh-plugin-manager
+- pulumi-opsgenie
+- kaq-quant-common
+- gnx
+- pandas-term
+- nestedutils
+- Qwael
+- rumoca
+- private-attribute
+- devscore
+- taskController
+- socrates-ai
+- raggify-client
+- raggify
+- streamlit-nightly
+- scruby
+- pulumi-tls
+- pulumi-vault
+- unitysvc-services
+- autonomous-claude
+- pulumi-linode
+- pulumi-snowflake
+- pulumi-wavefront
+- akari-site
+- pulumi-vsphere
+- vllm-tpu
+- pulumi-venafi
+- iSVG
 - pulumi-awsx
 - apathetic-schema
 - pulumi-cloudflare
@@ -17,7 +51,6 @@
 - pulumi-spotinst
 - tpu-inference
 - pulumi-tailscale
-- socrates-ai
 - sonarcal
 - ttyd-client
 - passagemath-rankwidth
@@ -38,7 +71,6 @@
 - ryumem
 - pulumi-signalfx
 - opentelemetry-instrumentation-aerospike
-- private-attribute
 - tpath
 - pulumi-rancher2
 - growwapi
@@ -47,7 +79,6 @@
 - ryugraph
 - pulumi-okta
 - prylint
-- akari-site
 - vha-toolbox
 - pulumi-openstack
 - wisent
@@ -62,35 +93,3 @@
 - pulumi-nomad
 - dockai-cli
 - gac
-- sleipnirgroup-jormungandr
-- pulumi-mysql
-- mplang-nightly
-- fastpy-cli
-- autonomous-claude
-- irradpy2
-- cdk8s-awscdk-resolver
-- netgraph-core
-- pulumi-minio
-- zelphi
-- pulumi-aws-native
-- pyThermoCalcDB
-- pysilica
-- pulumi-mailgun
-- flowtools-zxt
-- bustapi
-- rnow
-- tator
-- superagentx
-- malwareclassify
-- pyg-nightly
-- goodreads-export
-- frist
-- sphinx-localecmddoc
-- pulumi-kong
-- nonebot-plugin-pErithacus
-- pulumi-keycloak
-- pulumi-kafka
-- pulumi-hcloud
-- pulumi-harness
-- supabase-audit-framework
-- weegit

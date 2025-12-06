@@ -1,11 +1,11 @@
 {
   "name": "rumoca",
-  "version": "0.7.18",
+  "version": "0.7.19",
   "summary": "Python interface for the Rumoca Modelica compiler",
   "author": "Rumoca Contributors",
   "license": "Apache-2.0",
   "home_page": "https://github.com/jgoppert/rumoca",
-  "download_filename": "rumoca-0.7.18.tar.gz",
-  "download_time": "2025-12-05T18:51:02.490016",
+  "download_filename": "rumoca-0.7.19.tar.gz",
+  "download_time": "2025-12-06T07:18:36.809025",
   "package_url": "https://pypi.org/project/rumoca/"
 }

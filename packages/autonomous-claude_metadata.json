@@ -1,11 +1,11 @@
 {
   "name": "autonomous-claude",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "Build apps autonomously with Claude Code CLI",
   "author": "Ferdous Bhai",
   "license": null,
   "home_page": null,
-  "download_filename": "autonomous_claude-0.6.3.tar.gz",
-  "download_time": "2025-12-06T06:28:45.997036",
+  "download_filename": "autonomous_claude-0.6.4.tar.gz",
+  "download_time": "2025-12-06T07:18:43.140176",
   "package_url": "https://pypi.org/project/autonomous-claude/"
 }

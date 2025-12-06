@@ -1,11 +1,11 @@
 {
   "name": "socrates-ai",
-  "version": "0.6.3",
+  "version": "0.6.6",
   "summary": "A Socratic method tutoring system powered by Claude AI with multi-agent orchestration",
   "author": "Socrates AI Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "socrates_ai-0.6.3.tar.gz",
-  "download_time": "2025-12-06T06:51:15.041792",
+  "download_filename": "socrates_ai-0.6.6.tar.gz",
+  "download_time": "2025-12-06T07:18:38.903219",
   "package_url": "https://pypi.org/project/socrates-ai/"
 }
