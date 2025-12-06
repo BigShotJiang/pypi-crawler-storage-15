@@ -1,0 +1,11 @@
+{
+  "name": "fastkafka2",
+  "version": "0.2.0",
+  "summary": "Next-generation FastAPI-like DX for Kafka (version 2)",
+  "author": "Ruslan Kiradiev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastkafka2-0.2.0.tar.gz",
+  "download_time": "2025-12-06T18:48:53.948207",
+  "package_url": "https://pypi.org/project/fastkafka2/"
+}

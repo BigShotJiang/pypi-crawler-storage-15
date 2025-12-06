@@ -1,12 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T18:27:08.224107
-- **Total Packages**: 76
-- **Total Size**: 77.86 MB
+- **Download Time**: 2025-12-06T18:49:24.471272
+- **Total Packages**: 73
+- **Total Size**: 11.3 MB
 
 ## Packages List
+- cpe-search
+- anifetch-rs
 - small-rag
+- cc-adapter
+- relia-oss
+- deltafi
+- abstract-utilities
+- pyonix-core
+- ai-drift
+- django-spellbook
+- deepseek-ocr-cli
+- LMTodo
+- keyneg
+- gac
+- pythopesis
+- woff2tottf
+- MPSPlots
+- mcp-ticketer
+- tenets
+- fastkafka2
+- zpickle
 - pyreverb
 - stellars-jupyterlab-extensions
 - vllama
@@ -14,8 +34,6 @@
 - jupyterlab-colourful-tab-extension
 - x-mlps-pytorch
 - VideoTimestamps
-- django-spellbook
-- tenets
 - 2025-assignment2-vaultPasswordManager
 - remdb
 - bisheng-pyautogen-lc1
@@ -27,17 +45,14 @@
 - ezvals
 - image-sharpner
 - rindle
-- woff2tottf
 - epsonrc
 - browsergym-workarena
 - asciiquarium-redux
-- deepseek-ocr-cli
 - compress-utils
 - adctoolbox
 - agentic-python-coder
 - scikit-lite
 - ysaqml
-- cc-adapter
 - test-pkg-local
 - securitybreaches-jyoti
 - jettask
@@ -64,21 +79,3 @@
 - pipgeo
 - robotpy-rev-digit
 - lazy-locker
-- meshagent-cli
-- meshagent-computers
-- meshagent-agents
-- meshagent-openai
-- gsply
-- meshagent
-- meshagent-livekit
-- meshagent-mcp
-- meshagent-api
-- meshagent-tools
-- meshagent-otel
-- meshagent-markitdown
-- schemathesis
-- vcspull
-- txgraffiti
-- chen-signatures
-- odoo-addon-mrp-production-back-to-draft
-- odoo-addon-mrp-bom-tracking

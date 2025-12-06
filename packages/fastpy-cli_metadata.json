@@ -1,11 +1,11 @@
 {
   "name": "fastpy-cli",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "summary": "Create production-ready FastAPI projects with one command",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastpy_cli-1.2.4.tar.gz",
-  "download_time": "2025-12-06T18:26:34.499194",
+  "download_filename": "fastpy_cli-1.2.6.tar.gz",
+  "download_time": "2025-12-06T18:49:00.755240",
   "package_url": "https://pypi.org/project/fastpy-cli/"
 }
