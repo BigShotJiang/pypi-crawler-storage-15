@@ -1,0 +1,11 @@
+{
+  "name": "pepflex",
+  "version": "0.0.4",
+  "summary": "A modular framework for in silico peptide screening and evolution.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pepflex-0.0.4.tar.gz",
+  "download_time": "2025-12-06T20:41:59.726069",
+  "package_url": "https://pypi.org/project/pepflex/"
+}

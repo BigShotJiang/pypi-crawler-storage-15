@@ -1,0 +1,11 @@
+{
+  "name": "backports.zstd",
+  "version": "1.2.0",
+  "summary": "Backport of compression.zstd",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "backports_zstd-1.2.0.tar.gz",
+  "download_time": "2025-12-06T20:42:14.650790",
+  "package_url": "https://pypi.org/project/backports.zstd/"
+}

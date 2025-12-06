@@ -1,0 +1,11 @@
+{
+  "name": "verbose-csrf-middleware",
+  "version": "5.2.0",
+  "summary": "Verbatim copy of Django's CSRF middleware, but with more verbose error messages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "verbose_csrf_middleware-5.2.0.tar.gz",
+  "download_time": "2025-12-06T20:42:13.543943",
+  "package_url": "https://pypi.org/project/verbose-csrf-middleware/"
+}

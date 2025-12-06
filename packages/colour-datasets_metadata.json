@@ -1,0 +1,11 @@
+{
+  "name": "colour-datasets",
+  "version": "0.2.7",
+  "summary": "Colour science datasets for use with Colour",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "colour_datasets-0.2.7.tar.gz",
+  "download_time": "2025-12-06T20:42:02.017375",
+  "package_url": "https://pypi.org/project/colour-datasets/"
+}

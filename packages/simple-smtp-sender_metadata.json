@@ -1,0 +1,11 @@
+{
+  "name": "simple-smtp-sender",
+  "version": "0.3.0",
+  "summary": "A Simple SMTP Email sender crate with the support of sync or async sending. Can be called from Python. Powered by PyO3.",
+  "author": "Guangyu He <fredhgy2010@gmail.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_smtp_sender-0.3.0.tar.gz",
+  "download_time": "2025-12-06T20:41:53.226497",
+  "package_url": "https://pypi.org/project/simple-smtp-sender/"
+}
