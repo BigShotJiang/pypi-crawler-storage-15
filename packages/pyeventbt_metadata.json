@@ -1,0 +1,11 @@
+{
+  "name": "pyeventbt",
+  "version": "0.0.2",
+  "summary": "Event-driven backtesting and live trading framework for Python and MetaTrader 5",
+  "author": "Marti Castany, Alain Porto",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/marticastany/pyeventbt",
+  "download_filename": "pyeventbt-0.0.2.tar.gz",
+  "download_time": "2025-12-06T11:16:34.743087",
+  "package_url": "https://pypi.org/project/pyeventbt/"
+}

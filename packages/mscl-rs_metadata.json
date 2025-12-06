@@ -1,0 +1,11 @@
+{
+  "name": "mscl-rs",
+  "version": "0.1.0",
+  "summary": "Parser for MicroStrain Communication Library (MSCL) packets in Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mscl_rs-0.1.0.tar.gz",
+  "download_time": "2025-12-06T11:16:12.321262",
+  "package_url": "https://pypi.org/project/mscl-rs/"
+}

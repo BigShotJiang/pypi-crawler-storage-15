@@ -1,11 +1,11 @@
 {
   "name": "arxiv-paper-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP Server for searching and reading arXiv papers",
   "author": "aari",
   "license": null,
   "home_page": null,
-  "download_filename": "arxiv_paper_mcp_server-0.1.0.tar.gz",
-  "download_time": "2025-12-06T10:43:37.491221",
+  "download_filename": "arxiv_paper_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-12-06T11:16:27.415930",
   "package_url": "https://pypi.org/project/arxiv-paper-mcp-server/"
 }

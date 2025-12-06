@@ -1,11 +1,11 @@
 {
   "name": "color-notify",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Desktop notification tool for clipboard color code detection",
   "author": "Hadi Cahyadi",
   "license": null,
   "home_page": "https://github.com/cumulus13/color-notify",
-  "download_filename": "color_notify-1.0.1.tar.gz",
-  "download_time": "2025-12-06T10:43:43.081326",
+  "download_filename": "color_notify-1.0.3.tar.gz",
+  "download_time": "2025-12-06T11:16:30.017296",
   "package_url": "https://pypi.org/project/color-notify/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aadc-cli",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "AADC - Agentic AI Developer Console. Build anything with AI.",
   "author": "AADC Team",
   "license": null,
   "home_page": "https://github.com/yourusername/aadc",
-  "download_filename": "aadc_cli-1.0.6.tar.gz",
-  "download_time": "2025-12-06T10:52:48.810029",
+  "download_filename": "aadc_cli-1.0.8.tar.gz",
+  "download_time": "2025-12-06T11:16:06.597297",
   "package_url": "https://pypi.org/project/aadc-cli/"
 }

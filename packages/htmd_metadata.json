@@ -1,0 +1,11 @@
+{
+  "name": "htmd",
+  "version": "6.0.0",
+  "summary": "Write Markdown and Jinja2 templates to create a website",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "htmd-6.0.0.tar.gz",
+  "download_time": "2025-12-06T11:16:16.497919",
+  "package_url": "https://pypi.org/project/htmd/"
+}

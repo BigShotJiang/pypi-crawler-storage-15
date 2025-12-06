@@ -1,11 +1,11 @@
 {
   "name": "nagini3D",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Implementation of NAGINI-3D, a python package designed for Multi-Object Segmentation in Biological Imaging based on deep learning and active surfaces.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nagini3d-0.2.1.tar.gz",
-  "download_time": "2025-12-05T14:46:34.329578",
+  "download_filename": "nagini3d-0.2.2.tar.gz",
+  "download_time": "2025-12-06T11:16:10.761860",
   "package_url": "https://pypi.org/project/nagini3D/"
 }

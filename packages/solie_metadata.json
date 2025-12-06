@@ -1,11 +1,11 @@
 {
   "name": "solie",
-  "version": "9.3.1",
+  "version": "9.3.2",
   "summary": "GUI trading bot designed for targeting the futures markets of Binance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "solie-9.3.1.tar.gz",
-  "download_time": "2025-12-04T19:02:31.095398",
+  "download_filename": "solie-9.3.2.tar.gz",
+  "download_time": "2025-12-06T11:16:11.280035",
   "package_url": "https://pypi.org/project/solie/"
 }
