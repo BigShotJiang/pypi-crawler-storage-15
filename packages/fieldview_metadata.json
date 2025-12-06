@@ -1,0 +1,11 @@
+{
+  "name": "fieldview",
+  "version": "0.3.0",
+  "summary": "Python + Qt based 2D data visualization solution for irregular data points",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fieldview-0.3.0.tar.gz",
+  "download_time": "2025-12-06T10:43:58.012478",
+  "package_url": "https://pypi.org/project/fieldview/"
+}

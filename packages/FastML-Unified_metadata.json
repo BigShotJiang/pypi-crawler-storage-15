@@ -1,0 +1,11 @@
+{
+  "name": "FastML-Unified",
+  "version": "2.0.0",
+  "summary": "The unified Machine Learning Acceleration Framework with extreme compression and multi-device optimization",
+  "author": "FastML Development Team",
+  "license": null,
+  "home_page": "https://github.com/fastml/fastml-unified",
+  "download_filename": "fastml_unified-2.0.0.tar.gz",
+  "download_time": "2025-12-06T10:43:32.406784",
+  "package_url": "https://pypi.org/project/FastML-Unified/"
+}

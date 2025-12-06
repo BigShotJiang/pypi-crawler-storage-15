@@ -1,11 +1,11 @@
 {
   "name": "pyonix-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A robust, secure, and maintainable ONIX 3.x Python library using xsdata.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyonix_core-0.1.0-py3-none-any.whl",
-  "download_time": "2025-12-06T09:45:09.753349",
+  "download_filename": "pyonix_core-0.1.1.tar.gz",
+  "download_time": "2025-12-06T10:43:46.134544",
   "package_url": "https://pypi.org/project/pyonix-core/"
 }

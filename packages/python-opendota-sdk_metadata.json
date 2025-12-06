@@ -1,0 +1,11 @@
+{
+  "name": "python-opendota-sdk",
+  "version": "7.39.5.1.dev3",
+  "summary": "Modern async Python wrapper for the OpenDota API with full type support",
+  "author": "Python OpenDota Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_opendota_sdk-7.39.5.1.dev3.tar.gz",
+  "download_time": "2025-12-06T10:43:30.375259",
+  "package_url": "https://pypi.org/project/python-opendota-sdk/"
+}
