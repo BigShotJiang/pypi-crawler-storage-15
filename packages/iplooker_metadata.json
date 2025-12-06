@@ -1,0 +1,11 @@
+{
+  "name": "iplooker",
+  "version": "0.5.1",
+  "summary": "Look up location, ISP, and more about an IP address from multiple sources",
+  "author": "Danny Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iplooker-0.5.1.tar.gz",
+  "download_time": "2025-12-06T05:43:38.806013",
+  "package_url": "https://pypi.org/project/iplooker/"
+}

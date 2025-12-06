@@ -1,0 +1,11 @@
+{
+  "name": "jumpyng",
+  "version": "0.1.9",
+  "summary": "Utilities for DeepLabCut-based jumping experiments",
+  "author": "Kevin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jumpyng-0.1.9.tar.gz",
+  "download_time": "2025-12-06T05:43:36.488807",
+  "package_url": "https://pypi.org/project/jumpyng/"
+}

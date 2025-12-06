@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T05:20:26.319367
-- **Total Packages**: 78
-- **Total Size**: 19.81 MB
+- **Download Time**: 2025-12-06T05:44:06.725352
+- **Total Packages**: 88
+- **Total Size**: 15.49 MB
 
 ## Packages List
+- requestssmm
+- pulumi-cloudngfwaws
+- pulumi-cloudinit
+- autonomous-claude
+- exstruct
+- pulumi-azuread
+- gwozai-wechat-bot
+- pulumi-azuredevops
+- pulumi-cloudamqp
+- pulumi-alicloud
+- flowmachine
+- flowclient
+- flowkit-jwt-generator
+- flowetl
+- iceprod
+- rnow
+- wagtail-reusable-blocks
+- mat3ra-standata
+- pulumi-auth0
+- pyjinhx
+- dsbin
+- FourCIPP
+- pulumi-artifactory
+- geek-cafe-saas-sdk
+- nonebot-plugin-pErithacus
+- evremixes
+- supabase-audit-framework
+- pulumi-archive
+- slidedeckai
+- visual-guard
+- pulumi-akamai
+- pulumi-aiven
+- ourotools
+- ai-infra
+- jupyter-ai-jupyternaut
+- jumpyng
+- aadc-cli
+- haoline
+- dvc
+- iplooker
+- prism-config
+- osteoid
+- yu-pytools
+- practiso-sdk
+- pytest-homeassistant-custom-component
 - awesome-tatsu-math
 - inspect-scout
 - terra-scientific-pipelines-service-api-client
@@ -21,7 +66,6 @@
 - iamdata
 - inspect-viz
 - llm-sandbox
-- aadc-cli
 - wisent
 - shinymap
 - numba-cuda
@@ -50,37 +94,3 @@
 - pdfalive
 - pypck
 - coiled
-- lager-cli
-- textual-nerv
-- odoo-addons-oca-stock-logistics-workflow
-- canvas_downloader
-- snowflake-connector-python-nightly
-- qpa
-- pytest-error
-- dicom-to-video
-- keywordsai-sdk
-- qolsys-controller
-- cubething_psync
-- chromedriver-binary
-- radonpy-pypi
-- apilmoji
-- parsefy
-- rnow
-- apyds
-- odoo-addon-sale-order-lot-selection
-- clipassman
-- snapfs
-- datamole
-- datamole-anshu-test
-- cdktf-cdktf-provider-github
-- pgmq
-- pyimport2pkg
-- fastapi-custom-responses
-- ezKit
-- celldega
-- kvbm
-- programgarden
-- ai-dynamo
-- twevals
-- mesh-toolkit
-- slvrov-tools

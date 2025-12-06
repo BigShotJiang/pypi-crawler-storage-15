@@ -1,0 +1,11 @@
+{
+  "name": "gwozai-wechat-bot",
+  "version": "2.0.0",
+  "summary": "企业微信群机器人 Python SDK，支持所有消息类型、自动重试、异步发送、消息模板",
+  "author": "gwozai",
+  "license": "MIT",
+  "home_page": "https://github.com/gwozai/gwozai-wechat-bot",
+  "download_filename": "gwozai_wechat_bot-2.0.0.tar.gz",
+  "download_time": "2025-12-06T05:43:19.683496",
+  "package_url": "https://pypi.org/project/gwozai-wechat-bot/"
+}
