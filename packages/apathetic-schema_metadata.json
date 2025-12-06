@@ -1,11 +1,11 @@
 {
   "name": "apathetic-schema",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Type-based validation for dict-based configs.",
   "author": "Apathetic Tools",
   "license": null,
   "home_page": null,
-  "download_filename": "apathetic_schema-0.1.1.tar.gz",
-  "download_time": "2025-12-06T07:18:48.426366",
+  "download_filename": "apathetic_schema-0.1.2.tar.gz",
+  "download_time": "2025-12-06T07:39:11.212589",
   "package_url": "https://pypi.org/project/apathetic-schema/"
 }

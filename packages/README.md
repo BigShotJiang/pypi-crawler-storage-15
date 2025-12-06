@@ -1,14 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T07:19:17.347738
-- **Total Packages**: 87
-- **Total Size**: 15.46 MB
+- **Download Time**: 2025-12-06T07:39:48.918493
+- **Total Packages**: 77
+- **Total Size**: 23.89 MB
 
 ## Packages List
+- Qwael
+- akari-site
+- lftools
+- irradpy2
+- jupyterlab-chat-toy
+- wriftai
+- mcp-server-stdio
+- mw2fcitx
+- whereabouts
+- haoline
+- nemo-library-etl
+- kittylog
+- mtgeo
+- sm-py-bc
+- pandas-term
+- apathetic-schema
+- sportsdataverse
+- tidylog
+- exstruct
+- deprecat-agent
+- ttyd-client
+- cc-adapter
+- ai-edge-litert-nightly
+- PyObservability
 - pykaos
 - zephyr-mcumgr
-- haoline
 - tritonparse
 - azarashi
 - bdnd
@@ -16,9 +39,7 @@
 - pulumi-opsgenie
 - kaq-quant-common
 - gnx
-- pandas-term
 - nestedutils
-- Qwael
 - rumoca
 - private-attribute
 - devscore
@@ -35,13 +56,11 @@
 - pulumi-linode
 - pulumi-snowflake
 - pulumi-wavefront
-- akari-site
 - pulumi-vsphere
 - vllm-tpu
 - pulumi-venafi
 - iSVG
 - pulumi-awsx
-- apathetic-schema
 - pulumi-cloudflare
 - gha-utils
 - serverz-ag-debug
@@ -52,7 +71,6 @@
 - tpu-inference
 - pulumi-tailscale
 - sonarcal
-- ttyd-client
 - passagemath-rankwidth
 - wardcliff
 - passagemath-plot
@@ -65,31 +83,3 @@
 - pulumi-sdwan
 - passagemath-cmr
 - passagemath-cliquer
-- passagemath-cddlib
-- pulumi-slack
-- passagemath-categories
-- ryumem
-- pulumi-signalfx
-- opentelemetry-instrumentation-aerospike
-- tpath
-- pulumi-rancher2
-- growwapi
-- pulumi-rabbitmq
-- pulumi-pagerduty
-- ryugraph
-- pulumi-okta
-- prylint
-- vha-toolbox
-- pulumi-openstack
-- wisent
-- remotable-function
-- pulumi-mongodbatlas
-- frontmatter-mcp
-- pulumi-newrelic
-- pyscreeps-arena
-- pulumi-meraki
-- pulumi-null
-- pulumi-ns1
-- pulumi-nomad
-- dockai-cli
-- gac

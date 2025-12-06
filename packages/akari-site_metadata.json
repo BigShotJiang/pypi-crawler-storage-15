@@ -1,11 +1,11 @@
 {
   "name": "akari-site",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A minimalist static site generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "akari_site-0.1.1.tar.gz",
-  "download_time": "2025-12-06T07:18:45.229113",
+  "download_filename": "akari_site-0.1.3.tar.gz",
+  "download_time": "2025-12-06T07:39:02.193237",
   "package_url": "https://pypi.org/project/akari-site/"
 }

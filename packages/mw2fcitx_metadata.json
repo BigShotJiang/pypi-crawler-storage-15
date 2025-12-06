@@ -1,0 +1,11 @@
+{
+  "name": "mw2fcitx",
+  "version": "0.24.1",
+  "summary": "Build fcitx5/RIME dictionaries from MediaWiki sites",
+  "author": "Outvi V",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mw2fcitx-0.24.1.tar.gz",
+  "download_time": "2025-12-06T07:39:05.860508",
+  "package_url": "https://pypi.org/project/mw2fcitx/"
+}

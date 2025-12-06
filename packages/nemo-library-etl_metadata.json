@@ -1,11 +1,11 @@
 {
   "name": "nemo-library-etl",
-  "version": "0.1.70",
+  "version": "0.1.71",
   "summary": "ETL Tools for Nemo",
   "author": "Gunnar Schug",
   "license": null,
   "home_page": null,
-  "download_filename": "nemo_library_etl-0.1.70.tar.gz",
-  "download_time": "2025-12-04T05:44:18.840158",
+  "download_filename": "nemo_library_etl-0.1.71.tar.gz",
+  "download_time": "2025-12-06T07:39:07.702622",
   "package_url": "https://pypi.org/project/nemo-library-etl/"
 }

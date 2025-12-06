@@ -1,11 +1,11 @@
 {
   "name": "wriftai",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "Python client for WriftAI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wriftai-0.12.0.tar.gz",
-  "download_time": "2025-12-02T14:27:10.076052",
+  "download_filename": "wriftai-0.13.0.tar.gz",
+  "download_time": "2025-12-06T07:39:04.672741",
   "package_url": "https://pypi.org/project/wriftai/"
 }
