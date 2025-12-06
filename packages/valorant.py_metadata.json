@@ -1,0 +1,11 @@
+{
+  "name": "valorant.py",
+  "version": "2.3.1",
+  "summary": "An API wrapper for Valorant API written in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "valorant_py-2.3.1.tar.gz",
+  "download_time": "2025-12-06T16:56:21.144549",
+  "package_url": "https://pypi.org/project/valorant.py/"
+}

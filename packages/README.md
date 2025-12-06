@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T16:47:50.093553
-- **Total Packages**: 82
-- **Total Size**: 24.28 MB
+- **Download Time**: 2025-12-06T16:56:57.049999
+- **Total Packages**: 83
+- **Total Size**: 25.65 MB
 
 ## Packages List
+- subnoto-api-client
+- NEMO-CE
+- fabric-datalake-manager
+- comfyui-workflow-templates
+- rafael-framework
+- comfyui-workflow-templates-media-image
+- comfyui-workflow-templates-core
+- gns3-copilot
+- nrt-pytest-soft-asserts
+- mappingtools
+- gammarers.aws-cdk-errors
+- meridian-oss
+- cyvest
+- liblaf-peach
+- aidlabsdk
+- relia-oss
+- jettask
+- valorant.py
+- feather-ai-sdk
+- istatcelldata
+- supabase-audit-framework
+- language-pipes
+- n8ntools
+- mkdocs-excalidraw
+- snakemake
+- trading-service-utils
 - kaiserlift
 - qifeaturex
 - chuk-mcp-math-server
@@ -16,7 +42,6 @@
 - ilulab
 - pulse-framework
 - lrxy
-- supabase-audit-framework
 - flaxkv2
 - meshagent-markitdown
 - meshagent-otel
@@ -32,7 +57,6 @@
 - devgenius-mcp-client
 - ibkr-mcp
 - langchain-openmemory
-- jettask
 - PycordViews
 - dist-gaus-bino
 - cputester
@@ -40,13 +64,10 @@
 - ezmsg-lsl
 - tiktok-downloader-hd
 - django-spellbook
-- relia-oss
 - tree-sitter-pgn
 - ayechat
 - recline
-- fabric-datalake-manager
 - ckb-textify
-- gns3-copilot
 - descanso
 - dora-eda
 - vtrim
@@ -68,23 +89,3 @@
 - smartpush
 - agentic-control-crews
 - nsb64
-- atsphinx-bulma
-- ardupilot-methodic-configurator
-- setupEM
-- pdval
-- torchrtm
-- doi2bib3
-- danom
-- pyhmmer
-- bluer-ugv
-- django-manifeststaticfiles-enhanced
-- social-links
-- dataform-view-migrator
-- guedo-ee
-- anna-protocol-sdk
-- max-div
-- pearmut
-- actsim
-- fastdjt
-- pypomes-crypto
-- f2-commander

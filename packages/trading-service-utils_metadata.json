@@ -1,11 +1,11 @@
 {
   "name": "trading-service-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Shared utilities for trading system services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trading_service_utils-0.1.0.tar.gz",
-  "download_time": "2025-12-06T15:40:26.105164",
+  "download_filename": "trading_service_utils-0.1.1.tar.gz",
+  "download_time": "2025-12-06T16:56:25.740780",
   "package_url": "https://pypi.org/project/trading-service-utils/"
 }

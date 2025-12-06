@@ -1,0 +1,11 @@
+{
+  "name": "rafael-framework",
+  "version": "1.0.0",
+  "summary": "Resilience-Adaptive Framework for Autonomous Evolution & Learning",
+  "author": "RAFAEL Team",
+  "license": "Proprietary",
+  "home_page": "https://github.com/rafael-framework/rafael",
+  "download_filename": "rafael_framework-1.0.0.tar.gz",
+  "download_time": "2025-12-06T16:56:13.739071",
+  "package_url": "https://pypi.org/project/rafael-framework/"
+}
