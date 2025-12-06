@@ -1,11 +1,11 @@
 {
   "name": "visual-guard",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A robust visual regression testing library for Python.",
   "author": "dhiraj",
   "license": "MIT",
   "home_page": "https://github.com/godhiraj-code/visual-guard",
-  "download_filename": "visual_guard-0.2.0.tar.gz",
-  "download_time": "2025-12-06T05:43:33.012732",
+  "download_filename": "visual_guard-0.2.1.tar.gz",
+  "download_time": "2025-12-06T05:53:13.399927",
   "package_url": "https://pypi.org/project/visual-guard/"
 }

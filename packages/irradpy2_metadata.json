@@ -1,11 +1,11 @@
 {
   "name": "irradpy2",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A unified multi-source solar radiation and ground meteorological data downloader with forecasting tools.",
   "author": "Peiyu Lin,Xixi Sun",
   "license": "Apache-2.0",
   "home_page": "https://github.com/raabitt/irradpy2",
-  "download_filename": "irradpy2-0.2.2.tar.gz",
-  "download_time": "2025-12-05T06:31:27.039341",
+  "download_filename": "irradpy2-0.2.3.tar.gz",
+  "download_time": "2025-12-06T05:53:22.283695",
   "package_url": "https://pypi.org/project/irradpy2/"
 }
