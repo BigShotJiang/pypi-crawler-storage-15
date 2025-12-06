@@ -1,0 +1,11 @@
+{
+  "name": "ape-sonic",
+  "version": "0.8.0",
+  "summary": "ape-sonic: Ape Ecosystem Plugin for Sonic",
+  "author": "ApeWorX Ltd.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ApeWorX/ape-sonic",
+  "download_filename": "ape_sonic-0.8.0.tar.gz",
+  "download_time": "2025-12-06T19:16:49.610759",
+  "package_url": "https://pypi.org/project/ape-sonic/"
+}

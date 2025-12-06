@@ -1,0 +1,11 @@
+{
+  "name": "ape-fantom",
+  "version": "0.8.4",
+  "summary": "ape-fantom: Ape Ecosystem Plugin for Fantom",
+  "author": "ApeWorX Ltd.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ApeWorX/ape-fantom",
+  "download_filename": "ape_fantom-0.8.4.tar.gz",
+  "download_time": "2025-12-06T19:17:06.354237",
+  "package_url": "https://pypi.org/project/ape-fantom/"
+}

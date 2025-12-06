@@ -1,0 +1,11 @@
+{
+  "name": "magidict",
+  "version": "0.2.0",
+  "summary": "A recursive dictionary with safe attribute access and automatic conversion.",
+  "author": "Hristo Bonev",
+  "license": null,
+  "home_page": "https://github.com/hristokbonev/magidict",
+  "download_filename": "magidict-0.2.0.tar.gz",
+  "download_time": "2025-12-06T19:16:55.450769",
+  "package_url": "https://pypi.org/project/magidict/"
+}
