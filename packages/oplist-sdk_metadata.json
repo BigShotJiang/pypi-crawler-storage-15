@@ -1,11 +1,11 @@
 {
   "name": "oplist-sdk",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A powerful, type-safe Python SDK for OpenList API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oplist_sdk-0.4.0.tar.gz",
-  "download_time": "2025-12-06T07:51:55.072233",
+  "download_filename": "oplist_sdk-0.5.0.tar.gz",
+  "download_time": "2025-12-06T14:17:46.185031",
   "package_url": "https://pypi.org/project/oplist-sdk/"
 }

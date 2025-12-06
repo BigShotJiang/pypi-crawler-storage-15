@@ -1,11 +1,11 @@
 {
   "name": "EMD-signal",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "summary": "Implementation of the Empirical Mode Decomposition (EMD) and its variations",
   "author": "Dawid Laszuk",
   "license": "Apache-2.0",
   "home_page": "https://github.com/laszukdawid/PyEMD",
-  "download_filename": "emd_signal-1.7.0.tar.gz",
-  "download_time": "2025-12-05T22:19:51.835241",
+  "download_filename": "emd_signal-1.7.1.tar.gz",
+  "download_time": "2025-12-06T14:17:34.648538",
   "package_url": "https://pypi.org/project/EMD-signal/"
 }
