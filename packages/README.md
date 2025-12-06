@@ -1,41 +1,12 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T19:40:41.609177
-- **Total Packages**: 76
-- **Total Size**: 11.19 MB
+- **Download Time**: 2025-12-06T19:52:50.813642
+- **Total Packages**: 77
+- **Total Size**: 2.77 MB
 
 ## Packages List
-- django5-spoll
-- depup
-- auramcp
-- devrules
-- abraia
-- lazy-locker
 - in-layers-core
-- mkx
-- abstract-utilities
-- fastpy-cli
-- octodns-keenetic
-- sportsdatabase
-- intugle
-- MPSPlots
-- PyThermoLinkDB
-- rayforce-py
-- django-spellbook
-- lazy-log-formatter
-- openscoring
-- haoline
-- andclust
-- fastkafka2
-- abstract-flask
-- timestep
-- hopsworks
-- jps-llm-prompt-app
-- xhshow
-- useful-rdkit-utils
-- truchet-viewer
-- growthbook
 - hbat
 - py-ds-academy
 - ape-langchain
@@ -45,9 +16,12 @@
 - icsneopy
 - experimental-lowqa
 - py-browser-automation
+- andclust
 - hatch
 - easyborg
+- abstract-flask
 - topaz-agent-kit
+- fastpy-cli
 - cltk
 - oktoblas
 - x-evolution
@@ -67,6 +41,8 @@
 - putergenai
 - gac
 - fastrub
+- auramcp
+- timestep
 - lestra
 - fastmlapi
 - context-portal-mcp
@@ -82,3 +58,28 @@
 - supabase-pydantic
 - sakuragasaki46-suou
 - suou
+- lib-hero-raf
+- colour-demosaicing
+- abstract-utilities
+- haoline
+- relia-oss
+- geometor-explorer
+- edu-difficulty-rank
+- dusted
+- chat2edit
+- vizforge
+- code-puppy
+- mecha
+- redgit
+- fastkafka2
+- django-telegram-app
+- lcc2json
+- exc-analyzer
+- ikigai
+- nullfox
+- wisent
+- ape-sonic
+- django-nativemojo
+- gsmod
+- chuk-mcp-math
+- LMTodo
