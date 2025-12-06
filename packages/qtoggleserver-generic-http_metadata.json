@@ -1,0 +1,11 @@
+{
+  "name": "qtoggleserver-generic-http",
+  "version": "1.2.1",
+  "summary": "qToggleServer ports backed by configurable HTTP requests",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "qtoggleserver_generic_http-1.2.1.tar.gz",
+  "download_time": "2025-12-06T19:29:15.626303",
+  "package_url": "https://pypi.org/project/qtoggleserver-generic-http/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gixy-ng",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "NGINX configuration [sec]analyzer",
   "author": "Yandex IS Team, GetPageSpeed LLC",
   "license": null,
   "home_page": "https://github.com/dvershinin/gixy",
-  "download_filename": "gixy_ng-0.2.13.tar.gz",
-  "download_time": "2025-12-06T17:40:34.038083",
+  "download_filename": "gixy_ng-0.2.14.tar.gz",
+  "download_time": "2025-12-06T19:29:05.306000",
   "package_url": "https://pypi.org/project/gixy-ng/"
 }

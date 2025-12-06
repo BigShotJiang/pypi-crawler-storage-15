@@ -1,0 +1,11 @@
+{
+  "name": "truchet-viewer",
+  "version": "1.0.0",
+  "summary": "A Python library for generating multi-scale Truchet tile patterns and images using PyCairo",
+  "author": "Joseph Barraud",
+  "license": null,
+  "home_page": null,
+  "download_filename": "truchet_viewer-1.0.0.tar.gz",
+  "download_time": "2025-12-06T19:28:50.745449",
+  "package_url": "https://pypi.org/project/truchet-viewer/"
+}
