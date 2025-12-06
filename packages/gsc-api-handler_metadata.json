@@ -1,0 +1,11 @@
+{
+  "name": "gsc-api-handler",
+  "version": "1.0.3",
+  "summary": "Fetches data from Google Search Console and stores it into SQLite",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gsc_api_handler-1.0.3.tar.gz",
+  "download_time": "2025-12-06T22:42:42.733525",
+  "package_url": "https://pypi.org/project/gsc-api-handler/"
+}

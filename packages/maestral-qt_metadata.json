@@ -1,0 +1,11 @@
+{
+  "name": "maestral-qt",
+  "version": "1.9.8",
+  "summary": "A Qt GUI for the Maestral daemon",
+  "author": "Sam Schott",
+  "license": "MIT",
+  "home_page": "https://maestral.app",
+  "download_filename": "maestral_qt-1.9.8.tar.gz",
+  "download_time": "2025-12-06T22:42:41.200017",
+  "package_url": "https://pypi.org/project/maestral-qt/"
+}

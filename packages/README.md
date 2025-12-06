@@ -1,13 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T22:19:52.256713
-- **Total Packages**: 81
-- **Total Size**: 22.61 MB
+- **Download Time**: 2025-12-06T22:43:01.533247
+- **Total Packages**: 76
+- **Total Size**: 23.51 MB
 
 ## Packages List
-- nc1709
+- agentor
+- mappingtools
+- qasimodo-specs
+- poetry-workspaces-plugin
+- mpadam
+- in-layers-core
+- pitchmeld
+- prodimopy
 - remdb
+- gac
+- seraschars
+- githooklib
+- kyodo.py
+- kyodo
+- pineappl-cli
+- nc1709
+- llamabot
+- neurosound
+- neuroglia-python
+- alpacafarmer
+- devrules
+- zenith-ai
+- vellum-ai
+- cashews
+- miunlock
+- pytest-codeblock
+- tty-ov
+- ivpm
+- hbat
+- dStats
+- spellbot
+- aimodelshare
+- havenplayer-sdk
+- diarykit
+- NEMO-CE
+- csbdeep
+- maestral-qt
+- timestep
+- django-spellbook
+- gsc-api-handler
+- topaz-agent-kit
+- lightning-disk-kv
+- havoc-clustering-v2
 - gage-cli
 - haoline
 - sun2000_modbus
@@ -15,9 +56,6 @@
 - joelkit
 - super-bario
 - ursina
-- alpacafarmer
-- timestep
-- qasimodo-specs
 - moss-sdk
 - ArraySplitter
 - kittylog
@@ -37,7 +75,6 @@
 - odoo-addon-base-write-diff
 - lick
 - dsg-jit
-- dStats
 - advanced-alchemy
 - indikator
 - udtools
@@ -45,45 +82,3 @@
 - GameSentenceMiner
 - greener-servermock
 - geminiai-cli
-- in-layers-core
-- greener-reporter
-- ommlds-rs
-- omdev
-- omserv
-- ominfra
-- omextra
-- omextra-cext
-- omdev-cli
-- omdev-rs
-- omdev-cext
-- omlish
-- ommlds
-- omlish-cext
-- pdval
-- diagramagic
-- dbtogo
-- openreview-downloader
-- graffo-sdk
-- dotsync-cli
-- radboy
-- hundredandten
-- ssm-connect
-- aimodelshare
-- etekcity-esf551-ble
-- folios
-- osz2
-- aider-ce
-- hbat
-- hypha-artifact
-- mvola-api-lib
-- anyschema
-- xsuite
-- paramiko-mock
-- lazy-locker
-- tradingview-scraper
-- specify-extend
-- odoo-addon-sequence-python
-- pollinations-client
-- code-scalpel
-- odoo-addon-auditlog
-- strawberry-graphql-django

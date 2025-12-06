@@ -1,11 +1,11 @@
 {
   "name": "gac",
-  "version": "3.10.4",
+  "version": "3.10.6",
   "summary": "LLM-powered Git commit message generator with multi-provider support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gac-3.10.4.tar.gz",
-  "download_time": "2025-12-06T19:16:38.249238",
+  "download_filename": "gac-3.10.6.tar.gz",
+  "download_time": "2025-12-06T22:42:26.740646",
   "package_url": "https://pypi.org/project/gac/"
 }

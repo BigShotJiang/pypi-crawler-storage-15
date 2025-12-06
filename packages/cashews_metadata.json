@@ -1,0 +1,11 @@
+{
+  "name": "cashews",
+  "version": "7.4.4",
+  "summary": "cache tools with async power",
+  "author": "Dmitry Kryukov",
+  "license": "MIT",
+  "home_page": "https://github.com/Krukov/cashews/",
+  "download_filename": "cashews-7.4.4.tar.gz",
+  "download_time": "2025-12-06T22:42:33.969404",
+  "package_url": "https://pypi.org/project/cashews/"
+}
