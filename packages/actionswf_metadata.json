@@ -1,0 +1,11 @@
+{
+  "name": "actionswf",
+  "version": "1.1",
+  "summary": "ActionSwf bindings",
+  "author": "cb",
+  "license": "MIT",
+  "home_page": "https://github.com/colin-i/actionswf",
+  "download_filename": "actionswf-1.1.tar.gz",
+  "download_time": "2025-12-06T12:37:17.894990",
+  "package_url": "https://pypi.org/project/actionswf/"
+}

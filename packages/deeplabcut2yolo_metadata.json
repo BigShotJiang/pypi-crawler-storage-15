@@ -1,0 +1,11 @@
+{
+  "name": "deeplabcut2yolo",
+  "version": "2.2.7",
+  "summary": "Convert DeepLabCut dataset to YOLO format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deeplabcut2yolo-2.2.7.tar.gz",
+  "download_time": "2025-12-06T12:37:59.068192",
+  "package_url": "https://pypi.org/project/deeplabcut2yolo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aya-ha-debugger",
+  "version": "0.1.0",
+  "summary": "A fun Python debugger that prints 'aya ha' instead of using print().",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aya_ha_debugger-0.1.0.tar.gz",
+  "download_time": "2025-12-06T12:37:35.768700",
+  "package_url": "https://pypi.org/project/aya-ha-debugger/"
+}

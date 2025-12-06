@@ -1,0 +1,11 @@
+{
+  "name": "sony-automator-controls",
+  "version": "1.0.3",
+  "summary": "Sony Automator Controls - TCP to HTTP command bridge for Cuez Automator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sony_automator_controls-1.0.3.tar.gz",
+  "download_time": "2025-12-06T12:37:40.955600",
+  "package_url": "https://pypi.org/project/sony-automator-controls/"
+}

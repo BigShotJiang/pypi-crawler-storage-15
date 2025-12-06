@@ -1,0 +1,11 @@
+{
+  "name": "cloud-harvester",
+  "version": "0.1.2",
+  "summary": "Cloud-agnostic resource harvesting with a unified resource model.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "cloud_harvester-0.1.2.tar.gz",
+  "download_time": "2025-12-06T12:37:36.279217",
+  "package_url": "https://pypi.org/project/cloud-harvester/"
+}

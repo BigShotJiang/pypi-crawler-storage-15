@@ -1,0 +1,11 @@
+{
+  "name": "pykimix",
+  "version": "0.3.8",
+  "summary": "PyKimix is a Python engine integrating Pygame and Kivy. It supports GPU accelerated rendering, unified event handling for keyboard mouse touch and gamepads, asynchronous game loops, shared resources, high performance animations, and cross platform deployment.",
+  "author": "StormTheGuy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pykimix-0.3.8.tar.gz",
+  "download_time": "2025-12-06T12:37:29.110162",
+  "package_url": "https://pypi.org/project/pykimix/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aski",
+  "version": "0.0.1",
+  "summary": "A TUI LLM Chatbot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aski-0.0.1.tar.gz",
+  "download_time": "2025-12-06T12:37:47.641670",
+  "package_url": "https://pypi.org/project/aski/"
+}

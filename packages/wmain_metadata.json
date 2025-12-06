@@ -1,11 +1,11 @@
 {
   "name": "wmain",
-  "version": "2.0.14",
+  "version": "2.0.15",
   "summary": "Python 工具集合",
   "author": "WYN",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wmain-2.0.14.tar.gz",
-  "download_time": "2025-12-06T11:16:09.707660",
+  "download_filename": "wmain-2.0.15.tar.gz",
+  "download_time": "2025-12-06T12:37:41.975004",
   "package_url": "https://pypi.org/project/wmain/"
 }

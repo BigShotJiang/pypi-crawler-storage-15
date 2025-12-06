@@ -1,0 +1,11 @@
+{
+  "name": "octopolars",
+  "version": "1.1.7",
+  "summary": "Pull, filter, walk, and read a GitHub user's repositories with Polars.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "octopolars-1.1.7.tar.gz",
+  "download_time": "2025-12-06T12:37:56.454680",
+  "package_url": "https://pypi.org/project/octopolars/"
+}
