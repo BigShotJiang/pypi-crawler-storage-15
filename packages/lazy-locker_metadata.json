@@ -1,11 +1,11 @@
 {
   "name": "lazy-locker",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Python SDK for lazy-locker - A secure local secrets manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lazy_locker-0.0.4.tar.gz",
-  "download_time": "2025-12-06T19:40:03.539858",
+  "download_filename": "lazy_locker-0.0.5.tar.gz",
+  "download_time": "2025-12-06T21:51:45.379033",
   "package_url": "https://pypi.org/project/lazy-locker/"
 }

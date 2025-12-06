@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sequence-python",
+  "version": "17.0.1.0.0.2",
+  "summary": "Calculate a sequence number from a Python expression",
+  "author": "Sunflower IT,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_sequence_python-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-06T21:51:47.467058",
+  "package_url": "https://pypi.org/project/odoo-addon-sequence-python/"
+}

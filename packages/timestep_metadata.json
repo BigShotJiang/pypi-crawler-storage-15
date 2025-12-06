@@ -1,11 +1,11 @@
 {
   "name": "timestep",
-  "version": "2026.0.9",
+  "version": "2026.0.10",
   "summary": "Multi-model provider implementations for OpenAI Agents, supporting both OpenAI and Ollama models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "timestep-2026.0.9.tar.gz",
-  "download_time": "2025-12-06T21:39:23.593939",
+  "download_filename": "timestep-2026.0.10.tar.gz",
+  "download_time": "2025-12-06T21:51:34.608377",
   "package_url": "https://pypi.org/project/timestep/"
 }

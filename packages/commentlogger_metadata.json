@@ -1,0 +1,11 @@
+{
+  "name": "commentlogger",
+  "version": "0.1",
+  "summary": "Turn comments into logs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "commentlogger-0.1.tar.gz",
+  "download_time": "2025-12-06T21:51:44.340768",
+  "package_url": "https://pypi.org/project/commentlogger/"
+}
