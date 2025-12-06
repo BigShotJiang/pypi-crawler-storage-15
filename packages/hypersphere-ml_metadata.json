@@ -1,0 +1,11 @@
+{
+  "name": "hypersphere-ml",
+  "version": "0.0.1",
+  "summary": "Minimal enclosing hypersphere for n-dimensional datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hypersphere_ml-0.0.1.tar.gz",
+  "download_time": "2025-12-06T09:52:03.263167",
+  "package_url": "https://pypi.org/project/hypersphere-ml/"
+}

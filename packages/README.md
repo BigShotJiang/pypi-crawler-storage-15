@@ -1,54 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T09:45:42.546869
-- **Total Packages**: 79
-- **Total Size**: 37.53 MB
+- **Download Time**: 2025-12-06T09:52:21.090867
+- **Total Packages**: 78
+- **Total Size**: 0.35 MB
 
 ## Packages List
-- tfp-nightly
-- wmain
-- Qwael
-- qff
-- ducktools-env
-- django-xladmin-enhanced
-- xray-protocol-helper
-- bluer-options
-- flake8-stash
-- fastpy-cli
-- chutes
-- autoflix-cli
-- flake8-max-function-length
-- lopk
-- xsuite
-- convert-poetry2uv
-- iperform
-- pyonix-core
-- local-abbfreeathome
-- llmmd2pdf
-- bitgrad
-- stac-fastapi-pgstac
-- okerrupdate
-- ai-stats-py-sdk
-- mcp-memory-service
-- server-unite
-- aurai-imputer
-- jettask
-- ltws-parser
-- minibt
-- toothfairyai
-- cc-adapter
-- anson.py3
-- gmi-ieops
-- kryten-py
-- ryutils
-- rastereasy
-- npmstat
-- pbir-utils
-- bluer-algo
-- sycommon-python-lib
-- iatoolkit-enterprise
 - ducktools-classbuilder
+- ryutils
+- kryten-py
 - bdnd
 - yangson
 - deepseek-cli
@@ -70,6 +30,7 @@
 - starbash
 - odoo-addon-spreadsheet-oca
 - supabase-audit-framework
+- fastpy-cli
 - dynamaxsys
 - rubin-nights
 - orka-reasoning
@@ -83,5 +44,43 @@
 - autogluon.core
 - autogluon.common
 - pyglet-ldtk
+- aurai-imputer
+- minibt
 - odoo-apps-Odoo-Apps-Website
 - py-sonora
+- 10xscale-agentflow
+- sm-py-bc
+- interaxions
+- fyodoros
+- hypersphere-ml
+- qpa
+- livekit-ai-note-taker
+- zoozl
+- fd-mcp
+- toonstream
+- localization-analyzer
+- fastlifeweb
+- mtcli-market
+- quickls
+- django-model-snapshots
+- mochi-coco
+- oarepo-c4gh
+- fraiseql
+- audiofeatures
+- strongtyping-pyoverload
+- ezmsg-lsl
+- trex-apis
+- trex-model
+- trex-conf
+- ApkPatcherX
+- spytify
+- django-liveview
+- kaq-quant-common
+- bitgrad
+- holocrontoolset
+- termonal-style
+- bookpicker
+- Qwael
+- coze-coding-utils
+- vllm-rs
+- svg-ultralight
