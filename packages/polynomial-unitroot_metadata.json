@@ -1,0 +1,11 @@
+{
+  "name": "polynomial-unitroot",
+  "version": "0.0.2",
+  "summary": "Phillips Unit Root Tests for Polynomials of Integrated Processes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polynomial_unitroot-0.0.2.tar.gz",
+  "download_time": "2025-12-06T23:40:18.983209",
+  "package_url": "https://pypi.org/project/polynomial-unitroot/"
+}

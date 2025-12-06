@@ -1,0 +1,11 @@
+{
+  "name": "trace-to-log",
+  "version": "0.1.0",
+  "summary": "Add minimal tracing to a function using a decorator",
+  "author": "Greg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trace_to_log-0.1.0.tar.gz",
+  "download_time": "2025-12-06T23:40:17.446886",
+  "package_url": "https://pypi.org/project/trace-to-log/"
+}

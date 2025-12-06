@@ -1,11 +1,11 @@
 {
   "name": "ai-drift",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "AI agent conversation drift analyzer - identifies gaps between what AI agents did and what users wanted",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_drift-0.4.0.tar.gz",
-  "download_time": "2025-12-06T18:48:45.994265",
+  "download_filename": "ai_drift-0.4.1.tar.gz",
+  "download_time": "2025-12-06T23:40:16.936843",
   "package_url": "https://pypi.org/project/ai-drift/"
 }

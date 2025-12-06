@@ -1,0 +1,11 @@
+{
+  "name": "updates2mqtt",
+  "version": "1.4.2",
+  "summary": "System update and docker image notification and execution over MQTT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "updates2mqtt-1.4.2.tar.gz",
+  "download_time": "2025-12-06T23:40:19.500845",
+  "package_url": "https://pypi.org/project/updates2mqtt/"
+}

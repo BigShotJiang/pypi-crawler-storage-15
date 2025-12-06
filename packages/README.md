@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T23:19:35.243833
-- **Total Packages**: 72
-- **Total Size**: 23.38 MB
+- **Download Time**: 2025-12-06T23:40:50.306439
+- **Total Packages**: 66
+- **Total Size**: 12.57 MB
 
 ## Packages List
+- lobster-ai
+- django-spellbook
+- ha-mcp
+- ai-drift
+- trace-to-log
+- py-gasbuddy
+- adsmedia
+- polynomial-unitroot
+- updates2mqtt
+- chuk-mcp-math-server
+- bentopy
+- aicommitter
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- helixcommit
+- llm-prompt-refiner
+- yt-dlp
+- chuk-mcp-math
+- zephyr-mcumgr
+- scrapeMM
+- aiogram
+- vibephysics
+- innerloop
+- vforge
+- topaz-agent-kit
+- coiled
+- python-roborock
+- pytest-language-server
+- naylence-agent-sdk
+- oktoblas
+- pdfhandleretc
+- deepseek-ocr-cli
+- rec-praxis-rlm
+- based-utils
 - nexaroa
 - naylence-runtime
 - defirl
@@ -15,10 +50,7 @@
 - repo2notebook
 - gsc-api-handler
 - kubernetes-square
-- oktoblas
-- pdfhandleretc
 - selenium
-- rec-praxis-rlm
 - vizforge
 - tmuxp
 - wisent
@@ -32,9 +64,7 @@
 - Pypubsub
 - well-log-toolkit
 - udiscord
-- helixcommit
 - rnow
-- django-spellbook
 - consenrich
 - mcp-mapped-resource-lib
 - jeremydimond.pymlga
@@ -42,39 +72,3 @@
 - SnakeScan
 - depforge
 - sybil-extras
-- meshagent-otel
-- meshagent-openai
-- meshagent-agents
-- meshagent-api
-- modal
-- meshagent-computers
-- meshagent-markitdown
-- meshagent-livekit
-- meshagent-cli
-- meshagent
-- meshagent-mcp
-- meshagent-tools
-- graffo-sdk
-- amino.py.api
-- mcp-ticketer
-- robotframework-schemathesislibrary
-- seraschars
-- super-bario
-- fogis-api-client-timmyBird
-- spotoptim
-- naylence-core
-- remdb
-- flask-mailjet
-- pofuzzy-helper
-- neurosound
-- pulka
-- geounit
-- aiohomematic-test-support
-- aiohomematic
-- ejercicio13-efm
-- vforge
-- pyholdsport
-- nc1709
-- appwindows
-- alexwlchan-chives
-- torram

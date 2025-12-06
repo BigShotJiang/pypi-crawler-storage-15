@@ -1,11 +1,11 @@
 {
   "name": "based-utils",
-  "version": "0.8.17",
+  "version": "0.8.19",
   "summary": "Add your description here",
   "author": "Huib Piguillet",
   "license": null,
   "home_page": null,
-  "download_filename": "based_utils-0.8.17.tar.gz",
-  "download_time": "2025-12-06T17:40:31.972209",
+  "download_filename": "based_utils-0.8.19.tar.gz",
+  "download_time": "2025-12-06T23:40:33.533742",
   "package_url": "https://pypi.org/project/based-utils/"
 }
