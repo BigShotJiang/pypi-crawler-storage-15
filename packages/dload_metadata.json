@@ -1,0 +1,11 @@
+{
+  "name": "dload",
+  "version": "0.7.0",
+  "summary": "A multipurpose downloader for Python >= 3.6",
+  "author": "xTudo",
+  "license": null,
+  "home_page": "https://github.com/x011/dload",
+  "download_filename": "dload-0.7.0-py3-none-any.whl",
+  "download_time": "2025-12-06T02:54:59.087434",
+  "package_url": "https://pypi.org/project/dload/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qen",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A tiny, extensible tool for organizing multi-repository development work",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qen-0.1.1.tar.gz",
-  "download_time": "2025-12-05T20:23:30.481302",
+  "download_filename": "qen-0.1.3.tar.gz",
+  "download_time": "2025-12-06T02:55:08.898292",
   "package_url": "https://pypi.org/project/qen/"
 }

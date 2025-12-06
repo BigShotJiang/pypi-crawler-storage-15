@@ -1,0 +1,11 @@
+{
+  "name": "airflow-clickhouse-plug",
+  "version": "1.6.2",
+  "summary": "airflow-clickhouse-plug — Airflow plugin to execute ClickHouse commands and queries",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "airflow_clickhouse_plug-1.6.2.tar.gz",
+  "download_time": "2025-12-06T02:55:02.181783",
+  "package_url": "https://pypi.org/project/airflow-clickhouse-plug/"
+}

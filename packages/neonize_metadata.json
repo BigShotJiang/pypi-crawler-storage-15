@@ -1,0 +1,11 @@
+{
+  "name": "neonize",
+  "version": "0.3.12.post1",
+  "summary": "Neonize is a Python library designed to streamline the automation of tasks on WhatsApp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neonize-0.3.12.post1-py310-none-macosx_12_0_arm64.whl",
+  "download_time": "2025-12-06T02:54:39.199008",
+  "package_url": "https://pypi.org/project/neonize/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vicutils",
+  "version": "0.30",
+  "summary": "Utility functions for Python programming",
+  "author": "Vic-Nas",
+  "license": null,
+  "home_page": "https://vic-nas.github.io/PythonSolutions/",
+  "download_filename": "vicutils-0.30.tar.gz",
+  "download_time": "2025-12-06T02:54:51.184025",
+  "package_url": "https://pypi.org/project/vicutils/"
+}

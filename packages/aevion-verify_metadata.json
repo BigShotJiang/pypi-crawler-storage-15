@@ -1,0 +1,11 @@
+{
+  "name": "aevion-verify",
+  "version": "1.0.0",
+  "summary": "Zero-dependency cryptographic verification for Aevion AI proofs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aevion_verify-1.0.0.tar.gz",
+  "download_time": "2025-12-06T02:55:09.939690",
+  "package_url": "https://pypi.org/project/aevion-verify/"
+}

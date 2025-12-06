@@ -1,0 +1,11 @@
+{
+  "name": "bulbasaur",
+  "version": "0.1.0",
+  "summary": "Convert between PySpark schemas and SQLAlchemy/SQLModel classes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bulbasaur-0.1.0.tar.gz",
+  "download_time": "2025-12-06T02:55:06.302650",
+  "package_url": "https://pypi.org/project/bulbasaur/"
+}

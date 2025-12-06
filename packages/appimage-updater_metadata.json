@@ -1,0 +1,11 @@
+{
+  "name": "appimage-updater",
+  "version": "0.6.0",
+  "summary": "A Linux service for automating finding and downloading AppImage applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "appimage_updater-0.6.0.tar.gz",
+  "download_time": "2025-12-06T02:55:04.762750",
+  "package_url": "https://pypi.org/project/appimage-updater/"
+}

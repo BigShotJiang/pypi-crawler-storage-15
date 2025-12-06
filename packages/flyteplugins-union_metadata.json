@@ -1,0 +1,11 @@
+{
+  "name": "flyteplugins-union",
+  "version": "0.1.0b0",
+  "summary": "Union SDK - Proprietary extensions for Flyte",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flyteplugins_union-0.1.0b0.tar.gz",
+  "download_time": "2025-12-06T02:54:32.642296",
+  "package_url": "https://pypi.org/project/flyteplugins-union/"
+}

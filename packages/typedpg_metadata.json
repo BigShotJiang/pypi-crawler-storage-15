@@ -1,0 +1,11 @@
+{
+  "name": "typedpg",
+  "version": "0.1.0",
+  "summary": "Generate type-safe Python code from PostgreSQL queries",
+  "author": "Jason Segaran",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typedpg-0.1.0.tar.gz",
+  "download_time": "2025-12-06T02:55:12.568656",
+  "package_url": "https://pypi.org/project/typedpg/"
+}

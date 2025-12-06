@@ -1,0 +1,11 @@
+{
+  "name": "jobrunner-git",
+  "version": "1.0.6",
+  "summary": "shell-jobrunner plugin to provide \"project plugin\" context from git repos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jobrunner_git-1.0.6.tar.gz",
+  "download_time": "2025-12-06T02:54:28.909485",
+  "package_url": "https://pypi.org/project/jobrunner-git/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "comrun",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Simplified and configurable wrapper for Python's subprocess.Popen",
   "author": "Yevhen Bondarenko",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "comrun-0.3.1.tar.gz",
-  "download_time": "2025-12-06T01:22:50.736831",
+  "download_filename": "comrun-0.3.2.tar.gz",
+  "download_time": "2025-12-06T02:55:14.627949",
   "package_url": "https://pypi.org/project/comrun/"
 }
