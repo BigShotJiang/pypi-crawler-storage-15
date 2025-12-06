@@ -1,69 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T17:40:55.295769
-- **Total Packages**: 75
-- **Total Size**: 37.14 MB
+- **Download Time**: 2025-12-06T17:53:05.326026
+- **Total Packages**: 79
+- **Total Size**: 10.83 MB
 
 ## Packages List
-- grammarian
-- bluer-sbc
-- Flask-Limiter
-- rettxid
-- gns3-copilot
-- chanx
-- rnow
-- student-marksheet
-- hyperscan
-- artemis-model
-- abstract-flask
-- psycopg-c
-- archit-ug
-- pyreverb
-- basebender
-- cook-build
-- reroute
-- igloo-mcp
-- psycopg-binary
-- ckb-textify
-- sciveo
-- psycopg
-- fastappkit
-- remdb
-- turtles-glms
-- pvd
-- i18n-check
-- cc-adapter
-- bundle-publisher-002
-- jb6
-- aquiles-image
-- pycvt
-- based-utils
-- acryl-datahub-cloud
-- PycordViews
-- gixy-ng
-- innerloop
 - gcaa
-- tracesmith
-- webquest
-- bundle-publisher-001
-- ysaqml
-- inferencesh
-- max-bot-api-dlydedica
-- ironoc-pytest-conor-heffron
-- ayechat
-- g2opy
-- libvcs
-- yalexs-ble
-- optimization-benchmarks
-- opteryx
 - valyte
 - libtmux
+- grammarian
 - frontmatter-mcp
 - tacotoolbox
 - VideoTimestamps
 - colt
 - tacoreader
+- ayechat
 - ibkr-mcp
 - pycommute
 - mcp-ticketer
@@ -77,7 +29,59 @@
 - not1mm
 - fastpy-cli
 - netlite
+- sciveo
 - sync-offset-tool
+- fastappkit
 - fastmlapi
 - lazy-locker
+- chanx
 - doi2bib3
+- aa-miningtaxes
+- hakowan
+- parse-lp
+- oarepo-c4gh
+- pymob
+- prism-config
+- tenets
+- mkdocs-excalidraw
+- pymacaroons2
+- ezmsg-sigproc
+- pycap-dss
+- geometor-divine
+- thermobuilpy
+- claude-mpm
+- depmanager
+- kaiserlift
+- hipr
+- lino-xl
+- dataset-risk-decorator
+- darren-utils
+- qifeaturex
+- oktoblas
+- lino-noi
+- ai-agent-rules
+- geometor-model
+- relia-oss
+- cyvest
+- testAUC
+- meridian-oss
+- isoring
+- trackcell
+- hr-platform-sdk
+- flacopyus
+- twpm
+- homi-pipeline
+- context-portal-mcp
+- supabase-audit-framework
+- subnoto-api-client
+- NEMO-CE
+- comfyui-workflow-templates
+- rafael-framework
+- comfyui-workflow-templates-media-image
+- comfyui-workflow-templates-core
+- gns3-copilot
+- nrt-pytest-soft-asserts
+- mappingtools
+- gammarers.aws-cdk-errors
+- liblaf-peach
+- aidlabsdk
