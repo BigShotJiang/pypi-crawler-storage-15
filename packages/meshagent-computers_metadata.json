@@ -1,11 +1,11 @@
 {
   "name": "meshagent-computers",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Computer Building Blocks for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_computers-0.9.2.tar.gz",
-  "download_time": "2025-12-06T23:19:18.577809",
+  "download_filename": "meshagent_computers-0.9.3.tar.gz",
+  "download_time": "2025-12-06T23:52:26.227638",
   "package_url": "https://pypi.org/project/meshagent-computers/"
 }
