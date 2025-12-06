@@ -1,17 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T15:52:46.119072
-- **Total Packages**: 84
-- **Total Size**: 20.89 MB
+- **Download Time**: 2025-12-06T16:24:02.602747
+- **Total Packages**: 82
+- **Total Size**: 15.66 MB
 
 ## Packages List
+- doi2bib3
+- git-unite
+- danom
+- pyhmmer
+- bluer-ugv
+- django-manifeststaticfiles-enhanced
+- PycordViews
+- social-links
+- dataform-view-migrator
+- guedo-ee
+- anna-protocol-sdk
+- max-div
+- pearmut
+- actsim
+- fastdjt
+- pypomes-crypto
+- supabase-audit-framework
+- f2-commander
+- tulit
+- binned-cdf
+- iatoolkit
+- dspin
+- telco
+- orjson
+- auramcp
+- youtube-search
+- SURE-tools
 - pytest-case-provider
 - pybraendstofpriser
 - simplemp
 - paymcp
 - evil-rce2
-- fastdjt
 - openemr
 - cook-build
 - iaode
@@ -31,11 +57,9 @@
 - openmetadata-managed-apis
 - comfyui-workflow-templates
 - comfyui-workflow-templates-media-image
-- auramcp
 - skill-homeassistant
 - maque
 - comfyui-workflow-templates-core
-- iatoolkit
 - cpdts
 - alexwlchan-chives
 - robhan-cdk-lib.aws-grafana
@@ -43,7 +67,6 @@
 - mcp-taiwan-price-compare
 - consenrich
 - aghentic-minds
-- anna-protocol-sdk
 - remdb
 - crossvector
 - s3dgraphy
@@ -65,28 +88,3 @@
 - biblemategui
 - extra-platforms
 - foundry-mcp
-- cerebrium
-- justhtml
-- kleinkram
-- kaiju-tools
-- cccc-pair
-- blockypy
-- django-visual-editor
-- trading-service-utils
-- tombi
-- kaiserlift
-- uplm80
-- spakky-security
-- spakky-kafka
-- spakky-fastapi
-- spakky-typer
-- spakky-event
-- spakky-data
-- spakky
-- spakky-rabbitmq
-- spakky-domain
-- upeep80
-- omar
-- MPSPlots
-- asteroid_spinprops
-- esp-flasher

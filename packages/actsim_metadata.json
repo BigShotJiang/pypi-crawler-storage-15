@@ -1,0 +1,11 @@
+{
+  "name": "actsim",
+  "version": "0.1.0.0",
+  "summary": "Of the Actuary, By the Actuary, For the Actuary: A ZNSTARS Python package for actuarial risk modeling and simulation",
+  "author": "Juntao Zhang",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "actsim-0.1.0.0.tar.gz",
+  "download_time": "2025-12-06T16:23:20.994729",
+  "package_url": "https://pypi.org/project/actsim/"
+}

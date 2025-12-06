@@ -1,0 +1,11 @@
+{
+  "name": "guedo-ee",
+  "version": "0.1.1",
+  "summary": "A comprehensive program provider library for electrical engineering education",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/guedo-ee",
+  "download_filename": "guedo_ee-0.1.1.tar.gz",
+  "download_time": "2025-12-06T16:23:18.674788",
+  "package_url": "https://pypi.org/project/guedo-ee/"
+}
