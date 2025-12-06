@@ -1,0 +1,11 @@
+{
+  "name": "veolia_api",
+  "version": "2.1.0",
+  "summary": "Client API for eau.veolia.fr",
+  "author": "Jezza34000",
+  "license": "MIT",
+  "home_page": "https://github.com/Jezza34000/veolia-api",
+  "download_filename": "veolia_api-2.1.0.tar.gz",
+  "download_time": "2025-12-06T15:52:05.926883",
+  "package_url": "https://pypi.org/project/veolia_api/"
+}

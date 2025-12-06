@@ -1,0 +1,11 @@
+{
+  "name": "pytest-case-provider",
+  "version": "0.4.1",
+  "summary": "Advanced pytest parametrization plugin that generates test case instances from sync or async factories.",
+  "author": "zerlok",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_case_provider-0.4.1.tar.gz",
+  "download_time": "2025-12-06T15:52:00.181693",
+  "package_url": "https://pypi.org/project/pytest-case-provider/"
+}

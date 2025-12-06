@@ -1,0 +1,11 @@
+{
+  "name": "time-split-app",
+  "version": "2.2.1",
+  "summary": "Companion app for the `time-split` library.",
+  "author": "Richard Sundqvist",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "time_split_app-2.2.1.tar.gz",
+  "download_time": "2025-12-06T15:52:09.566121",
+  "package_url": "https://pypi.org/project/time-split-app/"
+}
