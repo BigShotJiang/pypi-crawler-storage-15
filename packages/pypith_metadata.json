@@ -1,0 +1,11 @@
+{
+  "name": "pypith",
+  "version": "0.1.1",
+  "summary": "Build agent-native Python CLIs with progressive discovery",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypith-0.1.1.tar.gz",
+  "download_time": "2025-12-06T08:24:40.129270",
+  "package_url": "https://pypi.org/project/pypith/"
+}

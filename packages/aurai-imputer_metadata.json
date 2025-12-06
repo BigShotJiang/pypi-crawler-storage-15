@@ -1,11 +1,11 @@
 {
   "name": "aurai-imputer",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Universal Adaptive Imputer – A hybrid VAE + latent nearest neighbor imputation model with uncertainty estimation.",
   "author": "Abdul Mofique Siddiqui",
   "license": "MIT",
   "home_page": "https://github.com/Luckyy0311",
-  "download_filename": "aurai_imputer-1.0.3.tar.gz",
-  "download_time": "2025-12-06T07:51:49.820143",
+  "download_filename": "aurai_imputer-1.0.5.tar.gz",
+  "download_time": "2025-12-06T08:24:40.672203",
   "package_url": "https://pypi.org/project/aurai-imputer/"
 }

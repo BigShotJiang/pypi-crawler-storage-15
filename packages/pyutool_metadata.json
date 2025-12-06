@@ -1,0 +1,11 @@
+{
+  "name": "pyutool",
+  "version": "0.0.3",
+  "summary": "The log module is currently implemented to replace logging. And other small wheels",
+  "author": "YL_top01",
+  "license": null,
+  "home_page": "https://github.com/YLtop01/my-awesome-project",
+  "download_filename": "pyutool-0.0.3.tar.gz",
+  "download_time": "2025-12-06T08:24:38.042792",
+  "package_url": "https://pypi.org/project/pyutool/"
+}
