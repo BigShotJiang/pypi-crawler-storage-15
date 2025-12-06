@@ -1,11 +1,11 @@
 {
   "name": "aurai-imputer",
-  "version": "1.0.7",
-  "summary": "Universal Adaptive Imputer – A hybrid VAE + latent nearest neighbor imputation model with uncertainty estimation.",
+  "version": "1.0.9",
+  "summary": "AURAI: A uniquely hybrid imputation model that unifies mask-aware variational autoencoding, latent-neighbor correction, and adaptive feature gating to deliver uncertainty-aware reconstruction of missing data.",
   "author": "Abdul Mofique Siddiqui",
   "license": "MIT",
   "home_page": "https://github.com/Luckyy0311",
-  "download_filename": "aurai_imputer-1.0.7.tar.gz",
-  "download_time": "2025-12-06T09:20:46.232096",
+  "download_filename": "aurai_imputer-1.0.9.tar.gz",
+  "download_time": "2025-12-06T09:45:14.937652",
   "package_url": "https://pypi.org/project/aurai-imputer/"
 }

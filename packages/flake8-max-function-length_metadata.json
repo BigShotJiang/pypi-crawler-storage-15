@@ -1,0 +1,11 @@
+{
+  "name": "flake8-max-function-length",
+  "version": "0.10.0",
+  "summary": "A configurable flake8 plugin to enforce a maximum function/method length.",
+  "author": "Ghazi Abbassi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_max_function_length-0.10.0.tar.gz",
+  "download_time": "2025-12-06T09:45:06.763485",
+  "package_url": "https://pypi.org/project/flake8-max-function-length/"
+}

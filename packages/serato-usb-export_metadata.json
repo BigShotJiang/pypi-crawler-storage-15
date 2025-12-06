@@ -1,0 +1,11 @@
+{
+  "name": "serato-usb-export",
+  "version": "1.1.1",
+  "summary": "Better Serato USB export that beats Serato's sync by putting all files in 1 folder (without duplicates) and only copying changed files, unlike Serato's sync which takes forever and creates many duplicate file locations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "serato_usb_export-1.1.1.tar.gz",
+  "download_time": "2025-12-06T09:45:30.073709",
+  "package_url": "https://pypi.org/project/serato-usb-export/"
+}

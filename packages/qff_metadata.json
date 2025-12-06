@@ -1,0 +1,11 @@
+{
+  "name": "qff",
+  "version": "0.5.19",
+  "summary": "qff: quantize finance framework",
+  "author": "xuhaijiang",
+  "license": "MIT",
+  "home_page": "https://github.com/haijiangxu/qff",
+  "download_filename": "qff-0.5.19.tar.gz",
+  "download_time": "2025-12-06T09:45:01.043871",
+  "package_url": "https://pypi.org/project/qff/"
+}

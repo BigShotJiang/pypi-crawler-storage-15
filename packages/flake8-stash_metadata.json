@@ -1,0 +1,11 @@
+{
+  "name": "flake8-stash",
+  "version": "0.11.0",
+  "summary": "A collection of flake8 checks.",
+  "author": "Ghazi Abbassi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_stash-0.11.0.tar.gz",
+  "download_time": "2025-12-06T09:45:04.611872",
+  "package_url": "https://pypi.org/project/flake8-stash/"
+}

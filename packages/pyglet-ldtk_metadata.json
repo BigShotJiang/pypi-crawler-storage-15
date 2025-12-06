@@ -1,0 +1,11 @@
+{
+  "name": "pyglet-ldtk",
+  "version": "0.1.1",
+  "summary": "A loader for LDtk (Level Designer Toolkit) maps, specifically designed for use with the pyglet game development library.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyglet_ldtk-0.1.1.tar.gz",
+  "download_time": "2025-12-06T09:45:41.025931",
+  "package_url": "https://pypi.org/project/pyglet-ldtk/"
+}

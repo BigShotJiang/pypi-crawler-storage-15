@@ -1,0 +1,11 @@
+{
+  "name": "dynamaxsys",
+  "version": "0.0.7",
+  "summary": "dynamical systems with jax",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dynamaxsys-0.0.7.tar.gz",
+  "download_time": "2025-12-06T09:45:34.730196",
+  "package_url": "https://pypi.org/project/dynamaxsys/"
+}

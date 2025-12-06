@@ -1,0 +1,11 @@
+{
+  "name": "orka-reasoning",
+  "version": "0.9.10",
+  "summary": "Modular agent orchestrator for reasoning pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orka_reasoning-0.9.10.tar.gz",
+  "download_time": "2025-12-06T09:45:35.759895",
+  "package_url": "https://pypi.org/project/orka-reasoning/"
+}

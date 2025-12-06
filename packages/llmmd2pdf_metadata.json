@@ -1,11 +1,11 @@
 {
   "name": "llmmd2pdf",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Shiny app to convert LLM Markdown exports to PDF with Quarto",
   "author": "fschwar4",
   "license": null,
   "home_page": null,
-  "download_filename": "llmmd2pdf-0.1.2.tar.gz",
-  "download_time": "2025-12-05T15:22:24.402907",
+  "download_filename": "llmmd2pdf-0.1.3.tar.gz",
+  "download_time": "2025-12-06T09:45:11.281693",
   "package_url": "https://pypi.org/project/llmmd2pdf/"
 }
