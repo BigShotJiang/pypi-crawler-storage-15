@@ -1,11 +1,11 @@
 {
   "name": "fastdjt",
-  "version": "0.1.1",
-  "summary": "Add your description here",
+  "version": "0.1.2",
+  "summary": "快速创建django项目",
   "author": "lipanpan",
   "license": null,
   "home_page": null,
-  "download_filename": "fastdjt-0.1.1-py3-none-any.whl",
-  "download_time": "2025-12-06T14:52:37.316376",
+  "download_filename": "fastdjt-0.1.2-py3-none-any.whl",
+  "download_time": "2025-12-06T15:40:25.577535",
   "package_url": "https://pypi.org/project/fastdjt/"
 }

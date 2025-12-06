@@ -1,0 +1,11 @@
+{
+  "name": "aubio-beatcheck",
+  "version": "0.1.0",
+  "summary": "A comprehensive validation and benchmarking tool for aubio audio analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aubio_beatcheck-0.1.0.tar.gz",
+  "download_time": "2025-12-06T15:40:37.286676",
+  "package_url": "https://pypi.org/project/aubio-beatcheck/"
+}

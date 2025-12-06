@@ -1,11 +1,11 @@
 {
   "name": "django-visual-editor",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Block-based visual editor for Django with inline styles, image support and rich formatting",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_visual_editor-0.5.0.tar.gz",
-  "download_time": "2025-12-06T15:18:44.482152",
+  "download_filename": "django_visual_editor-0.5.1.tar.gz",
+  "download_time": "2025-12-06T15:40:25.019497",
   "package_url": "https://pypi.org/project/django-visual-editor/"
 }

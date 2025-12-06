@@ -1,11 +1,11 @@
 {
   "name": "blockypy",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Official Python client library for the Blocky Crypto Exchange API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blockypy-0.2.2.tar.gz",
-  "download_time": "2025-12-06T15:18:45.087468",
+  "download_filename": "blockypy-0.2.3.tar.gz",
+  "download_time": "2025-12-06T15:40:24.490494",
   "package_url": "https://pypi.org/project/blockypy/"
 }

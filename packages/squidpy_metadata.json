@@ -1,0 +1,11 @@
+{
+  "name": "squidpy",
+  "version": "1.7.0",
+  "summary": "Spatial Single Cell Analysis in Python",
+  "author": "scverse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "squidpy-1.7.0.tar.gz",
+  "download_time": "2025-12-06T15:40:18.123450",
+  "package_url": "https://pypi.org/project/squidpy/"
+}

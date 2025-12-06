@@ -1,0 +1,11 @@
+{
+  "name": "gitviz",
+  "version": "0.1.0",
+  "summary": "Visualize git commits and contributions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitviz-0.1.0.tar.gz",
+  "download_time": "2025-12-06T15:40:10.817984",
+  "package_url": "https://pypi.org/project/gitviz/"
+}

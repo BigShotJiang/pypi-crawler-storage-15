@@ -1,0 +1,11 @@
+{
+  "name": "spakky-security",
+  "version": "5.0.1",
+  "summary": "Security utilities plugin for Spakky framework",
+  "author": "Spakky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spakky_security-5.0.1.tar.gz",
+  "download_time": "2025-12-06T15:40:28.230464",
+  "package_url": "https://pypi.org/project/spakky-security/"
+}

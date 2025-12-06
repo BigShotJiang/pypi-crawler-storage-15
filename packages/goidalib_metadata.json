@@ -1,11 +1,11 @@
 {
   "name": "goidalib",
-  "version": "0.2.1",
+  "version": "0.2.1.1",
   "summary": "Library for GoidaHeta",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "goidalib-0.2.1.tar.gz",
-  "download_time": "2025-12-06T13:39:28.718138",
+  "download_filename": "goidalib-0.2.1.1.tar.gz",
+  "download_time": "2025-12-06T15:40:45.286561",
   "package_url": "https://pypi.org/project/goidalib/"
 }

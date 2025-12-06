@@ -1,0 +1,11 @@
+{
+  "name": "upeep80",
+  "version": "0.1.0",
+  "summary": "Universal peephole and AST optimizer for 8080/Z80 compilers",
+  "author": "upeep80 project",
+  "license": "GPLv2",
+  "home_page": null,
+  "download_filename": "upeep80-0.1.0.tar.gz",
+  "download_time": "2025-12-06T15:40:33.035511",
+  "package_url": "https://pypi.org/project/upeep80/"
+}
