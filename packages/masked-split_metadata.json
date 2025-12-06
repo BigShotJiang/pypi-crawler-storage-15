@@ -1,11 +1,11 @@
 {
   "name": "masked-split",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A package for splitting texts while masking desired substrings.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "masked_split-0.0.1.tar.gz",
-  "download_time": "2025-12-06T20:41:53.758999",
+  "download_filename": "masked_split-0.0.2.tar.gz",
+  "download_time": "2025-12-06T21:39:19.052284",
   "package_url": "https://pypi.org/project/masked-split/"
 }

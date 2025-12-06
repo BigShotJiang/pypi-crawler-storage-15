@@ -1,24 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T21:18:42.553593
-- **Total Packages**: 82
-- **Total Size**: 37.11 MB
+- **Download Time**: 2025-12-06T21:39:48.694600
+- **Total Packages**: 72
+- **Total Size**: 27.24 MB
 
 ## Packages List
+- strawberry-graphql-django
+- fastkafka2
+- jules-cli
+- flask-mailjet
+- sun2000_modbus
+- deployml-core
+- funcnodes-storage
+- ha-mcp
+- spellbot
+- topaz-agent-kit
+- neurograph-core
+- in-layers-core
+- remdb
+- qt-themes
+- mcp-rag
+- wisent
+- pytest
+- torram
+- woodlark
+- radboy
+- ankipan-db
+- cdk-opinionated-constructs
+- masked-split
+- finlearner
+- memory-hub-mcp
+- tenets
+- mizan-encoder
+- ankipan
+- bridge-ds
+- timestep
+- xtrack
+- subdx-dl
+- coderbot-sim
+- sony-automator-controls
+- surf-controller
+- resi-builder
+- vellum-workflow-server
+- sphinx-llms-txt-link
+- docler
+- caldav
+- iceberg-mcp-server
+- pymmdbserver
+- libtmux
+- pyXLMS
 - moss-sdk
 - iactsim
 - mipcandy
 - aiohomematic-test-support
 - pytest-language-server
 - aiohomematic
-- wisent
 - mizan-embedder
 - abstract-apis
-- remdb
 - easyborg
 - hypergas
-- in-layers-core
 - vellum-ai
 - project-vault
 - agentic-graph-mem
@@ -27,7 +68,6 @@
 - gitxray
 - quasarr
 - django-spellbook
-- topaz-agent-kit
 - chuk-mcp-math
 - verbose-csrf-middleware
 - munchboka-edutools
@@ -38,53 +78,3 @@
 - lightning-disk-kv
 - bluer-ugv
 - shakenfist-utilities
-- timestep
-- geometor-divine
-- nornir-validate
-- dojo-sdk-client
-- brazilian
-- extract360
-- penguiflow
-- ha-mcp
-- mcp-rag
-- pyqrack-cuda-complex128
-- pyqrack-cuda
-- EasyPour
-- pyqrack-cpu-complex128
-- pyqrack-cpu
-- pyqrack-complex128
-- pyqrack
-- agentfield
-- fastkafka2
-- code-scalpel
-- chuk-tool-processor
-- dojo-sdk-core
-- bunker-stats-rs
-- code-puppy
-- relia-oss
-- dars-framework
-- netgraph-core
-- diagramagic
-- coiled
-- barbara-updater
-- techkit
-- pyvertools
-- pyvegh
-- datapie
-- solving-auth-middleware
-- ydiff
-- ipxact2systemverilog
-- pdval
-- H4sh
-- math-mcp-learning-server
-- ideal-ai
-- orq-ai-sdk
-- pivotal-solver
-- rds-proxy-password-rotation
-- numba-mpi
-- simple-smtp-sender
-- masked-split
-- hbat
-- tenement
-- py-ds-academy
-- hpsdecode

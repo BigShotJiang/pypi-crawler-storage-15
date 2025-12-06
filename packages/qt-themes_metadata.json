@@ -1,0 +1,11 @@
+{
+  "name": "qt-themes",
+  "version": "0.4.0",
+  "summary": "A collection of themes for Qt applications in Python.",
+  "author": "Beat Reichenbach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qt_themes-0.4.0.tar.gz",
+  "download_time": "2025-12-06T21:39:12.749306",
+  "package_url": "https://pypi.org/project/qt-themes/"
+}

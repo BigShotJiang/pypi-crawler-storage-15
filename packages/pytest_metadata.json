@@ -1,0 +1,11 @@
+{
+  "name": "pytest",
+  "version": "9.0.2",
+  "summary": "pytest: simple powerful testing with Python",
+  "author": "Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest-9.0.2.tar.gz",
+  "download_time": "2025-12-06T21:39:14.771574",
+  "package_url": "https://pypi.org/project/pytest/"
+}

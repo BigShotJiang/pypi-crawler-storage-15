@@ -1,0 +1,11 @@
+{
+  "name": "finlearner",
+  "version": "0.0.91",
+  "summary": "A professional-grade financial analysis library featuring Deep Learning (LSTM, PINNs), Portfolio Optimization, and Advanced Technical Analysis. It is the final beta upgrade of finlearn.",
+  "author": "Ankit Dutta",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/ankitdutta428/finlearn",
+  "download_filename": "finlearner-0.0.91.tar.gz",
+  "download_time": "2025-12-06T21:39:19.706165",
+  "package_url": "https://pypi.org/project/finlearner/"
+}

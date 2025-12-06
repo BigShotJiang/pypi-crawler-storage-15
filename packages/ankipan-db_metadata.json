@@ -1,0 +1,11 @@
+{
+  "name": "ankipan-db",
+  "version": "0.6",
+  "summary": "Server Implementation for ankipan module",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ankipan_db-0.6.tar.gz",
+  "download_time": "2025-12-06T21:39:17.773950",
+  "package_url": "https://pypi.org/project/ankipan-db/"
+}
