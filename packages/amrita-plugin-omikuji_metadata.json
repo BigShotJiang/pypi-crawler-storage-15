@@ -1,11 +1,11 @@
 {
   "name": "amrita-plugin-omikuji",
-  "version": "0.1.1",
+  "version": "0.1.1.1",
   "summary": "AmritaBot的御神签插件",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amrita_plugin_omikuji-0.1.1.tar.gz",
-  "download_time": "2025-12-06T14:52:20.690307",
+  "download_filename": "amrita_plugin_omikuji-0.1.1.1.tar.gz",
+  "download_time": "2025-12-06T15:19:15.083624",
   "package_url": "https://pypi.org/project/amrita-plugin-omikuji/"
 }

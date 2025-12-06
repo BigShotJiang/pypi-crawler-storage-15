@@ -1,0 +1,11 @@
+{
+  "name": "wiremongo",
+  "version": "0.1.2",
+  "summary": "A test library to mock MongoDB commands with AsyncMongoClient compatibility",
+  "author": "Christoph Spörk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wiremongo-0.1.2-py3-none-any.whl",
+  "download_time": "2025-12-06T15:18:55.640061",
+  "package_url": "https://pypi.org/project/wiremongo/"
+}

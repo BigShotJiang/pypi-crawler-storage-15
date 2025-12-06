@@ -1,0 +1,11 @@
+{
+  "name": "qaldron",
+  "version": "1.0.0",
+  "summary": "Quantum-Assisted Ledger for Distributed Autonomous Networks",
+  "author": "QALDRON Team",
+  "license": null,
+  "home_page": "https://github.com/qaldron/qaldron",
+  "download_filename": "qaldron-1.0.0.tar.gz",
+  "download_time": "2025-12-06T15:18:59.100978",
+  "package_url": "https://pypi.org/project/qaldron/"
+}

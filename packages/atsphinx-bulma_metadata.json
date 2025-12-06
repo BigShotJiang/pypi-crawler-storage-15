@@ -1,11 +1,11 @@
 {
   "name": "atsphinx-bulma",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Bluma using suite for Sphinx.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atsphinx_bulma-0.3.1.tar.gz",
-  "download_time": "2025-12-03T17:22:07.217536",
+  "download_filename": "atsphinx_bulma-0.4.0.tar.gz",
+  "download_time": "2025-12-06T15:18:56.736105",
   "package_url": "https://pypi.org/project/atsphinx-bulma/"
 }

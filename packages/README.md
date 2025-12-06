@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T14:52:50.305312
-- **Total Packages**: 84
-- **Total Size**: 30.41 MB
+- **Download Time**: 2025-12-06T15:19:27.754596
+- **Total Packages**: 87
+- **Total Size**: 10.45 MB
 
 ## Packages List
+- chuk-mcp-math
+- MPSPlots
+- sara-form-gaurd
+- llm-lmstudio
+- treeline-money
+- dkinst
+- pi-zero-pytorch
+- twemoji-api
+- SURE-tools
+- darren-utils
+- kport
+- cpdts
+- django-visual-editor
+- blockypy
+- biblemategui
+- code-puppy
+- trustgraph-vertexai
+- trustgraph-ocr
+- trustgraph-mcp
+- trustgraph-flow
+- trustgraph-embeddings-hf
+- trustgraph-cli
+- trustgraph-bedrock
+- trustgraph-base
+- trustgraph
+- sayna-client
+- malwi-box
+- korea-investment-stock
+- spakky-data
+- igloo-mcp
+- llama-cpp-py
+- wiremongo
+- trackcell
+- atsphinx-bulma
+- ipulse-shared-data-eng-ftredge
+- fhswiftui
+- spakky-event
+- qaldron
 - fid-mcp
 - alubia
 - server-unite
@@ -18,7 +56,6 @@
 - nonebot-plugin-omikuji
 - defog
 - purely
-- ipulse-shared-data-eng-ftredge
 - textbasedbattlesystem
 - django-spellbook
 - ipulse-shared-base-ftredge
@@ -28,7 +65,6 @@
 - EasyPy-mgh
 - SimplerLLM
 - yamlpp-lang
-- kport
 - pymacaroons2
 - fastapi-ast-inference
 - vtrim
@@ -49,7 +85,6 @@
 - pydelog
 - je-editor-dev
 - prompt-vcs
-- pi-zero-pytorch
 - solving-auth-middleware
 - daglint
 - alexwlchan-chives
@@ -58,35 +93,3 @@
 - lalamo
 - quantex
 - polars-config-meta
-- luainstaller
-- fixmydata
-- aimodelshare
-- wdnas-client
-- asset-handoffer
-- tuijson
-- mi-maica
-- fastdjt
-- pypck
-- pdf2zh-next
-- uv
-- uv-build
-- automation-ide-dev
-- tidal-dl-ng-alacdecoder
-- fastdigest
-- mcp-rag
-- linflex
-- mcp-memory-service
-- arifos
-- kiromgr
-- twpm
-- ccdcoe
-- zapgpt
-- bmp
-- malwi-box
-- hyperquant
-- jkUnicode
-- trackcell
-- EMD-signal
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons

@@ -1,11 +1,11 @@
 {
   "name": "trustgraph",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "summary": "TrustGraph provides a means to run a pipeline of flexible AI processing components in a flexible means to achieve a processing pipeline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustgraph-1.7.4.tar.gz",
-  "download_time": "2025-12-06T11:16:22.740900",
+  "download_filename": "trustgraph-1.7.5.tar.gz",
+  "download_time": "2025-12-06T15:18:51.592635",
   "package_url": "https://pypi.org/project/trustgraph/"
 }

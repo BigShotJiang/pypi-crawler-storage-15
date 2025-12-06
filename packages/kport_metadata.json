@@ -1,11 +1,11 @@
 {
   "name": "kport",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "A cross-platform command-line tool to inspect and kill processes using specific ports",
   "author": "Farman Ali",
   "license": null,
   "home_page": "https://github.com/farman20ali/port-killer",
-  "download_filename": "kport-2.1.0.tar.gz",
-  "download_time": "2025-12-06T14:41:03.160265",
+  "download_filename": "kport-2.1.1.tar.gz",
+  "download_time": "2025-12-06T15:18:43.292954",
   "package_url": "https://pypi.org/project/kport/"
 }

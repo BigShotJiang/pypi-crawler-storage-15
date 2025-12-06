@@ -1,0 +1,11 @@
+{
+  "name": "spakky-event",
+  "version": "5.0.0",
+  "summary": "Event handling stereotype for Spakky Framework (@EventHandler, @on_event)",
+  "author": "Spakky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spakky_event-5.0.0.tar.gz",
+  "download_time": "2025-12-06T15:18:58.527837",
+  "package_url": "https://pypi.org/project/spakky-event/"
+}
