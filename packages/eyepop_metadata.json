@@ -1,11 +1,11 @@
 {
   "name": "eyepop",
-  "version": "3.7.0",
+  "version": "3.7.2",
   "summary": "EyePop.ai Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eyepop-3.7.0.tar.gz",
-  "download_time": "2025-12-02T21:50:17.956674",
+  "download_filename": "eyepop-3.7.2.tar.gz",
+  "download_time": "2025-12-06T22:52:37.746182",
   "package_url": "https://pypi.org/project/eyepop/"
 }

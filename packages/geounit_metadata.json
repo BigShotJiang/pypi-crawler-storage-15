@@ -1,0 +1,11 @@
+{
+  "name": "geounit",
+  "version": "1.0.1",
+  "summary": "Geometric units conversions made easy",
+  "author": "Ivan Markin",
+  "license": "MIT",
+  "home_page": "https://github.com/unkaktus/geounit",
+  "download_filename": "geounit-1.0.1.tar.gz",
+  "download_time": "2025-12-06T22:52:30.285504",
+  "package_url": "https://pypi.org/project/geounit/"
+}

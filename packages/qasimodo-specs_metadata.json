@@ -1,11 +1,11 @@
 {
   "name": "qasimodo-specs",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Specifications and protocol definitions for QAsimodo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qasimodo_specs-0.0.7.tar.gz",
-  "download_time": "2025-12-06T22:42:23.072395",
+  "download_filename": "qasimodo_specs-0.0.8.tar.gz",
+  "download_time": "2025-12-06T22:52:38.266376",
   "package_url": "https://pypi.org/project/qasimodo-specs/"
 }
