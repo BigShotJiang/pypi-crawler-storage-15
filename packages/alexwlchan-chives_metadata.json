@@ -1,11 +1,11 @@
 {
   "name": "alexwlchan-chives",
-  "version": "12",
+  "version": "13",
   "summary": "Utility functions for working with my local media archives",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alexwlchan_chives-12.tar.gz",
-  "download_time": "2025-12-06T14:17:39.925213",
+  "download_filename": "alexwlchan_chives-13.tar.gz",
+  "download_time": "2025-12-06T14:41:41.040833",
   "package_url": "https://pypi.org/project/alexwlchan-chives/"
 }

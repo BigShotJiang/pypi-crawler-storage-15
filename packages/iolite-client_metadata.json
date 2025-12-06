@@ -1,11 +1,11 @@
 {
   "name": "iolite-client",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "API client for interacting with IOLite's remote API",
   "author": "Malachi Soord",
   "license": "MIT",
   "home_page": "https://github.com/inverse/python-iolite-client",
-  "download_filename": "iolite_client-0.7.2.tar.gz",
-  "download_time": "2025-12-06T14:17:52.123943",
+  "download_filename": "iolite_client-0.7.3.tar.gz",
+  "download_time": "2025-12-06T14:41:11.392399",
   "package_url": "https://pypi.org/project/iolite-client/"
 }
