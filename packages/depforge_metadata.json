@@ -1,0 +1,11 @@
+{
+  "name": "depforge",
+  "version": "0.1.0",
+  "summary": "Find breaking changes in your Python dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "depforge-0.1.0.tar.gz",
+  "download_time": "2025-12-06T23:19:14.824027",
+  "package_url": "https://pypi.org/project/depforge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "repo2notebook",
+  "version": "1.0.0",
+  "summary": "Convert any code repository into a single markdown file for NotebookLM",
+  "author": "Appaholics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repo2notebook-1.0.0.tar.gz",
+  "download_time": "2025-12-06T23:18:59.032434",
+  "package_url": "https://pypi.org/project/repo2notebook/"
+}

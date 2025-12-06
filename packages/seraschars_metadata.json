@@ -1,11 +1,11 @@
 {
   "name": "seraschars",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "a small module for setting up personas",
   "author": "sz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "seraschars-0.1.1.tar.gz",
-  "download_time": "2025-12-06T22:52:32.511068",
+  "download_filename": "seraschars-0.1.2.tar.gz",
+  "download_time": "2025-12-06T23:19:24.514891",
   "package_url": "https://pypi.org/project/seraschars/"
 }

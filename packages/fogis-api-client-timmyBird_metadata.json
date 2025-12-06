@@ -1,0 +1,11 @@
+{
+  "name": "fogis-api-client-timmyBird",
+  "version": "0.7.4",
+  "summary": "A Python client for the FOGIS API (Svensk Fotboll)",
+  "author": "Bartek Svaberg",
+  "license": null,
+  "home_page": "https://github.com/timmyBird/fogis-api-client",
+  "download_filename": "fogis_api_client_timmybird-0.7.4.tar.gz",
+  "download_time": "2025-12-06T23:19:25.549019",
+  "package_url": "https://pypi.org/project/fogis-api-client-timmyBird/"
+}

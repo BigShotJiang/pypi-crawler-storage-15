@@ -1,0 +1,11 @@
+{
+  "name": "neuroglyph",
+  "version": "2.3.1",
+  "summary": "Energy-efficient lossless compression optimized for screen recording, UI screenshots, and synthetic content",
+  "author": "NeuroGlyph Contributors",
+  "license": null,
+  "home_page": "https://github.com/yourusername/neuroglyph",
+  "download_filename": "neuroglyph-2.3.1.tar.gz",
+  "download_time": "2025-12-06T23:18:58.519796",
+  "package_url": "https://pypi.org/project/neuroglyph/"
+}

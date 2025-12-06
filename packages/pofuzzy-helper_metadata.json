@@ -1,0 +1,11 @@
+{
+  "name": "pofuzzy-helper",
+  "version": "0.1.2",
+  "summary": "Helping translators to find differences in msgids between versions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pofuzzy_helper-0.1.2-py3-none-any.whl",
+  "download_time": "2025-12-06T23:19:28.655949",
+  "package_url": "https://pypi.org/project/pofuzzy-helper/"
+}

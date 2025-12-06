@@ -1,0 +1,11 @@
+{
+  "name": "SnakeScan",
+  "version": "1.8.0",
+  "summary": "IPv4 address scanner for collecting address information.Scan or get the IPv4 address from the IPv6 host",
+  "author": "Den*Ram",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakescan-1.8.0.tar.gz",
+  "download_time": "2025-12-06T23:19:14.308113",
+  "package_url": "https://pypi.org/project/SnakeScan/"
+}
