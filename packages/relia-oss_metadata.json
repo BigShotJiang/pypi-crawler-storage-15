@@ -1,11 +1,11 @@
 {
   "name": "relia-oss",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Cloud cost prevention and optimization tool.",
   "author": "Relia Team",
   "license": null,
   "home_page": null,
-  "download_filename": "relia_oss-1.2.4.tar.gz",
-  "download_time": "2025-12-06T20:42:08.656974",
+  "download_filename": "relia_oss-1.2.5.tar.gz",
+  "download_time": "2025-12-06T21:18:26.168658",
   "package_url": "https://pypi.org/project/relia-oss/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "chuk-mcp-math",
-  "version": "0.2",
+  "version": "0.2.1",
   "summary": "Comprehensive MCP function library for AI models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chuk_mcp_math-0.2.tar.gz",
-  "download_time": "2025-12-06T19:16:52.576478",
+  "download_filename": "chuk_mcp_math-0.2.1.tar.gz",
+  "download_time": "2025-12-06T21:18:04.503524",
   "package_url": "https://pypi.org/project/chuk-mcp-math/"
 }

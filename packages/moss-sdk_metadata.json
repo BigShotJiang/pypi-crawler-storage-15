@@ -1,0 +1,11 @@
+{
+  "name": "moss-sdk",
+  "version": "0.1.0",
+  "summary": "Cryptographic identity and signed outputs for AI agents",
+  "author": "MOSS Computing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "moss_sdk-0.1.0.tar.gz",
+  "download_time": "2025-12-06T21:17:48.629523",
+  "package_url": "https://pypi.org/project/moss-sdk/"
+}
