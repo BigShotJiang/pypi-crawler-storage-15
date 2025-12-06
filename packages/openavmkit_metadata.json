@@ -1,11 +1,11 @@
 {
   "name": "openavmkit",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Open-source automated valuation model (AVM) toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openavmkit-0.5.0.tar.gz",
-  "download_time": "2025-12-05T22:19:52.895629",
+  "download_filename": "openavmkit-0.5.1.tar.gz",
+  "download_time": "2025-12-06T03:43:21.184398",
   "package_url": "https://pypi.org/project/openavmkit/"
 }

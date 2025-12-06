@@ -1,11 +1,11 @@
 {
   "name": "patrix",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A python package that uses a compressed prefix tree (radix tree) to store a dictionary of known words and suggests completions for partial entries.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "patrix-0.2.1.tar.gz",
-  "download_time": "2025-12-05T20:23:37.183241",
+  "download_filename": "patrix-0.2.2.tar.gz",
+  "download_time": "2025-12-06T03:43:19.594543",
   "package_url": "https://pypi.org/project/patrix/"
 }

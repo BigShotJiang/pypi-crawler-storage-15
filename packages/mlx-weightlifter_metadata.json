@@ -1,0 +1,11 @@
+{
+  "name": "mlx-weightlifter",
+  "version": "0.1.1",
+  "summary": "Lift any checkpoint into MLX - PyTorch, Safetensors, GGUF",
+  "author": "Sydney Renee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_weightlifter-0.1.1.tar.gz",
+  "download_time": "2025-12-06T03:43:11.148639",
+  "package_url": "https://pypi.org/project/mlx-weightlifter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kudosx",
-  "version": "0.2.1",
-  "summary": "Kudosx - An Agentic Coding CLI tool",
+  "version": "0.2.3",
+  "summary": "Kudosx - An AI software team that builds products with industry standard practices.",
   "author": "Kudosx Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kudosx-0.2.1.tar.gz",
-  "download_time": "2025-12-06T02:54:39.712665",
+  "download_filename": "kudosx-0.2.3.tar.gz",
+  "download_time": "2025-12-06T03:43:29.961338",
   "package_url": "https://pypi.org/project/kudosx/"
 }

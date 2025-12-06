@@ -1,11 +1,11 @@
 {
   "name": "sonika-langchain-bot",
-  "version": "0.0.55",
+  "version": "0.0.60",
   "summary": "Agente langchain con LLM",
   "author": "Erley Blanco Carvajal",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "sonika_langchain_bot-0.0.55.tar.gz",
-  "download_time": "2025-12-05T22:20:08.627572",
+  "download_filename": "sonika_langchain_bot-0.0.60.tar.gz",
+  "download_time": "2025-12-06T03:43:17.998769",
   "package_url": "https://pypi.org/project/sonika-langchain-bot/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "opaque-ke-py",
+  "version": "0.1.1",
+  "summary": "Python bindings for the OPAQUE-KE asymmetric password-authenticated key exchange protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opaque_ke_py-0.1.1-cp313-cp313t-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-12-06T03:43:02.382553",
+  "package_url": "https://pypi.org/project/opaque-ke-py/"
+}

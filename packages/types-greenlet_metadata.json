@@ -1,0 +1,11 @@
+{
+  "name": "types-greenlet",
+  "version": "3.3.0.20251206",
+  "summary": "Typing stubs for greenlet",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_greenlet-3.3.0.20251206.tar.gz",
+  "download_time": "2025-12-06T03:43:33.044497",
+  "package_url": "https://pypi.org/project/types-greenlet/"
+}

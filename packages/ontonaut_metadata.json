@@ -1,0 +1,11 @@
+{
+  "name": "ontonaut",
+  "version": "0.1.0",
+  "summary": "Customizable code editor widget for marimo with pluggable execution backends",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ontonaut-0.1.0.tar.gz",
+  "download_time": "2025-12-06T03:43:27.899172",
+  "package_url": "https://pypi.org/project/ontonaut/"
+}
