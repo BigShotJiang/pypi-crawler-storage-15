@@ -1,9 +1,14 @@
 {
-  "download_time": "2025-12-06T04:32:37.735240",
+  "download_time": "2025-12-06T04:54:12.822963",
   "total_packages_downloaded": 79,
-  "total_size_mb": 4.57,
+  "total_size_mb": 10.97,
   "packages": [
     "pytest-intent",
+    "typedpg",
+    "anyt",
+    "pdbfixer-wheel",
+    "nautobot-chatops",
+    "robloxmemoryapi",
     "target-gcs",
     "gateway-defender",
     "SURE-tools",
@@ -22,7 +27,6 @@
     "lager-cli",
     "textual-nerv",
     "odoo-addons-oca-stock-logistics-workflow",
-    "pdbfixer-wheel",
     "canvas_downloader",
     "snowflake-connector-python-nightly",
     "qpa",
@@ -77,10 +81,6 @@
     "exstruct",
     "ivpm",
     "winipyside",
-    "opaque-ke-py",
-    "keras-rs-nightly",
-    "sonarcal",
-    "rds-proxy-password-rotation",
-    "nextdns-blocker"
+    "opaque-ke-py"
   ]
 }

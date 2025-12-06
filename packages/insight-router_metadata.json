@@ -1,11 +1,11 @@
 {
   "name": "insight-router",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "FastAPI router for forwarding requests to GPU services",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "insight_router-0.2.0.tar.gz",
-  "download_time": "2025-12-06T04:32:02.658811",
+  "download_filename": "insight_router-0.3.0.tar.gz",
+  "download_time": "2025-12-06T04:53:37.238600",
   "package_url": "https://pypi.org/project/insight-router/"
 }
