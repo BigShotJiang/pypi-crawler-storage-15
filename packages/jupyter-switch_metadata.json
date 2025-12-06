@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-switch",
+  "version": "0.1.3",
+  "summary": "Convert between Markdown (.md) and Jupyter Notebook (.ipynb) formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyter_switch-0.1.3.tar.gz",
+  "download_time": "2025-12-06T13:16:57.014455",
+  "package_url": "https://pypi.org/project/jupyter-switch/"
+}

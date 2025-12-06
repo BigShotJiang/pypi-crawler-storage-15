@@ -1,0 +1,11 @@
+{
+  "name": "fm-prime",
+  "version": "1.0.9",
+  "summary": "Comprehensive prime number utilities with multiple algorithms including the novel Hyperbolic Equation Method with intelligent caching",
+  "author": "Farid Masjedi",
+  "license": "MIT",
+  "home_page": "https://github.com/faridmasjedi/fm-prime",
+  "download_filename": "fm_prime-1.0.9.tar.gz",
+  "download_time": "2025-12-06T13:17:06.802979",
+  "package_url": "https://pypi.org/project/fm-prime/"
+}

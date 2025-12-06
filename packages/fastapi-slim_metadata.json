@@ -1,11 +1,11 @@
 {
   "name": "fastapi-slim",
-  "version": "0.123.10",
+  "version": "0.124.0",
   "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_slim-0.123.10.tar.gz",
-  "download_time": "2025-12-05T21:40:51.877530",
+  "download_filename": "fastapi_slim-0.124.0.tar.gz",
+  "download_time": "2025-12-06T13:16:33.325703",
   "package_url": "https://pypi.org/project/fastapi-slim/"
 }

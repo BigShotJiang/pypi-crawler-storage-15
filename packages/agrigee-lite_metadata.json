@@ -1,11 +1,11 @@
 {
   "name": "agrigee-lite",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "summary": "Because using satellite data should not be rocket science.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agrigee_lite-2.0.9.tar.gz",
-  "download_time": "2025-12-04T12:41:59.670477",
+  "download_filename": "agrigee_lite-2.0.10.tar.gz",
+  "download_time": "2025-12-06T13:16:47.436119",
   "package_url": "https://pypi.org/project/agrigee-lite/"
 }

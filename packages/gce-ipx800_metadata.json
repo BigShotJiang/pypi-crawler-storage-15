@@ -1,0 +1,11 @@
+{
+  "name": "gce-ipx800",
+  "version": "0.7.1",
+  "summary": "Library to interact with the GCE Electronics IPX800 device",
+  "author": "Marc-Aurèle Brothier",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/marcaurele/gce-ipx800",
+  "download_filename": "gce_ipx800-0.7.1.tar.gz",
+  "download_time": "2025-12-06T13:17:01.662576",
+  "package_url": "https://pypi.org/project/gce-ipx800/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-minio-backend",
+  "version": "4.4.3",
+  "summary": "The django-minio-backend provides a wrapper around the MinIO Python Library.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_minio_backend-4.4.3.tar.gz",
+  "download_time": "2025-12-06T13:16:27.837670",
+  "package_url": "https://pypi.org/project/django-minio-backend/"
+}
