@@ -1,0 +1,11 @@
+{
+  "name": "bdnd",
+  "version": "1.1.0",
+  "summary": "Baidu Netdisk Client - A Python client for Baidu Netdisk API with CLI support",
+  "author": "Rookie",
+  "license": "MIT",
+  "home_page": "https://github.com/Rookie-Package/bdnd",
+  "download_filename": "bdnd-1.1.0.tar.gz",
+  "download_time": "2025-12-06T04:04:59.091897",
+  "package_url": "https://pypi.org/project/bdnd/"
+}

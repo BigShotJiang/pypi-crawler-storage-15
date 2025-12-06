@@ -1,11 +1,11 @@
 {
   "name": "pywebtask",
-  "version": "0.25.1",
+  "version": "0.26.0",
   "summary": "LLM-powered web automation library with autonomous agents",
   "author": "Steve Wang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pywebtask-0.25.1.tar.gz",
-  "download_time": "2025-12-06T02:54:57.032349",
+  "download_filename": "pywebtask-0.26.0.tar.gz",
+  "download_time": "2025-12-06T04:04:55.354873",
   "package_url": "https://pypi.org/project/pywebtask/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "programgarden-community",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "증권 분석에 필요한 외부 전략 모아둔 플러그인",
   "author": "프로그램동산",
   "license": null,
   "home_page": null,
-  "download_filename": "programgarden_community-0.1.14.tar.gz",
-  "download_time": "2025-12-06T03:43:02.894003",
+  "download_filename": "programgarden_community-0.1.15.tar.gz",
+  "download_time": "2025-12-06T04:04:52.579031",
   "package_url": "https://pypi.org/project/programgarden-community/"
 }

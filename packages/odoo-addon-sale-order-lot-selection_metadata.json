@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-sale-order-lot-selection",
-  "version": "18.0.1.2.3",
+  "version": "18.0.1.2.3.1",
   "summary": "Sale Order Lot Selection",
   "author": "Odoo Community Association (OCA), Agile Business Group",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sale-workflow",
-  "download_filename": "odoo_addon_sale_order_lot_selection-18.0.1.2.3-py3-none-any.whl",
-  "download_time": "2025-12-05T15:57:09.989245",
+  "download_filename": "odoo_addon_sale_order_lot_selection-18.0.1.2.3.1-py3-none-any.whl",
+  "download_time": "2025-12-06T04:04:37.236933",
   "package_url": "https://pypi.org/project/odoo-addon-sale-order-lot-selection/"
 }

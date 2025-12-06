@@ -1,0 +1,11 @@
+{
+  "name": "mesh-toolkit",
+  "version": "0.1.0",
+  "summary": "Python SDK for Meshy AI 3D asset generation API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mesh_toolkit-0.1.0.tar.gz",
+  "download_time": "2025-12-06T04:04:48.939229",
+  "package_url": "https://pypi.org/project/mesh-toolkit/"
+}

@@ -1,21 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T03:43:45.307377
-- **Total Packages**: 87
-- **Total Size**: 39.75 MB
+- **Download Time**: 2025-12-06T04:05:20.414422
+- **Total Packages**: 80
+- **Total Size**: 54.28 MB
 
 ## Packages List
-- byzerllm
+- parsefy
+- rnow
+- radonpy-pypi
+- apyds
+- odoo-addon-sale-order-lot-selection
+- clipassman
+- univi
+- keywordsai-sdk
+- snapfs
+- datamole
+- datamole-anshu-test
+- cdktf-cdktf-provider-github
+- qpa
+- wisent
+- pgmq
+- pyimport2pkg
+- fastapi-custom-responses
+- ezKit
+- celldega
+- kvbm
+- programgarden
+- ai-dynamo
+- twevals
+- mesh-toolkit
+- crispr-millipede
+- insight-router
 - slvrov-tools
+- pg-sui
+- GameSentenceMiner
+- dicom-to-video
+- programgarden-community
+- pdf-craft-sdk
+- mesh-plugin-manager
+- nonebot-plugin-rollpig
+- ras-commander
+- pywebtask
+- reap-protocol
+- manimvtk
+- cdktf-cdktf-provider-databricks
+- winidjango
+- CASSIA
+- SURE-tools
+- bdnd
+- auto-coder
+- nucleation
+- byzerllm
 - sawnergy
 - exstruct
 - ivpm
-- dicom-to-video
 - winipyside
-- GameSentenceMiner
 - opaque-ke-py
-- programgarden-community
 - keras-rs-nightly
 - sonarcal
 - rds-proxy-password-rotation
@@ -27,7 +68,6 @@
 - bitfloat
 - kryten-userstats
 - GANDLF
-- CASSIA
 - gmo-fx
 - mlx-weightlifter
 - claude-mpm
@@ -37,10 +77,8 @@
 - nominal-api-protos
 - nominal-api
 - pyloopmessage
-- pg-sui
 - nrepl-lazuli
 - emqx-client-monitor
-- SURE-tools
 - pyAgrum-nightly
 - sonika-langchain-bot
 - byteshare
@@ -48,48 +86,3 @@
 - patrix
 - gac
 - blastdns
-- openavmkit
-- claude-ccproxy
-- ai-parrot
-- tnh-scholar
-- hatch-rest-api
-- PyThermoLinkDB
-- trustable-ai
-- a2a-handler
-- konokenj.cdk-api-mcp-server
-- winiutils
-- neurograph-core
-- pyxtal
-- rwkv-emb
-- ontonaut
-- l0n0lc
-- ytrssil
-- flyteplugins-union
-- kudosx
-- visaionlibrary
-- robolson
-- mesh-plugin-manager
-- mail-pigeon
-- types-aws-xray-sdk
-- types-greenlet
-- obra-client
-- agentify-core
-- unitysvc-services
-- lib-x17-fintech
-- odoo-addon-base-business-document-import
-- odoo-addon-account-invoice-import
-- dfm-python
-- VertexEngine
-- lib-x17-log
-- DensityFlow2
-- mifastboot
-- code-puppy
-- glidergun
-- nonebot-plugin-mcnews
-- jobrunner-git
-- oomol-cloud-task-sdk
-- odoo-addons-oca-data-protection
-- openstoxlify
-- structifyai
-- ai-infra
-- pyocse

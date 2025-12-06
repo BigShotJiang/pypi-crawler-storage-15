@@ -1,0 +1,11 @@
+{
+  "name": "pyimport2pkg",
+  "version": "1.0.0",
+  "summary": "Reverse mapping tool: from Python import statements to pip package names",
+  "author": "Developer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyimport2pkg-1.0.0.tar.gz",
+  "download_time": "2025-12-06T04:04:43.714631",
+  "package_url": "https://pypi.org/project/pyimport2pkg/"
+}

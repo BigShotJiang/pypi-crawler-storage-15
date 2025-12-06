@@ -1,0 +1,11 @@
+{
+  "name": "radonpy-pypi",
+  "version": "0.2.10",
+  "summary": "RadonPy is a Python library to automate physical property calculations for polymer informatics.",
+  "author": "Yoshihiro Hayashi",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/RadonPy/RadonPy",
+  "download_filename": "radonpy_pypi-0.2.10.tar.gz",
+  "download_time": "2025-12-06T04:04:36.136460",
+  "package_url": "https://pypi.org/project/radonpy-pypi/"
+}
