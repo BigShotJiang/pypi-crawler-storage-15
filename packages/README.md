@@ -1,15 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T11:16:49.731560
-- **Total Packages**: 84
-- **Total Size**: 22.18 MB
+- **Download Time**: 2025-12-06T11:31:02.501052
+- **Total Packages**: 82
+- **Total Size**: 6.81 MB
 
 ## Packages List
-- mkdocs-git-latest-changes-plugin
-- aadc-cli
-- mcp-server-bitbucket
+- torchx-nightly
+- librt
+- diffindiff
+- moderation-api
+- jupyterlab-chat-toy
+- sqliteplus-enhanced
+- pixel-font-builder
+- torchft-nightly
+- tardis-spac
 - streaming-sql-engine
+- aadc-cli
+- huxly
+- asset-handoffer
+- tf-keras-nightly
+- gamengine3d
+- compas-viewer
+- mkdocs-git-latest-changes-plugin
+- mcp-server-bitbucket
 - pytest-tui-runner
 - pyuepak
 - elli-client
@@ -59,7 +73,6 @@
 - invalid-search
 - meridian-oss
 - silver-ai
-- diffindiff
 - pvd
 - pyeventbt
 - Qwael
@@ -75,18 +88,3 @@
 - ua-generator
 - spdx_checker
 - robotframework-schemathesislibrary
-- tgmcp
-- dhscan-agent
-- cortex-memory
-- django-channels-more-than-present
-- letta-nightly
-- putplace-server
-- gamengine3d
-- LipidTrafficAnalysis
-- chutes
-- duckalog
-- ezKit
-- aignostics
-- server-unite
-- devloop
-- Kekik
