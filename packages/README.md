@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T16:56:57.049999
-- **Total Packages**: 83
-- **Total Size**: 25.65 MB
+- **Download Time**: 2025-12-06T17:18:07.598523
+- **Total Packages**: 84
+- **Total Size**: 18.45 MB
 
 ## Packages List
+- ezmsg-sigproc
+- pycap-dss
+- geometor-divine
+- thermobuilpy
+- claude-mpm
+- depmanager
+- kaiserlift
+- hipr
+- mcp-ticketer
+- lino-xl
+- dataset-risk-decorator
+- darren-utils
+- qifeaturex
+- oktoblas
+- lino-noi
+- ai-agent-rules
+- fastappkit
+- geometor-model
+- relia-oss
+- cyvest
+- testAUC
+- meridian-oss
+- isoring
+- trackcell
+- hr-platform-sdk
+- flacopyus
+- grammarian
+- twpm
+- homi-pipeline
+- context-portal-mcp
+- supabase-audit-framework
 - subnoto-api-client
 - NEMO-CE
 - fabric-datalake-manager
@@ -17,23 +48,17 @@
 - nrt-pytest-soft-asserts
 - mappingtools
 - gammarers.aws-cdk-errors
-- meridian-oss
-- cyvest
 - liblaf-peach
 - aidlabsdk
-- relia-oss
 - jettask
 - valorant.py
 - feather-ai-sdk
 - istatcelldata
-- supabase-audit-framework
 - language-pipes
 - n8ntools
 - mkdocs-excalidraw
 - snakemake
 - trading-service-utils
-- kaiserlift
-- qifeaturex
 - chuk-mcp-math-server
 - coiled
 - PyToolsgr
@@ -65,27 +90,3 @@
 - tiktok-downloader-hd
 - django-spellbook
 - tree-sitter-pgn
-- ayechat
-- recline
-- ckb-textify
-- descanso
-- dora-eda
-- vtrim
-- max-bot-api-dlydedica
-- radicle-mcp-server
-- vimdecrypt
-- git-unite
-- recursor-mcp-server
-- recursor-sdk
-- airflow-provider-iris
-- osprey-framework
-- python-lsp-server
-- aghentic-minds
-- honeycomb-cli
-- webquest-mcp
-- pulse-mantine
-- pulse-recharts
-- etekcity-esf551-ble
-- smartpush
-- agentic-control-crews
-- nsb64

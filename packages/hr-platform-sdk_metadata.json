@@ -1,0 +1,11 @@
+{
+  "name": "hr-platform-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for HR Platform API - Type-safe access with async support and pandas integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hr_platform_sdk-0.1.0.tar.gz",
+  "download_time": "2025-12-06T17:17:32.294508",
+  "package_url": "https://pypi.org/project/hr-platform-sdk/"
+}

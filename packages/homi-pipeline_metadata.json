@@ -1,0 +1,11 @@
+{
+  "name": "homi-pipeline",
+  "version": "1.0.13",
+  "summary": "Pipeline for analysis of host-microbiome dual transcriptome data",
+  "author": "John Sterrett",
+  "license": null,
+  "home_page": "https://github.com/sterrettJD/HoMi",
+  "download_filename": "homi_pipeline-1.0.13.tar.gz",
+  "download_time": "2025-12-06T17:17:35.009537",
+  "package_url": "https://pypi.org/project/homi-pipeline/"
+}
