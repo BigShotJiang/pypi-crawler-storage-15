@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-aerospike",
+  "version": "0.2.3",
+  "summary": "OpenTelemetry Aerospike instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_aerospike-0.2.3.tar.gz",
+  "download_time": "2025-12-06T06:51:27.756417",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-aerospike/"
+}

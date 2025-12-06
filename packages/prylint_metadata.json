@@ -1,0 +1,11 @@
+{
+  "name": "prylint",
+  "version": "0.1.0",
+  "summary": "A fast Python linter written in Rust. Faster than pylint, slower than ruff. Catches more issues than ruff, less than pylint",
+  "author": "Adam Raudonis",
+  "license": "MIT",
+  "home_page": "https://github.com/adamraudonis/prylint",
+  "download_filename": "prylint-0.1.0.tar.gz",
+  "download_time": "2025-12-06T06:51:32.482895",
+  "package_url": "https://pypi.org/project/prylint/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ryumem",
+  "version": "0.1.5",
+  "summary": "Bi-temporal knowledge graph memory system using ryugraph",
+  "author": "Ryumem Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ryumem-0.1.5.tar.gz",
+  "download_time": "2025-12-06T06:51:26.726852",
+  "package_url": "https://pypi.org/project/ryumem/"
+}
