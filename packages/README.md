@@ -1,13 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-06T08:48:25.080218
+- **Download Time**: 2025-12-06T09:20:49.623808
 - **Total Packages**: 78
-- **Total Size**: 31.15 MB
+- **Total Size**: 3.72 MB
 
 ## Packages List
-- quickls
+- livekit-ai-note-taker
+- zoozl
 - sm-py-bc
+- fd-mcp
+- toonstream
+- localization-analyzer
+- fastlifeweb
+- mtcli-market
+- quickls
 - django-model-snapshots
 - mochi-coco
 - oarepo-c4gh
@@ -34,7 +41,6 @@
 - ryutils
 - linux-ssh-mcp
 - kabukit
-- localization-analyzer
 - tardis-spac
 - mcp-gsheets-folder
 - mcp-memory-service
@@ -78,9 +84,3 @@
 - cache-dit
 - python-binance
 - chatmemory
-- frontmatter-mcp
-- metrima
-- minions
-- GeoBank
-- mcpcn-video-ai-subtitle-mcp
-- feature-generate

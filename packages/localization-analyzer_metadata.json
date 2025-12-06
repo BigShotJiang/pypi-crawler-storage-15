@@ -1,11 +1,11 @@
 {
   "name": "localization-analyzer",
-  "version": "1.16.1",
+  "version": "1.17.0",
   "summary": "Professional localization analyzer for Swift/iOS projects with auto-translation",
   "author": "Sezgin Paksoy",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/localization-analyzer",
-  "download_filename": "localization_analyzer-1.16.1.tar.gz",
-  "download_time": "2025-12-06T08:47:58.914444",
+  "home_page": "https://github.com/sezginpak/localization-analyzer",
+  "download_filename": "localization_analyzer-1.17.0.tar.gz",
+  "download_time": "2025-12-06T09:20:05.676777",
   "package_url": "https://pypi.org/project/localization-analyzer/"
 }

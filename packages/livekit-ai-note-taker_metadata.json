@@ -1,0 +1,11 @@
+{
+  "name": "livekit-ai-note-taker",
+  "version": "0.1.8",
+  "summary": "AI note taker for LiveKit that listens to meeting audio, transcribes with Deepgram,AWS and streams concise summaries via Groq/OpenRouter(ollama)/OpenAI.",
+  "author": "Oladunjoye Abiola Moses",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "livekit_ai_note_taker-0.1.8.tar.gz",
+  "download_time": "2025-12-06T09:20:02.422461",
+  "package_url": "https://pypi.org/project/livekit-ai-note-taker/"
+}
