@@ -1,0 +1,11 @@
+{
+  "name": "grid2048-engine",
+  "version": "1.0.0",
+  "summary": "Game logic for 2048.",
+  "author": "Sheikh Hafijul Ali",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grid2048_engine-1.0.0.tar.gz",
+  "download_time": "2025-12-07T08:46:31.163187",
+  "package_url": "https://pypi.org/project/grid2048-engine/"
+}

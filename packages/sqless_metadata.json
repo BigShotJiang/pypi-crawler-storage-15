@@ -1,11 +1,11 @@
 {
   "name": "sqless",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "An async HTTP server for SQLite, FileStorage and WebPage.",
   "author": "pro1515151515",
   "license": null,
   "home_page": "https://github.com/pro1515151515/sqless",
-  "download_filename": "sqless-0.2.0.tar.gz",
-  "download_time": "2025-12-07T08:24:45.855131",
+  "download_filename": "sqless-0.2.1.tar.gz",
+  "download_time": "2025-12-07T08:46:56.117207",
   "package_url": "https://pypi.org/project/sqless/"
 }
