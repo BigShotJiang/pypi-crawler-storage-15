@@ -1,0 +1,11 @@
+{
+  "name": "delivery-optimizer",
+  "version": "1.0.0",
+  "summary": "A Python library for calculating delivery distances and pricing using the Haversine formula",
+  "author": "Abhishek Sharma",
+  "license": null,
+  "home_page": "https://github.com/AbhishekSharmaIE/courier-delivery-system",
+  "download_filename": "delivery_optimizer-1.0.0.tar.gz",
+  "download_time": "2025-12-07T14:52:08.461468",
+  "package_url": "https://pypi.org/project/delivery-optimizer/"
+}

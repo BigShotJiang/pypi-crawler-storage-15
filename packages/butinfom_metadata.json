@@ -1,11 +1,11 @@
 {
   "name": "butinfom",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "Outils pour l'enseignement des maths en BUT d'informatique",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "butinfom-0.0.9.tar.gz",
-  "download_time": "2025-12-07T14:42:11.829750",
+  "download_filename": "butinfom-0.0.10.tar.gz",
+  "download_time": "2025-12-07T14:52:07.439369",
   "package_url": "https://pypi.org/project/butinfom/"
 }

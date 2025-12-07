@@ -1,27 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T14:43:00.474396
-- **Total Packages**: 84
-- **Total Size**: 10.27 MB
+- **Download Time**: 2025-12-07T14:52:45.595905
+- **Total Packages**: 75
+- **Total Size**: 19.88 MB
 
 ## Packages List
+- stlflib
+- mmrl-util
+- x-anylabeling-cvhub
+- wshawk
+- pdfget
 - butinfom
+- pyowo-importer
+- delivery-optimizer
+- klondike-spec-cli
+- openagents
+- smartfileorganizer-lin
+- linux-ssh-mcp
+- casbin-async-sqlalchemy-adapter
+- sqtab
+- airports-py
+- socat-lib-ash404
+- promptv
+- ieee-gui
+- aerofs
+- click-extended
+- apk-info
+- audixa
+- typer-injector
+- sifr-benchmark
+- oneliai
+- nested-diff
+- aiohomematic-test-support
+- aiohomematic
+- bkmr
+- duper-python
+- namel3ss
+- sphinx-markdown-builder
+- port-ocean
+- cross-inertia
+- rec-praxis-rlm
+- sqlshell
 - fastapi-matrix-admin
 - siirl
 - vcf-merger
-- pyowo-importer
 - sc-audit
 - boxlite-mcp
 - color-analysis-tool
 - toolkitz
-- audixa
 - cobjectric
 - aird
-- casbin-async-sqlalchemy-adapter
-- namel3ss
-- klondike-spec-cli
-- sifr-benchmark
 - nicecall
 - netshare
 - dfm-python
@@ -47,46 +76,8 @@
 - StevenTricks
 - havsalt-termnautica
 - sova-sdk
-- ieee-gui
 - zipip
 - aoc-helper
 - kanoa
 - emunium
 - serverz-ag-code-paper
-- phoenix-bot-api
-- serverz-ag-code-template
-- messagebus
-- ibm-db
-- vector2png
-- bkmr
-- logging-objects-with-schema
-- matrice-common
-- docx2tiptap
-- trex-lib
-- trex-apis
-- trex-model
-- dbapi-mongodb
-- lobster-ai
-- fastipc
-- parallaxapis-sdk-py
-- conson-xp
-- wox-plugin
-- github-backup
-- pydantic-modelable
-- abcount
-- wisemodel-hub
-- broccoli-ml
-- shapes-geometry
-- other-agents-mcp
-- EMD-signal
-- amsdal_server
-- easy-cos
-- jupyterlab-chat-toy
-- simpliq-mcp-server-dev-test
-- colusa
-- tensordict-nightly
-- log-inspector-mcp
-- python-opendota-sdk
-- sports-betting
-- Pytdbot
-- ccxt-ir

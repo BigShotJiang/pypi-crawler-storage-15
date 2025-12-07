@@ -1,0 +1,11 @@
+{
+  "name": "socat-lib-ash404",
+  "version": "1.0.0",
+  "summary": "A Python library for network communication using socat",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourname/socat_lib",
+  "download_filename": "socat_lib_ash404-1.0.0.tar.gz",
+  "download_time": "2025-12-07T14:52:12.661460",
+  "package_url": "https://pypi.org/project/socat-lib-ash404/"
+}
