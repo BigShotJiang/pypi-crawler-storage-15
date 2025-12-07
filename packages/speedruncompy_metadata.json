@@ -1,0 +1,11 @@
+{
+  "name": "speedruncompy",
+  "version": "1.0.0",
+  "summary": "A wrapper for speedrun.com's obscure new v2 API, as used by their new site",
+  "author": null,
+  "license": "LGPLv2.1",
+  "home_page": null,
+  "download_filename": "speedruncompy-1.0.0.tar.gz",
+  "download_time": "2025-12-07T17:33:53.392979",
+  "package_url": "https://pypi.org/project/speedruncompy/"
+}
