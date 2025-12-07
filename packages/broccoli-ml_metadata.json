@@ -1,11 +1,11 @@
 {
   "name": "broccoli-ml",
-  "version": "6.0.1",
+  "version": "7.0.0",
   "summary": "Some useful Pytorch models, circa 2025",
   "author": "Nicholas Bailey",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "broccoli_ml-6.0.1.tar.gz",
-  "download_time": "2025-12-07T14:19:40.519607",
+  "download_filename": "broccoli_ml-7.0.0.tar.gz",
+  "download_time": "2025-12-07T15:18:46.447865",
   "package_url": "https://pypi.org/project/broccoli-ml/"
 }

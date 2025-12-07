@@ -1,15 +1,80 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T14:52:45.595905
-- **Total Packages**: 75
-- **Total Size**: 19.88 MB
+- **Download Time**: 2025-12-07T15:19:13.046432
+- **Total Packages**: 90
+- **Total Size**: 21.78 MB
 
 ## Packages List
-- stlflib
-- mmrl-util
-- x-anylabeling-cvhub
+- QuickBench
+- color-analysis-tool
+- layeredlearning
+- mathhunt
+- pytest-repeated
+- medusa-security
+- phoenix-bot-api
+- ccontext-mcp
+- pyjinhx
+- znum
+- nicecall
+- thenvoi-client-rest
+- cf-ips-to-hcloud-fw
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- crc-pulp-service-client
+- crc-pulp-file-client
+- crc-pulp-maven-client
+- crc-pulp-rpm-client
+- crc-pulp-gem-client
+- crc-pulp-npm-client
+- crc-pulp-python-client
+- promptsearch
+- crc-pulpcore-client
+- mcp-memory-service
+- mtcli-market
+- Herkules
+- edhelper
+- chuk-term
+- hmr
+- iinfer
+- ape-langchain
+- opendate
+- ape-openai
+- ape-anthropic
+- matrice-streaming
+- ape-lang
+- code-puppy
+- neuronum
+- broccoli-ml
+- language-pipes
+- remdb
+- cmdbox
+- ebuffer
+- amorce-sdk
 - wshawk
+- crous
+- smart-file-organizer-tool
+- page-dewarp
+- SocatLib
+- pyzstd
+- schemathesis
+- gig-nuuuwan
+- pywiim
+- PySide2-Fluent-Widgets
+- PyQt6-Fluent-Widgets
+- PyQt-Fluent-Widgets
+- PySide6-Fluent-Widgets
+- bentopy
+- bkmr
+- avido
+- smrpgpatchbuilder
+- converdation
+- tclogger
+- mmrl-util
+- asof
+- stlflib
+- x-anylabeling-cvhub
 - pdfget
 - butinfom
 - pyowo-importer
@@ -21,7 +86,6 @@
 - casbin-async-sqlalchemy-adapter
 - sqtab
 - airports-py
-- socat-lib-ash404
 - promptv
 - ieee-gui
 - aerofs
@@ -32,52 +96,3 @@
 - sifr-benchmark
 - oneliai
 - nested-diff
-- aiohomematic-test-support
-- aiohomematic
-- bkmr
-- duper-python
-- namel3ss
-- sphinx-markdown-builder
-- port-ocean
-- cross-inertia
-- rec-praxis-rlm
-- sqlshell
-- fastapi-matrix-admin
-- siirl
-- vcf-merger
-- sc-audit
-- boxlite-mcp
-- color-analysis-tool
-- toolkitz
-- cobjectric
-- aird
-- nicecall
-- netshare
-- dfm-python
-- django-ninja-aio-crud
-- baqup-agent
-- baqup-schema
-- worldedit
-- worldio
-- matrice-inference
-- pypdf
-- ratelimits
-- tailucas-pylib
-- pylongslit
-- serverz-ag-filer
-- picfly
-- zdev
-- pytest-repeated
-- spotoptim
-- multimodal-agent
-- ctyun-cli
-- swcgeom
-- pywiim
-- StevenTricks
-- havsalt-termnautica
-- sova-sdk
-- zipip
-- aoc-helper
-- kanoa
-- emunium
-- serverz-ag-code-paper

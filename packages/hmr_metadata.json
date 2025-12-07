@@ -1,0 +1,11 @@
+{
+  "name": "hmr",
+  "version": "0.7.6.2",
+  "summary": "Hot Module Reload and Fine-grained Reactive Programming for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hmr-0.7.6.2-py3-none-any.whl",
+  "download_time": "2025-12-07T15:18:41.303951",
+  "package_url": "https://pypi.org/project/hmr/"
+}

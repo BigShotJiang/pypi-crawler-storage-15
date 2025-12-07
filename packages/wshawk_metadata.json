@@ -1,11 +1,11 @@
 {
   "name": "wshawk",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Professional WebSocket security scanner with real vulnerability verification, session hijacking tests, and CVSS scoring",
   "author": "Regaan",
   "license": null,
   "home_page": "https://github.com/noobforanonymous/wshawk",
-  "download_filename": "wshawk-2.0.1.tar.gz",
-  "download_time": "2025-12-07T14:52:06.378166",
+  "download_filename": "wshawk-2.0.2.tar.gz",
+  "download_time": "2025-12-07T15:18:49.548136",
   "package_url": "https://pypi.org/project/wshawk/"
 }

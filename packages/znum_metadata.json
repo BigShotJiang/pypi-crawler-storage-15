@@ -1,11 +1,11 @@
 {
   "name": "znum",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Z-number data type for fuzzy arithmetic and multi-criteria decision making (TOPSIS, VIKOR, PROMETHEE)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "znum-0.1.0.tar.gz",
-  "download_time": "2025-12-07T13:15:43.322577",
+  "download_filename": "znum-0.2.1.tar.gz",
+  "download_time": "2025-12-07T15:18:30.488030",
   "package_url": "https://pypi.org/project/znum/"
 }

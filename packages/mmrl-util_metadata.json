@@ -1,11 +1,11 @@
 {
   "name": "mmrl-util",
-  "version": "2.14.23",
+  "version": "2.14.24",
   "summary": "A tool to build your own Magisk Modules Repository",
   "author": "Der_Googler & Sanmer",
   "license": "GPL-3.0",
   "home_page": "https://github.com/Googlers-Repo/magisk-modules-repo-util",
-  "download_filename": "mmrl_util-2.14.23-py3-none-any.whl",
-  "download_time": "2025-12-07T14:52:05.280898",
+  "download_filename": "mmrl_util-2.14.24-py3-none-any.whl",
+  "download_time": "2025-12-07T15:18:59.364075",
   "package_url": "https://pypi.org/project/mmrl-util/"
 }
