@@ -1,0 +1,11 @@
+{
+  "name": "rich-json-tree",
+  "version": "0.1.0",
+  "summary": "Pretty JSON/tree viewer using Rich in the terminal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rich_json_tree-0.1.0.tar.gz",
+  "download_time": "2025-12-07T07:39:05.259977",
+  "package_url": "https://pypi.org/project/rich-json-tree/"
+}

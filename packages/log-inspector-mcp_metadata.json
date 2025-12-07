@@ -1,0 +1,11 @@
+{
+  "name": "log-inspector-mcp",
+  "version": "0.2.2",
+  "summary": "MCP server for inspecting log files in XDG_RUNTIME_DIR/log",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "log_inspector_mcp-0.2.2.tar.gz",
+  "download_time": "2025-12-07T07:39:08.451399",
+  "package_url": "https://pypi.org/project/log-inspector-mcp/"
+}

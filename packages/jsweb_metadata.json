@@ -1,0 +1,11 @@
+{
+  "name": "jsweb",
+  "version": "1.1.0",
+  "summary": "JsWeb - A lightweight and modern Python web framework designed for speed and simplicity.",
+  "author": "Jones Peter",
+  "license": "MIT",
+  "home_page": "https://github.com/Jones-peter/jsweb",
+  "download_filename": "jsweb-1.1.0.tar.gz",
+  "download_time": "2025-12-07T07:39:12.263207",
+  "package_url": "https://pypi.org/project/jsweb/"
+}

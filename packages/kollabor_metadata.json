@@ -1,11 +1,11 @@
 {
   "name": "kollabor",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "An advanced, highly customizable terminal-based chat application for interacting with LLMs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kollabor-0.4.2.tar.gz",
-  "download_time": "2025-12-07T07:19:26.775268",
+  "download_filename": "kollabor-0.4.4.tar.gz",
+  "download_time": "2025-12-07T07:38:55.096493",
   "package_url": "https://pypi.org/project/kollabor/"
 }

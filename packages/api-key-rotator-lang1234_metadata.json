@@ -1,0 +1,11 @@
+{
+  "name": "api-key-rotator-lang1234",
+  "version": "0.1.1",
+  "summary": "A Python library for rotating API keys with automatic expiration handling",
+  "author": "xLang1234",
+  "license": "MIT",
+  "home_page": "https://github.com/xLang1234/api-key-rotator",
+  "download_filename": "api_key_rotator_lang1234-0.1.1.tar.gz",
+  "download_time": "2025-12-07T07:38:53.373884",
+  "package_url": "https://pypi.org/project/api-key-rotator-lang1234/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ivcap_client",
-  "version": "0.47.8",
+  "version": "0.47.9",
   "summary": "A client library for accessing an IVCAP cluster",
   "author": "Max Ott",
   "license": null,
   "home_page": null,
-  "download_filename": "ivcap_client-0.47.8.tar.gz",
-  "download_time": "2025-12-07T06:28:23.622945",
+  "download_filename": "ivcap_client-0.47.9.tar.gz",
+  "download_time": "2025-12-07T07:38:59.629192",
   "package_url": "https://pypi.org/project/ivcap_client/"
 }
