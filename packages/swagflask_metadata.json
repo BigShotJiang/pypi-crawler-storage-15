@@ -1,0 +1,11 @@
+{
+  "name": "swagflask",
+  "version": "0.1.0",
+  "summary": "Swagger UI for Flask - Automatically configure Swagger UI for Flask applications, just like FastAPI's /docs endpoint",
+  "author": "Rithwik",
+  "license": "MIT",
+  "home_page": "https://github.com/rithwiksb/swagflask",
+  "download_filename": "swagflask-0.1.0.tar.gz",
+  "download_time": "2025-12-07T06:28:54.577674",
+  "package_url": "https://pypi.org/project/swagflask/"
+}

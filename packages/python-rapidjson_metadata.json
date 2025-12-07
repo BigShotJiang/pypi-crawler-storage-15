@@ -1,0 +1,11 @@
+{
+  "name": "python-rapidjson",
+  "version": "1.23",
+  "summary": "Python wrapper around rapidjson",
+  "author": "Ken Robbins",
+  "license": "MIT License",
+  "home_page": "https://github.com/python-rapidjson/python-rapidjson",
+  "download_filename": "python_rapidjson-1.23.tar.gz",
+  "download_time": "2025-12-07T06:28:32.917903",
+  "package_url": "https://pypi.org/project/python-rapidjson/"
+}

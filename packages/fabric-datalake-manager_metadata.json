@@ -1,11 +1,11 @@
 {
   "name": "fabric-datalake-manager",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "A Fabric extension for managing data lakes",
   "author": "Mahmudul Hasan Roni",
   "license": null,
   "home_page": null,
-  "download_filename": "fabric_datalake_manager-0.1.30.tar.gz",
-  "download_time": "2025-12-07T05:52:18.250753",
+  "download_filename": "fabric_datalake_manager-0.1.31.tar.gz",
+  "download_time": "2025-12-07T06:28:43.321593",
   "package_url": "https://pypi.org/project/fabric-datalake-manager/"
 }

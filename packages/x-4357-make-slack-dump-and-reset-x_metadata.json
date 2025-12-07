@@ -1,11 +1,11 @@
 {
   "name": "x-4357-make-slack-dump-and-reset-x",
-  "version": "0.20.16",
+  "version": "0.20.17",
   "summary": "Slack purge runner that archives channels into Change Control and optionally deletes the source history once evidence is captured.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_4357_make_slack_dump_and_reset_x-0.20.16.tar.gz",
-  "download_time": "2025-12-07T04:11:06.422595",
+  "download_filename": "x_4357_make_slack_dump_and_reset_x-0.20.17.tar.gz",
+  "download_time": "2025-12-07T06:28:44.859668",
   "package_url": "https://pypi.org/project/x-4357-make-slack-dump-and-reset-x/"
 }

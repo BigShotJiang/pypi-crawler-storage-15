@@ -1,0 +1,11 @@
+{
+  "name": "notedf",
+  "version": "0.2.0",
+  "summary": "Note Data Format - Simple, compact, model-optimized data format",
+  "author": "Paul Mothapo",
+  "license": "MIT",
+  "home_page": "https://github.com/Dysporium/note-data-format",
+  "download_filename": "notedf-0.2.0.tar.gz",
+  "download_time": "2025-12-07T06:28:48.439450",
+  "package_url": "https://pypi.org/project/notedf/"
+}

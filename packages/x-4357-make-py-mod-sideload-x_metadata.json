@@ -1,11 +1,11 @@
 {
   "name": "x-4357-make-py-mod-sideload-x",
-  "version": "0.20.16",
+  "version": "0.20.17",
   "summary": "Python module sideloader.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_4357_make_py_mod_sideload_x-0.20.16.tar.gz",
-  "download_time": "2025-12-07T04:11:07.982240",
+  "download_filename": "x_4357_make_py_mod_sideload_x-0.20.17.tar.gz",
+  "download_time": "2025-12-07T06:28:46.392598",
   "package_url": "https://pypi.org/project/x-4357-make-py-mod-sideload-x/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "x-4357-make-gitignore-sync-x",
-  "version": "0.20.16",
+  "version": "0.20.17",
   "summary": "Synchronise a shared .gitignore template across workspace repositories.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_4357_make_gitignore_sync_x-0.20.16.tar.gz",
-  "download_time": "2025-12-07T04:11:12.749541",
+  "download_filename": "x_4357_make_gitignore_sync_x-0.20.17.tar.gz",
+  "download_time": "2025-12-07T06:28:50.996378",
   "package_url": "https://pypi.org/project/x-4357-make-gitignore-sync-x/"
 }

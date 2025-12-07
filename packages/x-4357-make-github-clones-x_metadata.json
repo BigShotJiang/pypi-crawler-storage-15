@@ -1,11 +1,11 @@
 {
   "name": "x-4357-make-github-clones-x",
-  "version": "0.20.16",
+  "version": "0.20.17",
   "summary": "Makes GitHub repository clones.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_4357_make_github_clones_x-0.20.16.tar.gz",
-  "download_time": "2025-12-07T03:19:06.637678",
+  "download_filename": "x_4357_make_github_clones_x-0.20.17.tar.gz",
+  "download_time": "2025-12-07T06:28:52.533869",
   "package_url": "https://pypi.org/project/x-4357-make-github-clones-x/"
 }
