@@ -1,0 +1,11 @@
+{
+  "name": "hibp-downloader",
+  "version": "0.3.4",
+  "summary": "Efficiently download HIBP new pwned password data by hash-prefix for a local-copy",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "hibp_downloader-0.3.4.tar.gz",
+  "download_time": "2025-12-07T19:16:28.670144",
+  "package_url": "https://pypi.org/project/hibp-downloader/"
+}

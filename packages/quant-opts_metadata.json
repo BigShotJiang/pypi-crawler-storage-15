@@ -1,0 +1,11 @@
+{
+  "name": "quant-opts",
+  "version": "0.1.0",
+  "summary": "Python bindings for quant-opts",
+  "author": "Prem Olszewski, Hayden Rose",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quant_opts-0.1.0.tar.gz",
+  "download_time": "2025-12-07T19:16:48.386422",
+  "package_url": "https://pypi.org/project/quant-opts/"
+}
