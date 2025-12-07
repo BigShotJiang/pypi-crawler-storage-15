@@ -1,11 +1,11 @@
 {
   "name": "airflow-provider-iris",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "airflow provider for intersystems",
   "author": "Muhammad Waseem",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/mwaseem75",
-  "download_filename": "airflow_provider_iris-0.2.6.tar.gz",
-  "download_time": "2025-12-07T20:43:25.101194",
+  "download_filename": "airflow_provider_iris-0.2.7.tar.gz",
+  "download_time": "2025-12-07T20:52:15.538951",
   "package_url": "https://pypi.org/project/airflow-provider-iris/"
 }
