@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-mcserver-status-check",
-  "version": "0.1.0",
-  "summary": "An efficient and beautiful Minecraft server status query plugin with vanilla style rendering.",
-  "author": null,
+  "version": "0.1.1",
+  "summary": "一款原版风格、美观高效的 Minecraft 服务器状态查询插件",
+  "author": "leiuary",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "nonebot_plugin_mcserver_status_check-0.1.0.tar.gz",
-  "download_time": "2025-12-07T10:52:23.109155",
+  "home_page": "https://github.com/leiuary/nonebot-plugin-mcserver-status-check",
+  "download_filename": "nonebot_plugin_mcserver_status_check-0.1.1.tar.gz",
+  "download_time": "2025-12-07T11:41:54.411491",
   "package_url": "https://pypi.org/project/nonebot-plugin-mcserver-status-check/"
 }

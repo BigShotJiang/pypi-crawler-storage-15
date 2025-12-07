@@ -1,0 +1,11 @@
+{
+  "name": "wiki_tool_python",
+  "version": "0.3.0",
+  "summary": "Script to perform tasks with websites on MediaWiki engine using API",
+  "author": "Artiom Khandamirov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wiki_tool_python-0.3.0.tar.gz",
+  "download_time": "2025-12-07T11:41:50.420262",
+  "package_url": "https://pypi.org/project/wiki_tool_python/"
+}
