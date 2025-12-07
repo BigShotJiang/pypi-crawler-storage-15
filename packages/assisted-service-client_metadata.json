@@ -1,11 +1,11 @@
 {
   "name": "assisted-service-client",
-  "version": "2.48.0.post19",
+  "version": "2.48.0.post21",
   "summary": "AssistedInstall",
   "author": "RedHat",
   "license": null,
   "home_page": "https://github.com/openshift/assisted-service",
-  "download_filename": "assisted_service_client-2.48.0.post19.tar.gz",
-  "download_time": "2025-12-07T11:30:19.676493",
+  "download_filename": "assisted_service_client-2.48.0.post21.tar.gz",
+  "download_time": "2025-12-07T17:52:40.491789",
   "package_url": "https://pypi.org/project/assisted-service-client/"
 }

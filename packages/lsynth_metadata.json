@@ -1,0 +1,11 @@
+{
+  "name": "lsynth",
+  "version": "0.1.0",
+  "summary": "MAP-alignment fidelity for synthetic tabular data",
+  "author": "I. Chattopadhyay",
+  "license": " ",
+  "home_page": "https://github.com/zeroknowledgediscovery/lsynth",
+  "download_filename": "lsynth-0.1.0.tar.gz",
+  "download_time": "2025-12-07T17:52:33.140481",
+  "package_url": "https://pypi.org/project/lsynth/"
+}
