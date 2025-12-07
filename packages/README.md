@@ -1,17 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T13:38:19.544444
-- **Total Packages**: 79
-- **Total Size**: 30.08 MB
+- **Download Time**: 2025-12-07T13:52:38.853681
+- **Total Packages**: 90
+- **Total Size**: 32.8 MB
 
 ## Packages List
+- Pytdbot
+- ccxt-ir
+- havsalt-termnautica
+- stepup-queue
+- adv-optm
+- mteb
+- cr-utils
+- liteai-sdk
+- audixa
+- telepress
+- dog-cli
+- leanllm
+- crypto-toolkit
+- hivemux
+- oceanval
+- fyodoros
+- tricoder
+- square_authentication
+- trellis-datamodel
+- whisperspeech2
+- gede
+- nucleation
+- ccgo
+- ngimager
+- simpliq-mcp-server-dev-test
+- llm-goose
+- zero-spinner
+- requers
+- refactor-utils
+- frogml
+- vresto
 - ultimateultimateguitar
 - rec-praxis-rlm
 - hisss
 - byteprint
 - agentic-workstation
-- telemars
 - mdformat_space_control
 - algomanim
 - kodexa
@@ -28,7 +58,6 @@
 - ayechat
 - trustable-ai
 - medicafe
-- tricoder
 - subtitlekit
 - biontfy
 - larql
@@ -58,7 +87,6 @@
 - fedramp-20x-mcp
 - nbdev-sphinx
 - nbdev-scipy
-- requers
 - nbdev-pytorch
 - nbdev-pandas
 - nbdev-numpy
@@ -68,20 +96,3 @@
 - xlsxturbo
 - geodatasim
 - prompt-sdk-python
-- stko
-- telepress
-- snapmark
-- radicle-mcp-server
-- impedancefitter
-- agentscope
-- bareBonesWeb
-- flow-claude
-- decky-remote
-- curllm
-- phystool
-- trafiklab-sl
-- how2
-- stock-pandas
-- uplm80
-- vcf-merger
-- n7

@@ -1,11 +1,11 @@
 {
   "name": "requers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Rust-based HTTP client for Python with some requests-like methods.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "requers-0.1.0-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-07T13:38:03.392675",
+  "download_filename": "requers-0.1.1-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-07T13:52:04.828266",
   "package_url": "https://pypi.org/project/requers/"
 }
