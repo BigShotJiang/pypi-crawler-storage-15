@@ -1,23 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T05:25:22.115864
-- **Total Packages**: 78
-- **Total Size**: 14.09 MB
+- **Download Time**: 2025-12-07T05:42:55.020408
+- **Total Packages**: 76
+- **Total Size**: 5.66 MB
 
 ## Packages List
+- fastpy-cli
 - fabric-datalake-manager
+- meyigi-scripts
+- first-agentic-csa
+- stoobly-agent
+- querynl-cli
+- paircraft
+- aiaccel
+- viotucluster
 - torchdire
+- llmfy
+- darkfield
+- deepteam
+- afterpython
+- pbir-utils
+- automation-ide-dev
+- inferion
+- base-repository
+- pydoll-python
+- automation-ide
 - django-ninja-simple-jwt
 - pocket-joe
 - pytest-repeated
-- fastpy-cli
 - commentlogger
 - proxai
 - pykimix
 - universal-agent-nexus
 - wisent
-- querynl-cli
 - code-scalpel
 - pmgfal
 - chat2edit
@@ -37,7 +53,6 @@
 - gera2ld-pyserve
 - oxifish
 - cltk
-- afterpython
 - nexusLIMS
 - ViennaRNA
 - violetear
@@ -46,7 +61,6 @@
 - sync-offset-tool
 - xiaonie-mcp-demo
 - never-primp
-- optikal-physics-suite
 - nc1709
 - django-cfg
 - iamdata
@@ -68,19 +82,3 @@
 - vendor-connectors
 - mcp-server-webcrawl
 - super-pocket
-- pytest-intent
-- gamengine3d
-- jugglerr
-- zos-ccsid-converter
-- nucore-ai
-- dockai-cli
-- xcpcio
-- emcd-vibe-linter
-- keras-nlp-nightly
-- keras-hub-nightly
-- termux-dev-setup
-- kittylog
-- whisperspeech2
-- tunacode-cli
-- scantool
-- ba-cuda

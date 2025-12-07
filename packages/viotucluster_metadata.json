@@ -1,0 +1,11 @@
+{
+  "name": "viotucluster",
+  "version": "0.5.7.1",
+  "summary": "ViOTUcluster: A high-speed, all-in-one solution that streamlines the entire virome analysis workflow",
+  "author": "Sihang Liu",
+  "license": "GPL-2.0",
+  "home_page": null,
+  "download_filename": "viotucluster-0.5.7.1.tar.gz",
+  "download_time": "2025-12-07T05:42:19.113846",
+  "package_url": "https://pypi.org/project/viotucluster/"
+}
