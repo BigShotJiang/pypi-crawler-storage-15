@@ -1,11 +1,11 @@
 {
   "name": "logging_ext_ramwin",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Extended logging handlers with date-based filename formatting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logging_ext_ramwin-0.2.0.tar.gz",
-  "download_time": "2025-12-06T14:17:37.324522",
+  "download_filename": "logging_ext_ramwin-0.2.1.tar.gz",
+  "download_time": "2025-12-07T03:19:39.798033",
   "package_url": "https://pypi.org/project/logging_ext_ramwin/"
 }

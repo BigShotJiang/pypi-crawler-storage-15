@@ -1,0 +1,11 @@
+{
+  "name": "ctx-i18n",
+  "version": "0.1.2",
+  "summary": "Context-aware internationalization utility for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctx_i18n-0.1.2.tar.gz",
+  "download_time": "2025-12-07T03:19:28.954588",
+  "package_url": "https://pypi.org/project/ctx-i18n/"
+}

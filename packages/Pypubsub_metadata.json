@@ -1,11 +1,11 @@
 {
   "name": "Pypubsub",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "summary": "Python Publish-Subscribe Package",
   "author": null,
   "license": "BSD-2-Clause",
   "home_page": null,
-  "download_filename": "pypubsub-4.0.4.tar.gz",
-  "download_time": "2025-12-06T23:19:09.071094",
+  "download_filename": "pypubsub-4.0.5.tar.gz",
+  "download_time": "2025-12-07T03:19:32.733282",
   "package_url": "https://pypi.org/project/Pypubsub/"
 }

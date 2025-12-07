@@ -1,11 +1,11 @@
 {
   "name": "vibephysics",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Physics simulation and annotation tools for Blender",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "vibephysics-0.1.0.tar.gz",
-  "download_time": "2025-12-06T23:40:26.768801",
+  "download_filename": "vibephysics-0.1.1.tar.gz",
+  "download_time": "2025-12-07T03:19:30.035691",
   "package_url": "https://pypi.org/project/vibephysics/"
 }
