@@ -1,11 +1,11 @@
 {
   "name": "arrlp",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A library providing custom functions for arrays.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arrlp-0.1.6.tar.gz",
-  "download_time": "2025-12-07T10:19:56.443878",
+  "download_filename": "arrlp-0.1.7.tar.gz",
+  "download_time": "2025-12-07T21:17:42.983466",
   "package_url": "https://pypi.org/project/arrlp/"
 }

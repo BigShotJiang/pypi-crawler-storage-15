@@ -1,0 +1,11 @@
+{
+  "name": "b-bugtracker",
+  "version": "3.3.0",
+  "summary": "A simple, distributed bug tracker.",
+  "author": "Michael Diamond",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://jwjulien.github.io/b",
+  "download_filename": "b_bugtracker-3.3.0.tar.gz",
+  "download_time": "2025-12-07T21:18:01.582285",
+  "package_url": "https://pypi.org/project/b-bugtracker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "libgenerica",
-  "version": "0.1.0",
-  "summary": "Biblioteca com CRUD genérico, models e utilitários usados no projeto Atividade Fast Banco.",
+  "version": "0.1.1",
+  "summary": "Biblioteca com CRUD genérico, models e utilitários",
   "author": "Rafael",
   "license": null,
   "home_page": null,
-  "download_filename": "libgenerica-0.1.0.tar.gz",
-  "download_time": "2025-12-07T20:43:21.038606",
+  "download_filename": "libgenerica-0.1.1.tar.gz",
+  "download_time": "2025-12-07T21:17:30.165095",
   "package_url": "https://pypi.org/project/libgenerica/"
 }

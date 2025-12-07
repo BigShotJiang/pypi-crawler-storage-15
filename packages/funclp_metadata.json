@@ -1,11 +1,11 @@
 {
   "name": "funclp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A library for defining mathematical functions and fits.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "funclp-0.1.1.tar.gz",
-  "download_time": "2025-12-07T10:19:54.842792",
+  "download_filename": "funclp-0.1.2.tar.gz",
+  "download_time": "2025-12-07T21:17:41.430791",
   "package_url": "https://pypi.org/project/funclp/"
 }

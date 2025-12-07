@@ -1,0 +1,11 @@
+{
+  "name": "django-brotli",
+  "version": "0.4.0",
+  "summary": "Middleware that compresses response using brotli algorithm.",
+  "author": "Václav Dohnal",
+  "license": "MIT",
+  "home_page": "https://github.com/illagrenan/django-brotli",
+  "download_filename": "django_brotli-0.4.0.tar.gz",
+  "download_time": "2025-12-07T21:17:31.885602",
+  "package_url": "https://pypi.org/project/django-brotli/"
+}

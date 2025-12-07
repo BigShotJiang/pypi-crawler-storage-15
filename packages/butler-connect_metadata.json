@@ -1,0 +1,11 @@
+{
+  "name": "butler-connect",
+  "version": "0.12.12",
+  "summary": "Access libraries (with pika) and data definitions for the Buttler project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "butler_connect-0.12.12.tar.gz",
+  "download_time": "2025-12-07T21:18:10.896442",
+  "package_url": "https://pypi.org/project/butler-connect/"
+}
