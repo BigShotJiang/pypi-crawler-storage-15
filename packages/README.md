@@ -1,36 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T10:53:05.146108
-- **Total Packages**: 85
-- **Total Size**: 28.78 MB
+- **Download Time**: 2025-12-07T11:17:06.320700
+- **Total Packages**: 89
+- **Total Size**: 1.13 MB
 
 ## Packages List
-- zs-yaml
-- modelswrkpi
-- jupyterlab-classiq
-- classiq
-- llm-azure
-- parse-lp
-- nonebot-plugin-mcserver-status-check
-- dictsqlite
-- mkdocs-addresses
-- aiohomematic-test-support
-- aiohomematic
-- voicely
-- api-foundry-query-engine
-- crispy-daisyui
-- netports
-- mail-pigeon
-- specify-cli
-- konduktor-nightly
-- shepherd-cli
-- trainy-policy-nightly
 - Super-SCAD
 - letta-nightly
 - secret-learn
 - push-n-publish
+- voicely
 - ismk
+- zs-yaml
 - virtuoso-utilities
 - taskiq-postgres
 - cumulusci-plus
@@ -50,6 +32,7 @@
 - nvidia-nat-adk
 - nvidia-nat-llama-index
 - nvidia-nat-profiling
+- mkdocs-addresses
 - nvidia-nat-opentelemetry
 - nvidia-nat-mem0ai
 - nvidia-nat
@@ -73,6 +56,7 @@
 - nvidia-nat-redis
 - nvidia-nat-langchain
 - nvidia-nat-semantic-kernel
+- modelswrkpi
 - nvidia-nat-zep-cloud
 - htmligator
 - nvidia-nat-agno
@@ -91,3 +75,23 @@
 - aiqtoolkit-mem0ai
 - aiqtoolkit-langchain
 - pyais
+- SHICTHRSLogCore
+- api-foundry-query-engine
+- npmstat
+- chuk-mcp-telnet-client
+- multidl
+- su_master_mind
+- download_files_by_map
+- vega-framework
+- ai-edge-torch-nightly
+- robyn-config
+- ship-langchain
+- vibeatlas-ship
+- compass_api_sdk
+- fluxflow-ui
+- kodeagent
+- tencoin-core
+- busline
+- veox
+- kci-dev
+- dbt-meta
