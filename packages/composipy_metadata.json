@@ -1,0 +1,11 @@
+{
+  "name": "composipy",
+  "version": "1.6.0",
+  "summary": "This package intends to perform composite material calculations",
+  "author": "Rafael Pereira",
+  "license": null,
+  "home_page": "https://github.com/rafaelpsilva07/composipy",
+  "download_filename": "composipy-1.6.0.tar.gz",
+  "download_time": "2025-12-07T23:52:47.378708",
+  "package_url": "https://pypi.org/project/composipy/"
+}

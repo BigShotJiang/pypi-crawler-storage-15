@@ -1,0 +1,11 @@
+{
+  "name": "pyft4222",
+  "version": "0.3.3",
+  "summary": "A python wrapper for libft4222 library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyft4222-0.3.3.tar.gz",
+  "download_time": "2025-12-07T23:52:51.300817",
+  "package_url": "https://pypi.org/project/pyft4222/"
+}

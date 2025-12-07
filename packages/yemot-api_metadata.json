@@ -1,11 +1,11 @@
 {
   "name": "yemot-api",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "python client for yemot api module and yemot rest api",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "yemot_api-0.1.10.tar.gz",
-  "download_time": "2025-12-03T17:01:50.644061",
+  "download_filename": "yemot_api-0.1.11.tar.gz",
+  "download_time": "2025-12-07T23:52:58.126802",
   "package_url": "https://pypi.org/project/yemot-api/"
 }
