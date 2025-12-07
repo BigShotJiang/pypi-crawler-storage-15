@@ -1,0 +1,11 @@
+{
+  "name": "oxidl",
+  "version": "0.0.1",
+  "summary": "Fast parallel downloads with slab-based memory control",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oxidl-0.0.1.tar.gz",
+  "download_time": "2025-12-07T22:42:42.781186",
+  "package_url": "https://pypi.org/project/oxidl/"
+}

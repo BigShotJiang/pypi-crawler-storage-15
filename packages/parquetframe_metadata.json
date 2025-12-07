@@ -1,0 +1,11 @@
+{
+  "name": "parquetframe",
+  "version": "1.0.1",
+  "summary": "A universal data processing framework with multi-engine support (pandas, Polars, Dask) and multi-format I/O (CSV, JSON, Parquet, ORC, Avro) with intelligent backend selection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parquetframe-1.0.1.tar.gz",
+  "download_time": "2025-12-07T22:42:33.316051",
+  "package_url": "https://pypi.org/project/parquetframe/"
+}

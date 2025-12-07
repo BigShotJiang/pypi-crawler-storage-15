@@ -1,0 +1,11 @@
+{
+  "name": "marshy",
+  "version": "6.0.0",
+  "summary": "A convention over configuration approach to object marshalling.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "marshy-6.0.0.tar.gz",
+  "download_time": "2025-12-07T22:42:36.996499",
+  "package_url": "https://pypi.org/project/marshy/"
+}

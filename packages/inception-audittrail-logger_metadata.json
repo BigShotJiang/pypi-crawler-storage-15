@@ -1,0 +1,11 @@
+{
+  "name": "inception-audittrail-logger",
+  "version": "0.4.2",
+  "summary": "inception_audittrail_logger is a package that allows you to log user activity to a mongodb and elasticsearch",
+  "author": "KhaduaBloom",
+  "license": null,
+  "home_page": "https://github.com/KhaduaBloom/inceptionforcepackages/tree/main/PythonPackage/inceptionAuditTrailLogger",
+  "download_filename": "inception_audittrail_logger-0.4.2.tar.gz",
+  "download_time": "2025-12-07T22:42:25.302231",
+  "package_url": "https://pypi.org/project/inception-audittrail-logger/"
+}

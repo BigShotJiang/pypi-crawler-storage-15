@@ -1,0 +1,11 @@
+{
+  "name": "oocone",
+  "version": "0.6.5",
+  "summary": "Unofficial library for interacting with an enocoo energy management system",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "oocone-0.6.5.tar.gz",
+  "download_time": "2025-12-07T22:42:28.550426",
+  "package_url": "https://pypi.org/project/oocone/"
+}

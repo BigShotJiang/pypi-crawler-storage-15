@@ -1,11 +1,11 @@
 {
   "name": "faff-cli",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A local-first time tracking CLI with decentralized protocol aspirations.",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "faff_cli-0.1.8.tar.gz",
-  "download_time": "2025-12-07T22:19:23.940695",
+  "download_filename": "faff_cli-0.1.9.tar.gz",
+  "download_time": "2025-12-07T22:42:41.222423",
   "package_url": "https://pypi.org/project/faff-cli/"
 }
