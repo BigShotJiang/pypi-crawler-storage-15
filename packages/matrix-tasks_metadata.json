@@ -1,0 +1,11 @@
+{
+  "name": "matrix-tasks",
+  "version": "1.0.0",
+  "summary": "Matrix Internship Tasks: word frequency, password checker, maze solver, chatbot with memory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matrix_tasks-1.0.0.tar.gz",
+  "download_time": "2025-12-07T19:41:00.573515",
+  "package_url": "https://pypi.org/project/matrix-tasks/"
+}

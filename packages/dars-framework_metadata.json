@@ -1,11 +1,11 @@
 {
   "name": "dars-framework",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "summary": "Dars is a Full-Stack multiplatform Python UI framework for building modern, interactive web and desktop apps with Python code. Seamlessly integrated with FastAPI, it allows you to build complete applications with Server-Side Rendering (SSR) and reactive SPA capabilities also classic multipage html and desktop apps in a single codebase.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dars_framework-1.7.4-py3-none-any.whl",
-  "download_time": "2025-12-07T19:16:41.623923",
+  "download_filename": "dars_framework-1.7.5-py3-none-any.whl",
+  "download_time": "2025-12-07T19:40:56.344599",
   "package_url": "https://pypi.org/project/dars-framework/"
 }

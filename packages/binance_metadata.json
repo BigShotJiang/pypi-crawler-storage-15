@@ -1,11 +1,11 @@
 {
   "name": "binance",
-  "version": "0.3.90",
+  "version": "0.3.91",
   "summary": "binance crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "binance-0.3.90.tar.gz",
-  "download_time": "2025-12-03T15:22:26.597337",
+  "download_filename": "binance-0.3.91.tar.gz",
+  "download_time": "2025-12-07T19:41:19.907892",
   "package_url": "https://pypi.org/project/binance/"
 }

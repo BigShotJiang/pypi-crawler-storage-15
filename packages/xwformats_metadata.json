@@ -1,0 +1,11 @@
+{
+  "name": "xwformats",
+  "version": "0.0.1.6",
+  "summary": "Convenience wrapper for exonware-xwformats - provides 'import xwformats' alias",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xwformats-0.0.1.6-py3-none-any.whl",
+  "download_time": "2025-12-07T19:40:50.640220",
+  "package_url": "https://pypi.org/project/xwformats/"
+}

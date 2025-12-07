@@ -1,0 +1,11 @@
+{
+  "name": "dash-calendar-timeline",
+  "version": "1.0.2",
+  "summary": "A custom component for rendering react-calendar-timeline in Dash Apps.",
+  "author": "Waleed Malik <zenalytiks@gmail.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dash_calendar_timeline-1.0.2.tar.gz",
+  "download_time": "2025-12-07T19:41:13.998796",
+  "package_url": "https://pypi.org/project/dash-calendar-timeline/"
+}

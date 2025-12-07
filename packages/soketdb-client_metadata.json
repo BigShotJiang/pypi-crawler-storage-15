@@ -1,0 +1,11 @@
+{
+  "name": "soketdb-client",
+  "version": "1.5.0",
+  "summary": "SoketDB client — a zero-setup, AI-smart JSON database built for developers who value speed, simplicity, and offline capability.",
+  "author": "Alex Austin",
+  "license": "MIT",
+  "home_page": "https://github.com/pythos-team/soketdb",
+  "download_filename": "soketdb_client-1.5.0.tar.gz",
+  "download_time": "2025-12-07T19:40:49.577048",
+  "package_url": "https://pypi.org/project/soketdb-client/"
+}
