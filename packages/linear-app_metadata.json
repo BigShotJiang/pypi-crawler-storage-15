@@ -1,11 +1,11 @@
 {
   "name": "linear-app",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "linear_app-0.0.4.tar.gz",
-  "download_time": "2025-12-04T19:27:31.467123",
+  "download_filename": "linear_app-0.0.7.tar.gz",
+  "download_time": "2025-12-07T22:19:04.147393",
   "package_url": "https://pypi.org/project/linear-app/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vforge",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "vforge virtual environment manager",
   "author": null,
   "license": "GNU General Public License v3.0",
   "home_page": null,
-  "download_filename": "vforge-1.0.0.tar.gz",
-  "download_time": "2025-12-07T21:52:10.567956",
+  "download_filename": "vforge-1.0.2.tar.gz",
+  "download_time": "2025-12-07T22:19:14.050730",
   "package_url": "https://pypi.org/project/vforge/"
 }

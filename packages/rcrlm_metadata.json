@@ -1,0 +1,11 @@
+{
+  "name": "rcrlm",
+  "version": "0.0.1",
+  "summary": "rcr-lm: Collapse layers into a recurrent block",
+  "author": "J Joe",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/JosefAlbers/rcrlm",
+  "download_filename": "rcrlm-0.0.1.tar.gz",
+  "download_time": "2025-12-07T22:19:16.639010",
+  "package_url": "https://pypi.org/project/rcrlm/"
+}

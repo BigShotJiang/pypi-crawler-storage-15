@@ -1,0 +1,11 @@
+{
+  "name": "delayed-assert",
+  "version": "0.4.0",
+  "summary": "Delayed/soft assertions for python",
+  "author": "pr4bh4sh",
+  "license": null,
+  "home_page": "https://github.com/pr4bh4sh/python-delayed-assert",
+  "download_filename": "delayed_assert-0.4.0.tar.gz",
+  "download_time": "2025-12-07T22:19:06.839756",
+  "package_url": "https://pypi.org/project/delayed-assert/"
+}

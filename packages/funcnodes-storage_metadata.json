@@ -1,11 +1,11 @@
 {
   "name": "funcnodes-storage",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Interact with local storage like sqlite",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "funcnodes_storage-0.2.0.tar.gz",
-  "download_time": "2025-12-06T21:39:08.162900",
+  "download_filename": "funcnodes_storage-0.3.0.tar.gz",
+  "download_time": "2025-12-07T22:19:10.447057",
   "package_url": "https://pypi.org/project/funcnodes-storage/"
 }

@@ -1,15 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T21:52:52.416692
-- **Total Packages**: 81
-- **Total Size**: 5.26 MB
+- **Download Time**: 2025-12-07T22:19:46.390983
+- **Total Packages**: 80
+- **Total Size**: 20.42 MB
 
 ## Packages List
+- linear-app
+- kinemotion
+- ReverseBox
+- autogen-vertexai-memory
+- drawsvg-ui
+- delayed-assert
+- deeprails
+- mcp-json-yaml-toml
+- ktml-agent
+- secure-password-manager
+- medical-mcps
+- aisbom-cli
+- funcnodes-storage
+- fd-mcp
+- mesh-sync-worker-backend-client
+- mtcli-market
+- bach-rchilli-resume-parser1
+- regula-documentreader-webclient
+- rayforce-py
+- vforge
+- easyborg
+- elemento-order
+- vex-reader
+- jmpUI
+- rcrlm
+- injecty
+- ascii-art-converter
+- anyenv
+- fleet-client
+- carcara
+- vellum-workflow-server
+- python-hilo
+- q2db
+- echosms
+- remdb
+- speedhive-tools
+- q2gui
+- faff-cli
+- hbsir
+- mqttactions
+- q2rad
+- fastapi-voyager
+- ai-infra
+- swingmusic
+- docfind
+- reveal-cli
+- telepress
+- german-privacy-shield
 - gcaa
 - boto3-assist
-- vforge
-- kinemotion
 - c2cwsgiutils
 - pytest-scenarios
 - locust
@@ -17,7 +63,6 @@
 - fps_kernel_env
 - hydroopt
 - ieee-gui
-- drawsvg-ui
 - dust-client
 - metvae
 - luminescent
@@ -29,12 +74,10 @@
 - maif
 - phonelocate
 - bach-proxy-list2
-- q2rad
 - hecto
 - miniml-engine
 - mirnaprotpred
 - gdsfactoryplus
-- telepress
 - xrayscatteringtools
 - retunnel
 - code-puppy
@@ -43,47 +86,3 @@
 - MaRDMO
 - cemilkoca
 - pytrilogy
-- tklr-dgraham
-- cross-docs
-- bach-perplexity2
-- autogen-vertexai-memory
-- trade-tui
-- wisent
-- pytest-human
-- parsec-llm
-- swingmusic
-- remdb
-- cavotf
-- pyfrontkit
-- medical-mcps
-- bach-pan-card-verification-at-lowest-price
-- gac
-- image-sharpner
-- decky-remote
-- aignostics
-- edge-mender
-- clippy-code
-- bach-open-ai-text-to-speech1
-- holm
-- thenvoi-client-rest
-- bitranox-template-cli-app-config-log-mail
-- easyborg
-- libra-context
-- bach-open-ai21
-- based-utils
-- kodexa
-- cli-tools-by-oleksa
-- excelsior-fast
-- mem-llm
-- bach-onecompiler-apis
-- caif-framework
-- rob-dl
-- Encryptors
-- async-pytest-httpserver
-- QuickBench
-- bach-ny-times-news-api
-- openseries
-- argparse-boost
-- nb-venv-kernels
-- kpi-impact-sim
-- rec-praxis-rlm

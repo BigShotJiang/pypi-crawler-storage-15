@@ -1,11 +1,11 @@
 {
   "name": "ascii-art-converter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A powerful and flexible Python library for converting images to ASCII art, Braille art, and edge detection art",
   "author": "our0boros",
   "license": "MIT",
   "home_page": "https://github.com/our0boros/ascii-art-converter",
-  "download_filename": "ascii_art_converter-1.0.0.tar.gz",
-  "download_time": "2025-12-07T21:18:01.071642",
+  "download_filename": "ascii_art_converter-1.1.0.tar.gz",
+  "download_time": "2025-12-07T22:19:17.667841",
   "package_url": "https://pypi.org/project/ascii-art-converter/"
 }

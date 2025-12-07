@@ -1,11 +1,11 @@
 {
   "name": "fd-mcp",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "MCP server for fast file search using fd - a modern find alternative",
   "author": "Thomas Hartwig",
   "license": null,
   "home_page": null,
-  "download_filename": "fd_mcp-0.2.1.tar.gz",
-  "download_time": "2025-12-06T09:20:04.392614",
+  "download_filename": "fd_mcp-0.2.4.tar.gz",
+  "download_time": "2025-12-07T22:19:10.958259",
   "package_url": "https://pypi.org/project/fd-mcp/"
 }
