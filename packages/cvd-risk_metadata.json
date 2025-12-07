@@ -1,0 +1,11 @@
+{
+  "name": "cvd-risk",
+  "version": "0.1.1",
+  "summary": "Production-grade Python package for cardiovascular disease risk calculation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cvd_risk-0.1.1.tar.gz",
+  "download_time": "2025-12-07T12:36:48.300854",
+  "package_url": "https://pypi.org/project/cvd-risk/"
+}

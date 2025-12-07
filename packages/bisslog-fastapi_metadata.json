@@ -1,0 +1,11 @@
+{
+  "name": "bisslog-fastapi",
+  "version": "0.0.1",
+  "summary": "Framework-agnostic adapter for Bisslog. Connects external interfaces to use cases while keeping domain logic isolated and pure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bisslog_fastapi-0.0.1.tar.gz",
+  "download_time": "2025-12-07T12:36:37.444164",
+  "package_url": "https://pypi.org/project/bisslog-fastapi/"
+}

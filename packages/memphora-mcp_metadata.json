@@ -1,11 +1,11 @@
 {
   "name": "memphora-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP Server for Memphora - Add persistent memory to Claude, Cursor, and other AI assistants",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memphora_mcp-0.1.1.tar.gz",
-  "download_time": "2025-12-07T11:51:56.648918",
+  "download_filename": "memphora_mcp-0.1.2.tar.gz",
+  "download_time": "2025-12-07T12:37:10.037467",
   "package_url": "https://pypi.org/project/memphora-mcp/"
 }

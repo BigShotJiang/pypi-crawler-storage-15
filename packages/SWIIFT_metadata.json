@@ -1,11 +1,11 @@
 {
   "name": "SWIIFT",
-  "version": "0.16.2",
+  "version": "0.16.3",
   "summary": "A numerical model to study wave-induced fracture of sea ice floes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "swiift-0.16.2.tar.gz",
-  "download_time": "2025-12-05T17:43:45.706002",
+  "download_filename": "swiift-0.16.3.tar.gz",
+  "download_time": "2025-12-07T12:36:53.034771",
   "package_url": "https://pypi.org/project/SWIIFT/"
 }

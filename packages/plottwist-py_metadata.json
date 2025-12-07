@@ -1,0 +1,11 @@
+{
+  "name": "plottwist-py",
+  "version": "1.0.0",
+  "summary": "plottwist makes plots reproducible from their PDFs.",
+  "author": "Ivan Markin",
+  "license": "MIT",
+  "home_page": "https://github.com/unkaktus/plottwist",
+  "download_filename": "plottwist_py-1.0.0.tar.gz",
+  "download_time": "2025-12-07T12:37:06.834693",
+  "package_url": "https://pypi.org/project/plottwist-py/"
+}

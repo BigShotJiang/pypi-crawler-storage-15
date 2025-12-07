@@ -1,0 +1,11 @@
+{
+  "name": "gersemi",
+  "version": "0.24.0",
+  "summary": "A formatter to make your CMake code the real treasure",
+  "author": "Blank Spruce",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/BlankSpruce/gersemi",
+  "download_filename": "gersemi-0.24.0.tar.gz",
+  "download_time": "2025-12-07T12:36:51.427706",
+  "package_url": "https://pypi.org/project/gersemi/"
+}

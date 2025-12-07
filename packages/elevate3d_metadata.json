@@ -1,11 +1,11 @@
 {
   "name": "elevate3d",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "3D terrain and structure reconstruction from single RGB images",
   "author": "Ömer Can Karadağ",
   "license": null,
   "home_page": "https://github.com/krdgomer/elevate3d",
-  "download_filename": "elevate3d-0.5.0.tar.gz",
-  "download_time": "2025-12-06T20:21:43.612682",
+  "download_filename": "elevate3d-0.5.1.tar.gz",
+  "download_time": "2025-12-07T12:36:50.404574",
   "package_url": "https://pypi.org/project/elevate3d/"
 }

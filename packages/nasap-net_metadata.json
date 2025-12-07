@@ -1,0 +1,11 @@
+{
+  "name": "nasap-net",
+  "version": "0.24.0",
+  "summary": "Automated Reaction Network Generator for NASAP (Numerical Analysis of Self-Assembly Process)",
+  "author": "takeuchi-sci",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nasap_net-0.24.0.tar.gz",
+  "download_time": "2025-12-07T12:36:54.078153",
+  "package_url": "https://pypi.org/project/nasap-net/"
+}
