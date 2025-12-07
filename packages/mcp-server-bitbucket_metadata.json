@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-bitbucket",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "summary": "MCP server for Bitbucket API operations",
   "author": "Javier Aguilar",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_bitbucket-0.6.1.tar.gz",
-  "download_time": "2025-12-06T15:40:16.324967",
+  "download_filename": "mcp_server_bitbucket-0.7.0.tar.gz",
+  "download_time": "2025-12-07T10:19:57.541976",
   "package_url": "https://pypi.org/project/mcp-server-bitbucket/"
 }

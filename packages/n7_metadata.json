@@ -1,0 +1,11 @@
+{
+  "name": "n7",
+  "version": "1.5.0",
+  "summary": "CLI global pour les projets N7",
+  "author": "nseven",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "n7-1.5.0.tar.gz",
+  "download_time": "2025-12-07T10:19:37.469112",
+  "package_url": "https://pypi.org/project/n7/"
+}

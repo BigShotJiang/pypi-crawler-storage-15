@@ -1,11 +1,11 @@
 {
   "name": "py-ds-academy",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Data structures implemented from scratch for learning and experimentation.",
   "author": "Eytan Ohana",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_ds_academy-0.3.0.tar.gz",
-  "download_time": "2025-12-06T20:41:56.430366",
+  "download_filename": "py_ds_academy-0.4.0.tar.gz",
+  "download_time": "2025-12-07T10:19:49.465142",
   "package_url": "https://pypi.org/project/py-ds-academy/"
 }

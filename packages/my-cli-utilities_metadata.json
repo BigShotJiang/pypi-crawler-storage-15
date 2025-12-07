@@ -1,11 +1,11 @@
 {
   "name": "my-cli-utilities",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A suite of CLI utilities for account pool and device spy services.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "my_cli_utilities-0.4.0.tar.gz",
-  "download_time": "2025-12-07T04:11:25.042671",
+  "download_filename": "my_cli_utilities-0.4.1.tar.gz",
+  "download_time": "2025-12-07T10:20:02.526670",
   "package_url": "https://pypi.org/project/my-cli-utilities/"
 }

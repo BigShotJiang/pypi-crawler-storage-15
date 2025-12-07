@@ -1,11 +1,11 @@
 {
   "name": "lumen-resources",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Unified model resource management for Lumen ML services",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lumen_resources-0.2.0.tar.gz",
-  "download_time": "2025-12-07T09:52:21.824164",
+  "download_filename": "lumen_resources-0.2.1.tar.gz",
+  "download_time": "2025-12-07T10:19:55.369482",
   "package_url": "https://pypi.org/project/lumen-resources/"
 }

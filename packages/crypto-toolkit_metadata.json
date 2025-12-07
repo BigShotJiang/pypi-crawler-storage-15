@@ -1,0 +1,11 @@
+{
+  "name": "crypto-toolkit",
+  "version": "0.1.0",
+  "summary": "A comprehensive Python cryptography toolkit for password hashing, symmetric/asymmetric encryption, and key management",
+  "author": "WasabiRamen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crypto_toolkit-0.1.0.tar.gz",
+  "download_time": "2025-12-07T10:20:00.886644",
+  "package_url": "https://pypi.org/project/crypto-toolkit/"
+}
