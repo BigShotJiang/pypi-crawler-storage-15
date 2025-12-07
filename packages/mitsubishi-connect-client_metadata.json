@@ -1,0 +1,11 @@
+{
+  "name": "mitsubishi-connect-client",
+  "version": "0.0.7",
+  "summary": "Client for the Mitsubishi Connect API",
+  "author": "Patrick Cartwright",
+  "license": null,
+  "home_page": "https://github.com/pcartwright81/mitsubishi_connect_client",
+  "download_filename": "mitsubishi_connect_client-0.0.7.tar.gz",
+  "download_time": "2025-12-07T16:58:06.062809",
+  "package_url": "https://pypi.org/project/mitsubishi-connect-client/"
+}
