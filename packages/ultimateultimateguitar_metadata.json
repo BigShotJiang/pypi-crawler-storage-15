@@ -1,0 +1,11 @@
+{
+  "name": "ultimateultimateguitar",
+  "version": "1.9",
+  "summary": "CLI for ultimateguitar",
+  "author": "Salvo 'LtWorf' Tomaselli",
+  "license": "AGPL-3.0-only",
+  "home_page": "https://codeberg.org/ltworf/ultimateultimateguitar",
+  "download_filename": "ultimateultimateguitar-1.9.tar.gz",
+  "download_time": "2025-12-07T13:37:33.507023",
+  "package_url": "https://pypi.org/project/ultimateultimateguitar/"
+}

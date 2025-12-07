@@ -1,11 +1,11 @@
 {
   "name": "jupyterlab-chat-toy",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "AI Chat Extension for JupyterLab",
   "author": "ChandlerFan",
   "license": null,
   "home_page": null,
-  "download_filename": "jupyterlab_chat_toy-0.1.6.tar.gz",
-  "download_time": "2025-12-07T09:52:23.429064",
+  "download_filename": "jupyterlab_chat_toy-0.1.7.tar.gz",
+  "download_time": "2025-12-07T13:37:44.207806",
   "package_url": "https://pypi.org/project/jupyterlab-chat-toy/"
 }

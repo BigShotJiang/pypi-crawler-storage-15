@@ -1,11 +1,11 @@
 {
   "name": "telemars",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "telemars",
   "author": "Aleksandr P.",
   "license": null,
   "home_page": null,
-  "download_filename": "telemars-0.1.5.tar.gz",
-  "download_time": "2025-12-07T13:15:24.259001",
+  "download_filename": "telemars-0.1.6.tar.gz",
+  "download_time": "2025-12-07T13:37:36.526239",
   "package_url": "https://pypi.org/project/telemars/"
 }

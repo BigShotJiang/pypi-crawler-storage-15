@@ -1,11 +1,11 @@
 {
   "name": "biontfy",
-  "version": "1.5.0",
+  "version": "2.0.0",
   "summary": "A customizable PyQt6 notification library based on a Telegram-like design.",
   "author": "Bitro dev",
   "license": null,
   "home_page": "https://github.com/yourusername/pyqt-custom-notify",
-  "download_filename": "biontfy-1.5.0.tar.gz",
-  "download_time": "2025-12-07T13:15:26.196615",
+  "download_filename": "biontfy-2.0.0.tar.gz",
+  "download_time": "2025-12-07T13:37:47.652175",
   "package_url": "https://pypi.org/project/biontfy/"
 }
