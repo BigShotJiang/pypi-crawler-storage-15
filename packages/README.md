@@ -1,14 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T07:39:32.122510
-- **Total Packages**: 71
-- **Total Size**: 28.12 MB
+- **Download Time**: 2025-12-07T07:52:25.115584
+- **Total Packages**: 73
+- **Total Size**: 7.61 MB
 
 ## Packages List
+- upathtools
+- korea-investment-stock
+- aider-ce
+- archit-ug
+- lazyclaude
+- Qwael
+- catalog-api-client
+- vector-rag-gui
+- textual-hires-canvas
+- webscout
+- steering-generator-mcp
+- aadc-cli
+- piragi
+- asset-handoffer
+- kokoro-tts-tool
+- WeComMsg
+- lbx
+- plexus-msgs-python
+- projectrestore
+- vectorcheck
+- cli-tweet
+- freeze-core
 - elevenlabs-tts-tool
 - arase-sdk
-- archit-ug
 - api-key-rotator-lang1234
 - ApkPatcherX
 - clipassman
@@ -17,8 +38,6 @@
 - chalkpy
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
-- Qwael
-- piragi
 - based-utils
 - ivcap_client
 - clipassgen
@@ -56,24 +75,7 @@
 - kigo-gui-framework
 - mcp-taiwan-price-compare
 - pipen-log2file
-- upathtools
 - django-spire
 - nucleation
 - dynamic-learning-model
 - avtdl
-- x-4357-make-telemetry-vector-x
-- streamlit-nightly
-- base-repository
-- wisent
-- gac
-- anyenv
-- joblet-sdk-python
-- scoda-viz
-- langevin
-- ChartForgeTK
-- alpacafarmer
-- frontmatter-mcp
-- testhide-pytest-plugin
-- color-notify
-- pyg-engine
-- spiritlong

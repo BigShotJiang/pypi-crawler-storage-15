@@ -1,0 +1,11 @@
+{
+  "name": "plexus-msgs-python",
+  "version": "1.0.11",
+  "summary": "Python APIs and utilities for Plexus ProtoBuf messages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plexus_msgs_python-1.0.11.tar.gz",
+  "download_time": "2025-12-07T07:51:54.897829",
+  "package_url": "https://pypi.org/project/plexus-msgs-python/"
+}

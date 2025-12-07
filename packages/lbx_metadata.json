@@ -1,0 +1,11 @@
+{
+  "name": "lbx",
+  "version": "1.0.0",
+  "summary": "A lightweight secret storage vault with CLI and Python API. Stores secrets in encrypted files with master password secured via OS keychain (keyring).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lbx-1.0.0.tar.gz",
+  "download_time": "2025-12-07T07:51:54.378505",
+  "package_url": "https://pypi.org/project/lbx/"
+}
