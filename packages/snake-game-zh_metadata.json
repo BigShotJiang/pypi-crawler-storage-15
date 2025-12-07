@@ -1,0 +1,11 @@
+{
+  "name": "snake-game-zh",
+  "version": "1.0.0",
+  "summary": "一个经典的贪吃蛇小游戏，使用HTML5 Canvas实现",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/snake-game",
+  "download_filename": "snake_game_zh-1.0.0.tar.gz",
+  "download_time": "2025-12-07T15:52:08.598233",
+  "package_url": "https://pypi.org/project/snake-game-zh/"
+}

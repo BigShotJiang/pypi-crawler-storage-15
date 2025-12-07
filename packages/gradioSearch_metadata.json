@@ -1,11 +1,11 @@
 {
   "name": "gradioSearch",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A CLI tool for searching FAISS vector databases with Gradio GUI",
   "author": "thiswillbeyourgithub",
   "license": null,
   "home_page": "https://github.com/thiswillbeyourgithub/gradioSearcher",
-  "download_filename": "gradiosearch-0.2.1.tar.gz",
-  "download_time": "2025-12-06T13:16:54.904962",
+  "download_filename": "gradiosearch-0.2.2.tar.gz",
+  "download_time": "2025-12-07T15:52:14.247283",
   "package_url": "https://pypi.org/project/gradioSearch/"
 }

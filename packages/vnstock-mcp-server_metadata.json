@@ -1,0 +1,11 @@
+{
+  "name": "vnstock-mcp-server",
+  "version": "1.0.2",
+  "summary": "An MCP server exposing tools to access Vietnam stock market data built on top of vnstock and mcp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnstock_mcp_server-1.0.2.tar.gz",
+  "download_time": "2025-12-07T15:52:07.052427",
+  "package_url": "https://pypi.org/project/vnstock-mcp-server/"
+}

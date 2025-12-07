@@ -1,11 +1,11 @@
 {
   "name": "smartpush",
-  "version": "2.0.9",
+  "version": "2.1.0",
   "summary": "用于smartpush自动化测试工具包",
   "author": "lulu、felix、long",
   "license": null,
   "home_page": null,
-  "download_filename": "smartpush-2.0.9-py3-none-any.whl",
-  "download_time": "2025-12-06T16:47:37.260333",
+  "download_filename": "smartpush-2.1.0-py3-none-any.whl",
+  "download_time": "2025-12-07T15:52:03.444780",
   "package_url": "https://pypi.org/project/smartpush/"
 }

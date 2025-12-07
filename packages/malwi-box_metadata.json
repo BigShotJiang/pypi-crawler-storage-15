@@ -1,11 +1,11 @@
 {
   "name": "malwi-box",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Intercept, audit, and block critical Python operations at runtime",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "malwi_box-0.0.4.tar.gz",
-  "download_time": "2025-12-07T10:52:47.214335",
+  "download_filename": "malwi_box-0.0.5.tar.gz",
+  "download_time": "2025-12-07T15:52:25.667161",
   "package_url": "https://pypi.org/project/malwi-box/"
 }
