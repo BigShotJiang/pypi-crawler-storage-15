@@ -1,23 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T07:52:25.115584
-- **Total Packages**: 73
-- **Total Size**: 7.61 MB
+- **Download Time**: 2025-12-07T08:25:10.681977
+- **Total Packages**: 69
+- **Total Size**: 10.08 MB
 
 ## Packages List
-- upathtools
-- korea-investment-stock
-- aider-ce
+- wisent
+- sifr-benchmark
+- ipdata
+- agentcube-sdk
+- webquiz
+- fox-proxy-kit
+- aadc-cli
+- python-msilib
+- chat2edit
+- tombi
+- simisa
 - archit-ug
-- lazyclaude
+- geminiai-cli
+- openmetadata-managed-apis
+- isoring
+- tpu-inference
+- oxapy
+- alluxiofs
+- based-utils
+- color-notify
+- pyz3
+- wshawk
+- mcp-ine
+- jsharpe
+- sqless
+- tf-models-nightly
+- pyglove
+- veox
+- tima-timer
+- boot-dw
+- dictsqlite
+- steering-generator-mcp
+- byzh-ai
+- projectclone
+- pushtunes
+- uplm80
+- biosynth-tool
+- chatutils
+- pbir-utils
+- runcell
 - Qwael
+- korea-investment-stock
+- dora-eda
+- nnetflow
+- nudgeops
+- construct-dataclasses
+- upathtools
+- aider-ce
+- lazyclaude
 - catalog-api-client
 - vector-rag-gui
 - textual-hires-canvas
 - webscout
-- steering-generator-mcp
-- aadc-cli
 - piragi
 - asset-handoffer
 - kokoro-tts-tool
@@ -34,48 +75,3 @@
 - ApkPatcherX
 - clipassman
 - kollabor
-- amplify-excel-migrator
-- chalkpy
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- based-utils
-- ivcap_client
-- clipassgen
-- Uranus-IDE
-- astrixlibrary
-- uplm80
-- autoreporeview
-- pdsx
-- odoo14-addon-ssi-odoo-implementation
-- nudgeops
-- sqlite3-arabic-phonetic-fuzzy-trigram
-- rich-json-tree
-- sifr-benchmark
-- shortfuse-lib
-- fox-proxy-kit
-- miniflux-tui-py
-- log-inspector-mcp
-- moisten
-- DensityFlow2
-- ai-edge-litert-nightly
-- tabulartextmultimodalfusion
-- modelswrkpi
-- jsweb
-- d2nt
-- pbir-utils
-- tritonparse
-- apathetic-utils
-- gede
-- eschallot
-- npmstat
-- litprinter
-- rumoca
-- ColorInfo-liumou-Stable
-- kittylog
-- kigo-gui-framework
-- mcp-taiwan-price-compare
-- pipen-log2file
-- django-spire
-- nucleation
-- dynamic-learning-model
-- avtdl

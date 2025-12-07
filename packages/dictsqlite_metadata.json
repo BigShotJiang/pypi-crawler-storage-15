@@ -1,0 +1,11 @@
+{
+  "name": "dictsqlite",
+  "version": "1.8.8",
+  "summary": "You can handle basic SQLite operations in Python like Dict.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dictsqlite-1.8.8.tar.gz",
+  "download_time": "2025-12-07T08:24:49.052507",
+  "package_url": "https://pypi.org/project/dictsqlite/"
+}

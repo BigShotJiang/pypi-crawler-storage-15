@@ -1,11 +1,11 @@
 {
   "name": "nudgeops",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Runtime semantic guardrails for AI agents. Detect loops. Nudge agents back on track.",
   "author": "luv91",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nudgeops-0.2.5.tar.gz",
-  "download_time": "2025-12-07T07:39:04.183479",
+  "download_filename": "nudgeops-0.2.6.tar.gz",
+  "download_time": "2025-12-07T08:24:56.902063",
   "package_url": "https://pypi.org/project/nudgeops/"
 }

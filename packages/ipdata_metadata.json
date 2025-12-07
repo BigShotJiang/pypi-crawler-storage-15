@@ -1,0 +1,11 @@
+{
+  "name": "ipdata",
+  "version": "4.0.8",
+  "summary": "This is the official IPData client library for Python",
+  "author": "Jonathan Kosgei",
+  "license": null,
+  "home_page": "https://github.com/ipdata/python",
+  "download_filename": "ipdata-4.0.8.tar.gz",
+  "download_time": "2025-12-07T08:24:32.274996",
+  "package_url": "https://pypi.org/project/ipdata/"
+}
