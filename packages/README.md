@@ -1,13 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T19:41:34.261167
-- **Total Packages**: 88
-- **Total Size**: 38.62 MB
+- **Download Time**: 2025-12-07T19:53:32.941196
+- **Total Packages**: 87
+- **Total Size**: 17.21 MB
 
 ## Packages List
-- telepress
+- excelsior-fast
+- bach-invoices-generator
 - scanner3d
+- django-bolt
+- benchmark-runner
+- funpayparsers
+- HueBLE
+- streamware
+- bach-instagram120
+- geventhttpclient
+- npcpy
+- llm-api-adapter
+- cometusb
+- kpi-impact-sim
+- hydroopt
+- dataset-risk-decorator
+- d2nt
+- Encryptors
+- nlqcat
+- django-dynamic-workflows
+- in-layers-core
+- sifr-benchmark
+- nedo-vision-annotator
+- jder-fastapi
+- telepress
 - sqtab
 - cross-inertia
 - soketdb-client
@@ -29,7 +52,6 @@
 - azure-ai-agentserver-langgraph
 - azure-ai-agentserver-agentframework
 - pynescript
-- in-layers-core
 - mcp-taiwan-price-compare
 - matrix-tasks
 - agex
@@ -41,11 +63,9 @@
 - spotoptim
 - graphbench-lib
 - calkit-python
-- kpi-impact-sim
 - django-spellbook
 - bach-google-keyword-insight1
 - azure-ai-agentserver-core
-- sifr-benchmark
 - pybotchi
 - nitrokey
 - docxlatex
@@ -73,24 +93,3 @@
 - bitmex-api
 - htx
 - bybit-api
-- mexc-exchange-api
-- coinex-api
-- xrpc-pro-sdk
-- bubble-data-api-client
-- edgartools
-- violetear
-- django-dynamic-workflows
-- bach-geodb-cities
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- aiohomematic-test-support
-- aiohomematic
-- seminova
-- airunner
-- querynl-cli
-- bach-geocoding-by-api-ninjas
-- Microlensify
-- selectools
-- ccxt
-- joyous-departures

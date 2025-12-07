@@ -1,11 +1,11 @@
 {
   "name": "django-dynamic-workflows",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "A powerful, configurable Django package for implementing dynamic multi-step workflow processes with database-stored actions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_dynamic_workflows-1.5.2.tar.gz",
-  "download_time": "2025-12-07T19:41:26.427078",
+  "download_filename": "django_dynamic_workflows-1.5.3.tar.gz",
+  "download_time": "2025-12-07T19:52:58.102422",
   "package_url": "https://pypi.org/project/django-dynamic-workflows/"
 }

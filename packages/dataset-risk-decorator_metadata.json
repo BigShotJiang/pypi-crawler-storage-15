@@ -1,11 +1,11 @@
 {
   "name": "dataset-risk-decorator",
-  "version": "0.1.1",
-  "summary": "Risk-aware dataset decorator for Hugging Face datasets with code vulnerability scoring",
+  "version": "0.1.2",
+  "summary": "Risk-aware dataset decorator for Hugging Face datasets with automatic code detection and security risk labeling",
   "author": "Durinn",
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dataset_risk_decorator-0.1.1.tar.gz",
-  "download_time": "2025-12-06T17:17:22.318383",
+  "download_filename": "dataset_risk_decorator-0.1.2.tar.gz",
+  "download_time": "2025-12-07T19:52:56.009015",
   "package_url": "https://pypi.org/project/dataset-risk-decorator/"
 }
