@@ -1,11 +1,11 @@
 {
   "name": "rchp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rchp-0.2.0-cp310-cp310-macosx_15_0_arm64.whl",
-  "download_time": "2025-12-05T20:45:28.801157",
+  "download_filename": "rchp-0.2.1-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2025-12-07T18:49:02.158623",
   "package_url": "https://pypi.org/project/rchp/"
 }

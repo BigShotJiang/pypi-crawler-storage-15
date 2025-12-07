@@ -1,0 +1,11 @@
+{
+  "name": "eblock",
+  "version": "0.2.2",
+  "summary": "A lightweight, async-friendly library for building dynamic, context-aware UI blocks with Pydantic validation and variable substitution.",
+  "author": "GAKiknadze",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "eblock-0.2.2.tar.gz",
+  "download_time": "2025-12-07T18:49:17.542802",
+  "package_url": "https://pypi.org/project/eblock/"
+}

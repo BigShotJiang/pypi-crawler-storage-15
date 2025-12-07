@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-merge-attachment",
+  "version": "16.0.1.0.0.2",
+  "summary": "Consider attachment during invoice merge process",
+  "author": "ACSONE SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_invoice_merge_attachment-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-07T18:49:34.668759",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-merge-attachment/"
+}

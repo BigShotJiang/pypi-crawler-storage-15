@@ -1,0 +1,11 @@
+{
+  "name": "llm-venice",
+  "version": "0.8.2",
+  "summary": "LLM plugin to access models available via the Venice API",
+  "author": "Arjan Mossel",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_venice-0.8.2.tar.gz",
+  "download_time": "2025-12-07T18:49:10.941320",
+  "package_url": "https://pypi.org/project/llm-venice/"
+}

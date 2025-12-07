@@ -1,0 +1,11 @@
+{
+  "name": "relaxit",
+  "version": "1.2.0",
+  "summary": "A Python library for discrete variables relaxation",
+  "author": "Daniil Dorin, Igor Ignashin, Nikita Kiselev, Andrey Veprikov",
+  "license": "MIT",
+  "home_page": "https://github.com/intsystems/relaxit",
+  "download_filename": "relaxit-1.2.0.tar.gz",
+  "download_time": "2025-12-07T18:49:24.230738",
+  "package_url": "https://pypi.org/project/relaxit/"
+}
