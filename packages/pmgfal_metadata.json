@@ -1,11 +1,11 @@
 {
   "name": "pmgfal",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "pydantic model generator for atproto lexicons",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pmgfal-0.0.3.tar.gz",
-  "download_time": "2025-12-07T04:47:20.504807",
+  "download_filename": "pmgfal-0.0.4.tar.gz",
+  "download_time": "2025-12-07T05:24:46.994761",
   "package_url": "https://pypi.org/project/pmgfal/"
 }

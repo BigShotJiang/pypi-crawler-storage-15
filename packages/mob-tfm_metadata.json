@@ -1,0 +1,11 @@
+{
+  "name": "mob-tfm",
+  "version": "0.2.0",
+  "summary": "A streaming CLI tool to *mob*(fills) SQL/MariaDB databases with mock data, built on Faker and designed for both flexibility and scale.",
+  "author": "gitmobkab",
+  "license": null,
+  "home_page": "https://github.com/gitmobkab/mob-tfm/",
+  "download_filename": "mob_tfm-0.2.0.tar.gz",
+  "download_time": "2025-12-07T05:24:52.292440",
+  "package_url": "https://pypi.org/project/mob-tfm/"
+}

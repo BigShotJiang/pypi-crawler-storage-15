@@ -1,0 +1,11 @@
+{
+  "name": "pocket-joe",
+  "version": "0.1.0.3",
+  "summary": "A correct, simple, performant, and pythonic framework for building durable AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pocket_joe-0.1.0.3.tar.gz",
+  "download_time": "2025-12-07T05:24:41.794057",
+  "package_url": "https://pypi.org/project/pocket-joe/"
+}
