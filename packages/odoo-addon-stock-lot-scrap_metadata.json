@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-lot-scrap",
+  "version": "18.0.1.0.1.1",
+  "summary": "This module adds a button in Production Lot/Serial Number view form to Scrap all products contained.",
+  "author": "Tecnativa,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_lot_scrap-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2025-12-07T05:00:14.293770",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-lot-scrap/"
+}

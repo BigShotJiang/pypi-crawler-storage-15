@@ -1,0 +1,11 @@
+{
+  "name": "vault-check",
+  "version": "6.0.0",
+  "summary": "Production-grade secrets verifier for bot platforms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vault_check-6.0.0.tar.gz",
+  "download_time": "2025-12-07T04:59:45.646694",
+  "package_url": "https://pypi.org/project/vault-check/"
+}

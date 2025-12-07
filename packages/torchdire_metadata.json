@@ -1,0 +1,11 @@
+{
+  "name": "torchdire",
+  "version": "0.2.7",
+  "summary": "Library for simplified AI model building with YAML automation and feature-rich ML utilities.",
+  "author": "Boopathi Raj",
+  "license": "MIT",
+  "home_page": "https://github.com/rajboopathiking/TorchDire",
+  "download_filename": "torchdire-0.2.7.tar.gz",
+  "download_time": "2025-12-07T05:00:02.315131",
+  "package_url": "https://pypi.org/project/torchdire/"
+}

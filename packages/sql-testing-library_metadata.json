@@ -1,0 +1,11 @@
+{
+  "name": "sql-testing-library",
+  "version": "0.19.0",
+  "summary": "SQL Testing Framework for Python: Unit test SQL queries with mock data injection for BigQuery, Snowflake, Redshift, Athena, Trino, and DuckDB. Simplify data engineering ETL testing and analytics validation.",
+  "author": "Gurmeet Saran",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sql_testing_library-0.19.0.tar.gz",
+  "download_time": "2025-12-07T04:59:50.335884",
+  "package_url": "https://pypi.org/project/sql-testing-library/"
+}

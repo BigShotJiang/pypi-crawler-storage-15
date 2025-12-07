@@ -1,0 +1,11 @@
+{
+  "name": "RAISE-RBP",
+  "version": "0.1.4",
+  "summary": "RBP Activity Inference from Splicing Events",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "raise_rbp-0.1.4.tar.gz",
+  "download_time": "2025-12-07T05:00:11.149229",
+  "package_url": "https://pypi.org/project/RAISE-RBP/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pytest-intent",
-  "version": "0.8.7",
+  "version": "0.9.0",
   "summary": "A pytest plugin for tracking requirement coverage.",
   "author": "celestialorb",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_intent-0.8.7.tar.gz",
-  "download_time": "2025-12-06T04:53:24.300459",
+  "download_filename": "pytest_intent-0.9.0.tar.gz",
+  "download_time": "2025-12-07T04:59:56.594693",
   "package_url": "https://pypi.org/project/pytest-intent/"
 }

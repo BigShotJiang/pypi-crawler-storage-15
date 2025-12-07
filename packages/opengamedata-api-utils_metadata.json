@@ -1,11 +1,11 @@
 {
   "name": "opengamedata-api-utils",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "Package of utilities for server-side scripts in OpenGameData.",
   "author": "Ryan Wilkinson, Glenn Palmer, Daus Husaini",
   "license": null,
   "home_page": null,
-  "download_filename": "opengamedata_api_utils-1.3.1.tar.gz",
-  "download_time": "2025-12-06T19:16:56.028614",
+  "download_filename": "opengamedata_api_utils-1.3.2.tar.gz",
+  "download_time": "2025-12-07T04:59:51.359035",
   "package_url": "https://pypi.org/project/opengamedata-api-utils/"
 }

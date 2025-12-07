@@ -1,11 +1,11 @@
 {
   "name": "alpacafarmer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A minimal Python wrapper for Alpaca Markets API",
   "author": "AlpacaFarmer Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alpacafarmer-0.1.1.tar.gz",
-  "download_time": "2025-12-06T22:42:31.903588",
+  "download_filename": "alpacafarmer-0.1.2.tar.gz",
+  "download_time": "2025-12-07T05:00:07.536299",
   "package_url": "https://pypi.org/project/alpacafarmer/"
 }
