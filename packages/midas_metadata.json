@@ -1,0 +1,11 @@
+{
+  "name": "midas",
+  "version": "0.8.0",
+  "summary": "Python driver for Honeywell Midas gas detectors.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midas-0.8.0.tar.gz",
+  "download_time": "2025-12-07T20:22:05.016602",
+  "package_url": "https://pypi.org/project/midas/"
+}

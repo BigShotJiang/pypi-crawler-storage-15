@@ -1,0 +1,11 @@
+{
+  "name": "BiliHome",
+  "version": "0.1.0",
+  "summary": "一个用于获取B站用户信息的Python包",
+  "author": "Moxin",
+  "license": "MIT",
+  "home_page": "https://github.com/Moxin1044/BiliHome",
+  "download_filename": "bilihome-0.1.0.tar.gz",
+  "download_time": "2025-12-07T20:22:07.164796",
+  "package_url": "https://pypi.org/project/BiliHome/"
+}

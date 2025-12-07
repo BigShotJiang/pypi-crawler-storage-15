@@ -1,11 +1,11 @@
 {
   "name": "rust-ephem",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "High-performance satellite ephemeris and visibility calculations with Rust and astropy integration",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rust_ephem-0.1.12.tar.gz",
-  "download_time": "2025-12-03T04:57:08.046180",
+  "download_filename": "rust_ephem-0.1.14.tar.gz",
+  "download_time": "2025-12-07T20:21:42.422665",
   "package_url": "https://pypi.org/project/rust-ephem/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "strabs-helm",
+  "version": "0.1.0",
+  "summary": "Type-safe interface for Helm chart operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "strabs_helm-0.1.0.tar.gz",
+  "download_time": "2025-12-07T20:21:45.162958",
+  "package_url": "https://pypi.org/project/strabs-helm/"
+}

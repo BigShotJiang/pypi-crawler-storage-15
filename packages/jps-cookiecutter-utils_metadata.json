@@ -1,0 +1,11 @@
+{
+  "name": "jps-cookiecutter-utils",
+  "version": "0.4.0",
+  "summary": "Bootstrap utility to create new Python projects with standardized structure, templates, and configuration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jps_cookiecutter_utils-0.4.0.tar.gz",
+  "download_time": "2025-12-07T20:21:36.701338",
+  "package_url": "https://pypi.org/project/jps-cookiecutter-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "etf-steuernotizbuch",
+  "version": "0.2.0",
+  "summary": "Kleine Software mit GUI zum Verwalten und Simulieren der Steuerzahlungen auf Gewinne und Vorabpauschalen von Fonds und ETFs unter deutschem Steuerrecht. Besonders geeignet für Auslandsdepots und zur Simulation der anfallenden Steuern bei einem beabsichtigten Verkauf von Anteilen.",
+  "author": "just1436",
+  "license": "MIT",
+  "home_page": "https://github.com/just1436/etf-steuernotizbuch",
+  "download_filename": "etf_steuernotizbuch-0.2.0.tar.gz",
+  "download_time": "2025-12-07T20:21:52.123904",
+  "package_url": "https://pypi.org/project/etf-steuernotizbuch/"
+}

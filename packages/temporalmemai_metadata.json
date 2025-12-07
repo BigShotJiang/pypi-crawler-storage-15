@@ -1,0 +1,11 @@
+{
+  "name": "temporalmemai",
+  "version": "0.1.0",
+  "summary": "A temporal-aware AI memory engine that extracts, stores, and retrieves long-term user memories with built-in decay, versioning, and freshness scoring",
+  "author": "TemporalMemAI Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "temporalmemai-0.1.0.tar.gz",
+  "download_time": "2025-12-07T20:21:47.837062",
+  "package_url": "https://pypi.org/project/temporalmemai/"
+}

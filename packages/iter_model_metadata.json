@@ -1,11 +1,11 @@
 {
   "name": "iter_model",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "summary": "iter-model uses a method approach instead of individual functions to work with iterable objects.",
   "author": "volodymyrb",
   "license": "MIT",
   "home_page": "https://volodymyrbor.github.io/iter_model/",
-  "download_filename": "iter_model-4.0.3.tar.gz",
-  "download_time": "2025-12-07T18:49:34.126124",
+  "download_filename": "iter_model-4.0.4.tar.gz",
+  "download_time": "2025-12-07T20:22:06.100859",
   "package_url": "https://pypi.org/project/iter_model/"
 }
