@@ -1,0 +1,11 @@
+{
+  "name": "typ2docx",
+  "version": "0.8.0",
+  "summary": "A tool to convert Typst project to Microsoft Word format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typ2docx-0.8.0.tar.gz",
+  "download_time": "2025-12-07T21:43:08.796213",
+  "package_url": "https://pypi.org/project/typ2docx/"
+}

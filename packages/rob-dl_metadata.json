@@ -1,11 +1,11 @@
 {
   "name": "rob-dl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "rob is a tool that combines curl and yt-dlp to easily download YouTube videos and Files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rob_dl-0.1.0.tar.gz",
-  "download_time": "2025-12-07T17:52:32.621365",
+  "download_filename": "rob_dl-0.1.1.tar.gz",
+  "download_time": "2025-12-07T21:43:32.623658",
   "package_url": "https://pypi.org/project/rob-dl/"
 }

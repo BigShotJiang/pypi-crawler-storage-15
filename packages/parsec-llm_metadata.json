@@ -1,0 +1,11 @@
+{
+  "name": "parsec-llm",
+  "version": "0.2.1",
+  "summary": "Lightweight orchestration toolkit to generate, validate, repair and enforce structured output from LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parsec_llm-0.2.1.tar.gz",
+  "download_time": "2025-12-07T21:43:15.734169",
+  "package_url": "https://pypi.org/project/parsec-llm/"
+}
