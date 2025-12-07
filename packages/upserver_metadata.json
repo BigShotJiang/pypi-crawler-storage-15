@@ -1,0 +1,11 @@
+{
+  "name": "upserver",
+  "version": "0.2.0",
+  "summary": "A resumable file server for uploading and downloading files",
+  "author": "Álex Vieira",
+  "license": "MIT",
+  "home_page": "https://github.com/eiAlex/upserver",
+  "download_filename": "upserver-0.2.0.tar.gz",
+  "download_time": "2025-12-07T22:52:04.635368",
+  "package_url": "https://pypi.org/project/upserver/"
+}

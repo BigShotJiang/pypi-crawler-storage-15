@@ -1,0 +1,11 @@
+{
+  "name": "gp-libs",
+  "version": "0.0.17",
+  "summary": "Internal utilities for projects following git-pull python package spec",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gp_libs-0.0.17.tar.gz",
+  "download_time": "2025-12-07T22:52:10.963595",
+  "package_url": "https://pypi.org/project/gp-libs/"
+}
