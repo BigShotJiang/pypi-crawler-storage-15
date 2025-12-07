@@ -1,11 +1,11 @@
 {
   "name": "pgarrow",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "A SQLAlchemy PostgreSQL dialect for ADBC (Arrow Database Connectivity)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pgarrow-0.0.8.tar.gz",
-  "download_time": "2025-12-06T10:43:45.617930",
+  "download_filename": "pgarrow-0.0.9.tar.gz",
+  "download_time": "2025-12-07T09:52:18.116158",
   "package_url": "https://pypi.org/project/pgarrow/"
 }

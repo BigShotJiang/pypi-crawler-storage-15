@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-subprojecttoctree",
+  "version": "0.6.0",
+  "summary": "Subprojecttoctrees is a Sphinx extension that aims to facilitate the integration of several documentation sources into a single Read the Docs webpage.",
+  "author": "Dries Schaumont",
+  "license": "MIT",
+  "home_page": "https://sphinx-subprojecttoctree.readthedocs.io",
+  "download_filename": "sphinx_subprojecttoctree-0.6.0.tar.gz",
+  "download_time": "2025-12-07T09:52:51.998587",
+  "package_url": "https://pypi.org/project/sphinx-subprojecttoctree/"
+}

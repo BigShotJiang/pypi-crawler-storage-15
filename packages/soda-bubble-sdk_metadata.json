@@ -1,11 +1,11 @@
 {
   "name": "soda-bubble-sdk",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "This SDK provides functionalities for AES and RSA encryption schemes, ECDSA signature scheme and some functionalities used for working with sodalabs blockchain.",
   "author": "sodalabs",
   "license": "MIT",
   "home_page": "https://github.com/soda-mpc/soda-sdk",
-  "download_filename": "soda_bubble_sdk-0.0.10.tar.gz",
-  "download_time": "2025-12-07T08:46:32.262763",
+  "download_filename": "soda_bubble_sdk-0.0.11.tar.gz",
+  "download_time": "2025-12-07T09:52:31.199141",
   "package_url": "https://pypi.org/project/soda-bubble-sdk/"
 }

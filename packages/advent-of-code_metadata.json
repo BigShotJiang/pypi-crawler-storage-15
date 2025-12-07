@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code",
+  "version": "2025.1.0",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/fornwall/advent-of-code",
+  "download_filename": "advent_of_code-2025.1.0-cp312-abi3-macosx_10_13_universal2.whl",
+  "download_time": "2025-12-07T09:52:39.027940",
+  "package_url": "https://pypi.org/project/advent-of-code/"
+}

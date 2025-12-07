@@ -1,11 +1,11 @@
 {
   "name": "defirl",
-  "version": "0.10.12",
+  "version": "0.10.13",
   "summary": "A reinforcement learning package for predicting buy and sell signals",
   "author": "Nicolus Rotich",
   "license": "MIT",
   "home_page": "https://nkrtech.com",
-  "download_filename": "defirl-0.10.12.tar.gz",
-  "download_time": "2025-12-07T01:43:22.687663",
+  "download_filename": "defirl-0.10.13.tar.gz",
+  "download_time": "2025-12-07T09:52:36.909610",
   "package_url": "https://pypi.org/project/defirl/"
 }
