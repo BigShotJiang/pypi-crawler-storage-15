@@ -1,11 +1,11 @@
 {
   "name": "winiutils",
-  "version": "2.2.26",
+  "version": "2.2.29",
   "summary": "A package with many utility functions",
   "author": "Winipedia",
   "license": null,
   "home_page": null,
-  "download_filename": "winiutils-2.2.26.tar.gz",
-  "download_time": "2025-12-06T14:17:46.706250",
+  "download_filename": "winiutils-2.2.29.tar.gz",
+  "download_time": "2025-12-07T01:43:28.489256",
   "package_url": "https://pypi.org/project/winiutils/"
 }

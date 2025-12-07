@@ -1,11 +1,11 @@
 {
   "name": "mcp-mapped-resource-lib",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Reusable utilities for MCP servers handling binary blob transfers through shared Docker volumes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_mapped_resource_lib-0.1.0.tar.gz",
-  "download_time": "2025-12-06T23:19:12.710096",
+  "download_filename": "mcp_mapped_resource_lib-0.1.2.tar.gz",
+  "download_time": "2025-12-07T01:43:26.901943",
   "package_url": "https://pypi.org/project/mcp-mapped-resource-lib/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lightning-disk-kv",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "\"Disk-based redis\" - Built around LMDB and Rust, with sharding for maximum throughput",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lightning_disk_kv-0.1.1.tar.gz",
-  "download_time": "2025-12-06T22:42:43.782081",
+  "download_filename": "lightning_disk_kv-1.0.0.tar.gz",
+  "download_time": "2025-12-07T01:43:26.373212",
   "package_url": "https://pypi.org/project/lightning-disk-kv/"
 }

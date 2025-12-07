@@ -1,0 +1,11 @@
+{
+  "name": "aurora-glm",
+  "version": "0.7.0",
+  "summary": "A modular, extensible, and high-performance Python framework for generalized linear models (GLM), generalized additive models (GAM), and generalized additive mixed models (GAMM)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aurora_glm-0.7.0.tar.gz",
+  "download_time": "2025-12-07T01:43:38.281701",
+  "package_url": "https://pypi.org/project/aurora-glm/"
+}
