@@ -1,0 +1,11 @@
+{
+  "name": "cwv-scanner",
+  "version": "1.0.2",
+  "summary": "Common Web Application Vulnerability Scanner",
+  "author": "SirCryptic",
+  "license": null,
+  "home_page": "https://github.com/sircryptic/cwv-scanner",
+  "download_filename": "cwv_scanner-1.0.2.tar.gz",
+  "download_time": "2025-12-07T15:39:40.751966",
+  "package_url": "https://pypi.org/project/cwv-scanner/"
+}

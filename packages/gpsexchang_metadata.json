@@ -1,0 +1,11 @@
+{
+  "name": "gpsexchang",
+  "version": "0.1.0",
+  "summary": "CLI tool to convert between GPX and FIT preserving activity metrics",
+  "author": "OrienteeringX",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gpsexchang-0.1.0.tar.gz",
+  "download_time": "2025-12-07T15:39:51.004434",
+  "package_url": "https://pypi.org/project/gpsexchang/"
+}

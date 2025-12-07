@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T15:19:13.046432
-- **Total Packages**: 90
-- **Total Size**: 21.78 MB
+- **Download Time**: 2025-12-07T15:40:19.437865
+- **Total Packages**: 93
+- **Total Size**: 4.98 MB
 
 ## Packages List
+- spotoptim
+- ml-trainer-sdk
+- create-sqlalchemy-app
+- scaling-law-probe
+- lewaf
+- todo-cli-evolution
+- medicafe
+- openplaning
+- labview-fpga-hdl-tools
+- reqdbcontentcreator
+- gha-utils
+- P4E
+- pyapu
+- aiforecastts
+- pycharting
+- reqdb
+- utils-devops
+- relia-oss
+- cwv-scanner
+- django-ninja-aio-crud
+- super-bario
+- chat2edit
+- leanllm
+- hydroopt
+- well-log-toolkit
+- treeline-money
+- danom
+- async-pytest-httpserver
+- lattifai-core
+- stigg-api-client-v2
+- mars
+- stigg-api-client
+- ha-mcp
+- bentopy
+- kmock
+- neuronum
+- photo-objects
+- smufolib
+- gpsexchang
+- docx2tiptap
+- apache-airflow-provider-twitterapi
+- qcrawl
+- pyoe2-craftpath
+- imply-druid-mcp
+- xvfbwrapper
 - QuickBench
 - color-analysis-tool
 - layeredlearning
@@ -45,7 +90,6 @@
 - matrice-streaming
 - ape-lang
 - code-puppy
-- neuronum
 - broccoli-ml
 - language-pipes
 - remdb
@@ -55,44 +99,3 @@
 - wshawk
 - crous
 - smart-file-organizer-tool
-- page-dewarp
-- SocatLib
-- pyzstd
-- schemathesis
-- gig-nuuuwan
-- pywiim
-- PySide2-Fluent-Widgets
-- PyQt6-Fluent-Widgets
-- PyQt-Fluent-Widgets
-- PySide6-Fluent-Widgets
-- bentopy
-- bkmr
-- avido
-- smrpgpatchbuilder
-- converdation
-- tclogger
-- mmrl-util
-- asof
-- stlflib
-- x-anylabeling-cvhub
-- pdfget
-- butinfom
-- pyowo-importer
-- delivery-optimizer
-- klondike-spec-cli
-- openagents
-- smartfileorganizer-lin
-- linux-ssh-mcp
-- casbin-async-sqlalchemy-adapter
-- sqtab
-- airports-py
-- promptv
-- ieee-gui
-- aerofs
-- click-extended
-- apk-info
-- audixa
-- typer-injector
-- sifr-benchmark
-- oneliai
-- nested-diff

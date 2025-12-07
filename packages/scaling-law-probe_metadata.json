@@ -1,0 +1,11 @@
+{
+  "name": "scaling-law-probe",
+  "version": "0.1.0",
+  "summary": "Predict neural scaling laws from data geometry before expensive training runs",
+  "author": "Sandro Andric",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scaling_law_probe-0.1.0.tar.gz",
+  "download_time": "2025-12-07T15:39:32.031964",
+  "package_url": "https://pypi.org/project/scaling-law-probe/"
+}

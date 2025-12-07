@@ -1,0 +1,11 @@
+{
+  "name": "pyapu",
+  "version": "0.2.0",
+  "summary": "Structured AI document processing with robust fallback strategies.",
+  "author": "aquiles",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/Aquilesorei/pyapu",
+  "download_filename": "pyapu-0.2.0.tar.gz",
+  "download_time": "2025-12-07T15:39:37.684994",
+  "package_url": "https://pypi.org/project/pyapu/"
+}
