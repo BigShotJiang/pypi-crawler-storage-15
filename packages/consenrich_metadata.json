@@ -1,11 +1,11 @@
 {
   "name": "consenrich",
-  "version": "0.7.10rc5",
+  "version": "0.7.10rc6",
   "summary": "Genome-wide estimation of signals hidden in noisy multi-sample HTS datasets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "consenrich-0.7.10rc5.tar.gz",
-  "download_time": "2025-12-07T04:47:07.182455",
+  "download_filename": "consenrich-0.7.10rc6.tar.gz",
+  "download_time": "2025-12-07T10:52:35.494667",
   "package_url": "https://pypi.org/project/consenrich/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "terminalizer2asciinema",
+  "version": "0.3.0",
+  "summary": "convert file in terminalizer format to asciinema format",
+  "author": "Siak Hooi",
+  "license": "MIT",
+  "home_page": "https://github.com/siakhooi/python-terminalizer2asciinema",
+  "download_filename": "terminalizer2asciinema-0.3.0.tar.gz",
+  "download_time": "2025-12-07T10:52:36.520963",
+  "package_url": "https://pypi.org/project/terminalizer2asciinema/"
+}

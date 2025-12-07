@@ -1,0 +1,11 @@
+{
+  "name": "netports",
+  "version": "1.2.0",
+  "summary": "Python tools for managing ranges of VLANs, TCP/UDP ports, IP protocols, Interfaces",
+  "author": "Vladimirs Prusakovs",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netports-1.2.0.tar.gz",
+  "download_time": "2025-12-07T10:52:27.726911",
+  "package_url": "https://pypi.org/project/netports/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "htmligator",
+  "version": "0.11.0",
+  "summary": "generate wrapper html files to navigate folder contents",
+  "author": "Siak Hooi",
+  "license": "MIT",
+  "home_page": "https://github.com/siakhooi/python-htmligator",
+  "download_filename": "htmligator-0.11.0.tar.gz",
+  "download_time": "2025-12-07T10:52:56.489892",
+  "package_url": "https://pypi.org/project/htmligator/"
+}

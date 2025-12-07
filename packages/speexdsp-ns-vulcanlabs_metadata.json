@@ -1,0 +1,11 @@
+{
+  "name": "speexdsp-ns-vulcanlabs",
+  "version": "0.1.3",
+  "summary": "Python bindings of speexdsp noise suppression library (Vulcanlabs fork with multi-platform wheels)",
+  "author": "Lucky Wong, Vulcanlabs",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/hiendang7613vulcan/speexdsp-ns-vulcanlabs",
+  "download_filename": "speexdsp_ns_vulcanlabs-0.1.3.tar.gz",
+  "download_time": "2025-12-07T10:52:39.583281",
+  "package_url": "https://pypi.org/project/speexdsp-ns-vulcanlabs/"
+}

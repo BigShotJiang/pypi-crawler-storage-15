@@ -1,0 +1,11 @@
+{
+  "name": "push-n-publish",
+  "version": "0.1.1",
+  "summary": "Push-and-publish: CLI tool to push commits, bump tags, and publish releases including GitHub releases.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "push_n_publish-0.1.1.tar.gz",
+  "download_time": "2025-12-07T10:52:32.881059",
+  "package_url": "https://pypi.org/project/push-n-publish/"
+}
