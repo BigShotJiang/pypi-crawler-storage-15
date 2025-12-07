@@ -1,11 +1,11 @@
 {
   "name": "pdf4llm",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "PyMuPDF Utilities for LLM/RAG",
   "author": "Artifex",
   "license": "Dual Licensed - GNU AFFERO GPL 3.0 or Artifex Commercial License",
   "home_page": "https://github.com/pymupdf/RAG",
-  "download_filename": "pdf4llm-0.2.6.tar.gz",
-  "download_time": "2025-12-03T17:22:18.650627",
+  "download_filename": "pdf4llm-0.2.7.tar.gz",
+  "download_time": "2025-12-07T21:32:05.343482",
   "package_url": "https://pypi.org/project/pdf4llm/"
 }
