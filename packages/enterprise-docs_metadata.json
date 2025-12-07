@@ -1,0 +1,11 @@
+{
+  "name": "enterprise-docs",
+  "version": "4.0.0",
+  "summary": "Unified enterprise documentation suite for Dhruv13x organization — providing policy, compliance, and automation templates for enterprise-grade Python projects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "enterprise_docs-4.0.0.tar.gz",
+  "download_time": "2025-12-07T04:10:50.527650",
+  "package_url": "https://pypi.org/project/enterprise-docs/"
+}

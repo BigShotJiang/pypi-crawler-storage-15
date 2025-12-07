@@ -1,11 +1,11 @@
 {
   "name": "cc-adapter",
-  "version": "0.18.1",
+  "version": "0.19.0",
   "summary": "Claude Code adapter for LM Studio / Poe / OpenRouter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cc_adapter-0.18.1.tar.gz",
-  "download_time": "2025-12-06T18:48:42.925430",
+  "download_filename": "cc_adapter-0.19.0.tar.gz",
+  "download_time": "2025-12-07T04:11:13.286846",
   "package_url": "https://pypi.org/project/cc-adapter/"
 }

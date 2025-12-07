@@ -1,11 +1,11 @@
 {
   "name": "api-foundry-query-engine",
-  "version": "0.8.37",
+  "version": "0.8.39",
   "summary": "The AWS lambda service handler use by the `api_foundry` project is a powerful tool designed to automate the deployment of REST APIs on AWS using Lambda services to access and interact with relational databases (RDBMS). This project leverages the OpenAPI specification to define and manage the APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "api_foundry_query_engine-0.8.37.tar.gz",
-  "download_time": "2025-12-06T22:19:18.693269",
+  "download_filename": "api_foundry_query_engine-0.8.39.tar.gz",
+  "download_time": "2025-12-07T04:11:20.192513",
   "package_url": "https://pypi.org/project/api-foundry-query-engine/"
 }

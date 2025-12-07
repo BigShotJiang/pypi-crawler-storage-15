@@ -1,11 +1,11 @@
 {
   "name": "pixel-font-builder",
-  "version": "0.0.45",
+  "version": "0.0.46",
   "summary": "A library that helps create pixel style fonts",
   "author": "TakWolf",
   "license": null,
   "home_page": null,
-  "download_filename": "pixel_font_builder-0.0.45.tar.gz",
-  "download_time": "2025-12-06T11:30:23.779320",
+  "download_filename": "pixel_font_builder-0.0.46.tar.gz",
+  "download_time": "2025-12-07T04:11:26.115090",
   "package_url": "https://pypi.org/project/pixel-font-builder/"
 }
