@@ -1,0 +1,11 @@
+{
+  "name": "pyannote-database",
+  "version": "6.1.1",
+  "summary": "Interface to multimedia databases and experimental protocols",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyannote_database-6.1.1.tar.gz",
+  "download_time": "2025-12-07T06:51:05.869370",
+  "package_url": "https://pypi.org/project/pyannote-database/"
+}

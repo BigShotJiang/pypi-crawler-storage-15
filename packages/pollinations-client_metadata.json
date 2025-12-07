@@ -1,11 +1,11 @@
 {
   "name": "pollinations-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python wrapper for Pollinations AI - Free text and image generation APIs",
   "author": "gpt4free",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pollinations_client-0.1.0.tar.gz",
-  "download_time": "2025-12-06T21:51:47.985987",
+  "download_filename": "pollinations_client-0.1.1.tar.gz",
+  "download_time": "2025-12-07T06:51:10.193846",
   "package_url": "https://pypi.org/project/pollinations-client/"
 }
