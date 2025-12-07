@@ -1,0 +1,11 @@
+{
+  "name": "phonelocate",
+  "version": "0.0.1b0",
+  "summary": "Phone number locator for Russia and Ukraine",
+  "author": "msctop4 / @blyatstudio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phonelocate-0.0.1b0.tar.gz",
+  "download_time": "2025-12-07T21:52:20.574922",
+  "package_url": "https://pypi.org/project/phonelocate/"
+}

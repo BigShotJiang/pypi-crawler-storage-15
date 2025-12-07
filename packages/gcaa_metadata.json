@@ -1,11 +1,11 @@
 {
   "name": "gcaa",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "summary": "Dynamic decentralized task allocation algorithms for multi-agent systems using a greedy auction algorithm",
   "author": "Martin",
   "license": null,
   "home_page": null,
-  "download_filename": "gcaa-0.1.2.tar.gz",
-  "download_time": "2025-12-06T17:40:35.069383",
+  "download_filename": "gcaa-1.0.0.tar.gz",
+  "download_time": "2025-12-07T21:52:09.509882",
   "package_url": "https://pypi.org/project/gcaa/"
 }

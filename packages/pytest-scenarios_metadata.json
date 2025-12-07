@@ -1,11 +1,11 @@
 {
   "name": "pytest-scenarios",
-  "version": "0.0.11",
+  "version": "0.1.0",
   "summary": "Add your description here",
   "author": "Carlos Martin Sanchez",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_scenarios-0.0.11.tar.gz",
-  "download_time": "2025-12-07T21:17:34.758255",
+  "download_filename": "pytest_scenarios-0.1.0.tar.gz",
+  "download_time": "2025-12-07T21:52:12.184535",
   "package_url": "https://pypi.org/project/pytest-scenarios/"
 }

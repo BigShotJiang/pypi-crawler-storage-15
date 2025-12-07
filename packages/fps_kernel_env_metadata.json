@@ -1,0 +1,11 @@
+{
+  "name": "fps_kernel_env",
+  "version": "0.1.0",
+  "summary": "An FPS plugin for building kernel environment",
+  "author": "Trung Le",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fps_kernel_env-0.1.0.tar.gz",
+  "download_time": "2025-12-07T21:52:13.776631",
+  "package_url": "https://pypi.org/project/fps_kernel_env/"
+}
