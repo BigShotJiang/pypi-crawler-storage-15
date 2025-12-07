@@ -1,11 +1,11 @@
 {
   "name": "remdb",
-  "version": "0.3.170",
+  "version": "0.3.171",
   "summary": "Resources Entities Moments - Bio-inspired memory system for agentic AI workloads",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "remdb-0.3.170.tar.gz",
-  "download_time": "2025-12-07T20:21:44.608918",
+  "download_filename": "remdb-0.3.171.tar.gz",
+  "download_time": "2025-12-07T20:43:37.523957",
   "package_url": "https://pypi.org/project/remdb/"
 }

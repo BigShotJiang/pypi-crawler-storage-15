@@ -1,0 +1,11 @@
+{
+  "name": "syncshell",
+  "version": "1.1.0",
+  "summary": "Keep your machine's shell history synchronized",
+  "author": "Masoud Ghorbani",
+  "license": "MIT",
+  "home_page": "https://github.com/masoudgs/syncshell",
+  "download_filename": "syncshell-1.1.0.tar.gz",
+  "download_time": "2025-12-07T20:43:20.460613",
+  "package_url": "https://pypi.org/project/syncshell/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wechat-mcp-server",
+  "version": "0.1.0",
+  "summary": "WeChat MCP server for reading and replying to messages via macOS Accessibility APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wechat_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-12-07T20:43:19.297745",
+  "package_url": "https://pypi.org/project/wechat-mcp-server/"
+}

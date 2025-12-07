@@ -1,0 +1,11 @@
+{
+  "name": "sotopia",
+  "version": "0.1.5",
+  "summary": "A platform for simulating and evaluating social interaction.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "sotopia-0.1.5.tar.gz",
+  "download_time": "2025-12-07T20:43:48.045663",
+  "package_url": "https://pypi.org/project/sotopia/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "passmate",
+  "version": "0.3",
+  "summary": "A simple password manager with synchronization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passmate-0.3.tar.gz",
+  "download_time": "2025-12-07T20:43:22.199328",
+  "package_url": "https://pypi.org/project/passmate/"
+}
