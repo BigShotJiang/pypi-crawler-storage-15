@@ -1,14 +1,73 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T13:52:38.853681
-- **Total Packages**: 90
-- **Total Size**: 32.8 MB
+- **Download Time**: 2025-12-07T14:20:04.099314
+- **Total Packages**: 92
+- **Total Size**: 15.97 MB
 
 ## Packages List
+- pylongslit
+- pyowo-importer
+- color-analysis-tool
+- serverz-ag-filer
+- picfly
+- zdev
+- pytest-repeated
+- spotoptim
+- multimodal-agent
+- namel3ss
+- ctyun-cli
+- swcgeom
+- pywiim
+- StevenTricks
+- havsalt-termnautica
+- boxlite-mcp
+- sova-sdk
+- ieee-gui
+- zipip
+- aoc-helper
+- kanoa
+- emunium
+- serverz-ag-code-paper
+- phoenix-bot-api
+- serverz-ag-code-template
+- messagebus
+- ibm-db
+- vector2png
+- bkmr
+- logging-objects-with-schema
+- matrice-common
+- docx2tiptap
+- aird
+- trex-lib
+- trex-apis
+- trex-model
+- dbapi-mongodb
+- lobster-ai
+- fastipc
+- parallaxapis-sdk-py
+- conson-xp
+- wox-plugin
+- github-backup
+- pydantic-modelable
+- abcount
+- wisemodel-hub
+- broccoli-ml
+- shapes-geometry
+- other-agents-mcp
+- EMD-signal
+- cobjectric
+- amsdal_server
+- easy-cos
+- jupyterlab-chat-toy
+- simpliq-mcp-server-dev-test
+- colusa
+- tensordict-nightly
+- log-inspector-mcp
+- python-opendota-sdk
+- sports-betting
 - Pytdbot
 - ccxt-ir
-- havsalt-termnautica
 - stepup-queue
 - adv-optm
 - mteb
@@ -30,7 +89,6 @@
 - nucleation
 - ccgo
 - ngimager
-- simpliq-mcp-server-dev-test
 - llm-goose
 - zero-spinner
 - requers
@@ -40,59 +98,3 @@
 - ultimateultimateguitar
 - rec-praxis-rlm
 - hisss
-- byteprint
-- agentic-workstation
-- mdformat_space_control
-- algomanim
-- kodexa
-- pedantic
-- kunlun
-- idvpackage
-- violetear
-- FalkorDB
-- klondike-spec-cli
-- madevent7
-- StevenTricks
-- pyodide-mkdocs-theme
-- jupyterlab-chat-toy
-- ayechat
-- trustable-ai
-- medicafe
-- subtitlekit
-- biontfy
-- larql
-- djvite
-- sports-betting
-- pymiele
-- nasap-net
-- cvd-risk
-- chatmemory
-- mrsal
-- legit-api-client
-- tcheckerpy
-- strix-agent
-- dj-payfast
-- nlbone
-- archit-ug
-- hccinfhir
-- cnloc
-- mcp-memory-service
-- aidlabsdk
-- pydantic-modelable
-- distribapi
-- eventry
-- pyz3
-- nbdev-apl
-- nbdev-django
-- fedramp-20x-mcp
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- thart-automata
-- image-sharpner
-- xlsxturbo
-- geodatasim
-- prompt-sdk-python

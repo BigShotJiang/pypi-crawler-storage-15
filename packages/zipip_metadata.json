@@ -1,0 +1,11 @@
+{
+  "name": "zipip",
+  "version": "2.0.0",
+  "summary": "A simple, custom Python package manager.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zipip-2.0.0.tar.gz",
+  "download_time": "2025-12-07T14:19:24.910355",
+  "package_url": "https://pypi.org/project/zipip/"
+}

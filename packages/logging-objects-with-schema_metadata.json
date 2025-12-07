@@ -1,11 +1,11 @@
 {
   "name": "logging-objects-with-schema",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Proxy logging wrapper that validates extra fields against a JSON schema.",
   "author": "Dmitrii Safronov",
   "license": null,
   "home_page": null,
-  "download_filename": "logging_objects_with_schema-0.1.2.tar.gz",
-  "download_time": "2025-12-06T13:39:37.155685",
+  "download_filename": "logging_objects_with_schema-0.1.3.tar.gz",
+  "download_time": "2025-12-07T14:19:31.305401",
   "package_url": "https://pypi.org/project/logging-objects-with-schema/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ibm-db",
+  "version": "3.2.8",
+  "summary": "Python DBI driver for DB2 (LUW, zOS, i5)",
+  "author": "IBM Application Development Team",
+  "license": "Apache License 2.0",
+  "home_page": "http://pypi.python.org/pypi/ibm_db/",
+  "download_filename": "ibm_db-3.2.8.tar.gz",
+  "download_time": "2025-12-07T14:19:29.724302",
+  "package_url": "https://pypi.org/project/ibm-db/"
+}

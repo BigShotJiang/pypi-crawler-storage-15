@@ -1,0 +1,11 @@
+{
+  "name": "swcgeom",
+  "version": "0.21.2",
+  "summary": "Neuron geometry library for swc format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swcgeom-0.21.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-07T14:19:21.311636",
+  "package_url": "https://pypi.org/project/swcgeom/"
+}
