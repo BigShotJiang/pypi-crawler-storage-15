@@ -1,11 +1,11 @@
 {
   "name": "parallaxapis-sdk-py",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "ParallaxAPIs SDK",
   "author": "ParallaxSystems",
   "license": null,
   "home_page": null,
-  "download_filename": "parallaxapis_sdk_py-1.2.0.tar.gz",
-  "download_time": "2025-12-07T14:19:36.935895",
+  "download_filename": "parallaxapis_sdk_py-1.2.1.tar.gz",
+  "download_time": "2025-12-07T17:27:51.901378",
   "package_url": "https://pypi.org/project/parallaxapis-sdk-py/"
 }

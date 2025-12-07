@@ -1,0 +1,11 @@
+{
+  "name": "MSO",
+  "version": "1.0.82",
+  "summary": "MongoDB Schema Object - A ODM from Mongo DB JSON validation schema",
+  "author": "Charles Beyor",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+  "home_page": null,
+  "download_filename": "mso-1.0.82.tar.gz",
+  "download_time": "2025-12-07T17:28:04.844137",
+  "package_url": "https://pypi.org/project/MSO/"
+}

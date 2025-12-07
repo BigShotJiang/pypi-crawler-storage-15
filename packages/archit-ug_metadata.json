@@ -1,11 +1,11 @@
 {
   "name": "archit-ug",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Errol 4 Sonic - 120B Formal Interactive AI Library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "archit_ug-0.3.1.tar.gz",
-  "download_time": "2025-12-07T13:37:55.485418",
+  "download_filename": "archit_ug-0.3.2.tar.gz",
+  "download_time": "2025-12-07T17:28:19.420783",
   "package_url": "https://pypi.org/project/archit-ug/"
 }

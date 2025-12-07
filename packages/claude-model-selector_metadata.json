@@ -1,0 +1,11 @@
+{
+  "name": "claude-model-selector",
+  "version": "1.0.0",
+  "summary": "Intelligent model selection for optimal cost-effectiveness with Anthropic's Claude AI",
+  "author": "AeonBridge Co.",
+  "license": "MIT",
+  "home_page": "https://github.com/aeonbridge/claude-model-selector",
+  "download_filename": "claude_model_selector-1.0.0.tar.gz",
+  "download_time": "2025-12-07T17:28:09.489957",
+  "package_url": "https://pypi.org/project/claude-model-selector/"
+}

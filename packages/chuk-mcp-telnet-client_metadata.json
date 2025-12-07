@@ -1,11 +1,11 @@
 {
   "name": "chuk-mcp-telnet-client",
-  "version": "0.3",
+  "version": "0.3.1",
   "summary": "MCP Telnet Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chuk_mcp_telnet_client-0.3.tar.gz",
-  "download_time": "2025-12-07T10:19:35.229612",
+  "download_filename": "chuk_mcp_telnet_client-0.3.1.tar.gz",
+  "download_time": "2025-12-07T17:28:09.999974",
   "package_url": "https://pypi.org/project/chuk-mcp-telnet-client/"
 }

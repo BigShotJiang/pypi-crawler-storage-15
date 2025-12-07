@@ -1,11 +1,11 @@
 {
   "name": "rec-praxis-rlm",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Procedural memory + REPL context package with DSPy 3.0 integration for autonomous agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rec_praxis_rlm-0.4.2.tar.gz",
-  "download_time": "2025-12-07T14:52:23.719981",
+  "download_filename": "rec_praxis_rlm-0.4.3.tar.gz",
+  "download_time": "2025-12-07T17:28:06.391950",
   "package_url": "https://pypi.org/project/rec-praxis-rlm/"
 }

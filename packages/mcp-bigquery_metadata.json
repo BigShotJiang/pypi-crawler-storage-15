@@ -1,0 +1,11 @@
+{
+  "name": "mcp-bigquery",
+  "version": "0.4.2",
+  "summary": "Minimal MCP server for BigQuery SQL validation and dry-run analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_bigquery-0.4.2.tar.gz",
+  "download_time": "2025-12-07T17:27:55.041705",
+  "package_url": "https://pypi.org/project/mcp-bigquery/"
+}
