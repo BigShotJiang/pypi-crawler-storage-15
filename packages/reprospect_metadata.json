@@ -1,11 +1,11 @@
 {
   "name": "reprospect",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "A framework for reproducible prospecting of CUDA applications.",
   "author": "Arnst Maarten, Tomasetti Romin",
   "license": null,
   "home_page": null,
-  "download_filename": "reprospect-0.0.9.tar.gz",
-  "download_time": "2025-12-04T16:55:29.636465",
+  "download_filename": "reprospect-0.0.10.tar.gz",
+  "download_time": "2025-12-07T13:15:42.687964",
   "package_url": "https://pypi.org/project/reprospect/"
 }

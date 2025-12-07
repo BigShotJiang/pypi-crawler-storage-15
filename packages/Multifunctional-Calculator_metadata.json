@@ -1,11 +1,11 @@
 {
   "name": "Multifunctional-Calculator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "多功能计算库（整合decimal）",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multifunctional_calculator-0.0.3.tar.gz",
-  "download_time": "2025-12-07T12:36:39.512054",
+  "download_filename": "multifunctional_calculator-0.0.4.tar.gz",
+  "download_time": "2025-12-07T13:15:49.781918",
   "package_url": "https://pypi.org/project/Multifunctional-Calculator/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "distribapi",
+  "version": "0.1.0",
+  "summary": "Intelligent API request distribution based on system resources and latency",
+  "author": "QKing",
+  "license": "MIT",
+  "home_page": "https://github.com/QKing-Official/distribapi",
+  "download_filename": "distribapi-0.1.0.tar.gz",
+  "download_time": "2025-12-07T13:15:36.078125",
+  "package_url": "https://pypi.org/project/distribapi/"
+}
