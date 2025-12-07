@@ -1,0 +1,11 @@
+{
+  "name": "dlglab",
+  "version": "0.2.0",
+  "summary": "A simple package that prints hello world",
+  "author": "Chirag T",
+  "license": null,
+  "home_page": "https://github.com/tchirag03/dlglab",
+  "download_filename": "dlglab-0.2.0.tar.gz",
+  "download_time": "2025-12-07T23:40:59.824282",
+  "package_url": "https://pypi.org/project/dlglab/"
+}

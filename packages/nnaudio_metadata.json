@@ -1,0 +1,11 @@
+{
+  "name": "nnaudio",
+  "version": "0.3.4",
+  "summary": "A fast GPU audio processing toolbox with 1D convolutional neural network",
+  "author": "KinWaiCheuk",
+  "license": null,
+  "home_page": "https://github.com/KinWaiCheuk/nnAudio",
+  "download_filename": "nnaudio-0.3.4.tar.gz",
+  "download_time": "2025-12-07T23:41:00.409078",
+  "package_url": "https://pypi.org/project/nnaudio/"
+}

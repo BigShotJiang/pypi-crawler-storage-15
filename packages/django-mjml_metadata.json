@@ -1,0 +1,11 @@
+{
+  "name": "django-mjml",
+  "version": "1.5",
+  "summary": "Use MJML in Django templates",
+  "author": "Igor Melnyk @liminspace",
+  "license": "MIT",
+  "home_page": "https://github.com/liminspace/django-mjml",
+  "download_filename": "django_mjml-1.5.tar.gz",
+  "download_time": "2025-12-07T23:40:58.063079",
+  "package_url": "https://pypi.org/project/django-mjml/"
+}

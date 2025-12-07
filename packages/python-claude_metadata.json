@@ -1,11 +1,11 @@
 {
   "name": "python-claude",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Python hooks for Claude Code",
   "author": "CVector",
   "license": null,
   "home_page": null,
-  "download_filename": "python_claude-0.1.1.tar.gz",
-  "download_time": "2025-12-07T03:19:31.122312",
+  "download_filename": "python_claude-0.2.0.tar.gz",
+  "download_time": "2025-12-07T23:40:49.272562",
   "package_url": "https://pypi.org/project/python-claude/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "is-it-slop",
+  "version": "0.4.0",
+  "summary": "Detecting AI generated text using statistical ML models and TF-IDF vectorization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "is_it_slop-0.4.0.tar.gz",
+  "download_time": "2025-12-07T23:41:06.223043",
+  "package_url": "https://pypi.org/project/is-it-slop/"
+}
