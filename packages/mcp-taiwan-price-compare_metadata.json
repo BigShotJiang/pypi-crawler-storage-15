@@ -1,11 +1,11 @@
 {
   "name": "mcp-taiwan-price-compare",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Taiwan e-commerce price comparison MCP server for momo, PChome, Coupang, ETMall, Rakuten, Yahoo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_taiwan_price_compare-0.2.0.tar.gz",
-  "download_time": "2025-12-07T06:28:30.849197",
+  "download_filename": "mcp_taiwan_price_compare-0.2.1.tar.gz",
+  "download_time": "2025-12-07T07:19:53.208427",
   "package_url": "https://pypi.org/project/mcp-taiwan-price-compare/"
 }
