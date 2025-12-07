@@ -1,11 +1,11 @@
 {
   "name": "namel3ss",
-  "version": "0.6.7",
-  "summary": "The first language designed for AI - where thought becomes production code",
-  "author": "Namel3ss Developers",
-  "license": null,
+  "version": "0.6.9",
+  "summary": "AI-native programming language with English-style syntax for building agents, flows, and UI",
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "namel3ss-0.6.7.tar.gz",
-  "download_time": "2025-12-07T14:19:20.287451",
+  "download_filename": "namel3ss-0.6.9.tar.gz",
+  "download_time": "2025-12-07T14:42:19.509577",
   "package_url": "https://pypi.org/project/namel3ss/"
 }

@@ -1,27 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-07T14:20:04.099314
-- **Total Packages**: 92
-- **Total Size**: 15.97 MB
+- **Download Time**: 2025-12-07T14:43:00.474396
+- **Total Packages**: 84
+- **Total Size**: 10.27 MB
 
 ## Packages List
-- pylongslit
+- butinfom
+- fastapi-matrix-admin
+- siirl
+- vcf-merger
 - pyowo-importer
+- sc-audit
+- boxlite-mcp
 - color-analysis-tool
+- toolkitz
+- audixa
+- cobjectric
+- aird
+- casbin-async-sqlalchemy-adapter
+- namel3ss
+- klondike-spec-cli
+- sifr-benchmark
+- nicecall
+- netshare
+- dfm-python
+- django-ninja-aio-crud
+- baqup-agent
+- baqup-schema
+- worldedit
+- worldio
+- matrice-inference
+- pypdf
+- ratelimits
+- tailucas-pylib
+- pylongslit
 - serverz-ag-filer
 - picfly
 - zdev
 - pytest-repeated
 - spotoptim
 - multimodal-agent
-- namel3ss
 - ctyun-cli
 - swcgeom
 - pywiim
 - StevenTricks
 - havsalt-termnautica
-- boxlite-mcp
 - sova-sdk
 - ieee-gui
 - zipip
@@ -38,7 +62,6 @@
 - logging-objects-with-schema
 - matrice-common
 - docx2tiptap
-- aird
 - trex-lib
 - trex-apis
 - trex-model
@@ -56,7 +79,6 @@
 - shapes-geometry
 - other-agents-mcp
 - EMD-signal
-- cobjectric
 - amsdal_server
 - easy-cos
 - jupyterlab-chat-toy
@@ -68,33 +90,3 @@
 - sports-betting
 - Pytdbot
 - ccxt-ir
-- stepup-queue
-- adv-optm
-- mteb
-- cr-utils
-- liteai-sdk
-- audixa
-- telepress
-- dog-cli
-- leanllm
-- crypto-toolkit
-- hivemux
-- oceanval
-- fyodoros
-- tricoder
-- square_authentication
-- trellis-datamodel
-- whisperspeech2
-- gede
-- nucleation
-- ccgo
-- ngimager
-- llm-goose
-- zero-spinner
-- requers
-- refactor-utils
-- frogml
-- vresto
-- ultimateultimateguitar
-- rec-praxis-rlm
-- hisss

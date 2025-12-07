@@ -1,11 +1,11 @@
 {
   "name": "cobjectric",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Complex Object Metric - A library for measuring complexity of Python objects",
   "author": "Nigiva",
   "license": null,
   "home_page": null,
-  "download_filename": "cobjectric-1.0.0.tar.gz",
-  "download_time": "2025-12-07T14:19:42.565934",
+  "download_filename": "cobjectric-1.0.1.tar.gz",
+  "download_time": "2025-12-07T14:42:17.738675",
   "package_url": "https://pypi.org/project/cobjectric/"
 }

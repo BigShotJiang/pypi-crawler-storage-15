@@ -1,11 +1,11 @@
 {
   "name": "pyowo-importer",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "summary": null,
   "author": "Aleksander Sapieha",
   "license": null,
   "home_page": null,
-  "download_filename": "pyowo_importer-1.0.0.tar.gz",
-  "download_time": "2025-12-07T14:19:15.923789",
+  "download_filename": "pyowo_importer-1.0.4.tar.gz",
+  "download_time": "2025-12-07T14:42:14.248250",
   "package_url": "https://pypi.org/project/pyowo-importer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sc-audit",
+  "version": "0.14.0",
+  "summary": "Stellarcarbon database with monitoring and audit functionality",
+  "author": "Alex Olieman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sc_audit-0.14.0.tar.gz",
+  "download_time": "2025-12-07T14:42:14.862005",
+  "package_url": "https://pypi.org/project/sc-audit/"
+}
