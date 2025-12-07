@@ -1,0 +1,11 @@
+{
+  "name": "pyksolve",
+  "version": "0.0.14",
+  "summary": "Cython wrapper for Klondike-Solver.",
+  "author": "Tiziano Bettio",
+  "license": null,
+  "home_page": "https://github.com/tcdude/py-klondike-solver",
+  "download_filename": "pyksolve-0.0.14-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-07T11:30:45.535475",
+  "package_url": "https://pypi.org/project/pyksolve/"
+}

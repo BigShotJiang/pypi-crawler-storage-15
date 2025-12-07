@@ -1,0 +1,11 @@
+{
+  "name": "sideninja",
+  "version": "0.0.1",
+  "summary": "Ninja build file generator for PySide6, PyQt6, PySide2 and PyQt5",
+  "author": "Stanislav Doronin",
+  "license": null,
+  "home_page": "https://github.com/mugiseyebrows/sideninja",
+  "download_filename": "sideninja-0.0.1.tar.gz",
+  "download_time": "2025-12-07T11:30:40.364010",
+  "package_url": "https://pypi.org/project/sideninja/"
+}

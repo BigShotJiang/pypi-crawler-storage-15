@@ -1,0 +1,11 @@
+{
+  "name": "didjvu",
+  "version": "0.11.0",
+  "summary": "DjVu encoder with foreground/background separation (Python 3 fork) ",
+  "author": "Jakub Wilk",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/FriedrichFroebel/didjvu/",
+  "download_filename": "didjvu-0.11.0.tar.gz",
+  "download_time": "2025-12-07T11:30:39.854493",
+  "package_url": "https://pypi.org/project/didjvu/"
+}

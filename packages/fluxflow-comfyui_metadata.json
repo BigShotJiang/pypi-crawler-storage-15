@@ -1,0 +1,11 @@
+{
+  "name": "fluxflow-comfyui",
+  "version": "0.1.0",
+  "summary": "ComfyUI custom nodes for FluxFlow text-to-image generation",
+  "author": "FluxFlow Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fluxflow_comfyui-0.1.0.tar.gz",
+  "download_time": "2025-12-07T11:30:28.517943",
+  "package_url": "https://pypi.org/project/fluxflow-comfyui/"
+}
