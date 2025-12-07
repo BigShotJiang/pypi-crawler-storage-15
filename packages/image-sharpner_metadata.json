@@ -1,11 +1,11 @@
 {
   "name": "image-sharpner",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A lightweight adaptive multi-frequency image sharpening library.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "image_sharpner-0.1.3.tar.gz",
-  "download_time": "2025-12-07T13:38:07.390841",
+  "download_filename": "image_sharpner-0.1.4.tar.gz",
+  "download_time": "2025-12-07T16:46:25.334054",
   "package_url": "https://pypi.org/project/image-sharpner/"
 }

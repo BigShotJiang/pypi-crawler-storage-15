@@ -1,11 +1,11 @@
 {
   "name": "mdformat_space_control",
-  "version": "0.1.1",
-  "summary": "An mdformat plugin for EditorConfig-based indentation and tight list formatting.",
+  "version": "0.1.2",
+  "summary": "An mdformat plugin for space control: EditorConfig indentation, tight lists, and frontmatter spacing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdformat_space_control-0.1.1.tar.gz",
-  "download_time": "2025-12-07T15:52:06.025906",
+  "download_filename": "mdformat_space_control-0.1.2.tar.gz",
+  "download_time": "2025-12-07T16:46:31.568200",
   "package_url": "https://pypi.org/project/mdformat_space_control/"
 }
