@@ -1,0 +1,11 @@
+{
+  "name": "orca-ai-sdk",
+  "version": "0.1.0",
+  "summary": "Unified provider-agnostic AI SDK for Python",
+  "author": "TreeSoft",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orca_ai_sdk-0.1.0.tar.gz",
+  "download_time": "2025-12-07T11:51:59.517635",
+  "package_url": "https://pypi.org/project/orca-ai-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "worker-core-lib",
+  "version": "0.0.39",
+  "summary": "Core library for worker services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "worker_core_lib-0.0.39.tar.gz",
+  "download_time": "2025-12-07T11:52:03.842789",
+  "package_url": "https://pypi.org/project/worker-core-lib/"
+}
