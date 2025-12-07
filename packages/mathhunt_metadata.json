@@ -1,11 +1,11 @@
 {
   "name": "mathhunt",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Toolkit for math calculations.",
   "author": "Matvei Antipov",
   "license": "MIT",
   "home_page": "https://github.com/Matvei-Antipov/mathhunt-0.1.0.git",
-  "download_filename": "mathhunt-0.5.0.tar.gz",
-  "download_time": "2025-12-07T15:18:26.907064",
+  "download_filename": "mathhunt-0.5.1.tar.gz",
+  "download_time": "2025-12-07T16:24:00.795413",
   "package_url": "https://pypi.org/project/mathhunt/"
 }

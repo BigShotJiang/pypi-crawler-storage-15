@@ -1,11 +1,11 @@
 {
   "name": "code-scalpel",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "AI Agent toolkit for code analysis using ASTs, PDGs, and Symbolic Execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "code_scalpel-0.4.0.tar.gz",
-  "download_time": "2025-12-07T05:24:46.463348",
+  "download_filename": "code_scalpel-0.6.0.tar.gz",
+  "download_time": "2025-12-07T16:23:55.632158",
   "package_url": "https://pypi.org/project/code-scalpel/"
 }

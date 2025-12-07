@@ -1,0 +1,11 @@
+{
+  "name": "event-streamer-sdk",
+  "version": "0.5.0",
+  "summary": "Python SDK for Event Streamer blockchain event monitoring service with HTTP streaming support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "event_streamer_sdk-0.5.0.tar.gz",
+  "download_time": "2025-12-07T16:24:02.735984",
+  "package_url": "https://pypi.org/project/event-streamer-sdk/"
+}

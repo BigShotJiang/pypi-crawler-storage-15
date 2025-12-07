@@ -1,0 +1,11 @@
+{
+  "name": "taskiq",
+  "version": "0.12.1",
+  "summary": "Distributed task queue with full async support",
+  "author": "Pavel Kirilin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskiq-0.12.1.tar.gz",
+  "download_time": "2025-12-07T16:23:48.048821",
+  "package_url": "https://pypi.org/project/taskiq/"
+}

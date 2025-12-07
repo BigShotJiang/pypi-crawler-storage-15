@@ -1,0 +1,11 @@
+{
+  "name": "protoprimer",
+  "version": "0.2.0",
+  "summary": "A single-touch bootstrap to start pre-venv code: self-contained, no-deps, zero-args-default, cross-platform way to escape from shell scripts in pure Python with extensible multi-stage DAG :rocket:",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "protoprimer-0.2.0.tar.gz",
+  "download_time": "2025-12-07T16:23:55.055629",
+  "package_url": "https://pypi.org/project/protoprimer/"
+}

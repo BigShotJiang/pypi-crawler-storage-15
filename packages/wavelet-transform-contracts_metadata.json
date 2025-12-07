@@ -1,0 +1,11 @@
+{
+  "name": "wavelet-transform-contracts",
+  "version": "1.0.5",
+  "summary": "Protobuf contracts for WaveletTransform services",
+  "author": "CardioWaveAI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wavelet_transform_contracts-1.0.5.tar.gz",
+  "download_time": "2025-12-07T16:23:33.392643",
+  "package_url": "https://pypi.org/project/wavelet-transform-contracts/"
+}
