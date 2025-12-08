@@ -1,0 +1,11 @@
+{
+  "name": "pymctp-exerciser-serial",
+  "version": "0.2.5",
+  "summary": "TTY/Serial port exerciser for pymctp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymctp_exerciser_serial-0.2.5.tar.gz",
+  "download_time": "2025-12-08T15:56:35.760933",
+  "package_url": "https://pypi.org/project/pymctp-exerciser-serial/"
+}

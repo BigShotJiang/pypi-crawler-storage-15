@@ -1,11 +1,11 @@
 {
   "name": "nyancad",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "NyanCAD Python library for schematic editor with anywidget integration",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "nyancad-0.7.0.tar.gz",
-  "download_time": "2025-12-08T15:45:55.809590",
+  "download_filename": "nyancad-0.8.0.tar.gz",
+  "download_time": "2025-12-08T15:56:34.700665",
   "package_url": "https://pypi.org/project/nyancad/"
 }

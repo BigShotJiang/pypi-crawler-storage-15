@@ -1,0 +1,11 @@
+{
+  "name": "atproto",
+  "version": "0.0.65",
+  "summary": "The AT Protocol SDK",
+  "author": "Ilya (Marshal)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atproto-0.0.65.tar.gz",
+  "download_time": "2025-12-08T15:56:17.394606",
+  "package_url": "https://pypi.org/project/atproto/"
+}
