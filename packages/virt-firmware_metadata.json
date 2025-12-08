@@ -1,0 +1,11 @@
+{
+  "name": "virt-firmware",
+  "version": "25.12",
+  "summary": "tools for virtual machine firmware volumes",
+  "author": "Gerd Hoffmann",
+  "license": "GPLv2",
+  "home_page": null,
+  "download_filename": "virt_firmware-25.12.tar.gz",
+  "download_time": "2025-12-08T13:54:50.172994",
+  "package_url": "https://pypi.org/project/virt-firmware/"
+}

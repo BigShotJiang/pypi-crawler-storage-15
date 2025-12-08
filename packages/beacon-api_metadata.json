@@ -1,11 +1,11 @@
 {
   "name": "beacon-api",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "Python interface wrapper for interacting with Beacon Nodes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beacon_api-1.1.0-py3-none-any.whl",
-  "download_time": "2025-12-08T12:44:19.936735",
+  "download_filename": "beacon_api-1.1.2-py3-none-any.whl",
+  "download_time": "2025-12-08T13:54:26.951029",
   "package_url": "https://pypi.org/project/beacon-api/"
 }

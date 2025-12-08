@@ -1,0 +1,11 @@
+{
+  "name": "sample-helper-aws-appconfig",
+  "version": "2.3.0",
+  "summary": "Sample helper library for AWS AppConfig",
+  "author": "Amazon Web Services",
+  "license": "OSI Approved (Apache-2.0)",
+  "home_page": "https://github.com/aws-samples/sample-python-helper-aws-appconfig",
+  "download_filename": "sample_helper_aws_appconfig-2.3.0.tar.gz",
+  "download_time": "2025-12-08T13:54:52.728138",
+  "package_url": "https://pypi.org/project/sample-helper-aws-appconfig/"
+}

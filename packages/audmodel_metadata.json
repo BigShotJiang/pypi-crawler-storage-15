@@ -1,0 +1,11 @@
+{
+  "name": "audmodel",
+  "version": "1.4.0",
+  "summary": "Publish and load models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "audmodel-1.4.0.tar.gz",
+  "download_time": "2025-12-08T13:54:25.415055",
+  "package_url": "https://pypi.org/project/audmodel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wypp",
+  "version": "2.1.2",
+  "summary": "A user-friendly python programming environment for beginners",
+  "author": "Stefan Wehr",
+  "license": null,
+  "home_page": "https://github.com/skogsbaer/write-your-python-program",
+  "download_filename": "wypp-2.1.2.tar.gz",
+  "download_time": "2025-12-08T13:54:13.034103",
+  "package_url": "https://pypi.org/project/wypp/"
+}

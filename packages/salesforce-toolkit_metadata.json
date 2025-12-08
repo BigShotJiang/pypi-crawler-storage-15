@@ -1,11 +1,11 @@
 {
   "name": "salesforce-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A comprehensive Python toolkit for Salesforce integration",
   "author": "Antonio Trento",
   "license": null,
   "home_page": "https://github.com/antonio-backend-projects/salesforce-toolkit",
-  "download_filename": "salesforce_toolkit-1.0.0.tar.gz",
-  "download_time": "2025-12-08T11:42:23.253374",
+  "download_filename": "salesforce_toolkit-1.0.1.tar.gz",
+  "download_time": "2025-12-08T13:54:44.433998",
   "package_url": "https://pypi.org/project/salesforce-toolkit/"
 }

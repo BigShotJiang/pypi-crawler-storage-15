@@ -1,11 +1,11 @@
 {
   "name": "fastest-asyncapi",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": null,
   "author": "Sergei Konik",
   "license": null,
   "home_page": null,
-  "download_filename": "fastest_asyncapi-0.1.2.tar.gz",
-  "download_time": "2025-12-08T07:54:10.360603",
+  "download_filename": "fastest_asyncapi-0.1.3-py3-none-any.whl",
+  "download_time": "2025-12-08T13:54:35.733543",
   "package_url": "https://pypi.org/project/fastest-asyncapi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "openflexure-stitching",
+  "version": "0.2.2",
+  "summary": "Stitch microscopy images together into large scans.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openflexure_stitching-0.2.2.tar.gz",
+  "download_time": "2025-12-08T13:54:20.208753",
+  "package_url": "https://pypi.org/project/openflexure-stitching/"
+}

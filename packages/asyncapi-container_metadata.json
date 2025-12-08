@@ -1,11 +1,11 @@
 {
   "name": "asyncapi-container",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": null,
   "author": "Sergei Konik",
   "license": null,
   "home_page": null,
-  "download_filename": "asyncapi_container-0.4.3.tar.gz",
-  "download_time": "2025-12-08T07:37:23.743579",
+  "download_filename": "asyncapi_container-0.4.4.tar.gz",
+  "download_time": "2025-12-08T13:54:27.471634",
   "package_url": "https://pypi.org/project/asyncapi-container/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vibeffmpeg",
+  "version": "0.1.0",
+  "summary": "FFmpeg made simple. Just type what you want.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vibeffmpeg-0.1.0.tar.gz",
+  "download_time": "2025-12-08T13:54:36.249414",
+  "package_url": "https://pypi.org/project/vibeffmpeg/"
+}
