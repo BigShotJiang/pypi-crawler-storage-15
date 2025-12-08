@@ -1,0 +1,11 @@
+{
+  "name": "owasp-dependency-track-cli",
+  "version": "1.0.10",
+  "summary": "Inofficial OWASP Dependency Track CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owasp_dependency_track_cli-1.0.10.tar.gz",
+  "download_time": "2025-12-08T11:53:44.025972",
+  "package_url": "https://pypi.org/project/owasp-dependency-track-cli/"
+}

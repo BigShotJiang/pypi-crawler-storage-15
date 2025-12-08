@@ -1,0 +1,11 @@
+{
+  "name": "skia-pathops",
+  "version": "0.9.1",
+  "summary": "Python access to operations on paths using the Skia library",
+  "author": "Khaled Hosny, Cosimo Lupo",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/fonttools/skia-pathops",
+  "download_filename": "skia_pathops-0.9.1-cp310-abi3-macosx_10_9_universal2.whl",
+  "download_time": "2025-12-08T11:53:19.223579",
+  "package_url": "https://pypi.org/project/skia-pathops/"
+}

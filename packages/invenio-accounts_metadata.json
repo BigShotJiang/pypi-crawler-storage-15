@@ -1,0 +1,11 @@
+{
+  "name": "invenio-accounts",
+  "version": "6.2.2",
+  "summary": "Invenio user management and authentication.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-accounts",
+  "download_filename": "invenio_accounts-6.2.2.tar.gz",
+  "download_time": "2025-12-08T11:53:20.761022",
+  "package_url": "https://pypi.org/project/invenio-accounts/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pret-pycrdt",
+  "version": "0.12.44.post2",
+  "summary": "Python bindings for Yrs, forked for Pret.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pret_pycrdt-0.12.44.post2.tar.gz",
+  "download_time": "2025-12-08T11:53:43.514540",
+  "package_url": "https://pypi.org/project/pret-pycrdt/"
+}
