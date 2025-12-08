@@ -1,0 +1,11 @@
+{
+  "name": "unique-swot",
+  "version": "1.0.0",
+  "summary": "Unique Swot package is a tool that for conducting a swot analysis based on internal and external documents",
+  "author": "Rami Azouz",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "unique_swot-1.0.0.tar.gz",
+  "download_time": "2025-12-08T08:58:34.346375",
+  "package_url": "https://pypi.org/project/unique-swot/"
+}

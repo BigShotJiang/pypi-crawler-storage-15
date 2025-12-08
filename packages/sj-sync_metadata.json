@@ -1,0 +1,11 @@
+{
+  "name": "sj-sync",
+  "version": "0.1.5",
+  "summary": "Real-time position synchronization for Shioaji",
+  "author": "yvictor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sj_sync-0.1.5.tar.gz",
+  "download_time": "2025-12-08T08:58:41.550138",
+  "package_url": "https://pypi.org/project/sj-sync/"
+}

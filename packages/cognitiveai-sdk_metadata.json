@@ -1,0 +1,11 @@
+{
+  "name": "cognitiveai-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for CognitiveAI API",
+  "author": "CognitiveAI Team",
+  "license": null,
+  "home_page": "https://github.com/cognitiveai/cognitiveai-python-sdk",
+  "download_filename": "cognitiveai_sdk-0.2.0.tar.gz",
+  "download_time": "2025-12-08T08:58:04.902106",
+  "package_url": "https://pypi.org/project/cognitiveai-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "azure-multiapi-storage",
+  "version": "1.6.0",
+  "summary": "Microsoft Azure Storage Client Library for Python with multi API version support.",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/Azure/azure-multiapi-storage-python",
+  "download_filename": "azure_multiapi_storage-1.6.0.tar.gz",
+  "download_time": "2025-12-08T08:58:32.794291",
+  "package_url": "https://pypi.org/project/azure-multiapi-storage/"
+}

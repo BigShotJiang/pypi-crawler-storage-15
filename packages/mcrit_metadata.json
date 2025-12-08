@@ -1,0 +1,11 @@
+{
+  "name": "mcrit",
+  "version": "1.4.3",
+  "summary": "MCRIT is a framework created for simplified application of the MinHash algorithm to code similarity.",
+  "author": "Daniel Plohmann, Manuel Blatt, Steffen Enders, Paul Hordiienko",
+  "license": "NU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/danielplohmann/mcrit",
+  "download_filename": "mcrit-1.4.3.tar.gz",
+  "download_time": "2025-12-08T08:58:20.442164",
+  "package_url": "https://pypi.org/project/mcrit/"
+}

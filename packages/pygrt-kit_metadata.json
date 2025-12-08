@@ -1,0 +1,11 @@
+{
+  "name": "pygrt-kit",
+  "version": "0.13.0",
+  "summary": "An Efficient and Integrated Python Package for Computing Synthetic Seismograms in a Layered Half-Space Model",
+  "author": "Zhu Dengda",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Dengda98/PyGRT",
+  "download_filename": "pygrt_kit-0.13.0-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-12-08T08:58:33.836005",
+  "package_url": "https://pypi.org/project/pygrt-kit/"
+}
