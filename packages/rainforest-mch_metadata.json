@@ -1,11 +1,11 @@
 {
   "name": "rainforest-mch",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "RandomForest QPE python library",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "rainforest_mch-1.5.2.tar.gz",
-  "download_time": "2025-12-08T15:12:20.071408",
+  "download_filename": "rainforest_mch-1.5.3.tar.gz",
+  "download_time": "2025-12-08T16:29:13.250575",
   "package_url": "https://pypi.org/project/rainforest-mch/"
 }

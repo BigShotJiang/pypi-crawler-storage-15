@@ -1,0 +1,11 @@
+{
+  "name": "clipmac",
+  "version": "1.0.0",
+  "summary": "clipmac is clipbard copy / paste tool ",
+  "author": "Peter Glen",
+  "license": null,
+  "home_page": "https://github.com/pglen/clipmac",
+  "download_filename": "clipmac-1.0.0.tar.gz",
+  "download_time": "2025-12-08T16:29:34.969171",
+  "package_url": "https://pypi.org/project/clipmac/"
+}

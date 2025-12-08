@@ -1,11 +1,11 @@
 {
   "name": "nightskycam-scorer",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Binary classifier for night-sky image quality (e.g. clear vs unsuitable).",
   "author": "Vincent Berenz",
   "license": null,
   "home_page": null,
-  "download_filename": "nightskycam_scorer-0.2.0.tar.gz",
-  "download_time": "2025-12-08T15:56:16.341380",
+  "download_filename": "nightskycam_scorer-0.2.1.tar.gz",
+  "download_time": "2025-12-08T16:29:18.410244",
   "package_url": "https://pypi.org/project/nightskycam-scorer/"
 }

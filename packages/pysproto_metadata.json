@@ -1,0 +1,11 @@
+{
+  "name": "pysproto",
+  "version": "0.1.9",
+  "summary": "python binding to sproto, a serialize library",
+  "author": "spin6lock",
+  "license": "MIT",
+  "home_page": "http://github.com/spin6lock/python-sproto",
+  "download_filename": "pysproto-0.1.9.tar.gz",
+  "download_time": "2025-12-08T16:29:31.340835",
+  "package_url": "https://pypi.org/project/pysproto/"
+}

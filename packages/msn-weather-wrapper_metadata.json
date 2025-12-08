@@ -1,11 +1,11 @@
 {
   "name": "msn-weather-wrapper",
-  "version": "1.9.2",
+  "version": "1.9.3",
   "summary": "A production-ready Python wrapper for MSN Weather with automatic versioning and CI/CD",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "msn_weather_wrapper-1.9.2.tar.gz",
-  "download_time": "2025-12-05T20:23:38.223757",
+  "download_filename": "msn_weather_wrapper-1.9.3.tar.gz",
+  "download_time": "2025-12-08T16:29:32.369747",
   "package_url": "https://pypi.org/project/msn-weather-wrapper/"
 }

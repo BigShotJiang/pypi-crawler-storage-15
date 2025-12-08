@@ -1,11 +1,11 @@
 {
   "name": "ringo-ik",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "Ringo –⁠ The Python Library for Kinematics-Driven Conformer Generation",
   "author": "Nikolai Krivoshchapov",
   "license": null,
   "home_page": null,
-  "download_filename": "ringo_ik-1.0.13.tar.gz",
-  "download_time": "2025-12-07T21:17:56.455945",
+  "download_filename": "ringo_ik-1.0.14.tar.gz",
+  "download_time": "2025-12-08T16:28:53.520734",
   "package_url": "https://pypi.org/project/ringo-ik/"
 }

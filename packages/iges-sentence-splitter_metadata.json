@@ -1,0 +1,11 @@
+{
+  "name": "iges-sentence-splitter",
+  "version": "0.2.0",
+  "summary": "A package for sentence splitting using a pre-trained transformer model.",
+  "author": "Kathryn Chapman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iges_sentence_splitter-0.2.0-py3-none-any.whl",
+  "download_time": "2025-12-08T16:28:47.793078",
+  "package_url": "https://pypi.org/project/iges-sentence-splitter/"
+}
