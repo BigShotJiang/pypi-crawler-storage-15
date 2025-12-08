@@ -1,0 +1,11 @@
+{
+  "name": "ripe.atlas.cousteau",
+  "version": "2.2.0",
+  "summary": "Python wrapper for RIPE Atlas API",
+  "author": "The RIPE Atlas Team",
+  "license": "GPLv3",
+  "home_page": "https://github.com/RIPE-NCC/ripe-atlas-cousteau",
+  "download_filename": "ripe_atlas_cousteau-2.2.0.tar.gz",
+  "download_time": "2025-12-08T11:42:37.899786",
+  "package_url": "https://pypi.org/project/ripe.atlas.cousteau/"
+}

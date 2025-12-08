@@ -1,0 +1,11 @@
+{
+  "name": "ncvue",
+  "version": "6.4.1",
+  "summary": "ncvue: A minimal GUI for a quick view of netcdf files, aiming to be a drop-in replacement for ncview and panoply",
+  "author": "Matthias Cuntz",
+  "license": "MIT",
+  "home_page": "https://github.com/mcuntz/ncvue",
+  "download_filename": "ncvue-6.4.1.tar.gz",
+  "download_time": "2025-12-08T11:43:13.686805",
+  "package_url": "https://pypi.org/project/ncvue/"
+}

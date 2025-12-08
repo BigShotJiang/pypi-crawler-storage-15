@@ -1,0 +1,11 @@
+{
+  "name": "onetl",
+  "version": "0.15.0",
+  "summary": "One ETL tool to rule them all",
+  "author": "MWS Data Bridge",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/MobileTeleSystems/onetl",
+  "download_filename": "onetl-0.15.0.tar.gz",
+  "download_time": "2025-12-08T11:43:14.862944",
+  "package_url": "https://pypi.org/project/onetl/"
+}

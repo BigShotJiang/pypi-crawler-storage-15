@@ -1,0 +1,11 @@
+{
+  "name": "tokenvault-sdk",
+  "version": "0.1.6",
+  "summary": "Python SDK for AI agents to track LLM usage and forward billing data to TokenVault",
+  "author": "TokenVault Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokenvault_sdk-0.1.6.tar.gz",
+  "download_time": "2025-12-08T11:42:40.399374",
+  "package_url": "https://pypi.org/project/tokenvault-sdk/"
+}

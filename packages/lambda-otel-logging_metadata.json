@@ -1,0 +1,11 @@
+{
+  "name": "lambda-otel-logging",
+  "version": "1.0.0",
+  "summary": "Python logging formatter that looks like OpenTelemetry logs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lambda_otel_logging-1.0.0.tar.gz",
+  "download_time": "2025-12-08T11:43:11.883051",
+  "package_url": "https://pypi.org/project/lambda-otel-logging/"
+}

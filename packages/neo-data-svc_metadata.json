@@ -1,11 +1,11 @@
 {
   "name": "neo-data-svc",
-  "version": "10.1.0",
+  "version": "10.2.0",
   "summary": "Data container",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "neo_data_svc-10.1.0-py3-none-any.whl",
-  "download_time": "2025-12-08T09:30:59.785646",
+  "download_filename": "neo_data_svc-10.2.0-py3-none-any.whl",
+  "download_time": "2025-12-08T11:42:21.951110",
   "package_url": "https://pypi.org/project/neo-data-svc/"
 }

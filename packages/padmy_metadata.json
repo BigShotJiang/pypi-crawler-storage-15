@@ -1,11 +1,11 @@
 {
   "name": "padmy",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "padmy-0.23.0.tar.gz",
-  "download_time": "2025-12-03T22:20:07.780140",
+  "download_filename": "padmy-0.24.0.tar.gz",
+  "download_time": "2025-12-08T11:42:42.915710",
   "package_url": "https://pypi.org/project/padmy/"
 }
