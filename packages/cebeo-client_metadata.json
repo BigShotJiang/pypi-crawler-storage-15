@@ -1,11 +1,11 @@
 {
   "name": "cebeo-client",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Python client for Cebeo B2B XML API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cebeo_client-0.3.0.tar.gz",
-  "download_time": "2025-12-08T14:24:25.865744",
+  "download_filename": "cebeo_client-0.4.0.tar.gz",
+  "download_time": "2025-12-08T16:55:52.053318",
   "package_url": "https://pypi.org/project/cebeo-client/"
 }
