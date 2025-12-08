@@ -1,0 +1,11 @@
+{
+  "name": "shiny-querynav",
+  "version": "0.1.0",
+  "summary": "A Py Shiny extension that synchronizes navigation components with URL search parameters",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shiny_querynav-0.1.0.tar.gz",
+  "download_time": "2025-12-08T07:54:27.994638",
+  "package_url": "https://pypi.org/project/shiny-querynav/"
+}
