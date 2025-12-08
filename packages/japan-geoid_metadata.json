@@ -1,0 +1,11 @@
+{
+  "name": "japan-geoid",
+  "version": "0.6.0",
+  "summary": "Calculate geoid heights for Japan using GSI's geoid model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "japan_geoid-0.6.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-08T11:06:25.770539",
+  "package_url": "https://pypi.org/project/japan-geoid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-cotton-bs5",
+  "version": "0.5.1",
+  "summary": "Bootstrap 5 components for use with Django Cotton.",
+  "author": "Sam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_cotton_bs5-0.5.1.tar.gz",
+  "download_time": "2025-12-08T11:06:35.045454",
+  "package_url": "https://pypi.org/project/django-cotton-bs5/"
+}

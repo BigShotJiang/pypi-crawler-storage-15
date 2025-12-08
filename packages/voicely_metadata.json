@@ -1,11 +1,11 @@
 {
   "name": "voicely",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "summary": "Voicely is a lightweight Python library that converts audio files → text and optionally translates the extracted text",
   "author": "AhMed",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "voicely-4.0.0.tar.gz",
-  "download_time": "2025-12-07T11:16:21.240827",
+  "download_filename": "voicely-5.0.0.tar.gz",
+  "download_time": "2025-12-08T11:06:10.669933",
   "package_url": "https://pypi.org/project/voicely/"
 }
