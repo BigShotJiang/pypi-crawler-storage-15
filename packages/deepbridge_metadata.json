@@ -1,0 +1,11 @@
+{
+  "name": "deepbridge",
+  "version": "0.1.60",
+  "summary": "DeepBridge: Framework for ML Model Validation and Knowledge Distillation",
+  "author": "Team DeepBridge",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepbridge-0.1.60.tar.gz",
+  "download_time": "2025-12-08T17:46:48.197164",
+  "package_url": "https://pypi.org/project/deepbridge/"
+}

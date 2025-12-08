@@ -1,11 +1,11 @@
 {
   "name": "speedhive-tools",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Utilities for the MyLaps Event Results API",
   "author": "Nathan Crosty",
   "license": "MIT",
   "home_page": "https://github.com/ncrosty58/speedhive-tools",
-  "download_filename": "speedhive_tools-0.1.5.tar.gz",
-  "download_time": "2025-12-08T07:37:37.207708",
+  "download_filename": "speedhive_tools-0.1.6.tar.gz",
+  "download_time": "2025-12-08T17:46:35.539700",
   "package_url": "https://pypi.org/project/speedhive-tools/"
 }

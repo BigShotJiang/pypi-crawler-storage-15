@@ -1,0 +1,11 @@
+{
+  "name": "pymctp-exerciser-aardvark",
+  "version": "0.2.5",
+  "summary": "Total Phase Aardvark I2C exerciser for pymctp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymctp_exerciser_aardvark-0.2.5-py3-none-any.whl",
+  "download_time": "2025-12-08T17:46:31.944186",
+  "package_url": "https://pypi.org/project/pymctp-exerciser-aardvark/"
+}

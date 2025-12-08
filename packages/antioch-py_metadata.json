@@ -1,11 +1,11 @@
 {
   "name": "antioch-py",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "The Antioch Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "antioch_py-2.2.2.tar.gz",
-  "download_time": "2025-12-08T01:28:31.411862",
+  "download_filename": "antioch_py-2.2.3.tar.gz",
+  "download_time": "2025-12-08T17:46:30.333246",
   "package_url": "https://pypi.org/project/antioch-py/"
 }

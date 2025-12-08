@@ -1,0 +1,11 @@
+{
+  "name": "functionsmith",
+  "version": "0.1.4",
+  "summary": "Functionsmith is a general-purpose problem-solving agent using dynamic function calling",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "functionsmith-0.1.4.tar.gz",
+  "download_time": "2025-12-08T17:46:53.436477",
+  "package_url": "https://pypi.org/project/functionsmith/"
+}

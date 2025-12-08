@@ -1,11 +1,11 @@
 {
   "name": "bible-ref-parser",
-  "version": "1.0.2",
+  "version": "1.0.21",
   "summary": "A high-accuracy Bible reference parser for messy or OCR-damaged text.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bible_ref_parser-1.0.2.tar.gz",
-  "download_time": "2025-12-08T13:54:34.698527",
+  "download_filename": "bible_ref_parser-1.0.21.tar.gz",
+  "download_time": "2025-12-08T17:46:58.101075",
   "package_url": "https://pypi.org/project/bible-ref-parser/"
 }

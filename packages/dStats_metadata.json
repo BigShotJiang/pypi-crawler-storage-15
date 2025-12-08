@@ -1,11 +1,11 @@
 {
   "name": "dStats",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A real-time web-based monitoring tool that provides performance stats for Docker containers and visualizes their network connectivity graph",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "dstats-1.0.5.tar.gz",
-  "download_time": "2025-12-08T17:22:06.235937",
+  "download_filename": "dstats-1.0.6.tar.gz",
+  "download_time": "2025-12-08T17:46:45.575062",
   "package_url": "https://pypi.org/project/dStats/"
 }

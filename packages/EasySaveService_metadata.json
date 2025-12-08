@@ -1,0 +1,11 @@
+{
+  "name": "EasySaveService",
+  "version": "0.2.3",
+  "summary": "EasySave service python library",
+  "author": "David Comor",
+  "license": null,
+  "home_page": "https://github.com/DavComo/EasySaveModule",
+  "download_filename": "easysaveservice-0.2.3.tar.gz",
+  "download_time": "2025-12-08T17:47:10.132638",
+  "package_url": "https://pypi.org/project/EasySaveService/"
+}

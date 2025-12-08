@@ -1,0 +1,11 @@
+{
+  "name": "pymctp-exerciser-qemu",
+  "version": "0.2.5",
+  "summary": "QEMU I2C/I3C exerciser for pymctp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymctp_exerciser_qemu-0.2.5.tar.gz",
+  "download_time": "2025-12-08T17:46:31.430508",
+  "package_url": "https://pypi.org/project/pymctp-exerciser-qemu/"
+}

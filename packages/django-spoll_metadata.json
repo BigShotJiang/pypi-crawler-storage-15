@@ -1,0 +1,11 @@
+{
+  "name": "django-spoll",
+  "version": "0.4.0",
+  "summary": "A Django app to conduct web-based soccer polls.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_spoll-0.4.0.tar.gz",
+  "download_time": "2025-12-08T17:46:25.699341",
+  "package_url": "https://pypi.org/project/django-spoll/"
+}

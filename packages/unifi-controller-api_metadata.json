@@ -1,0 +1,11 @@
+{
+  "name": "unifi-controller-api",
+  "version": "0.3.1",
+  "summary": "A Python library for interacting with the Unifi Controller API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unifi_controller_api-0.3.1.tar.gz",
+  "download_time": "2025-12-08T17:46:26.724275",
+  "package_url": "https://pypi.org/project/unifi-controller-api/"
+}

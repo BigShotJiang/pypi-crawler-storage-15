@@ -1,0 +1,11 @@
+{
+  "name": "ms-python-rust",
+  "version": "0.1.0",
+  "summary": "Tiny millisecond conversion utility for Python backed by Rust",
+  "author": "Jeremiah Barrar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ms_python_rust-0.1.0.tar.gz",
+  "download_time": "2025-12-08T17:46:38.729376",
+  "package_url": "https://pypi.org/project/ms-python-rust/"
+}

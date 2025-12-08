@@ -1,0 +1,11 @@
+{
+  "name": "jsm_asset",
+  "version": "0.1.2",
+  "summary": "A python-based interface to the JSM Asset API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsm_asset-0.1.2.tar.gz",
+  "download_time": "2025-12-08T17:46:38.216265",
+  "package_url": "https://pypi.org/project/jsm_asset/"
+}
