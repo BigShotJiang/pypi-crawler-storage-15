@@ -1,0 +1,11 @@
+{
+  "name": "open-data-contract-standard",
+  "version": "3.1.1",
+  "summary": "The Pydantic Model of the Open Data Contract Standard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_data_contract_standard-3.1.1.tar.gz",
+  "download_time": "2025-12-08T14:24:48.497770",
+  "package_url": "https://pypi.org/project/open-data-contract-standard/"
+}

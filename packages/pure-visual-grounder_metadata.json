@@ -1,0 +1,11 @@
+{
+  "name": "pure-visual-grounder",
+  "version": "1.0.4",
+  "summary": "A package for processing PDFs with vision-based language models",
+  "author": "Strategion",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pure_visual_grounder-1.0.4.tar.gz",
+  "download_time": "2025-12-08T14:24:38.031176",
+  "package_url": "https://pypi.org/project/pure-visual-grounder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ol-openedx-git-auto-export",
+  "version": "0.7.1",
+  "summary": "A plugin that auto saves the course OLX to git when an author publishes it",
+  "author": "MIT Office of Digital Learning",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ol_openedx_git_auto_export-0.7.1.tar.gz",
+  "download_time": "2025-12-08T14:24:38.541345",
+  "package_url": "https://pypi.org/project/ol-openedx-git-auto-export/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cadule",
+  "version": "0.0.1",
+  "summary": "A Python library that provides decorators for converting regular modules into callable modules",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "cadule-0.0.1.tar.gz",
+  "download_time": "2025-12-08T14:24:57.412952",
+  "package_url": "https://pypi.org/project/cadule/"
+}
