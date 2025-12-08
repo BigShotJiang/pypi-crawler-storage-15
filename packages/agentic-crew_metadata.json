@@ -1,0 +1,11 @@
+{
+  "name": "agentic-crew",
+  "version": "0.2.0",
+  "summary": "Framework-agnostic AI crew orchestration - declare once, run on CrewAI, LangGraph, or Strands",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentic_crew-0.2.0.tar.gz",
+  "download_time": "2025-12-08T04:48:52.223818",
+  "package_url": "https://pypi.org/project/agentic-crew/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "feature-engineering-tk",
+  "version": "2.2.0",
+  "summary": "A comprehensive Python toolkit for feature engineering and data analysis",
+  "author": "bluelion1999",
+  "license": "MIT",
+  "home_page": "https://github.com/bluelion1999/feature_engineering_tk",
+  "download_filename": "feature_engineering_tk-2.2.0.tar.gz",
+  "download_time": "2025-12-08T04:49:13.990024",
+  "package_url": "https://pypi.org/project/feature-engineering-tk/"
+}

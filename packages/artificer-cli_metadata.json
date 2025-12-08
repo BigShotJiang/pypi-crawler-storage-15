@@ -1,0 +1,11 @@
+{
+  "name": "artificer-cli",
+  "version": "0.1.0a1",
+  "summary": "A dynamic, modular command-line interface that auto-builds based on project configuration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "artificer_cli-0.1.0a1.tar.gz",
+  "download_time": "2025-12-08T04:48:46.168487",
+  "package_url": "https://pypi.org/project/artificer-cli/"
+}

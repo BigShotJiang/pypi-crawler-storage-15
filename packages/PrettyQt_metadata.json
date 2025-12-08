@@ -1,0 +1,11 @@
+{
+  "name": "PrettyQt",
+  "version": "1.59.4",
+  "summary": "A pythonic layer on top of PyQt6 / PySide6",
+  "author": "Philipp Temminghoff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prettyqt-1.59.4.tar.gz",
+  "download_time": "2025-12-08T04:49:08.015570",
+  "package_url": "https://pypi.org/project/PrettyQt/"
+}

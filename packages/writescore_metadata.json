@@ -1,11 +1,11 @@
 {
   "name": "writescore",
-  "version": "6.3.1",
+  "version": "6.3.2",
   "summary": "AI writing pattern analysis and scoring tool",
   "author": "BOHICA Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "writescore-6.3.1.tar.gz",
-  "download_time": "2025-12-08T03:10:12.475424",
+  "download_filename": "writescore-6.3.2.tar.gz",
+  "download_time": "2025-12-08T04:48:48.446001",
   "package_url": "https://pypi.org/project/writescore/"
 }

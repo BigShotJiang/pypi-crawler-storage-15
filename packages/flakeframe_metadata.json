@@ -1,11 +1,11 @@
 {
   "name": "flakeframe",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Command line weather app with a fancy map display",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flakeframe-0.1.2.tar.gz",
-  "download_time": "2025-12-04T08:15:57.252698",
+  "download_filename": "flakeframe-0.1.3.tar.gz",
+  "download_time": "2025-12-08T04:49:09.630474",
   "package_url": "https://pypi.org/project/flakeframe/"
 }

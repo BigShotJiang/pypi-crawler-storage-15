@@ -1,11 +1,11 @@
 {
   "name": "plankalkul",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Interpreter for Plankalkul, the first high-level programming language (Konrad Zuse, 1945)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "plankalkul-0.1.0.tar.gz",
-  "download_time": "2025-12-07T11:51:57.790698",
+  "download_filename": "plankalkul-0.2.0.tar.gz",
+  "download_time": "2025-12-08T04:49:10.724317",
   "package_url": "https://pypi.org/project/plankalkul/"
 }

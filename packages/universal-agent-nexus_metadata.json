@@ -1,11 +1,11 @@
 {
   "name": "universal-agent-nexus",
-  "version": "3.0.1",
+  "version": "3.2.0",
   "summary": "The Translation Layer: Compile Universal Agents to AWS, LangGraph, MCP, or UAA Kernel.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "universal_agent_nexus-3.0.1.tar.gz",
-  "download_time": "2025-12-07T17:33:51.635817",
+  "download_filename": "universal_agent_nexus-3.2.0.tar.gz",
+  "download_time": "2025-12-08T04:49:15.073412",
   "package_url": "https://pypi.org/project/universal-agent-nexus/"
 }

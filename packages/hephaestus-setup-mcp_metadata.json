@@ -1,0 +1,11 @@
+{
+  "name": "hephaestus-setup-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for setting up and managing Hephaestus Docker environment",
+  "author": "Hephaestus Community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hephaestus_setup_mcp-0.1.0.tar.gz",
+  "download_time": "2025-12-08T04:48:50.050894",
+  "package_url": "https://pypi.org/project/hephaestus-setup-mcp/"
+}
