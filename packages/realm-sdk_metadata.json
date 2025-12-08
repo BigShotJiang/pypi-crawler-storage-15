@@ -1,0 +1,11 @@
+{
+  "name": "realm-sdk",
+  "version": "0.1.1",
+  "summary": "Realm SDK - Observability and time-travel debugging for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "realm_sdk-0.1.1.tar.gz",
+  "download_time": "2025-12-08T04:05:26.913679",
+  "package_url": "https://pypi.org/project/realm-sdk/"
+}

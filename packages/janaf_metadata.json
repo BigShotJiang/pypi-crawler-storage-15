@@ -1,0 +1,11 @@
+{
+  "name": "janaf",
+  "version": "1.2.0",
+  "summary": "Python wrapper for NIST-JANAF Thermochemical Tables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "janaf-1.2.0.tar.gz",
+  "download_time": "2025-12-08T04:05:51.831317",
+  "package_url": "https://pypi.org/project/janaf/"
+}

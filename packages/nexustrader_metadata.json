@@ -1,11 +1,11 @@
 {
   "name": "nexustrader",
-  "version": "0.2.35",
+  "version": "0.2.36",
   "summary": "fastest python trading bot",
   "author": "River-Shi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexustrader-0.2.35.tar.gz",
-  "download_time": "2025-12-07T15:52:15.798624",
+  "download_filename": "nexustrader-0.2.36.tar.gz",
+  "download_time": "2025-12-08T04:06:12.394099",
   "package_url": "https://pypi.org/project/nexustrader/"
 }

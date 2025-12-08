@@ -1,0 +1,11 @@
+{
+  "name": "kiana",
+  "version": "1.0.0b1",
+  "summary": "Kiana Is A Neural Aligner. A toolkit for synchronizing, integrating, and analyzing heterogeneous neuroscience data (ephys, behaviors, etc.).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kiana-1.0.0b1.tar.gz",
+  "download_time": "2025-12-08T04:05:35.090139",
+  "package_url": "https://pypi.org/project/kiana/"
+}

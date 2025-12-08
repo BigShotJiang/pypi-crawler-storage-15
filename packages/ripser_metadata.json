@@ -1,0 +1,11 @@
+{
+  "name": "ripser",
+  "version": "0.6.14",
+  "summary": "A Lean Persistent Homology Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ripser-0.6.14.tar.gz",
+  "download_time": "2025-12-08T04:06:11.814032",
+  "package_url": "https://pypi.org/project/ripser/"
+}

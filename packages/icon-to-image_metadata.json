@@ -1,11 +1,11 @@
 {
   "name": "icon-to-image",
-  "version": "0.1.1",
-  "summary": "Fast Font Awesome icon to image renderer with Python bindings",
+  "version": "0.1.4",
+  "summary": "Fast and high quality Font Awesome icon to image renderer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "icon_to_image-0.1.1-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-08T03:10:09.822957",
+  "download_filename": "icon_to_image-0.1.4-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-08T04:05:33.309780",
   "package_url": "https://pypi.org/project/icon-to-image/"
 }

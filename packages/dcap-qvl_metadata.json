@@ -1,11 +1,11 @@
 {
   "name": "dcap-qvl",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Python bindings for DCAP (Data Center Attestation Primitives) quote verification library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcap_qvl-0.3.4.tar.gz",
-  "download_time": "2025-12-07T13:15:28.772822",
+  "download_filename": "dcap_qvl-0.3.5.tar.gz",
+  "download_time": "2025-12-08T04:06:15.356736",
   "package_url": "https://pypi.org/project/dcap-qvl/"
 }

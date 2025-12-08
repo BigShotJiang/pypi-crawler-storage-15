@@ -1,0 +1,11 @@
+{
+  "name": "midigen-lib",
+  "version": "1.0.0",
+  "summary": "High-level, theory-powered MIDI generation library",
+  "author": "cainky",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "midigen_lib-1.0.0.tar.gz",
+  "download_time": "2025-12-08T04:06:09.429562",
+  "package_url": "https://pypi.org/project/midigen-lib/"
+}

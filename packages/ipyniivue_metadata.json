@@ -1,0 +1,11 @@
+{
+  "name": "ipyniivue",
+  "version": "2.4.4",
+  "summary": "A Jupyter Widget for Niivue based on anywidget.",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "ipyniivue-2.4.4.tar.gz",
+  "download_time": "2025-12-08T04:06:07.703672",
+  "package_url": "https://pypi.org/project/ipyniivue/"
+}

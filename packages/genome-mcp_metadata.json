@@ -1,0 +1,11 @@
+{
+  "name": "genome-mcp",
+  "version": "0.2.6",
+  "summary": "Genome MCP server - 优化版本：智能基因组数据访问",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genome_mcp-0.2.6.tar.gz",
+  "download_time": "2025-12-08T04:06:14.177687",
+  "package_url": "https://pypi.org/project/genome-mcp/"
+}

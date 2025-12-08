@@ -1,0 +1,11 @@
+{
+  "name": "coordinate-system",
+  "version": "6.0.5",
+  "summary": "High-performance 3D coordinate system library with unified differential geometry, quantum frame algebra, spectral transforms, and professional curvature visualization",
+  "author": "PanGuoJun",
+  "license": "MIT",
+  "home_page": "https://github.com/panguojun/Coordinate-System",
+  "download_filename": "coordinate_system-6.0.5.tar.gz",
+  "download_time": "2025-12-08T04:05:39.553496",
+  "package_url": "https://pypi.org/project/coordinate-system/"
+}
