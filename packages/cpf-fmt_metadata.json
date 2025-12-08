@@ -1,0 +1,11 @@
+{
+  "name": "cpf-fmt",
+  "version": "1.0.0",
+  "summary": "Utility function to format CNPJ (Brazilian personal ID)",
+  "author": "Julio L. Muller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpf_fmt-1.0.0.tar.gz",
+  "download_time": "2025-12-08T15:12:21.802198",
+  "package_url": "https://pypi.org/project/cpf-fmt/"
+}

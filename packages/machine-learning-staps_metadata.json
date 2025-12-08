@@ -1,0 +1,11 @@
+{
+  "name": "machine-learning-staps",
+  "version": "0.1.1",
+  "summary": "Bibliothèque de fonctions pour le cours de machine learning du STAPS de Reims",
+  "author": "Yvan Pavlov",
+  "license": "STAPS",
+  "home_page": null,
+  "download_filename": "machine_learning_staps-0.1.1.tar.gz",
+  "download_time": "2025-12-08T15:12:10.634375",
+  "package_url": "https://pypi.org/project/machine-learning-staps/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "camera-ui-common",
-  "version": "1.0.8",
+  "version": "1.0.12",
   "summary": "camera.ui python utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "camera_ui_common-1.0.8.tar.gz",
-  "download_time": "2025-12-08T14:24:33.303822",
+  "download_filename": "camera_ui_common-1.0.12.tar.gz",
+  "download_time": "2025-12-08T15:12:33.950573",
   "package_url": "https://pypi.org/project/camera-ui-common/"
 }

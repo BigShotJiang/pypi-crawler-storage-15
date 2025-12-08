@@ -1,11 +1,11 @@
 {
   "name": "DensityFlow",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "Generative additive model for single cell perturbation",
   "author": "Feng Zeng",
   "license": null,
   "home_page": "https://github.com/ZengFLab/DensityFlow",
-  "download_filename": "densityflow-1.0.3.tar.gz",
-  "download_time": "2025-12-07T16:23:45.143511",
+  "download_filename": "densityflow-1.0.6.tar.gz",
+  "download_time": "2025-12-08T15:12:08.905061",
   "package_url": "https://pypi.org/project/DensityFlow/"
 }

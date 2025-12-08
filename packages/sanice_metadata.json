@@ -1,11 +1,11 @@
 {
   "name": "sanice",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Biblioteca fluente para Data Science ágil (ETL, AutoML e Plotting).",
   "author": "wSanice",
   "license": null,
   "home_page": "https://github.com/wSanice/sanice",
-  "download_filename": "sanice-1.0.1.tar.gz",
-  "download_time": "2025-12-08T01:28:19.429174",
+  "download_filename": "sanice-1.0.4.tar.gz",
+  "download_time": "2025-12-08T15:12:11.833803",
   "package_url": "https://pypi.org/project/sanice/"
 }

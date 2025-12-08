@@ -1,11 +1,11 @@
 {
   "name": "pav3",
-  "version": "3.0.0.dev13",
+  "version": "3.0.0.dev14",
   "summary": "Assembly-based variant discovery",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pav3-3.0.0.dev13.tar.gz",
-  "download_time": "2025-12-05T20:45:35.678804",
+  "download_filename": "pav3-3.0.0.dev14.tar.gz",
+  "download_time": "2025-12-08T15:12:40.303083",
   "package_url": "https://pypi.org/project/pav3/"
 }

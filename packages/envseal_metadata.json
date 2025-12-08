@@ -1,0 +1,11 @@
+{
+  "name": "envseal",
+  "version": "1.1.0",
+  "summary": "Encrypt sensitive values in environment files using AES-GCM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "envseal-1.1.0.tar.gz",
+  "download_time": "2025-12-08T15:12:07.170228",
+  "package_url": "https://pypi.org/project/envseal/"
+}

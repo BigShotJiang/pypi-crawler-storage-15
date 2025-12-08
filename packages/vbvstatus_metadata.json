@@ -1,0 +1,11 @@
+{
+  "name": "vbvstatus",
+  "version": "0.1.0",
+  "summary": "A command-line tool and library for checking VBV status and performing BIN lookups.",
+  "author": "@unik_xd",
+  "license": null,
+  "home_page": "https://github.com/GunYamazakii/vbvstatus-pypi",
+  "download_filename": "vbvstatus-0.1.0.tar.gz",
+  "download_time": "2025-12-08T15:12:41.546550",
+  "package_url": "https://pypi.org/project/vbvstatus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ytplaylist-downloader",
+  "version": "0.1.4",
+  "summary": "A lightweight CLI tool to download audio from YouTube playlists",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ytplaylist_downloader-0.1.4.tar.gz",
+  "download_time": "2025-12-08T15:12:03.759918",
+  "package_url": "https://pypi.org/project/ytplaylist-downloader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geodatasets",
+  "version": "2025.12.0",
+  "summary": "Spatial data examples",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "geodatasets-2025.12.0.tar.gz",
+  "download_time": "2025-12-08T15:12:04.895399",
+  "package_url": "https://pypi.org/project/geodatasets/"
+}
