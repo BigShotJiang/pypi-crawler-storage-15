@@ -1,0 +1,11 @@
+{
+  "name": "kickcat",
+  "version": "2.4rc0",
+  "summary": "Thin EtherCAT stack designed to be embedded in a more complex software.",
+  "author": null,
+  "license": "CeCILL-C",
+  "home_page": null,
+  "download_filename": "kickcat-2.4rc0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-08T12:43:56.118752",
+  "package_url": "https://pypi.org/project/kickcat/"
+}

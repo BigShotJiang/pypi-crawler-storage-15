@@ -1,0 +1,11 @@
+{
+  "name": "monocle-mcp",
+  "version": "0.7.0",
+  "summary": "Monocle MCP server: prompts and tools for enabling and analyzing Monocle tracing in GenAI apps.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "monocle_mcp-0.7.0.tar.gz",
+  "download_time": "2025-12-08T12:44:09.013767",
+  "package_url": "https://pypi.org/project/monocle-mcp/"
+}

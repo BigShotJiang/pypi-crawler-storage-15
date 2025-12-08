@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy_exasol",
+  "version": "6.0.0",
+  "summary": "EXASOL dialect for SQLAlchemy",
+  "author": "Exasol AG",
+  "license": "BSD",
+  "home_page": "https://www.exasol.com/",
+  "download_filename": "sqlalchemy_exasol-6.0.0.tar.gz",
+  "download_time": "2025-12-08T12:43:49.212241",
+  "package_url": "https://pypi.org/project/sqlalchemy_exasol/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "drux",
+  "version": "0.3",
+  "summary": "Drux: Drug Release Analysis Framework",
+  "author": "Drux Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/openscilab/drux",
+  "download_filename": "drux-0.3.tar.gz",
+  "download_time": "2025-12-08T12:44:27.876454",
+  "package_url": "https://pypi.org/project/drux/"
+}

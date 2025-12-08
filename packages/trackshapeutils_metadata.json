@@ -1,0 +1,11 @@
+{
+  "name": "trackshapeutils",
+  "version": "0.5.0b3",
+  "summary": "A collection of utilities for modifying existing MSTS/ORTS track shapes.",
+  "author": "Peter Grønbæk Andersen",
+  "license": "GNU GPL v3",
+  "home_page": null,
+  "download_filename": "trackshapeutils-0.5.0b3.tar.gz",
+  "download_time": "2025-12-08T12:44:19.360307",
+  "package_url": "https://pypi.org/project/trackshapeutils/"
+}

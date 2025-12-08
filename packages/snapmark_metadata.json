@@ -1,11 +1,11 @@
 {
   "name": "snapmark",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Python library for automated DXF file marking and manipulation to engrave your cut files",
   "author": "Federico Sidraschi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snapmark-2.0.4.tar.gz",
-  "download_time": "2025-12-07T13:38:11.637051",
+  "download_filename": "snapmark-2.0.5.tar.gz",
+  "download_time": "2025-12-08T12:44:16.550650",
   "package_url": "https://pypi.org/project/snapmark/"
 }

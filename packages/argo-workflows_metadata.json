@@ -1,0 +1,11 @@
+{
+  "name": "argo-workflows",
+  "version": "6.6.14",
+  "summary": "Argo Workflows API",
+  "author": "OpenAPI Generator community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "argo_workflows-6.6.14.tar.gz",
+  "download_time": "2025-12-08T12:44:27.301262",
+  "package_url": "https://pypi.org/project/argo-workflows/"
+}

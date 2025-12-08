@@ -1,0 +1,11 @@
+{
+  "name": "bigblackboxprotobuf",
+  "version": "1.0.2",
+  "summary": "Library for reading protobuf buffers without .proto definitions",
+  "author": "Yogesh Khatri",
+  "license": "MIT License",
+  "home_page": "https://github.com/15yoDungeonMaster/blackboxprotobuf",
+  "download_filename": "bigblackboxprotobuf-1.0.2.tar.gz",
+  "download_time": "2025-12-08T12:44:11.341489",
+  "package_url": "https://pypi.org/project/bigblackboxprotobuf/"
+}

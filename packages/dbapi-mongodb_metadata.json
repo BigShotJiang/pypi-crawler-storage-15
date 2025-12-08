@@ -1,11 +1,11 @@
 {
   "name": "dbapi-mongodb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "DBAPI-style adapter that translates SQL (JOIN/DDL/aggregations) into MongoDB operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbapi_mongodb-0.1.0.tar.gz",
-  "download_time": "2025-12-07T14:19:35.397264",
+  "download_filename": "dbapi_mongodb-0.1.1.tar.gz",
+  "download_time": "2025-12-08T12:43:50.949149",
   "package_url": "https://pypi.org/project/dbapi-mongodb/"
 }

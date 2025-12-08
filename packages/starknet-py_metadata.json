@@ -1,0 +1,11 @@
+{
+  "name": "starknet-py",
+  "version": "0.29.0",
+  "summary": "A python SDK for Starknet",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "starknet_py-0.29.0.tar.gz",
+  "download_time": "2025-12-08T12:44:06.164627",
+  "package_url": "https://pypi.org/project/starknet-py/"
+}

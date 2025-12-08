@@ -1,0 +1,11 @@
+{
+  "name": "ff-storage",
+  "version": "4.5.0",
+  "summary": "Fenixflow storage package with Pydantic ORM, temporal data management, and state-based schema sync",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ff_storage-4.5.0.tar.gz",
+  "download_time": "2025-12-08T12:44:31.259287",
+  "package_url": "https://pypi.org/project/ff-storage/"
+}
