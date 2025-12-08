@@ -1,11 +1,11 @@
 {
   "name": "SocatLib",
-  "version": "1.0.0",
-  "summary": "A Python library for network communication using socat",
-  "author": "Your Name",
+  "version": "2.0.0",
+  "summary": "Async Python library for network communication using socat",
+  "author": "ash404.dev",
   "license": null,
-  "home_page": "https://github.com/yourname/socat_lib",
-  "download_filename": "socatlib-1.0.0.tar.gz",
-  "download_time": "2025-12-07T15:18:51.595147",
+  "home_page": "https://github.com/yourname/SocatLib",
+  "download_filename": "socatlib-2.0.0.tar.gz",
+  "download_time": "2025-12-08T09:54:14.471278",
   "package_url": "https://pypi.org/project/SocatLib/"
 }

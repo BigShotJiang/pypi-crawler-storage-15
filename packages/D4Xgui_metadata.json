@@ -1,0 +1,11 @@
+{
+  "name": "D4Xgui",
+  "version": "1.0.2",
+  "summary": "Processing app for mass-spectrometric CO₂ clumped isotope (∆₄₇, ∆₄₈, ∆₄₉) data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "d4xgui-1.0.2.tar.gz",
+  "download_time": "2025-12-08T09:54:10.831408",
+  "package_url": "https://pypi.org/project/D4Xgui/"
+}

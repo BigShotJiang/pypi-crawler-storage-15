@@ -1,0 +1,11 @@
+{
+  "name": "hdf5_vds_check",
+  "version": "1.1",
+  "summary": "Check access to the source files of virtual datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hdf5_vds_check-1.1.tar.gz",
+  "download_time": "2025-12-08T09:53:51.833905",
+  "package_url": "https://pypi.org/project/hdf5_vds_check/"
+}

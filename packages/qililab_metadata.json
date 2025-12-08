@@ -1,11 +1,11 @@
 {
   "name": "qililab",
-  "version": "0.30.0",
+  "version": "0.30.1",
   "summary": "Fundamental package for fast characterization and calibration of quantum chips.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qililab-0.30.0.tar.gz",
-  "download_time": "2025-12-05T08:27:51.796145",
+  "download_filename": "qililab-0.30.1.tar.gz",
+  "download_time": "2025-12-08T09:54:02.364301",
   "package_url": "https://pypi.org/project/qililab/"
 }

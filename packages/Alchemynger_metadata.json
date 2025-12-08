@@ -1,0 +1,11 @@
+{
+  "name": "Alchemynger",
+  "version": "0.2.2",
+  "summary": "Simple SQLAlchemy connector manager.",
+  "author": "Resheba",
+  "license": null,
+  "home_page": "https://github.com/Resheba/Alchemynger",
+  "download_filename": "alchemynger-0.2.2.tar.gz",
+  "download_time": "2025-12-08T09:54:13.412945",
+  "package_url": "https://pypi.org/project/Alchemynger/"
+}

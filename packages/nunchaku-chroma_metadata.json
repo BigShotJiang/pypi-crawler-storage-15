@@ -1,11 +1,11 @@
 {
   "name": "nunchaku-chroma",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Chroma model support for Nunchaku - quantized inference for diffusion models",
   "author": "spooknik",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nunchaku_chroma-0.1.2.tar.gz",
-  "download_time": "2025-12-08T09:31:14.374581",
+  "download_filename": "nunchaku_chroma-0.1.3.tar.gz",
+  "download_time": "2025-12-08T09:54:07.065877",
   "package_url": "https://pypi.org/project/nunchaku-chroma/"
 }

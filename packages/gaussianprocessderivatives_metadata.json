@@ -1,0 +1,11 @@
+{
+  "name": "gaussianprocessderivatives",
+  "version": "0.1.68",
+  "summary": "Uses Gaussian processes to smooth data and estimate first- and second-order derivatives",
+  "author": "Peter Swain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gaussianprocessderivatives-0.1.68.tar.gz",
+  "download_time": "2025-12-08T09:53:44.830238",
+  "package_url": "https://pypi.org/project/gaussianprocessderivatives/"
+}
