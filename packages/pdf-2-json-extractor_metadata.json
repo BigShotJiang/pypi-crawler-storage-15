@@ -1,0 +1,11 @@
+{
+  "name": "pdf-2-json-extractor",
+  "version": "1.0.0",
+  "summary": "A high-performance PDF to JSON extraction library with layout-aware text extraction",
+  "author": "Rushi Balapure",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/your-username/pdf_2_json_extractor",
+  "download_filename": "pdf_2_json_extractor-1.0.0.tar.gz",
+  "download_time": "2025-12-08T07:04:02.463380",
+  "package_url": "https://pypi.org/project/pdf-2-json-extractor/"
+}

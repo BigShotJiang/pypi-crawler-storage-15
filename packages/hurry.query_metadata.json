@@ -1,0 +1,11 @@
+{
+  "name": "hurry.query",
+  "version": "5.1",
+  "summary": "Higher level query system for zope.catalog.",
+  "author": "Infrae",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/hurry.query",
+  "download_filename": "hurry_query-5.1.tar.gz",
+  "download_time": "2025-12-08T07:03:50.664810",
+  "package_url": "https://pypi.org/project/hurry.query/"
+}

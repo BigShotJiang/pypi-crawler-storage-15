@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-08T06:36:10.726385
-- **Total Packages**: 90
-- **Total Size**: 19.08 MB
+- **Download Time**: 2025-12-08T07:04:25.905490
+- **Total Packages**: 87
+- **Total Size**: 15.45 MB
 
 ## Packages List
+- unique_toolkit
+- kavachnet
+- devloop
+- buchi-cli
+- py3-weixin-utils
+- huawei-solar
+- algorand-python-testing
+- funcy-bear
+- owui-client
+- karini-mcp-server
+- marqetive-lib
+- minimal-activitypub
+- pylon-cli
+- pyxbrain
+- mcp-server-builder
+- act-operator
+- ert
+- factpulse
+- phantomwright
+- hurry.query
+- lexsiai
+- spikard
+- aicoding-backend
+- hello-world-20251208
+- redis-command-generator
+- sui-lang
+- qufit
+- weblaunch
+- pdd-cli
+- clippy-code
+- zai-sdk
+- webscout
+- ieee-gui
+- semantics.py3
+- vacmap-index
+- mltoolhub
+- bookletssg
+- zeed-guilib
+- ruuvitag-sensor
+- debugtwin-cli
+- part2pop
+- femagtools
+- pdf-2-json-extractor
+- anytraverse
+- figchain
+- amp-instrumentation
+- zaojun
+- byebye-docs-mcp
+- vvdutils
+- mworks-sysplorer
+- memax
+- lyapprove
+- ampyhula
+- mmsw
+- apathetic-utils
+- ali-ops
 - hypertic
 - manticoresearch
 - agex
@@ -14,11 +70,9 @@
 - fund-optimizer
 - yta-editor
 - mcp-liner
-- debugtwin-cli
 - jacksung
 - langchain-dev-utils
 - icol
-- spikard
 - chipdriver
 - unfazed
 - mctech-discovery
@@ -29,7 +83,6 @@
 - pyassi
 - autogen-vertexai-memory
 - mctech-actuator
-- bookletssg
 - layeredlearning
 - agentrun-sdk
 - mctech-core
@@ -37,62 +90,6 @@
 - Jarvis-Brain
 - wmain-api
 - ncw
-- zeed-guilib
 - linzt-scrna-test-2
 - agentic-workstation
 - sqltidy
-- pyscreeps-arena
-- easy-use-tools
-- miunlock
-- fhirschemapy
-- github-copilot-chat-exporter
-- pyside-cli
-- lidb
-- aldera
-- klondike-spec-cli
-- rapid-kit
-- UtilityLibAPI
-- planc
-- kuaijs-ios
-- sparecores-runner
-- pyg-nightly
-- amp-instrumentation
-- structurize
-- avrotize
-- pybuildtools
-- caistro
-- porkbun-ddns
-- wmain
-- capinvest-alpha-vantage
-- capinvest-platform-api
-- capinvest-mcp-server
-- capinvest-technical
-- capinvest-regulators
-- capinvest-quantitative
-- langchain-scrapingbee
-- capinvest-news
-- capinvest-index
-- capinvest-fixedincome
-- capinvest-etf
-- capinvest-equity
-- devgenius-mcp-client
-- capinvest-economy
-- capinvest-econometrics
-- capinvest-derivatives
-- qctrl-client
-- capinvest-currency
-- mmsw
-- capinvest-crypto
-- capinvest-commodity
-- pqsdk
-- wmain-mail
-- capinvest-cli
-- flowtools-zxt
-- couchers
-- vibego
-- capinvest
-- kuojingyueyi-api
-- finance-chatbot
-- wisent
-- aocd-example-parser
-- air

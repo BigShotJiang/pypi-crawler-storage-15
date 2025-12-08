@@ -1,0 +1,11 @@
+{
+  "name": "anytraverse",
+  "version": "1.0.8",
+  "summary": "Offroad Traversability Segmentation with VLM and Human in the Loop",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anytraverse-1.0.8.tar.gz",
+  "download_time": "2025-12-08T07:04:02.984382",
+  "package_url": "https://pypi.org/project/anytraverse/"
+}

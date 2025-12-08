@@ -1,0 +1,11 @@
+{
+  "name": "redis-command-generator",
+  "version": "0.7.8.post1",
+  "summary": "Commands generator for Redis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "redis_command_generator-0.7.8.post1.tar.gz",
+  "download_time": "2025-12-08T07:03:53.228217",
+  "package_url": "https://pypi.org/project/redis-command-generator/"
+}
