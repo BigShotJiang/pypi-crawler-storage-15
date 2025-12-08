@@ -1,11 +1,11 @@
 {
   "name": "wmain",
-  "version": "3.0.3",
+  "version": "3.0.6",
   "summary": "wmain 生态统一入口",
   "author": "wmain@wyn.wiki",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wmain-3.0.3.tar.gz",
-  "download_time": "2025-12-08T05:47:47.514714",
+  "download_filename": "wmain-3.0.6.tar.gz",
+  "download_time": "2025-12-08T06:35:52.988117",
   "package_url": "https://pypi.org/project/wmain/"
 }

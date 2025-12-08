@@ -1,0 +1,11 @@
+{
+  "name": "capinvest-cli",
+  "version": "1.0.3",
+  "summary": "Investment Research for Everyone, Anywhere.",
+  "author": "zbz Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "capinvest_cli-1.0.3.tar.gz",
+  "download_time": "2025-12-08T06:36:05.501020",
+  "package_url": "https://pypi.org/project/capinvest-cli/"
+}

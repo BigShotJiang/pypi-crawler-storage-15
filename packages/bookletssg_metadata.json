@@ -1,11 +1,11 @@
 {
   "name": "bookletssg",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "minimal ssg for blogs & articles",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bookletssg-0.2.0.tar.gz",
-  "download_time": "2025-12-08T04:48:55.444666",
+  "download_filename": "bookletssg-0.2.1.tar.gz",
+  "download_time": "2025-12-08T06:35:35.364929",
   "package_url": "https://pypi.org/project/bookletssg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "capinvest-index",
+  "version": "1.0.5",
+  "summary": "Index router extension for CapInvest",
+  "author": "zbz Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "capinvest_index-1.0.5.tar.gz",
+  "download_time": "2025-12-08T06:35:57.781584",
+  "package_url": "https://pypi.org/project/capinvest-index/"
+}

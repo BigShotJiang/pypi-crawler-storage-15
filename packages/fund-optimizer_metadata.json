@@ -1,0 +1,11 @@
+{
+  "name": "fund-optimizer",
+  "version": "0.1.0",
+  "summary": "A package for fund optimization using QUBO",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/fund_optimizer",
+  "download_filename": "fund_optimizer-0.1.0.tar.gz",
+  "download_time": "2025-12-08T06:35:25.584375",
+  "package_url": "https://pypi.org/project/fund-optimizer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "debugtwin-cli",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "DebugTwin Copilot CLI - AI-powered firmware debugging assistant",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "debugtwin_cli-1.0.2.tar.gz",
-  "download_time": "2025-12-08T05:47:48.543289",
+  "download_filename": "debugtwin_cli-1.0.5.tar.gz",
+  "download_time": "2025-12-08T06:35:27.143739",
   "package_url": "https://pypi.org/project/debugtwin-cli/"
 }

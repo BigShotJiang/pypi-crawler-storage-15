@@ -1,0 +1,11 @@
+{
+  "name": "capinvest-economy",
+  "version": "1.0.5",
+  "summary": "Economy router extension for CapInvest",
+  "author": "zbz Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "capinvest_economy-1.0.5.tar.gz",
+  "download_time": "2025-12-08T06:36:00.332751",
+  "package_url": "https://pypi.org/project/capinvest-economy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "klondike-spec-cli",
-  "version": "0.2.9",
+  "version": "0.2.11",
   "summary": "CLI tool for managing Klondike Spec agent workflow artifacts",
   "author": "Thomas Rohde",
   "license": null,
   "home_page": null,
-  "download_filename": "klondike_spec_cli-0.2.9.tar.gz",
-  "download_time": "2025-12-08T05:47:54.705413",
+  "download_filename": "klondike_spec_cli-0.2.11.tar.gz",
+  "download_time": "2025-12-08T06:35:45.611555",
   "package_url": "https://pypi.org/project/klondike-spec-cli/"
 }

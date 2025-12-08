@@ -1,0 +1,11 @@
+{
+  "name": "manticoresearch",
+  "version": "10.0.1",
+  "summary": "Manticore Search Client",
+  "author": "Manticore Software Ltd.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "manticoresearch-10.0.1.tar.gz",
+  "download_time": "2025-12-08T06:35:23.530128",
+  "package_url": "https://pypi.org/project/manticoresearch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "capinvest-technical",
+  "version": "1.0.5",
+  "summary": "Technical Analysis router extension for CapInvest",
+  "author": "zbz Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "capinvest_technical-1.0.5.tar.gz",
+  "download_time": "2025-12-08T06:35:55.042596",
+  "package_url": "https://pypi.org/project/capinvest-technical/"
+}

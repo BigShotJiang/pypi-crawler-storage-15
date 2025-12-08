@@ -1,0 +1,11 @@
+{
+  "name": "lyzr-kit",
+  "version": "0.2.2",
+  "summary": "Python SDK for managing AI agents, tools, and features via the Lyzr platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lyzr_kit-0.2.2.tar.gz",
+  "download_time": "2025-12-08T06:35:25.072943",
+  "package_url": "https://pypi.org/project/lyzr-kit/"
+}
