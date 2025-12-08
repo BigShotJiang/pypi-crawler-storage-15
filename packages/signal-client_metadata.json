@@ -1,0 +1,11 @@
+{
+  "name": "signal-client",
+  "version": "0.1.6",
+  "summary": "Async Python framework for resilient Signal bots. Build fast on `bbernhard/signal-cli-rest-api` with typed helpers, resilient ingestion, and observability baked in.",
+  "author": "cornellsh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "signal_client-0.1.6.tar.gz",
+  "download_time": "2025-12-08T13:26:20.546098",
+  "package_url": "https://pypi.org/project/signal-client/"
+}

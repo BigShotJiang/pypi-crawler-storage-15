@@ -1,0 +1,11 @@
+{
+  "name": "generic-exporters",
+  "version": "0.0.13",
+  "summary": "A lightweight library that provides generic data export helpers so I can deduplicate code across my various projects.",
+  "author": "BobTheBuidler",
+  "license": "MIT",
+  "home_page": "https://github.com/BobTheBuidler/generic_exporters",
+  "download_filename": "generic_exporters-0.0.13.tar.gz",
+  "download_time": "2025-12-08T13:26:35.411060",
+  "package_url": "https://pypi.org/project/generic-exporters/"
+}

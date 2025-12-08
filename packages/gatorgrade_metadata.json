@@ -1,0 +1,11 @@
+{
+  "name": "gatorgrade",
+  "version": "0.8.2",
+  "summary": "GatorGrade executes GatorGrader checks!",
+  "author": "Michael Abraham",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gatorgrade-0.8.2.tar.gz",
+  "download_time": "2025-12-08T13:26:37.014262",
+  "package_url": "https://pypi.org/project/gatorgrade/"
+}

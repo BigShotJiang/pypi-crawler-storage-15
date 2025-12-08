@@ -1,0 +1,11 @@
+{
+  "name": "Flask-Multipass",
+  "version": "0.11",
+  "summary": "A pluggable solution for multi-backend authentication with Flask",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_multipass-0.11.tar.gz",
+  "download_time": "2025-12-08T13:26:32.766405",
+  "package_url": "https://pypi.org/project/Flask-Multipass/"
+}

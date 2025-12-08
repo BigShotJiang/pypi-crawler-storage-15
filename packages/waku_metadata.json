@@ -1,11 +1,11 @@
 {
   "name": "waku",
-  "version": "0.26.0",
+  "version": "0.26.1",
   "summary": "Framework for building modular and loosely coupled applications",
   "author": "Daniil Kharkov, Doctor",
   "license": null,
   "home_page": null,
-  "download_filename": "waku-0.26.0.tar.gz",
-  "download_time": "2025-12-08T08:32:07.955342",
+  "download_filename": "waku-0.26.1.tar.gz",
+  "download_time": "2025-12-08T13:26:11.678860",
   "package_url": "https://pypi.org/project/waku/"
 }

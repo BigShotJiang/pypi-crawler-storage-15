@@ -1,0 +1,11 @@
+{
+  "name": "agentai",
+  "version": "0.1.3",
+  "summary": "A Python client for the Agent.ai API",
+  "author": "Andrei Oprisan",
+  "license": null,
+  "home_page": "https://github.com/OnStartups/python_sdk",
+  "download_filename": "agentai-0.1.3.tar.gz",
+  "download_time": "2025-12-08T13:26:15.334322",
+  "package_url": "https://pypi.org/project/agentai/"
+}
