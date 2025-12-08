@@ -1,0 +1,11 @@
+{
+  "name": "skk",
+  "version": "2025.12.8",
+  "summary": "本项目封装了一些Python开发中常用的功能，帮助你更高效地开发应用。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skk-2025.12.8.tar.gz",
+  "download_time": "2025-12-08T03:10:19.652392",
+  "package_url": "https://pypi.org/project/skk/"
+}

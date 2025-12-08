@@ -1,0 +1,11 @@
+{
+  "name": "jws-voice-assistant",
+  "version": "1.0.2",
+  "summary": "智能语音助手系统 - 类似钢铁侠中的贾维斯（JARVIS）",
+  "author": "Jws Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/jws",
+  "download_filename": "jws_voice_assistant-1.0.2.tar.gz",
+  "download_time": "2025-12-08T03:09:58.074789",
+  "package_url": "https://pypi.org/project/jws-voice-assistant/"
+}

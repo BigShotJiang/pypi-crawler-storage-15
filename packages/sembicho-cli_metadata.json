@@ -1,0 +1,11 @@
+{
+  "name": "sembicho-cli",
+  "version": "2.6.5",
+  "summary": "SAST + SBOM (CycloneDX/SPDX) + CVE Scanning (OSV/Safety/NVD) - Análisis de seguridad empresarial completo",
+  "author": "SemBicho Team",
+  "license": null,
+  "home_page": "https://github.com/Claudio-Barrios-83/sembicho-cli",
+  "download_filename": "sembicho_cli-2.6.5.tar.gz",
+  "download_time": "2025-12-08T03:10:23.879946",
+  "package_url": "https://pypi.org/project/sembicho-cli/"
+}

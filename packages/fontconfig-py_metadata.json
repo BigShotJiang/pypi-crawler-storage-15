@@ -1,0 +1,11 @@
+{
+  "name": "fontconfig-py",
+  "version": "0.4.0",
+  "summary": "Python bindings to fontconfig",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fontconfig_py-0.4.0-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-12-08T03:09:58.626106",
+  "package_url": "https://pypi.org/project/fontconfig-py/"
+}

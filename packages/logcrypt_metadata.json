@@ -1,0 +1,11 @@
+{
+  "name": "logcrypt",
+  "version": "1.1.0",
+  "summary": "Secure Python logging with RC4 encryption",
+  "author": "dileatshicat",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "logcrypt-1.1.0-py3-none-manylinux1_x86_64.whl",
+  "download_time": "2025-12-08T03:10:00.232129",
+  "package_url": "https://pypi.org/project/logcrypt/"
+}
