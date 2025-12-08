@@ -1,11 +1,11 @@
 {
   "name": "flagright",
-  "version": "1.8.29",
+  "version": "1.8.30",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flagright-1.8.29.tar.gz",
-  "download_time": "2025-12-04T11:51:29.697902",
+  "download_filename": "flagright-1.8.30.tar.gz",
+  "download_time": "2025-12-08T09:31:04.904145",
   "package_url": "https://pypi.org/project/flagright/"
 }

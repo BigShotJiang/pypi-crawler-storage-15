@@ -1,0 +1,11 @@
+{
+  "name": "filltex",
+  "version": "1.7.4",
+  "summary": "Automatic queries to ADS and InSPIRE databases to fill LATEX bibliography",
+  "author": "Davide Gerosa and Michele Vallisneri",
+  "license": "MIT",
+  "home_page": "https://github.com/dgerosa/filltex",
+  "download_filename": "filltex-1.7.4.tar.gz",
+  "download_time": "2025-12-08T09:31:32.403141",
+  "package_url": "https://pypi.org/project/filltex/"
+}

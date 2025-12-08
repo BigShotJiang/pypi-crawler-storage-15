@@ -1,0 +1,11 @@
+{
+  "name": "async-lru-threadsafe",
+  "version": "2.0.5",
+  "summary": "A faster fork of async-lru: Simple threadsafe LRU cache for asyncio. Implemented in C.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": "https://github.com/aio-libs/async-lru",
+  "download_filename": "async_lru_threadsafe-2.0.5.tar.gz",
+  "download_time": "2025-12-08T09:31:29.330425",
+  "package_url": "https://pypi.org/project/async-lru-threadsafe/"
+}

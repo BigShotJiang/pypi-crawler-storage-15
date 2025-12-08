@@ -1,0 +1,11 @@
+{
+  "name": "numerapi",
+  "version": "2.21.0",
+  "summary": "Automatically download and upload data for the Numerai machine learning competition",
+  "author": null,
+  "license": "MIT License",
+  "home_page": "https://github.com/uuazed/numerapi",
+  "download_filename": "numerapi-2.21.0.tar.gz",
+  "download_time": "2025-12-08T09:31:41.776435",
+  "package_url": "https://pypi.org/project/numerapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flowyml",
+  "version": "1.5.0",
+  "summary": "Next-Generation ML Pipeline Framework",
+  "author": "flowyml Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/UnicoLab/FlowyML",
+  "download_filename": "flowyml-1.5.0.tar.gz",
+  "download_time": "2025-12-08T09:31:02.848569",
+  "package_url": "https://pypi.org/project/flowyml/"
+}

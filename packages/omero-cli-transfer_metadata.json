@@ -1,0 +1,11 @@
+{
+  "name": "omero-cli-transfer",
+  "version": "1.3.1",
+  "summary": "A set of utilities for exporting a transfer packet from an OMERO server and importing it in a different server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omero_cli_transfer-1.3.1.tar.gz",
+  "download_time": "2025-12-08T09:31:23.145593",
+  "package_url": "https://pypi.org/project/omero-cli-transfer/"
+}
