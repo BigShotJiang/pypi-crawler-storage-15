@@ -1,0 +1,11 @@
+{
+  "name": "flexget",
+  "version": "3.18.30",
+  "summary": "FlexGet is a program aimed to automate downloading or processing content (torrents, podcasts, etc.) from different sources like RSS-feeds, html-pages, various sites and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flexget-3.18.30.tar.gz",
+  "download_time": "2025-12-08T15:46:25.866088",
+  "package_url": "https://pypi.org/project/flexget/"
+}

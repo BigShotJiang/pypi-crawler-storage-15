@@ -1,0 +1,11 @@
+{
+  "name": "medaka",
+  "version": "2.2.0",
+  "summary": "Neural network sequence error correction.",
+  "author": "ont-research",
+  "license": null,
+  "home_page": "https://github.com/nanoporetech/medaka",
+  "download_filename": "medaka-2.2.0.tar.gz",
+  "download_time": "2025-12-08T15:46:12.933669",
+  "package_url": "https://pypi.org/project/medaka/"
+}

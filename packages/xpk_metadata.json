@@ -1,0 +1,11 @@
+{
+  "name": "xpk",
+  "version": "0.17.0",
+  "summary": "xpk helps Cloud developers to orchestrate training jobs on accelerators on GKE.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xpk-0.17.0.tar.gz",
+  "download_time": "2025-12-08T15:46:27.923032",
+  "package_url": "https://pypi.org/project/xpk/"
+}

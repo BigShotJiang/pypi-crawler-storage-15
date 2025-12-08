@@ -1,0 +1,11 @@
+{
+  "name": "smartjob",
+  "version": "0.0.34",
+  "summary": "Little async python library for dealing with GCP/Cloud Run Jobs, GCP/Cloud Batch Jobs, GCP/VertexAI CustomJobs and (local) Docker jobs",
+  "author": "Fabien MARTY",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartjob-0.0.34.tar.gz",
+  "download_time": "2025-12-08T15:46:09.759110",
+  "package_url": "https://pypi.org/project/smartjob/"
+}

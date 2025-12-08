@@ -1,0 +1,11 @@
+{
+  "name": "ol-openedx-chat",
+  "version": "0.5.3",
+  "summary": "An Open edX plugin to add Open Learning AI chat aside to xBlocks",
+  "author": "MIT Office of Digital Learning",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ol_openedx_chat-0.5.3.tar.gz",
+  "download_time": "2025-12-08T15:45:48.585556",
+  "package_url": "https://pypi.org/project/ol-openedx-chat/"
+}

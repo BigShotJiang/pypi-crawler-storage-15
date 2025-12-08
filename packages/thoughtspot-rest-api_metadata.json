@@ -1,0 +1,11 @@
+{
+  "name": "thoughtspot-rest-api",
+  "version": "2.0.2",
+  "summary": "Library implementing ThoughtSpot REST API V2.0 and V1",
+  "author": "Bryant Howell",
+  "license": "MIT",
+  "home_page": "https://github.com/thoughtspot/thoughtspot_rest_api",
+  "download_filename": "thoughtspot_rest_api-2.0.2.tar.gz",
+  "download_time": "2025-12-08T15:46:01.020271",
+  "package_url": "https://pypi.org/project/thoughtspot-rest-api/"
+}

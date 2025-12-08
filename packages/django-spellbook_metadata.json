@@ -1,11 +1,11 @@
 {
   "name": "django-spellbook",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A Django library for creating and managing content blocks in markdown for developers and bloggers",
   "author": "Mathew Storm",
   "license": "MIT",
   "home_page": "https://github.com/smattymatty/django_spellbook",
-  "download_filename": "django_spellbook-0.1.17.tar.gz",
-  "download_time": "2025-12-06T21:18:03.257337",
+  "download_filename": "django_spellbook-0.1.18.tar.gz",
+  "download_time": "2025-12-08T15:45:49.100741",
   "package_url": "https://pypi.org/project/django-spellbook/"
 }

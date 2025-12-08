@@ -1,0 +1,11 @@
+{
+  "name": "pyarmor",
+  "version": "9.2.2",
+  "summary": "A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.",
+  "author": "Jondy Zhao",
+  "license": "Free To Use But Restricted",
+  "home_page": "https://github.com/dashingsoft/pyarmor",
+  "download_filename": "pyarmor-9.2.2.tar.gz",
+  "download_time": "2025-12-08T15:46:24.296615",
+  "package_url": "https://pypi.org/project/pyarmor/"
+}

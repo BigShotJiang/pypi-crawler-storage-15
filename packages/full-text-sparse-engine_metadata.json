@@ -1,11 +1,11 @@
 {
   "name": "full-text-sparse-engine",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": null,
   "author": "Carlo Moro",
   "license": null,
   "home_page": null,
-  "download_filename": "full_text_sparse_engine-0.2.1.tar.gz",
-  "download_time": "2025-12-04T01:26:07.532534",
+  "download_filename": "full_text_sparse_engine-0.3.0.tar.gz",
+  "download_time": "2025-12-08T15:45:59.487546",
   "package_url": "https://pypi.org/project/full-text-sparse-engine/"
 }

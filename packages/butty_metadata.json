@@ -1,0 +1,11 @@
+{
+  "name": "butty",
+  "version": "1.0.1",
+  "summary": "Lightweight fully typed ODM (Object-Document Mapper) for MongoDB",
+  "author": "aovsyannikov",
+  "license": "MIT",
+  "home_page": "https://github.com/AntonOvsyannikov/Butty",
+  "download_filename": "butty-1.0.1.tar.gz",
+  "download_time": "2025-12-08T15:45:44.469325",
+  "package_url": "https://pypi.org/project/butty/"
+}

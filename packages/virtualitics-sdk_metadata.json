@@ -1,0 +1,11 @@
+{
+  "name": "virtualitics-sdk",
+  "version": "1.45.0",
+  "summary": "Virtualitics SDK (stubs-only wheel)",
+  "author": "Virtualitics Engineering",
+  "license": null,
+  "home_page": null,
+  "download_filename": "virtualitics_sdk-1.45.0-py3-none-any.whl",
+  "download_time": "2025-12-08T15:46:27.409793",
+  "package_url": "https://pypi.org/project/virtualitics-sdk/"
+}

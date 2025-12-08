@@ -1,0 +1,11 @@
+{
+  "name": "pyphewas-package",
+  "version": "0.3.0b0",
+  "summary": "CLI tool to run a PheWAS",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyphewas_package-0.3.0b0.tar.gz",
+  "download_time": "2025-12-08T15:45:52.192352",
+  "package_url": "https://pypi.org/project/pyphewas-package/"
+}
