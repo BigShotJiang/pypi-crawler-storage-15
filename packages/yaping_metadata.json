@@ -1,0 +1,11 @@
+{
+  "name": "yaping",
+  "version": "0.2.0",
+  "summary": "ping library",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "yaping-0.2.0.tar.gz",
+  "download_time": "2025-12-08T05:23:23.163800",
+  "package_url": "https://pypi.org/project/yaping/"
+}

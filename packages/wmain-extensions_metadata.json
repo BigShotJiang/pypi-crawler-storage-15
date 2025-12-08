@@ -1,0 +1,11 @@
+{
+  "name": "wmain-extensions",
+  "version": "0.1.0",
+  "summary": "wmain 扩展包, 仅作为其他模块例如 fastapi, sqlalchemy等的扩展,不影响wmain的使用",
+  "author": "wmain-extensions@wyn.wiki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wmain_extensions-0.1.0.tar.gz",
+  "download_time": "2025-12-08T05:23:26.851870",
+  "package_url": "https://pypi.org/project/wmain-extensions/"
+}

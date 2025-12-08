@@ -1,0 +1,11 @@
+{
+  "name": "wmain-mail",
+  "version": "0.1.1",
+  "summary": "wmain 邮件包, 支持smtp, email等",
+  "author": "wmain-mail@wyn.wiki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wmain_mail-0.1.1.tar.gz",
+  "download_time": "2025-12-08T05:23:23.682779",
+  "package_url": "https://pypi.org/project/wmain-mail/"
+}

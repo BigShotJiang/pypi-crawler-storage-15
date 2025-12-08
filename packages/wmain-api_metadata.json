@@ -1,0 +1,11 @@
+{
+  "name": "wmain-api",
+  "version": "0.1.0",
+  "summary": "wmain 负责封装网络请求的包, 支持 123pan, 阿里云, 云码, 超级鹰等",
+  "author": "wmain-api@wyn.wiki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wmain_api-0.1.0.tar.gz",
+  "download_time": "2025-12-08T05:23:21.079443",
+  "package_url": "https://pypi.org/project/wmain-api/"
+}
