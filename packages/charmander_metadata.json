@@ -1,0 +1,11 @@
+{
+  "name": "charmander",
+  "version": "0.2.0",
+  "summary": "Convert between Polars schemas and PySpark schemas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "charmander-0.2.0.tar.gz",
+  "download_time": "2025-12-08T01:28:18.852782",
+  "package_url": "https://pypi.org/project/charmander/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trialflow-agro",
+  "version": "0.0.1",
+  "summary": "A lightweight, reproducible workflow template for analyzing on-farm agricultural trials.",
+  "author": "Gnaneswara (Akhil) Marupilla",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trialflow_agro-0.0.1.tar.gz",
+  "download_time": "2025-12-08T01:27:55.152735",
+  "package_url": "https://pypi.org/project/trialflow-agro/"
+}

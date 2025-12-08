@@ -1,0 +1,11 @@
+{
+  "name": "s3lfs",
+  "version": "0.1.0",
+  "summary": "A Python-based version control system for large assets using Amazon S3.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "s3lfs-0.1.0.tar.gz",
+  "download_time": "2025-12-08T01:28:07.119465",
+  "package_url": "https://pypi.org/project/s3lfs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "caema-utils",
-  "version": "0.1.4",
-  "summary": "System Dependency Manager - A collection of reusable Python modules for AI services",
+  "version": "0.2.0",
+  "summary": "A collection of reusable Python modules for AI services",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "caema_utils-0.1.4.tar.gz",
-  "download_time": "2025-12-04T08:15:39.553206",
+  "download_filename": "caema_utils-0.2.0.tar.gz",
+  "download_time": "2025-12-08T01:28:23.932612",
   "package_url": "https://pypi.org/project/caema-utils/"
 }

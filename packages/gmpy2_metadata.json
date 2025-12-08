@@ -1,0 +1,11 @@
+{
+  "name": "gmpy2",
+  "version": "2.2.2",
+  "summary": "gmpy2 interface to GMP, MPFR, and MPC for Python 3.7+",
+  "author": "Alex Martelli, Case Van Horsen",
+  "license": "LGPL-3.0+",
+  "home_page": null,
+  "download_filename": "gmpy2-2.2.2.tar.gz",
+  "download_time": "2025-12-08T01:28:04.802386",
+  "package_url": "https://pypi.org/project/gmpy2/"
+}

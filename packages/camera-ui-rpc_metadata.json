@@ -1,0 +1,11 @@
+{
+  "name": "camera-ui-rpc",
+  "version": "1.0.0",
+  "summary": "RPC Client for camera.ui",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "camera_ui_rpc-1.0.0.tar.gz",
+  "download_time": "2025-12-08T01:28:17.109882",
+  "package_url": "https://pypi.org/project/camera-ui-rpc/"
+}

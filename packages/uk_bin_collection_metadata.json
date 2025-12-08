@@ -1,11 +1,11 @@
 {
   "name": "uk_bin_collection",
-  "version": "0.162.2",
+  "version": "0.162.5",
   "summary": "Python Lib to collect UK Bin Data",
   "author": "Robert Bradley",
   "license": null,
   "home_page": null,
-  "download_filename": "uk_bin_collection-0.162.2.tar.gz",
-  "download_time": "2025-12-07T23:41:06.810411",
+  "download_filename": "uk_bin_collection-0.162.5.tar.gz",
+  "download_time": "2025-12-08T01:28:03.008217",
   "package_url": "https://pypi.org/project/uk_bin_collection/"
 }

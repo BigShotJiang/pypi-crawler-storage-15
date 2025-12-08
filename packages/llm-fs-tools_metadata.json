@@ -1,0 +1,11 @@
+{
+  "name": "llm-fs-tools",
+  "version": "1.0.0",
+  "summary": "Production-ready filesystem access tools for LLMs with TOCTOU protection",
+  "author": "Daniel T Sasser II",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_fs_tools-1.0.0.tar.gz",
+  "download_time": "2025-12-08T01:28:24.509054",
+  "package_url": "https://pypi.org/project/llm-fs-tools/"
+}

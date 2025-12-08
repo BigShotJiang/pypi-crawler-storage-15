@@ -1,0 +1,11 @@
+{
+  "name": "torch-fbm",
+  "version": "0.1.0",
+  "summary": "Fractional Brownian motion and related processes in PyTorch",
+  "author": "Ivan Habib",
+  "license": null,
+  "home_page": "https://github.com/Coder9872/torch-fbm",
+  "download_filename": "torch_fbm-0.1.0.tar.gz",
+  "download_time": "2025-12-08T01:28:18.273746",
+  "package_url": "https://pypi.org/project/torch-fbm/"
+}
