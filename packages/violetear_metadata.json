@@ -1,11 +1,11 @@
 {
   "name": "violetear",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Full-Stack Web Development Framework for Pythonistas",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "violetear-1.2.2.tar.gz",
-  "download_time": "2025-12-07T19:29:42.377471",
+  "download_filename": "violetear-1.2.3.tar.gz",
+  "download_time": "2025-12-08T17:22:17.285791",
   "package_url": "https://pypi.org/project/violetear/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "RsInstrument",
+  "version": "1.122.0",
+  "summary": "VISA or Socket Communication Module for Rohde & Schwarz Instruments",
+  "author": "Rohde & Schwarz GmbH & Co. KG",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsinstrument-1.122.0.tar.gz",
+  "download_time": "2025-12-08T17:22:01.204787",
+  "package_url": "https://pypi.org/project/RsInstrument/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "invenio-oaiserver",
+  "version": "3.7.4",
+  "summary": "\"Invenio module that implements OAI-PMH server.\"",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-oaiserver",
+  "download_filename": "invenio_oaiserver-3.7.4.tar.gz",
+  "download_time": "2025-12-08T17:22:23.031534",
+  "package_url": "https://pypi.org/project/invenio-oaiserver/"
+}

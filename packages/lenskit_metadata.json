@@ -1,0 +1,11 @@
+{
+  "name": "lenskit",
+  "version": "2025.6.2",
+  "summary": "Toolkit for recommender systems research, teaching, and more.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lenskit-2025.6.2.tar.gz",
+  "download_time": "2025-12-08T17:22:35.247614",
+  "package_url": "https://pypi.org/project/lenskit/"
+}

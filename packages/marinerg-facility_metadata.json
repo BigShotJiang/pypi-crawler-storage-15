@@ -1,11 +1,11 @@
 {
   "name": "marinerg-facility",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Common elements of the Marinerg Access Portal infrastructure.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "marinerg_facility-0.0.10.tar.gz",
-  "download_time": "2025-12-03T14:48:18.198654",
+  "download_filename": "marinerg_facility-0.0.11.tar.gz",
+  "download_time": "2025-12-08T17:22:26.276326",
   "package_url": "https://pypi.org/project/marinerg-facility/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "databallpy",
+  "version": "0.7.2",
+  "summary": "A package for loading, preprocessing, vizualising and synchronizing soccere event and tracking data.",
+  "author": "Alexander Oonk",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/databallpy/",
+  "download_filename": "databallpy-0.7.2.tar.gz",
+  "download_time": "2025-12-08T17:22:43.547495",
+  "package_url": "https://pypi.org/project/databallpy/"
+}

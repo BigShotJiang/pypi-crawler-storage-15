@@ -1,11 +1,11 @@
 {
   "name": "fid-mcp",
-  "version": "0.1.10",
+  "version": "0.1.13",
   "summary": "MCP Server for serving configurable Fid toolkits",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fid_mcp-0.1.10.tar.gz",
-  "download_time": "2025-12-06T14:52:05.222089",
+  "download_filename": "fid_mcp-0.1.13.tar.gz",
+  "download_time": "2025-12-08T17:22:23.675249",
   "package_url": "https://pypi.org/project/fid-mcp/"
 }

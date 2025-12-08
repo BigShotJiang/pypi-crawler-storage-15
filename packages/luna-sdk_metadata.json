@@ -1,0 +1,11 @@
+{
+  "name": "luna-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the Eclipse Softworks Platform API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "luna_sdk-1.0.0.tar.gz",
+  "download_time": "2025-12-08T17:22:04.293931",
+  "package_url": "https://pypi.org/project/luna-sdk/"
+}
