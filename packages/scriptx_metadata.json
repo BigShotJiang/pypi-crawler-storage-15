@@ -1,0 +1,11 @@
+{
+  "name": "scriptx",
+  "version": "0.1.4",
+  "summary": "A lightweight manager for PEP 723 Python scripts - install, run, update, and manage standalone scripts with isolated environments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scriptx-0.1.4.tar.gz",
+  "download_time": "2025-12-08T08:31:50.189714",
+  "package_url": "https://pypi.org/project/scriptx/"
+}

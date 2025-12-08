@@ -1,0 +1,11 @@
+{
+  "name": "deribit-py",
+  "version": "0.1.0",
+  "summary": "A complete async Python client for Deribit Options Market (REST & WebSocket)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deribit_py-0.1.0.tar.gz",
+  "download_time": "2025-12-08T08:32:05.810285",
+  "package_url": "https://pypi.org/project/deribit-py/"
+}

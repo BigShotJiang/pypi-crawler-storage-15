@@ -1,11 +1,11 @@
 {
   "name": "gnss-dsp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Digital Signal Processing algorithms for GNSS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gnss_dsp-0.2.0.tar.gz",
-  "download_time": "2025-12-04T11:40:46.823462",
+  "download_filename": "gnss_dsp-0.2.1.tar.gz",
+  "download_time": "2025-12-08T08:31:48.618275",
   "package_url": "https://pypi.org/project/gnss-dsp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vha-toolbox",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "My personal Python toolbox",
   "author": "Victor Hachard",
   "license": "MIT",
   "home_page": "https://github.com/VictorHachard/vha-toolbox",
-  "download_filename": "vha_toolbox-0.0.14.tar.gz",
-  "download_time": "2025-12-06T06:51:33.501599",
+  "download_filename": "vha_toolbox-0.0.15.tar.gz",
+  "download_time": "2025-12-08T08:31:46.362669",
   "package_url": "https://pypi.org/project/vha-toolbox/"
 }

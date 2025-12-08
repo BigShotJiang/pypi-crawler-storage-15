@@ -1,11 +1,11 @@
 {
   "name": "nullfox",
-  "version": "0.3.0",
-  "summary": "NullFox Encryption Tool + Loader",
-  "author": "NullF0X",
-  "license": null,
+  "version": "0.4.0",
+  "summary": "A Python toolkit for encrypting and loading Lua scripts (XOR & Base64 engine)",
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "nullfox-0.3.0.tar.gz",
-  "download_time": "2025-12-06T19:16:47.840159",
+  "download_filename": "nullfox-0.4.0.tar.gz",
+  "download_time": "2025-12-08T08:31:52.864947",
   "package_url": "https://pypi.org/project/nullfox/"
 }

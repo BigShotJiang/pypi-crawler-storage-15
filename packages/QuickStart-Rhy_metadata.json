@@ -1,11 +1,11 @@
 {
   "name": "QuickStart-Rhy",
-  "version": "0.7.58",
+  "version": "0.7.59",
   "summary": "A Command Line Toolbox",
   "author": "'RhythmLian'",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quickstart_rhy-0.7.58.tar.gz",
-  "download_time": "2025-12-08T07:54:28.638311",
+  "download_filename": "quickstart_rhy-0.7.59.tar.gz",
+  "download_time": "2025-12-08T08:31:50.713480",
   "package_url": "https://pypi.org/project/QuickStart-Rhy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "botoease",
+  "version": "0.0.6",
+  "summary": "A smart file storage handler for Local and AWS S3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "botoease-0.0.6.tar.gz",
+  "download_time": "2025-12-08T08:32:06.875189",
+  "package_url": "https://pypi.org/project/botoease/"
+}

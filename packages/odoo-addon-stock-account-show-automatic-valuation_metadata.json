@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-account-show-automatic-valuation",
+  "version": "18.0.1.0.0.2",
+  "summary": "Allow automatic valuation for stock moves in community edition",
+  "author": "INVITU,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_account_show_automatic_valuation-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-08T08:31:37.493303",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-account-show-automatic-valuation/"
+}
