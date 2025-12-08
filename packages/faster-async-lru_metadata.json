@@ -1,0 +1,11 @@
+{
+  "name": "faster-async-lru",
+  "version": "2.0.5.1",
+  "summary": "A faster fork of async-lru: Simple LRU cache for asyncio. Written in Python and compiled to C using mypyc.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": "https://github.com/aio-libs/async-lru",
+  "download_filename": "faster_async_lru-2.0.5.1.tar.gz",
+  "download_time": "2025-12-08T07:37:24.316821",
+  "package_url": "https://pypi.org/project/faster-async-lru/"
+}

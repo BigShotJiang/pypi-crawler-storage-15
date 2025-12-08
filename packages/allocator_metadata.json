@@ -1,0 +1,11 @@
+{
+  "name": "allocator",
+  "version": "1.1.0",
+  "summary": "Modern Python package for geographic task allocation, clustering, and routing optimization",
+  "author": "Suriyan Laohaprapanon, Gaurav Sood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "allocator-1.1.0.tar.gz",
+  "download_time": "2025-12-08T07:37:29.479209",
+  "package_url": "https://pypi.org/project/allocator/"
+}

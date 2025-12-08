@@ -1,0 +1,11 @@
+{
+  "name": "npbcharger",
+  "version": "1.0.0",
+  "summary": "A driver and service layer for the Mean Well NPB-1700 CAN bus charger.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "npbcharger-1.0.0.tar.gz",
+  "download_time": "2025-12-08T07:37:49.609985",
+  "package_url": "https://pypi.org/project/npbcharger/"
+}

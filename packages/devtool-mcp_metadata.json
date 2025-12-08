@@ -1,11 +1,11 @@
 {
   "name": "devtool-mcp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "MCP server providing development tooling capabilities - project detection, process management, reverse proxy with frontend diagnostics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devtool_mcp-0.3.0.tar.gz",
-  "download_time": "2025-12-08T05:23:43.118167",
+  "download_filename": "devtool_mcp-0.3.1.tar.gz",
+  "download_time": "2025-12-08T07:37:58.392547",
   "package_url": "https://pypi.org/project/devtool-mcp/"
 }

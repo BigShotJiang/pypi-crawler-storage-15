@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-rdsai20250507",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Alibaba Cloud RdsAi (20250507) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_rdsai20250507-2.0.0.tar.gz",
-  "download_time": "2025-12-05T04:36:35.007689",
+  "download_filename": "alibabacloud_rdsai20250507-2.0.1.tar.gz",
+  "download_time": "2025-12-08T07:37:58.908167",
   "package_url": "https://pypi.org/project/alibabacloud-rdsai20250507/"
 }

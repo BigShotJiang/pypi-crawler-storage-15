@@ -1,0 +1,11 @@
+{
+  "name": "quantum-metal",
+  "version": "0.5.1",
+  "summary": "Quantum Metal (formerly Qiskit Metal): superconducting quantum device design toolkit.",
+  "author": "Qiskit Metal Development Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Qiskit/qiskit-metal",
+  "download_filename": "quantum_metal-0.5.1.tar.gz",
+  "download_time": "2025-12-08T07:37:48.075619",
+  "package_url": "https://pypi.org/project/quantum-metal/"
+}

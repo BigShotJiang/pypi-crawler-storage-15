@@ -1,0 +1,11 @@
+{
+  "name": "torchrec",
+  "version": "1.4.0",
+  "summary": "TorchRec: Pytorch library for recommendation systems",
+  "author": "TorchRec Team",
+  "license": "BSD-3",
+  "home_page": "https://github.com/meta-pytorch/torchrec",
+  "download_filename": "torchrec-1.4.0-py310-none-any.whl",
+  "download_time": "2025-12-08T07:37:38.753991",
+  "package_url": "https://pypi.org/project/torchrec/"
+}

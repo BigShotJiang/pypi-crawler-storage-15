@@ -1,11 +1,11 @@
 {
   "name": "ncuhep",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "summary": "NCU High Energy Physics tools for muography and related analysis.",
   "author": "Phay Kah Seng",
   "license": "NCUHEP Research License (see LICENSE)",
   "home_page": null,
-  "download_filename": "ncuhep-0.2.16.tar.gz",
-  "download_time": "2025-12-08T04:48:43.511604",
+  "download_filename": "ncuhep-0.2.17.tar.gz",
+  "download_time": "2025-12-08T07:38:03.580098",
   "package_url": "https://pypi.org/project/ncuhep/"
 }
