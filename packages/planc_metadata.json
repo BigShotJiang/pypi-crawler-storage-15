@@ -1,11 +1,11 @@
 {
   "name": "planc",
-  "version": "0.1.7",
+  "version": "0.0.1.dev20251208230149",
   "summary": "Add your description here",
   "author": "Chen Peng",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "planc-0.1.7.tar.gz",
-  "download_time": "2025-12-08T12:43:56.692617",
+  "download_filename": "planc-0.0.1.dev20251208230149.tar.gz",
+  "download_time": "2025-12-08T15:23:31.107189",
   "package_url": "https://pypi.org/project/planc/"
 }

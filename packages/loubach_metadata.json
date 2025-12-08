@@ -1,0 +1,11 @@
+{
+  "name": "loubach",
+  "version": "1.0",
+  "summary": "A Python toolkit for quantitative market analysis",
+  "author": "Phillip Korolev",
+  "license": "MIT",
+  "home_page": "https://github.com/p-korolev/Loubach",
+  "download_filename": "loubach-1.0.tar.gz",
+  "download_time": "2025-12-08T15:23:45.613469",
+  "package_url": "https://pypi.org/project/loubach/"
+}

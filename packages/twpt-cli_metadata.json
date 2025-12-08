@@ -1,11 +1,11 @@
 {
   "name": "twpt-cli",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "ThreatWinds Pentest CLI - Command-line tool for managing automated penetration testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "twpt_cli-1.2.2.tar.gz",
-  "download_time": "2025-12-08T15:12:47.373866",
+  "download_filename": "twpt_cli-1.2.3.tar.gz",
+  "download_time": "2025-12-08T15:23:56.481106",
   "package_url": "https://pypi.org/project/twpt-cli/"
 }

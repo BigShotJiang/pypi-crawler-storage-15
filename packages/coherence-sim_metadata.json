@@ -1,0 +1,11 @@
+{
+  "name": "coherence-sim",
+  "version": "1.0.0",
+  "summary": "Библиотека для моделирования когерентности Вселенной",
+  "author": "Timur Isanov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coherence_sim-1.0.0.tar.gz",
+  "download_time": "2025-12-08T15:24:05.812235",
+  "package_url": "https://pypi.org/project/coherence-sim/"
+}

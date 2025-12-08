@@ -1,0 +1,11 @@
+{
+  "name": "pyarmor.mini",
+  "version": "3.0",
+  "summary": "Pyarmor runtime library for mini mode",
+  "author": "Jondy Zhao",
+  "license": "Free To Use But Restricted",
+  "home_page": "https://github.com/dashingsoft/pyarmor",
+  "download_filename": "pyarmor_mini-3.0-cp310-cp310-macosx_10_14_x86_64.whl",
+  "download_time": "2025-12-08T15:23:49.774495",
+  "package_url": "https://pypi.org/project/pyarmor.mini/"
+}
