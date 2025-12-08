@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-08T11:06:44.812208
-- **Total Packages**: 95
-- **Total Size**: 40.42 MB
+- **Download Time**: 2025-12-08T11:20:35.685557
+- **Total Packages**: 91
+- **Total Size**: 15.44 MB
 
 ## Packages List
+- google-air-quality-api
+- pydepin
+- gamengine3d
+- writer
+- IservETLLib
+- elemental-xenon
+- crc-pulp-service-client
+- crc-pulp-file-client
+- retracesoftware-utils-debug
+- crc-pulp-maven-client
+- crc-pulp-rpm-client
+- crc-pulp-gem-client
+- crc-pulp-npm-client
+- crc-pulp-python-client
+- crc-pulpcore-client
+- ddd-cli
+- log-inspector-mcp
+- redgit
+- sscws
+- vgs-cli
+- tf-keras-nightly
+- solidipes-astro-plugin
+- logproc
+- bdext
+- noqa-runner
+- mcmststream
+- osism
+- Flask-Security-Invenio
+- pfy
+- openmeter
+- NseKit
+- check-netscaler
+- pycdfpp
+- decky-remote
+- quokka-project
+- logtext
+- odoo-addon-agreement-legal
+- yearn-treasury
+- vortex-data
+- ghga-service-commons
+- imu-python
+- pymagento
+- uplm80
+- sales-insights-lib
 - pyprocessors-afp_entities
 - pabulib-checker
 - scikit-robot
@@ -16,7 +60,6 @@
 - gama-config
 - snakemake
 - ragplus
-- gamengine3d
 - dockai-cli
 - oc-cdtapi
 - foundationallm-agent-plugins-langchain
@@ -54,50 +97,3 @@
 - openreward
 - BrokerIO
 - nvidia-nat-ingestion
-- nvidia-nat-adk
-- scadm
-- nvidia-nat-llama-index
-- trainy-policy-nightly
-- teleop
-- nvidia-nat-profiling
-- aiforecastts
-- bizydraft
-- nvidia-nat-opentelemetry
-- nvidia-nat-mem0ai
-- japan-geoid
-- nvidia-nat
-- dl-py2f
-- nvidia-nat-mysql
-- nvidia-nat-data-flywheel
-- dash-pydantic-form
-- nvidia-nat-all
-- structurefinder
-- dash-pydantic-utils
-- wandelbots-api-client
-- nvidia-nat-weave
-- cupy-fft-match
-- stridekit
-- nvidia-nat-a2a
-- qubership-pipelines-common-library
-- nvidia-nat-s3
-- django-liveview
-- treesimulator
-- django-cotton-bs5
-- nvidia-nat-crewai
-- nvidia-nat-redis
-- dspy-toon
-- nvidia-nat-langchain
-- imu-python
-- nvidia-nat-semantic-kernel
-- Geode-Hybrid-Geosciences
-- mcp-scan
-- smt
-- letta-nightly
-- nvidia-nat-zep-cloud
-- nvidia-nat-agno
-- vital
-- otlmow-converter
-- nvidia-nat-vanna
-- mcp-server-bitbucket
-- aiqtoolkit-semantic-kernel
-- PySrDaliGateway

@@ -1,0 +1,11 @@
+{
+  "name": "solidipes-astro-plugin",
+  "version": "0.0.2",
+  "summary": "Plugin for Solidipes with astrophysics components",
+  "author": "Son Pham-Ba",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "solidipes_astro_plugin-0.0.2.tar.gz",
+  "download_time": "2025-12-08T11:19:58.083963",
+  "package_url": "https://pypi.org/project/solidipes-astro-plugin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sales-insights-lib",
+  "version": "1.0.0",
+  "summary": "A custom library for sales lead scoring and alert logic.",
+  "author": "Mohan Sai Morla",
+  "license": null,
+  "home_page": "https://pypi.org/project/sales-insights-lib/",
+  "download_filename": "sales_insights_lib-1.0.0.tar.gz",
+  "download_time": "2025-12-08T11:20:09.599178",
+  "package_url": "https://pypi.org/project/sales-insights-lib/"
+}

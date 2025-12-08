@@ -1,0 +1,11 @@
+{
+  "name": "vortex-data",
+  "version": "0.56.0",
+  "summary": "Python bindings for Vortex, an Apache Arrow-compatible toolkit for working with compressed array data.",
+  "author": "Vortex Authors <hello@vortex.dev>",
+  "license": null,
+  "home_page": "https://github.com/spiraldb/vortex",
+  "download_filename": "vortex_data-0.56.0-cp311-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-08T11:20:07.012448",
+  "package_url": "https://pypi.org/project/vortex-data/"
+}
