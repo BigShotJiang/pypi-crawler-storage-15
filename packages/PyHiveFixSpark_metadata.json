@@ -1,0 +1,11 @@
+{
+  "name": "PyHiveFixSpark",
+  "version": "0.7.0",
+  "summary": "Python interface to Hive",
+  "author": "Jing Wang",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/dropbox/PyHive",
+  "download_filename": "pyhivefixspark-0.7.0.tar.gz",
+  "download_time": "2025-12-08T05:48:02.932953",
+  "package_url": "https://pypi.org/project/PyHiveFixSpark/"
+}

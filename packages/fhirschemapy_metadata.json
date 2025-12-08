@@ -1,11 +1,11 @@
 {
   "name": "fhirschemapy",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "fhirschemapy",
   "author": "Imran Qureshi",
   "license": "Apache-2.0",
   "home_page": "https://github.com/icanbwell/fhir-schema-py",
-  "download_filename": "fhirschemapy-0.0.3.tar.gz",
-  "download_time": "2025-12-08T05:23:21.599205",
+  "download_filename": "fhirschemapy-0.0.5.tar.gz",
+  "download_time": "2025-12-08T05:47:46.489434",
   "package_url": "https://pypi.org/project/fhirschemapy/"
 }

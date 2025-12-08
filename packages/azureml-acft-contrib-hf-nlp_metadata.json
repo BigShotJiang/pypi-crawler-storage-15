@@ -1,0 +1,11 @@
+{
+  "name": "azureml-acft-contrib-hf-nlp",
+  "version": "0.0.84",
+  "summary": "Contains the acft nlp-hf-contrib package used in script to build azureml components.",
+  "author": "Microsoft Corp",
+  "license": "inline_license",
+  "home_page": null,
+  "download_filename": "azureml_acft_contrib_hf_nlp-0.0.84-py3-none-any.whl",
+  "download_time": "2025-12-08T05:47:52.139303",
+  "package_url": "https://pypi.org/project/azureml-acft-contrib-hf-nlp/"
+}
